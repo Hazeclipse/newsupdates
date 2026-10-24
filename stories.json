@@ -1,12 +1,12 @@
 {
- "updated": "Oct 24, 20:10",
+ "updated": "Oct 24, 22:52",
  "stories": [
   {
    "cat": "tech",
    "date": "2026-10-22",
    "title": "The Social Society Helping Women Join the AI Boom",
-   "sum": "The Aged Intelligence Society is a rapidly growing events startup focused on connecting women to tackle midlife challenges with advanced tools. It aims to empower and support women in navigating new technologies.",
-   "more": "Wired emphasizes the role of the Aged Intelligence Society in addressing midlife issues, specifically targeting women's needs in the context of the evolving AI landscape. Other outlets may frame the initiative as part of a broader trend of inclusivity and diversity in tech, highlighting the societal impacts and the importance of women's participation in AI. There could be a contrast in how the urgency of addressing midlife problems is portrayed, with some focusing more on the innovative aspects of technology, while others might stress the community and support elements.",
+   "sum": "WIRED discusses the Aged Intelligence Society, which focuses on helping women engage with artificial intelligence. The organization aims to address midlife challenges through innovative solutions.",
+   "more": "Different outlets may focus on the implications of the Aged Intelligence Society\u2019s mission, with some highlighting the role of technology in empowering women at midlife. Others might emphasize the community aspect, noting how collaborative events foster connection and support among women navigating similar issues. The emphasis on 'frontier tools' could also be framed variably, with some sources describing it as cutting-edge while others might focus on accessibility and inclusivity.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -19,9 +19,9 @@
   {
    "cat": "tech",
    "date": "2026-10-22",
-   "title": "Introducing Mori: The Robot Mushroom",
-   "sum": "Mori is a robotic mushroom designed to appear as a cute home decor item. It currently does not perform any actions or communicate.",
-   "more": "Wired describes Mori's design as a strategic choice to make robot technology more appealing for home use. The outlet emphasizes its lack of functionality, suggesting that the cuteness factor may be a way to ease people's acceptance of robotic companions. There is no indication from other outlets in the provided text, so the framing largely remains consistent with a focus on aesthetics rather than capability.",
+   "title": "Introducing Mori, the Adorable Robot Mushroom",
+   "sum": "Wired introduces Mori, a robot designed to look like a mushroom that doesn't perform any notable functions. This approach aims to make robotic technology more appealing for home environments.",
+   "more": "The focus on its cute design suggests a strategy to soften the perception of robots equipped with cameras. By presenting technologies in a more relatable and aesthetically pleasing form, creators hope to ease public apprehension. This framing emphasizes the intersection of technology and design in everyday life, contrasting with more functional or utilitarian views of robotics.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -34,9 +34,9 @@
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "Dating App Introduces Features Aimed at Gen Z",
-   "sum": "Upward, a newly relaunched Christian dating app, is promoting traditional values to appeal to Gen Z users. The app is offering features like 'Chivalry Mode' and 'Marriage Timeline'.",
-   "more": "Wired highlights the app's focus on traditional dating values, aiming to engage a generation that often leads lives with less emphasis on conventional dating practices. The mention of 'trad values' suggests a specific ideological approach that may differ from mainstream dating apps. Additionally, the app's specific features, such as 'Chivalry Mode', indicate a strategic effort to cater to users looking for more structured relationship paths.",
+   "title": "A Dating App Offers Features to Promote Traditional Values among Gen Z",
+   "sum": "Upward, a newly relaunched Christian dating app, is introducing features like 'Chivalry Mode' and 'Marriage Timeline' aimed at encouraging traditional relationship values among younger users. The app seeks to address a generation that has shown less interest in dating.",
+   "more": "Wired emphasizes the app's focus on tradition and its attempt to engage with a demographic that is largely disinterested in dating. The framing suggests a contrast between contemporary dating habits and the values promoted by the app. While some may view these features as appealing to a niche market, others might critique the approach as out of touch with broader societal trends regarding relationships and dating practices.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -49,9 +49,9 @@
   {
    "cat": "tech",
    "date": "2026-10-22",
-   "title": "Laika's Director Criticizes AI in Filmmaking",
-   "sum": "The director of Laika's latest film, Wildwood, expresses strong opposition to artificial intelligence in the film industry. Wildwood is described as the most ambitious project from the stop-motion studio, known for its extensive production efforts.",
-   "more": "The Verge highlights the director's viewpoint that AI contradicts the studio's values, emphasizing the meticulous crafting of the film through traditional stop-motion techniques. Other outlets may place a different emphasis on the film's unique production process, potentially downplaying the director's criticisms of AI. While the ambition of Wildwood is acknowledged, the framing around AI's role in animation and creativity could vary, with some outlets focusing more on advancements in technology rather than the artistic concerns raised.",
+   "title": "Wildwood's Director Critiques AI in Film",
+   "sum": "The director of Laika's ambitious film Wildwood expresses strong opposition to AI, stating it goes against the studio's values. Wildwood is noted for its extensive production involving over 230 puppets.",
+   "more": "The Verge highlights the director's clear stance on AI, labeling it as fundamentally opposed to the studio's vision. Other outlets may cover the film's production process or its creative aspects but do not emphasize the director's comments on AI as much. The focus on the film's ambitious nature is consistent across articles, yet the framing of AI's role in the future of cinema varies. While some may view the use of AI as a tool for innovation, The Verge's piece concentrates on its philosophical implications as stated by the director.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -64,9 +64,9 @@
   {
    "cat": "tech",
    "date": "2026-10-22",
-   "title": "PHP Vulnerabilities Impacting the Web",
-   "sum": "Two significant vulnerabilities in the PHP programming language threaten a substantial portion of the internet. It's reported that around 70 percent of websites utilize PHP.",
-   "more": "The Verge emphasizes the widespread use of PHP and the potential risk to major platforms like Wikipedia and WordPress. Other outlets may highlight different aspects such as the urgency of addressing these vulnerabilities or specific protective measures that users and developers should implement. The framing may vary from focusing on the technical details of the vulnerabilities to the broader implications for web security as a whole.",
+   "title": "PHP Vulnerabilities Pose Risks to Websites",
+   "sum": "Recent vulnerabilities in PHP have raised security concerns for many websites. With a significant portion of the internet relying on PHP, the implications of these vulnerabilities are widespread.",
+   "more": "The Verge emphasizes the extent of the risk by highlighting that up to 70 percent of websites utilize PHP, including major platforms like Wikipedia and WordPress. However, the framing of the issue may vary among other outlets, with some focusing more on the technical aspects of the vulnerabilities rather than the potential impact on internet security. Others might prioritize the response measures being taken by web developers to mitigate these risks, leading to differing narratives around the urgency and severity of the situation.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -80,8 +80,8 @@
    "cat": "politics",
    "date": "2026-10-22",
    "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
-   "sum": "Australia's Federal Court has mandated Apple to permit competing app stores and alternative payment services for iPhone users by March 1, 2027. This ruling follows a previous finding of market misuse by Apple.",
-   "more": "MacRumors highlights the Federal Court's ruling as an order for Apple to facilitate direct app downloads and competing app stores. In contrast, 9to5Mac frames the decision as a consequence of a protracted antitrust battle with Epic Games, emphasizing Apple's intention to appeal the ruling. While both outlets agree on the main points, 9to5Mac puts more focus on the ongoing legal context and Epic Games' involvement, whereas MacRumors succinctly states the court's directive.",
+   "sum": "Australia's Federal Court has mandated that Apple must permit competing app stores and alternative payment options for iPhone users starting March 1, 2027. This ruling is part of the fallout from an antitrust case involving Epic Games.",
+   "more": "MacRumors highlights the court's order as a significant shift in how Apple operates its ecosystem, emphasizing the implications of the 2025 ruling that found Apple misusing its market position. In contrast, 9to5Mac frames the decision as a response to a prolonged legal battle with Epic Games, noting that Apple has announced plans to appeal the ruling. Both outlets agree on the outcome but differ in their focus on the context and implications of the ruling.",
    "coverage": [
     {
      "outlet": "MacRumors",
@@ -100,9 +100,9 @@
   {
    "cat": "politics",
    "date": "2026-10-22",
-   "title": "Bill Gates Discusses Future of AI Disruption",
-   "sum": "Bill Gates emphasizes the need to prepare for two decades of significant upheaval due to artificial intelligence advancements. His recent comments reflect his ongoing engagement with the topic.",
-   "more": "The Verge highlights Gates' warning about potential tumultuous changes over the next 20 years, suggesting a serious perspective on AI's impact. Other outlets, however, might frame his statements with a sense of optimism regarding the potential benefits of AI alongside the challenges. Additionally, his recent essay is noted in The Verge, showcasing his proactive approach to addressing these vital topics.",
+   "title": "Bill Gates on Future AI Disruption",
+   "sum": "Bill Gates warns that we should prepare for two decades of significant disruption caused by artificial intelligence. His recent comments come amid increased public appearances following the release of an essay on the topic.",
+   "more": "The Verge highlights Gates' views on AI, emphasizing the need for preparation for future challenges. Other outlets may focus more on Gates' extensive experience in technology or his initiatives through the Gates Foundation. Some reports might underline the urgency of action in response to potential AI-related issues, contrasting with Gates' more measured tone regarding the timeline of disruption.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -115,9 +115,9 @@
   {
    "cat": "politics",
    "date": "2026-10-23",
-   "title": "Andrew May Testify in High Court Fraud Trial",
-   "sum": "The High Court trial will see Andrew potentially called to give evidence. It centers on allegations of fraud made by a wealthy Turkish woman against her former adviser.",
-   "more": "BBC News focuses primarily on Andrew's potential involvement in the trial without delving into implications of the accusations. The emphasis is on the legal proceedings and the parties involved, rather than the personal impact on Andrew or broader social implications. Other media may highlight Andrew's relationship with the parties involved or offer commentary on the significance of the case, but this specific description remains neutral.",
+   "title": "Andrew Can Be Called to Give Evidence in High Court Fraud Trial",
+   "sum": "The High Court is set to address allegations of fraud made by a wealthy Turkish woman against her former adviser. As part of the proceedings, Andrew may be called to testify.",
+   "more": "The BBC News coverage highlights the legal implications of the case and the role Andrew may play as a witness. Other outlets may emphasize the high-profile nature of the trial and its connections to prominent figures, potentially affecting public interest. There might also be differing opinions on the potential impact of Andrew's testimony on the outcome of the trial, with some speculating on its significance, while others remain more reserved.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -130,9 +130,9 @@
   {
    "cat": "politics",
    "date": "2026-10-22",
-   "title": "Woman Charged in Shooting Incident Involving Police Officer",
-   "sum": "A woman has been charged following an incident in which a police officer was injured by gunfire. The officer was hurt while responding to a situation involving two individuals at a bus stop.",
-   "more": "The BBC News report highlights the circumstances of the officer's injury, noting that it occurred during a police response. While the account focuses on the legal actions taken against the woman, it does not elaborate on the specifics of the shooting or the condition of the injured officer. Other outlets may differ by providing additional context about the incident's background, the community's reaction, or the ongoing investigation.",
+   "title": "Woman charged after police officer injured in shooting",
+   "sum": "A woman has been charged in connection with an incident in Nottingham city centre where a police officer was injured. The officer was hurt after approaching two individuals at a bus stop.",
+   "more": "The situation unfolded as the officer engaged with the individuals, which led to the shooting incident. The BBC News article emphasizes the actions of the police officer and the circumstances surrounding the approach to the two people. The focus on the charge against the woman indicates a legal angle to the story, with implications for accountability. Other outlets may highlight community reactions or broader implications for public safety in Nottingham.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -145,9 +145,9 @@
   {
    "cat": "politics",
    "date": "2026-10-22",
-   "title": "Kieran Hayler Found Not Guilty in Rape Trial",
-   "sum": "Kieran Hayler, the ex-partner of Katie Price, has been found not guilty of raping a 13-year-old girl. He faced charges of rape, sexual assault, and sexual activity with a child during the trial.",
-   "more": "The BBC News report presents the outcome of the trial in a straightforward manner, emphasizing the not guilty verdict. Other outlets may focus more on the implications of the trial or the public response to Hayler's acquittal, highlighting differing perspectives on sexual abuse cases and media coverage. Differences may also arise regarding the clarity of legal definitions and procedures in such cases, affecting public perception and understanding of the ruling.",
+   "title": "Kieran Hayler Found Not Guilty of Rape Charges",
+   "sum": "Kieran Hayler, the ex-partner of Katie Price, has been acquitted of charges related to the alleged rape of a 13-year-old girl. He had denied all accusations throughout his trial.",
+   "more": "The BBC's coverage focuses on the verdict and the specific charges Hayler faced, highlighting his not guilty plea. There may be variations in how outlets frame the implications of the verdict or the context of the case, but the core details remain consistent across reporting. Some might provide more background on Hayler's past or the societal implications of such cases, while others may focus on public reactions or legal ramifications.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -160,9 +160,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Israel orders closure of West Bank after alleged attack",
-   "sum": "Israeli soldiers shot and killed two men they claimed were involved in an attack near Hebron in the occupied West Bank. The incident resulted in at least five injuries, some of which are critical.",
-   "more": "Both NPR and Yahoo Entertainment reported on the incidents in similar terms, emphasizing the military's assertion that the two men had initiated an attack. However, Yahoo's description included a reference to army preparations for a full closure of the West Bank, which was not mentioned by NPR. The framing of the situation may differ slightly in tone, with NPR focusing more on the broader context of closure following the event, while Yahoo provides a direct account of the military actions.",
+   "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+   "sum": "Israeli soldiers shot and killed two men in the West Bank, claiming they had launched an attack near Hebron. The incident also left at least five people injured, some critically.",
+   "more": "Both NPR and Yahoo Entertainment report the same essential details regarding the incident, emphasizing the military's perspective on the alleged attack. The framing is consistent around the closure of the West Bank, highlighting the military's actions and the resulting injuries. However, Yahoo Entertainment's use of the term 'alleged attack' might imply a degree of skepticism or highlight the contentious nature of military engagements in the region, while NPR presents the information more straightforwardly. Both outlets reflect the tense atmosphere in the West Bank following these events.",
    "coverage": [
     {
      "outlet": "NPR",
@@ -181,9 +181,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Ramaswamy Defends Controversial Attack Ad Featuring Rival's Mother",
-   "sum": "Republican Vivek Ramaswamy has stood by his campaign's ad that includes an estranged family member of Democratic candidate Dr. Amy Acton. The ad is part of a closely watched race for Ohio governor.",
-   "more": "Yahoo Entertainment highlights Ramaswamy's defense of the ad at a campaign stop, focusing on his perspective of the political strategy. In contrast, BBC News emphasizes Amy Acton's critical response, describing the ad as 'despicable' and noting the personal background related to her mother's history. This reflects a divergent framing of the situation, with Yahoo leaning towards Ramaswamy's defense and BBC portraying the emotional impact on Acton.",
+   "title": "Ramaswamy defends attack ad featuring candidate's estranged mother",
+   "sum": "Republican Vivek Ramaswamy defended his campaign's advertisement that features the estranged mother of Democratic rival Dr. Amy Acton. This ad has drawn significant attention in the Ohio governor race.",
+   "more": "While Yahoo Entertainment focuses on Ramaswamy's defense of the ad, BBC News highlights the emotional response from Acton, who describes the advertisement as 'despicable.' Furthermore, BBC News provides context by mentioning that Acton's mother has a troubling background involving allegations against her husband, which adds depth to the controversy surrounding the ad.",
    "coverage": [
     {
      "outlet": "Yahoo Entertainment",
@@ -202,9 +202,9 @@
   {
    "cat": "crime",
    "date": "2026-10-22",
-   "title": "Teacher Injured in Oregon School Shooting Describes Survival Tactics",
-   "sum": "A teacher at Silver Rail Elementary School was seriously injured in a shooting and used a tactic of pretending to be dead to survive the attack. She sustained severe injuries to both hands.",
-   "more": "While both outlets focus on the teacher's strategy to survive the incident, ABC News highlights the extent of her physical injuries, stating her left hand was 'almost completely severed.' In contrast, BBC News emphasizes the teacher's inability to assist the children due to her injuries. Additionally, the framing varies slightly, with ABC News mentioning the specific school involved, while BBC News does not.",
+   "title": "Teacher injured in Oregon elementary school shooting says she played dead",
+   "sum": "Becky Drury, a teacher at Silver Rail Elementary School, was severely injured during a shooting incident. She stated that she played dead to survive the attack.",
+   "more": "ABC News emphasized the extent of her injuries, mentioning that her left hand was 'almost completely severed' and her right arm was 'severely injured.' In contrast, BBC News focused on her inability to assist the children during the attack due to her injuries. Both outlets highlighted her survival tactic of pretending to be dead, but ABC's description provided more detail about her injuries.",
    "coverage": [
     {
      "outlet": "Abcnews.com",
@@ -223,9 +223,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Sigma FP2 Introduced with Upgrades to Compact Full-Frame Camera",
-   "sum": "Sigma has unveiled the Sigma FP2, a follow-up to its original compact full-frame mirrorless camera, promising significant improvements. Updates include a new sensor and an articulating LCD display.",
-   "more": "The Verge highlights the claim that the original Sigma FP was the world's smallest and lightest full-frame camera, emphasizing the emphasis on compactness in the new model. Other outlets may focus on different aspects of the upgrades or the market positioning of the camera, offering varying degrees of technical detail or user experience insights. Additionally, some reports might compare it to competitor models, while others may celebrate the evolution of Sigma's design philosophy.",
+   "title": "Sigma FP2 Introduced with Upgrades",
+   "sum": "Sigma has launched the FP2, a compact follow-up to its original FP camera, featuring several notable improvements. These enhancements include a new sensor and an articulating LCD display.",
+   "more": "The Verge highlights the FP2 as a significant upgrade to the original model, focusing on its claims of size and weight. The framing emphasizes the camera's compact design and the major advancements made after seven years. Other outlets may discuss the technical specifications or market positioning differently, but the core message of upgraded features remains consistent.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -238,14 +238,14 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Melanoma Patients Receive Personalized Vaccine, Achieve Impressive Outcomes",
-   "sum": "A recent trial involving a vaccine tailored to individual tumors has shown promising results, with 82% of melanoma patients remaining cancer-free two years post-treatment. The release of these results came earlier than expected due to a leak from Merck and Moderna.",
-   "more": "Gizmodo emphasizes the effectiveness of the personalized vaccine and the surprising market reaction, as the stock prices for Merck and Moderna fell despite the positive trial outcomes. The focus on patient health outcomes contrasts with the financial market's response, suggesting a disparity in how the news was perceived by investors versus the medical community. This framing highlights the ongoing challenges in reconciling medical advancements with market expectations.",
+   "title": "Laika's Journey to Wildwood",
+   "sum": "Laika marks a significant milestone with its new project, Wildwood, culminating two decades of creative efforts. Cinematographer Caleb Deschanel, known for his extensive work in Hollywood, plays an important role in the film.",
+   "more": "The Verge notes Laika's lengthy development process, emphasizing its commitment to animation innovation. In contrast, other outlets may spotlight Deschanel's extensive filmography and contributions to iconic films, potentially framing him as a legacy figure in the industry. Some sources might also focus on the artistic direction of Wildwood, highlighting its distinct visual style that builds on Laika's previous works.",
    "coverage": [
     {
-     "outlet": "Gizmodo.com",
-     "title": "These Melanoma Patients Got a Vaccine Made for Their Own Tumors. 2 Years Later, 82% Are Still Cancer-Free",
-     "url": "https://gizmodo.com/these-melanoma-patients-got-a-vaccine-made-for-their-own-tumors-2-years-later-82-are-still-cancer-free-2000829831",
+     "outlet": "The Verge",
+     "title": "Laika has spent 20 years building up to Wildwood",
+     "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
      "bias": null
     }
    ]
