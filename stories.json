@@ -1,0 +1,260 @@
+{
+ "updated": "Oct 24, 05:51",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-22",
+   "title": "Hugging Face Launches AI Model for DNA Analysis",
+   "sum": "Hugging Face has introduced Carbon-X, an AI model capable of analyzing DNA sequences. This new tool allows users to run DNA analysis on their personal laptops.",
+   "more": "CNET emphasizes the model's functionality, highlighting its ability to chat with DNA while being accessible for home use. Conversely, Business Insider focuses on the model's potential applications in scientific research and gene therapy development. While both outlets mention the ability to analyze DNA sequences, Business Insider also notes its generative capabilities. This distinction in focus illustrates different perspectives on the implications of the technology.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Hugging Face Announces AI Model to \u2018Chat\u2019 With DNA",
+     "url": "https://www.cnet.com/science/hugging-face-announces-ai-model-to-chat-with-dna/",
+     "bias": null
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "Hugging Face is launching a new AI model that lets scientists 'chat with DNA'",
+     "url": "https://www.businessinsider.com/hugging-face-ai-model-carbon-x-dna-sequences-gene-therapies-2026-10#article",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-22",
+   "title": "The Social Society Helping Women Join the AI Boom",
+   "sum": "The Aged Intelligence Society is an events startup focused on empowering women to engage with artificial intelligence. It aims to address midlife challenges by leveraging advanced technology.",
+   "more": "Wired highlights the proactive approach of the Aged Intelligence Society in tackling midlife issues through innovative tools. The framing emphasizes community and empowerment for women, suggesting a supportive environment for learning and collaboration. Other outlets may focus on different aspects, such as the societal implications of women in technology or the potential economic impact of engaging midlife women in AI discussions.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The Social Society Helping Women Join the AI Boom",
+     "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-22",
+   "title": "Meet Mori, a Robot Mushroom",
+   "sum": "Mori is a robot designed to resemble a cute mushroom, but it lacks functionality. The design aims to make the presence of robots more appealing in home environments.",
+   "more": "Wired emphasizes the aesthetic appeal of Mori, noting its purpose is largely to soften the introduction of robots into daily life. The description suggests that the focus is on creating a friendly appearance rather than functional capabilities. This framing highlights a trend in robotics toward making technology more relatable rather than practical.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Meet Mori, a Cute Robot Mushroom That Doesn\u2019t Really Say (or Do) Anything",
+     "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-22",
+   "title": "Laika's Director Critiques AI in Film Production",
+   "sum": "Wildwood's director expresses strong opposition to AI, stating it conflicts with the studio's values. The film represents Laika's most ambitious project to date, showcasing extensive craftsmanship over five years.",
+   "more": "The Verge focuses on the director's view of AI as fundamentally opposed to the studio's ethos, highlighting the traditional artistry involved in the film's production. Other outlets may emphasize different aspects of Wildwood, such as its storytelling or animation techniques. Some might also take a more neutral stance on the role of AI in film, contrasting with Laika's position. The breadth of the project and its reliance on puppet-based animation are central themes across reports.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Wildwood\u2019s director says AI is \u2018antithetical to everything that we are at this studio\u2019",
+     "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-22",
+   "title": "PHP Vulnerabilities Impacting a Significant Portion of the Web",
+   "sum": "Two vulnerabilities in the PHP programming language have raised concerns about the security of many websites. With up to 70 percent of websites utilizing PHP, the potential impact is substantial.",
+   "more": "The Verge emphasizes the broad reach of PHP, noting its critical role in powering major platforms like Wikipedia and WordPress. While some outlets may highlight the immediate risk posed by these vulnerabilities, others might focus on the ongoing reliance on PHP despite security challenges. There could be varied opinions on whether website owners should prioritize updates or explore alternative programming languages.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "PHP: The three little letters wreaking havoc across the web",
+     "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-22",
+   "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+   "sum": "Australia's Federal Court has mandated that Apple allow competing app stores and alternative payment methods for its iPhone users by March 1, 2027. This decision follows a finding of market misuse by Apple.",
+   "more": "9to5Mac highlights that the ruling stems from a protracted antitrust case involving Epic Games, suggesting a significant legal backdrop to the decision. Additionally, it notes that Apple intends to appeal the ruling, indicating ongoing legal challenges. MacRumors focuses on the date set for compliance, emphasizing the timeline for Apple's potential changes.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
+     "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
+     "bias": null
+    },
+    {
+     "outlet": "9to5Mac",
+     "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+     "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-22",
+   "title": "Bill Gates Cautions About Future AI Disruption",
+   "sum": "Bill Gates has warned that society should prepare for 20 years of significant disruption caused by artificial intelligence. His recent comments come as he engages more publicly on the topic.",
+   "more": "The Verge emphasizes Gates' extensive experience with technology, framing his insights as pertinent given his background at Microsoft. Other outlets may focus on the urgency of his warning or highlight specific examples of potential changes driven by AI. While some narratives may delve into Gates' motivations for speaking out, others might emphasize the broader societal implications he highlights.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
+     "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-22",
+   "title": "Woman charged after police officer injured in shooting",
+   "sum": "A woman has been charged in connection with a shooting incident that resulted in injuries to a police officer. The officer was hurt while engaging with two individuals at a bus stop in Nottingham city centre.",
+   "more": "The BBC News report emphasizes the context of the shooting incident, specifically detailing the location and circumstances under which the officer was injured. However, other outlets might focus more on the identity or background of the woman charged, the severity of the officer's injuries, or the broader implications for public safety. The framing could vary significantly depending on the outlet's editorial stance or regional focus, potentially highlighting community reactions or law enforcement protocols in the wake of the incident.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Woman charged after police officer injured in shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no",
+     "bias": "Center"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-22",
+   "title": "Kieran Hayler Found Not Guilty of Rape Charges",
+   "sum": "Kieran Hayler was acquitted of charges related to the rape and sexual assault of a 13-year-old girl. He had denied all accusations during his trial.",
+   "more": "The BBC focuses on the not guilty verdict and the specific charges laid against Hayler, including sexual assault and sexual activity with a child. There are no indications of broader implications or reactions from Hayler or the legal community in this report. The framing highlights the legal outcome rather than public opinion or societal impact.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Katie Price's ex not guilty of raping girl, 13",
+     "url": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo",
+     "bias": "Center"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-22",
+   "title": "New Measures for Offenders Who Skip Sentencing",
+   "sum": "Criminals who avoid sentencing may face solitary confinement or a loss of social visits. Judges will have enhanced authority to implement stricter penalties for offenders who do not confront victims' families during sentencing.",
+   "more": "The BBC highlights the empowerment of judges to enforce more severe consequences on offenders who evade sentencing. This includes measures such as solitary confinement, which may suggest a more punitive approach to justice. Different outlets might frame this as a necessary step towards accountability or criticize it for potentially exacerbating prison conditions.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+     "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo",
+     "bias": "Center"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-22",
+   "title": "Moderna Shares Plunge After Leak of Cancer Vaccine Data",
+   "sum": "Moderna shares fell significantly following a leak of clinical trial data for its cancer vaccine developed with Merck. Despite the leak, analysts noted promising outcomes for melanoma patients in the full results.",
+   "more": "Slashdot.org emphasizes the negative impact of the data leak on Moderna's share price, highlighting a selloff attributed to inflation concerns. In contrast, Scientific American focuses on the positive aspects of the trial results, detailing how the vaccine can help prevent cancer recurrence and death. This divergence highlights varying perspectives on the implications of the leaked data, with one outlet stressing market reactions and the other underscoring medical efficacy.",
+   "coverage": [
+    {
+     "outlet": "Slashdot.org",
+     "title": "Moderna Shares Plunge After Leak of Cancer Vaccine Data",
+     "url": "https://slashdot.org/story/26/10/22/200209/moderna-shares-plunge-after-leak-of-cancer-vaccine-data",
+     "bias": null
+    },
+    {
+     "outlet": "Scientific American",
+     "title": "Here\u2019s what Moderna\u2019s latest mRNA cancer vaccine data actually show",
+     "url": "https://www.scientificamerican.com/article/heres-what-modernas-latest-mrna-cancer-vaccine-data-actually-show/",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-22",
+   "title": "Looksmaxxing influencer Clavicular pleads not guilty in Mass. rape case",
+   "sum": "Clavicular, a social media influencer known for promoting the looksmaxxing trend, has pleaded not guilty to multiple criminal charges including rape. The influencer, whose real name is Braden Peters, was recently charged in Massachusetts.",
+   "more": "BBC News emphasizes the influencer's trend of maximizing attractiveness, providing a context for his social media presence. In contrast, Rolling Stone highlights the specific action of Peters paying $10,000 bail and surrendering his passport during the arraignment. Both outlets focus on the legal situation and charges without delving into the background or consequences of the looksmaxxing trend itself.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "'Looksmaxxing' influencer Clavicular pleads not guilty in Mass. rape case",
+     "url": "https://www.bbc.com/news/articles/cqwy71ldj3w9o",
+     "bias": "Center"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Clavicular Pleads Not Guilty to Rape Charges",
+     "url": "http://www.rollingstone.com/culture/culture-news/clavicular-pleads-not-guilty-rape-charges-1235646572/",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-22",
+   "title": "Teacher injured in elementary school shooting says she played dead after being shot",
+   "sum": "Becky Drury, a teacher at Silver Rail Elementary School, was severely injured in a shooting incident. She reportedly played dead to survive the attack.",
+   "more": "While both sources focus on the teacher's injuries and her survival tactics, the ABC News report emphasizes the severity of her physical injuries, noting that her left hand was 'almost completely severed.' In contrast, BBC News highlights that the teacher felt unable to assist children due to her injuries, placing more emphasis on her inability to help during the incident.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Teacher injured in elementary school shooting says she played dead after being shot",
+     "url": "https://abcnews.com/US/teacher-injured-shooting-oregon-elementary-school-played-dead/story?id=137460789",
+     "bias": null
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
+     "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o",
+     "bias": "Center"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-22",
+   "title": "Jane Levy and Chris Pratt Tease Returns in Upcoming Projects",
+   "sum": "Jane Levy and Chris Pratt hint at their return as Mia from 'Evil Dead' and Star-Lord from the MCU, respectively. Additionally, the cast for the new 'Blair Witch Project' may have been revealed.",
+   "more": "Gizmodo focuses on the potential returns of Levy and Pratt, showcasing their significance in popular horror and superhero franchises. The mention of the new 'Blair Witch Project' serves to highlight ongoing interest in horror remakes. Unlike other outlets that might emphasize specific details about the actors' roles or upcoming projects, Gizmodo maintains a more general approach in presenting the news. The framing centers on the excitement surrounding familiar characters in beloved series.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Jane Levy and Chris Pratt Tease Returns of Mia From \u2018Evil Dead\u2019 and MCU\u2019s Star-Lord",
+     "url": "https://gizmodo.com/jane-levy-and-chris-pratt-tease-returns-of-mia-from-evil-dead-and-mcus-star-lord-2000829182",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-22",
+   "title": "Woman charged after police officer injured in shooting",
+   "sum": "A woman has been charged in connection with a shooting that resulted in an injury to a police officer. The incident occurred when the officer approached two individuals at a bus stop in Nottingham city centre.",
+   "more": "BBC News focuses on the incident involving the police officer and emphasizes the woman's charging. The description highlights the officer's injury as a key detail, while the specifics of the shooting itself are not elaborated. There are no differing frames from other outlets included in this specific summary.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Woman charged after police officer injured in shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no",
+     "bias": "Center"
+    }
+   ]
+  }
+ ]
+}
