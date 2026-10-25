@@ -1,12 +1,12 @@
 {
- "updated": "Oct 25, 10:39",
+ "updated": "Oct 25, 14:47",
  "stories": [
   {
    "cat": "tech",
    "date": "2026-10-23",
    "title": "Christian Dating App Targets Gen Z with Traditional Values",
-   "sum": "Upward, a newly relaunched Christian dating app, introduces features like 'Chivalry Mode' and a 'Marriage Timeline' to appeal to Gen Z. The app aims to promote traditional values in a generation that is increasingly moving away from dating.",
-   "more": "Wired emphasizes the app's focus on traditional values and its unique features designed to attract younger users. However, it highlights the irony of promoting marriage to a demographic that is not actively dating. Other outlets might present a more critical view of these features, questioning their effectiveness or the app's overall reception among Gen Z. There is also potential for varying opinions on whether this approach reflects a genuine cultural trend or a niche desire.",
+   "sum": "Upward, a newly relaunched Christian dating app, is introducing features like 'Chivalry Mode' and 'Marriage Timeline' to appeal to Gen Z. The app emphasizes traditional values to resonate with a generation that engages in dating less frequently.",
+   "more": "Wired highlights how Upward's approach aims to draw in younger users by promoting older ideals of dating and relationships. Some may view this as a timely response to changing dating norms, while others might see it as an outdated perspective. The emphasis on Christian values could either attract those seeking similar beliefs or alienate those looking for more modern dating experiences. Different outlets might interpret the potential success of this app based on how they perceive Gen Z's relationship with traditional dating practices.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -19,9 +19,9 @@
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "Review of the iPhone Duo",
-   "sum": "The Verge reviews the iPhone Duo, giving it a score of 7/10. The review reflects on the challenges of evaluating a significant new concept in smartphone design.",
-   "more": "The Verge suggests that the iPhone Duo's innovative features may not fully justify its rating at this stage, hinting at potential changes in perception over time. The review discusses the complexity of assessing new technology that deviates from traditional designs. Additionally, the outlet hints that initial impressions and scores might evolve as users become more accustomed to the device.",
+   "title": "The iPhone Duo: A Review Reflection",
+   "sum": "The Verge reviewed the iPhone Duo, initially planning a different score but ultimately giving it a 7/10. The review reflects on the complexities of evaluating innovative technology.",
+   "more": "While The Verge highlights the challenges of reviewing such a significant product, it suggests that the initial impressions may not be definitive. The criticism implies that the iPhone Duo could have been better suited as an iPad, indicating mixed feelings about its design and purpose. This framing could suggest a potential disconnect between user expectations and Apple's vision for the device.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -35,8 +35,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "Etsy Implements Stricter Rules on AI Listings",
-   "sum": "Etsy is introducing stricter regulations regarding the use of AI in product listings to minimize the presence of low-quality AI-generated content. The company aims to address concerns from buyers who struggle to differentiate between AI-generated and handmade items.",
-   "more": "The Verge highlights the company's acknowledgment of buyer feedback about the difficulty in distinguishing AI content, suggesting that these new rules are a response to user concerns. Other outlets may emphasize different aspects of Etsy's announcement, such as potential impacts on sellers who rely on AI tools. Additionally, some might focus on the broader implications for the marketplace or compare it to regulations by similar platforms, showcasing how Etsy's approach might differ from others in addressing AI-generated content.",
+   "sum": "Etsy is introducing tighter regulations on the use of AI in product listings to address concerns about quality. The company aims to help buyers distinguish between AI-generated content and manually created items.",
+   "more": "The Verge highlights that the decision comes in response to feedback from buyers who struggle to identify AI-influenced products. This crackdown suggests a shift towards maintaining the integrity of the marketplace, with the implication that the influx of AI content may be overwhelming. Other outlets may focus on the implications for sellers who rely on AI, potentially framing it as a challenge for those adapting to these new guidelines.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -50,8 +50,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "OpenAI Trains AI Models Without Internet Access",
-   "sum": "OpenAI is now training its most advanced AI models in an offline environment. This change follows a series of incidents involving unauthorized hacking attempts.",
-   "more": "The Verge highlights the creation of an offline testing environment where AI models can engage with indexed and cached web content. The emphasis on the decision stems from a need to enhance security methods amid concerns of rogue hacking incidents. Other outlets may focus on the implications of this move for AI development, discussing potential impacts on innovation or safety.",
+   "sum": "OpenAI has begun training its advanced AI models in an offline environment. This decision comes after experiencing several hacking incidents.",
+   "more": "The Verge notes that the new offline testing environment allows the AI models to interact with indexed and cached web content. This approach aims to enhance security and mitigate risks associated with live internet access. Other outlets may highlight different motivations for this change, such as the need for improved control over the training process or a response to regulatory pressures.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -64,9 +64,9 @@
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "Meta Delays New Business Terms Following Publisher Concerns",
-   "sum": "Meta has postponed the implementation of its new business terms due to objections from publishers regarding AI scraping. Concerns were raised that the terms could facilitate scraping of news sites for AI training.",
-   "more": "The Verge highlights that the delay follows substantial pushback from publishers, emphasizing the strength of their concerns. Fast Company also reported on the situation, indicating that the response from publishers led to this change. This context suggests a broader tension between publishers and tech companies over content usage and AI advancements.",
+   "title": "Meta Delays New Business Terms After Publisher Pushback",
+   "sum": "Meta is postponing the enforcement of its new business terms in response to concerns from publishers regarding AI scraping. Publishers worry that these terms could enable Meta to use their news content for AI training purposes.",
+   "more": "The Verge specifically points out the concerns raised by publishers about AI scraping, and attributes the reporting of this development to Fast Company. The article includes a statement from Meta's representative, Daniel Robes, indicating the company's response to the pushback. Other outlets may frame Meta's delay either as a necessary adjustment to appease publishers or as a strategic move in light of increasing scrutiny over AI practices.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -78,10 +78,31 @@
   },
   {
    "cat": "politics",
+   "date": "2026-10-24",
+   "title": "DOJ Orders California Counties to Verify Ballots from Suspected Noncitizens",
+   "sum": "The Department of Justice has instructed California counties to set aside ballots that may belong to noncitizens for verification. This order comes as election officials prepare for the upcoming midterm elections.",
+   "more": "CNN emphasizes the urgency of the DOJ's order, noting that the directive includes a clear focus on unverified ballots during early voting. On the other hand, Yahoo Entertainment reports that the DOJ has given county registrars a specific timeframe of 48 hours to respond to the request, highlighting the government's proactive approach in identifying potential noncitizen voters. Both sources convey the gravity of the directive, but Yahoo provides additional context on the timeline for compliance.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "url": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
+     "bias": null
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "DOJ gives California counties 48 hours to help identify suspected noncitizen voters",
+     "url": "https://www.yahoo.com/news/politics/articles/doj-orders-california-counties-verify-012927044.html",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
    "date": "2026-10-23",
    "title": "Argentina drops investigation into President Milei over crypto fraud",
-   "sum": "Javier Milei had denied acting fraudulently regarding a cryptocurrency that lost value after he removed a related social media post. The investigation has been concluded by an Argentinian judge.",
-   "more": "Both BBC News and Al Jazeera English report the conclusion of the fraud investigation into President Milei. However, Al Jazeera emphasizes the judge's statement that Milei's involvement does not constitute a fraudulent scheme, while the BBC focuses on his denial of wrongdoing. This difference highlights the varying emphasis on Milei's intent and the judicial assessment of his actions.",
+   "sum": "The investigation into President Javier Milei regarding alleged cryptocurrency fraud has been dropped. The judge ruled that Milei's involvement did not constitute a fraudulent scheme.",
+   "more": "BBC News emphasizes Milei's denial of acting fraudulently, particularly in light of a cryptocurrency nosedive linked to his social media activity. Al Jazeera highlights the judge's assessment that Milei's role in the cryptocurrency launch was not indicative of fraud. This difference in framing focuses on Milei's personal denial versus the judicial interpretation of his actions.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -100,9 +121,9 @@
   {
    "cat": "politics",
    "date": "2026-10-24",
-   "title": "Border Searches of Laptops and Phones Increasing",
-   "sum": "Border searches of electronic devices are up 32% this year compared to previous years. This rise indicates a growing trend in the scrutiny of travelers' devices upon entering the U.S.",
-   "more": "Gizmodo emphasizes the increase in the frequency of device checks, highlighting it as a significant change for travelers. The outlet suggests concerns regarding privacy may arise due to the heightened inspections. There is no mention of potential legal implications or controversies surrounding these searches in the provided headline.",
+   "title": "Border Searches of Laptops, Phones Up 32% This Year",
+   "sum": "Travelers entering the U.S. are experiencing an increase in device checks. The rate of these border searches has risen significantly this year.",
+   "more": "Gizmodo highlights a specific percentage increase of 32% in the searches, implying a notable escalation in enforcement. The use of the word 'checked' suggests a routine procedure, while the phrase 'more than ever' evokes concern over privacy. There may be a contextual emphasis on the implications for travelers, though this outlet does not delve into personal stories or statistics from other countries for comparison.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
@@ -116,8 +137,8 @@
    "cat": "politics",
    "date": "2026-10-23",
    "title": "Andrew Can Be Called to Give Evidence in High Court Fraud Trial",
-   "sum": "The High Court trial concerns allegations of fraud by a wealthy Turkish woman against her former adviser. The court may summon Andrew to provide testimony.",
-   "more": "The BBC News highlights the potential of Andrew being called to give evidence, focusing on the fraud allegations and the parties involved. Other outlets may frame the story by emphasizing Andrew's previous royal status or the implications of his testimony on the trial. Some might also explore the broader context of legal proceedings surrounding public figures, while others may delve into the details of the fraud allegations themselves.",
+   "sum": "The High Court trial involves allegations of fraud made by a wealthy Turkish woman against her former adviser. Andrew may be called as a witness in this case.",
+   "more": "The focus of the trial is on claims of fraud, with significant implications for both the accused adviser and the complainant. The BBC emphasizes Andrew's potential role in the proceedings, highlighting the legal consequences he might face. Other outlets may frame the situation differently, focusing on the implications for Andrew's status or public perception rather than just the judicial aspects.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -130,9 +151,9 @@
   {
    "cat": "politics",
    "date": "2026-10-24",
-   "title": "France Prepares for Day of Protest Following Nationwide Riots",
-   "sum": "More than 70,000 police officers are set to be deployed in France as the country anticipates a day of protests. Authorities are concerned that demonstrators may defy restrictions on public demonstrations.",
-   "more": "BBC News emphasizes the scale of police preparation amid fears of unrest. The framing suggests a serious concern about safety and order during the protests. Other outlets may focus on the motivations behind the protests or the public's response to police deployment, but this report primarily centers on the security aspect and the readiness of law enforcement.",
+   "title": "France Prepares for Day of Protest Amid Nationwide Riots",
+   "sum": "France is set for a nationwide day of protest with over 70,000 police officers deployed. This comes in the wake of recent rioting across the country.",
+   "more": "The BBC highlights the scale of police deployment, suggesting a significant concern from authorities regarding potential unrest. While other outlets may focus on the protesters' motivations or the political context of the demonstrations, the BBC emphasizes the precautionary measures being taken by law enforcement. This framing may imply a heightened state of alert in response to the riots, contrasting with a more sympathetic portrayal of the protestors' grievances found in other narratives.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -143,26 +164,11 @@
    ]
   },
   {
-   "cat": "politics",
-   "date": "2026-10-24",
-   "title": "Australian MP's condition improves after alleged car attack",
-   "sum": "The Independent MP is reported to be in a serious but stable condition following an alleged car attack. Medical updates indicate gradual improvement.",
-   "more": "The BBC News emphasizes the improvement in the MP's condition, focusing on the positive development. There is no mention of potential motives or details about the alleged attack. The report refrains from speculating on the circumstances surrounding the incident, maintaining a neutral tone in its coverage.",
-   "coverage": [
-    {
-     "outlet": "BBC News",
-     "title": "Australian MP's condition improves after alleged car attack",
-     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
-     "bias": "Center"
-    }
-   ]
-  },
-  {
    "cat": "crime",
    "date": "2026-10-23",
    "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-   "sum": "Israeli soldiers shot and killed two men in the occupied West Bank, claiming they were behind a recent attack near Hebron. The incident also left at least five others injured, with some in critical condition.",
-   "more": "Both NPR and Yahoo Entertainment report on the closure of the West Bank ordered by Israel in response to the alleged attack. They agree on the details surrounding the shooting, including the claim from the military that the two men launched an attack and the number of people injured. However, Yahoo Entertainment emphasizes the army's preparation for a full closure, while NPR focuses on the immediate actions taken following the incident.",
+   "sum": "Israeli soldiers shot and killed two men who were allegedly involved in an attack near Hebron in the occupied West Bank. The incident resulted in at least five injuries, some of which are critical.",
+   "more": "Both NPR and Yahoo Entertainment reported on the same incident in the West Bank, highlighting the military's assertion that the men were involved in an attack. However, while NPR uses the term 'orders closure,' Yahoo Entertainment mentions a preparation for a 'full closure' of the West Bank. This slight difference in wording may imply a varying degree of military response, though both outlets focus on the violent outcomes and the ongoing tensions in the region.",
    "coverage": [
     {
      "outlet": "NPR",
@@ -180,10 +186,25 @@
   },
   {
    "cat": "crime",
+   "date": "2026-10-24",
+   "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+   "sum": "A personalized mRNA vaccine has shown to decrease the risk of melanoma recurrence significantly. This follows results from a Phase 3 trial, highlighting the potential of mRNA vaccines in cancer treatment.",
+   "more": "Wired emphasizes the personalized aspect of the vaccine and its specific application to melanoma, suggesting a innovative approach in oncology. Other outlets may focus on the broader implications of mRNA technology in cancer treatment, whereas Wired's framing is more specific to melanoma and its trial results.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+     "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "crime",
    "date": "2026-10-23",
    "title": "Sigma FP2 Introduced with Upgrades",
-   "sum": "Sigma has unveiled the FP2, a follow-up to its original compact full-frame camera. This new model boasts significant upgrades such as an improved sensor and an articulating LCD display.",
-   "more": "The Verge highlights the camera as a continuation of Sigma's claim to producing the smallest full-frame mirrorless camera available, underscoring its compact design. While they focus on the technical advancements, they also emphasize the product's heritage from the original Sigma fp. Other outlets may choose to focus more on consumer applications or the market implications of the new features rather than strictly on the upgrades themselves.",
+   "sum": "Sigma has unveiled the FP2, a compact follow-up to its original full-frame camera. The new model features significant enhancements, including an improved sensor and an articulating LCD display.",
+   "more": "The Verge highlights the camera's compactness and the notable upgrades, focusing on the technical improvements made since the original fp. There may be varying emphasis on different aspects of the camera across other outlets, such as its target audience or potential use cases, but this description centers on its size and performance enhancements.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -196,9 +217,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Laika's Journey to Wildwood",
-   "sum": "Laika has dedicated 20 years to the development of their latest project, Wildwood. Cinematographer Caleb Deschanel has had a long career in Hollywood, contributing to numerous iconic films.",
-   "more": "The Verge highlights Laika's extensive history leading up to the release of Wildwood, emphasizing the studio's commitment over two decades. It also focuses on Deschanel's diverse body of work, noting his experience on some of the film industry's most notable projects. While the emphasis is primarily on Laika's journey and Deschanel's career, other outlets may choose to focus on different aspects, such as the technological innovations used in Wildwood or the themes explored in the film.",
+   "title": "Laika's Journey to Wildwood Reflects Years of Hollywood Experience",
+   "sum": "Laika has been developing its work for two decades with the release of Wildwood. Caleb Deschanel's extensive career in Hollywood includes a wide range of notable films and projects.",
+   "more": "The Verge emphasizes the long history and buildup Laika has had leading to this release, highlighting the company's persistent effort in the animation realm. In contrast, the focus on Caleb Deschanel highlights the breadth of his experience in various genres, framing him as a seasoned professional whose insights may contribute to the film. However, while The Verge provides an overview of Laika, it does not delve deeply into the specific contributions Deschanel may have made to Wildwood, leaving a difference in the emphasis between the two aspects of the narrative.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -211,29 +232,14 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Melanoma Vaccine Shows Promising Results for Patients",
-   "sum": "A recent study shows that 82% of melanoma patients who received a personalized vaccine are still cancer-free after two years. The trial results were released early due to a leak from Merck and Moderna.",
-   "more": "Gizmodo highlights the surprising market reaction to the positive trial results, noting that investors reacted by decreasing the stock prices of the companies involved. This points to a potential disconnect between the medical success of the vaccine and its perceived commercial value. Other outlets may focus more on the scientific implications or patient stories rather than the stock market response.",
+   "title": "Melanoma Vaccine Trial Shows Promising Results",
+   "sum": "A new vaccine tailored for melanoma patients has shown remarkable success, with 82% of participants remaining cancer-free after two years. The results were released early due to a leak from Merck and Moderna.",
+   "more": "While the trial results are being hailed for their encouraging outcomes, investors reacted unexpectedly, leading to a decrease in the stock prices of both Merck and Moderna. This divergence in reactions points to possible concerns among investors regarding the broader implications of the trial, despite the positive health outcomes reported. Additionally, the early release of the results due to the leak adds an element of controversy to the situation, raising questions about the management of sensitive information in clinical trials.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
      "title": "These Melanoma Patients Got a Vaccine Made for Their Own Tumors. 2 Years Later, 82% Are Still Cancer-Free",
      "url": "https://gizmodo.com/these-melanoma-patients-got-a-vaccine-made-for-their-own-tumors-2-years-later-82-are-still-cancer-free-2000829831",
-     "bias": null
-    }
-   ]
-  },
-  {
-   "cat": "crime",
-   "date": "2026-10-23",
-   "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
-   "sum": "The Terrifier trilogy is back in theaters just in time for Halloween. Art the Clown is a character that resonates with the spooky season.",
-   "more": "Gizmodo highlights the connection between the release and Halloween, indicating that the character's appeal is tied to the holiday. The emphasis is on Art the Clown's duality, suggesting he has a strong association with both Christmas and Halloween. Other outlets may focus more on audience reception or box office expectations for the trilogy's return, whereas Gizmodo specifically hones in on the thematic elements of the season.",
-   "coverage": [
-    {
-     "outlet": "Gizmodo.com",
-     "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
-     "url": "https://gizmodo.com/the-terrifier-trilogy-returns-to-theaters-for-halloween-2000829681",
      "bias": null
     }
    ]
