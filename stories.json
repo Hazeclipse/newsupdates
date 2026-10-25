@@ -1,12 +1,12 @@
 {
- "updated": "Oct 25, 00:47",
+ "updated": "Oct 25, 05:38",
  "stories": [
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "New Christian Dating App Targets Gen Z with Traditional Values",
-   "sum": "Upward, a dating app aimed at Gen Z, is introducing features like 'Chivalry Mode' and 'Marriage Timeline' to promote traditional values. The app seeks to encourage a generation that is reportedly less engaged in dating.",
-   "more": "Wired highlights the app's focus on conservative dating practices and its attempt to address a demographic that is generally less interested in traditional courtship. The framing suggests a niche market strategy aimed at instilling old-fashioned values in a modern dating landscape. Other outlets may discuss the challenges of attracting Gen Z to such concepts, while some might emphasize the app's innovative approach to modern relationships.",
+   "title": "Dating App Targets Gen Z with Traditional Values",
+   "sum": "Upward, a newly relaunched Christian dating app, is introducing features like \u2018Chivalry Mode\u2019 and \u2018Marriage Timeline\u2019 aimed at encouraging Gen Z to consider marriage. The app's approach promotes traditional values at a time when dating rates among younger individuals have declined.",
+   "more": "Wired highlights the app's unique features designed to appeal to a generation that is less interested in dating. The emphasis on 'trad values' suggests a clear cultural stance, contrasting with a broader trend of shifting social norms around relationships. This framing underscores the app's intention to revive traditional courtship practices, even as it acknowledges the changing landscape of modern dating.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -19,9 +19,9 @@
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "The iPhone Duo: A Review Assessment",
-   "sum": "The Verge reviews the iPhone Duo, initially scoring it 7/10. The score reflects the challenges of evaluating a significant new concept in the smartphone market.",
-   "more": "While The Verge suggests the iPhone Duo could have been better conceptualized as an iPad, there may be varying perspectives on its functionality and design. Other outlets might focus on different aspects of the device, such as its technological innovations or user experience. The review process is portrayed as subjective, indicating that opinions on the Duo's performance might evolve over time.",
+   "title": "Review of the iPhone Duo",
+   "sum": "The iPhone Duo received a score of 7/10 from The Verge. The review reflects the complexities of assessing a new smartphone concept.",
+   "more": "The Verge suggests that the iPhone Duo may have been better suited as an iPad, indicating a potential mismatch between the device's design and its intended functionality. They acknowledge the challenges inherent in reviewing new technology, hinting that initial evaluations might change as user experiences evolve. This perspective emphasizes the evolving nature of tech reviews, contrasting with more definitive or static evaluations from other outlets.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -34,9 +34,9 @@
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "Etsy Implements Stricter Rules to Address AI Use in Listings",
-   "sum": "Etsy is introducing new regulations concerning the use of AI in product listings to minimize the presence of poorly made AI-generated content. The company highlights feedback from buyers who find it challenging to distinguish between AI-generated and human-made items.",
-   "more": "The Verge emphasizes the consumer complaints regarding the inability to identify AI-generated products. It also notes the company's efforts to enhance the quality of listings and maintain trust with buyers. There may be potential differences in how other outlets describe the impact these changes will have on sellers, with some focusing on the challenges for sellers while others may highlight the benefits for buyers.",
+   "title": "Etsy Implements Stricter Rules on AI Listings",
+   "sum": "Etsy is introducing new regulations regarding the use of AI in product listings. This initiative aims to minimize the prevalence of low-quality, AI-generated content on the platform.",
+   "more": "The Verge highlights the issue of buyer confusion about AI-generated content, underscoring the company's commitment to improving the shopping experience. While The Verge focuses on the impact on buyers' perceptions, other outlets may emphasize the implications for sellers and how these rules could affect their listings. Overall, the differing angles reflect the broader conversation about the role of AI in e-commerce and its effects on marketplace integrity.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -50,8 +50,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "OpenAI Trains AI Models Without Internet Access",
-   "sum": "OpenAI is now training its advanced AI models in an offline testing environment. This decision follows a series of hacking incidents.",
-   "more": "The Verge highlights that the models can still interact with indexed and cached web content despite being cut off from the internet. This framing emphasizes the safety measures taken to protect the training process. Other outlets may focus on the implications of training without real-time internet access or the reasons leading to this decision, potentially discussing security concerns or the effectiveness of offline training.",
+   "sum": "OpenAI is training its advanced AI models in an offline environment to enhance security. This decision comes after recent incidents of hacking concerns.",
+   "more": "The Verge highlights the creation of an offline testing environment for AI models to interact safely with indexed and cached web content. The focus on security is emphasized, suggesting a proactive approach to prevent future hacking incidents. Other outlets may not emphasize the security context as strongly, instead focusing on the implications for AI development or industry standards.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -65,8 +65,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "Meta Delays New Business Terms Amid Publisher Concerns",
-   "sum": "Meta has postponed the implementation of its new business terms following feedback from publishers regarding potential AI scraping. This decision comes after significant pushback was reported by various media outlets.",
-   "more": "While The Verge highlights the concerns raised by publishers specifically about AI scraping, it does not delve into the specifics of the pushback. Fast Company is mentioned as a source for earlier reports, suggesting a broader context to the issue. The focus on a spokesperson's statement by The Verge may imply some degree of corporate dialogue, though the details are limited. Overall, the framing centers on the tension between media publishers and Meta's ambitions in AI.",
+   "sum": "Meta has postponed the enforcement of its updated business terms following feedback from publishers regarding potential AI scraping of news sites. Publishers expressed concerns that these terms might enable unauthorized usage of their content for AI development.",
+   "more": "The Verge reports on the pushback from publishers, which appears to have influenced Meta's decision to delay. Fast Company, referenced in the article, initially detailed the concerns raised by these publishers regarding AI scraping. The framing here emphasizes the conflict between tech companies and publishers over content usage rights, highlighting the need for discussions on content protection in the age of AI. Different outlets may portray this situation with varying degrees of urgency or accountability regarding Meta's corporate practices.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -79,9 +79,45 @@
   {
    "cat": "politics",
    "date": "2026-10-23",
-   "title": "Andrew may testify in High Court fraud trial",
-   "sum": "The High Court trial features allegations of fraud from a wealthy Turkish woman against her former adviser. Andrew may be required to provide evidence during the proceedings.",
-   "more": "The BBC News headline suggests a potential legal obligation for Andrew to testify, indicating the seriousness of the trial. The focus on the identity of the complainant and her former adviser highlights the personal elements involved in the case. The use of terms like 'High Court' and 'fraud trial' underscores the formal legal context, while the framing of Andrew's potential testimony raises questions about his involvement in the proceedings.",
+   "title": "Argentina drops investigation into President Milei over crypto fraud",
+   "sum": "An investigation into President Javier Milei regarding a cryptocurrency issue has been dropped. The inquiry focused on allegations of fraud linked to a cryptocurrency that declined in value after Milei deleted a social media post about it.",
+   "more": "BBC News frames the story by emphasizing Milei's denial of fraudulent actions, specifically mentioning the cryptocurrency's nosedive. In contrast, Al Jazeera English highlights the judge's determination that Milei's involvement in the cryptocurrency launch did not constitute fraud. While both outlets report on the dismissal of the investigation, BBC News puts more emphasis on the president's personal defense, whereas Al Jazeera focuses on the judicial ruling.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Argentina drops investigation into President Milei over crypto fraud",
+     "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo",
+     "bias": "Center"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+     "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-24",
+   "title": "Increase in Border Searches of Devices",
+   "sum": "Border searches of laptops and phones at U.S. entry points have risen by 32% this year. This trend shows a growing scrutiny of travelers' devices.",
+   "more": "Gizmodo highlights a significant uptick in the number of electronic devices being searched at borders, indicating increasing concerns about security. The emphasis is on the impact this has on privacy and the personal data of travelers. This framing suggests a critical view of the policies surrounding device searches, hinting at broader implications for civil liberties.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-23",
+   "title": "Andrew Can Be Called to Give Evidence in High Court Fraud Trial",
+   "sum": "The High Court trial is centered around allegations of fraud made by a wealthy Turkish woman against her former adviser. Andrew's potential testimony may play a role in the proceedings.",
+   "more": "The BBC highlights the context of the trial, focusing on the accusations and the individuals involved. Other outlets may explore the implications of Andrew's testimony differently, potentially emphasizing his public persona or prior controversies. The framing around the legal proceedings and the parties involved varies, with some emphasizing the financial aspects of the allegations while others may focus on personal reputations.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -93,70 +129,40 @@
   },
   {
    "cat": "politics",
-   "date": "2026-10-23",
-   "title": "Oura and Ultrahuman in Court Over Patent Infringement",
-   "sum": "Oura has filed a lawsuit against Ultrahuman, claiming the company infringed on its patents related to ring design and internal components. This marks a significant development in the ongoing competition between the two companies.",
-   "more": "Android Central focuses on the legal battle between Oura and Ultrahuman, emphasizing the specific aspects of the patents in question. Other outlets may provide different perspectives, such as the implications of these claims for the wearable technology market or the historical context of the rivalry. Furthermore, comments from stakeholders or analysts could vary, highlighting potential future impacts on innovation in smart ring technology.",
+   "date": "2026-10-24",
+   "title": "France Prepares for Day of Protest Following Nationwide Riots",
+   "sum": "France is gearing up for a day of protests after recent nationwide riots. Authorities plan to deploy over 70,000 police officers to manage the situation.",
+   "more": "The emphasis on the deployment of police officers indicates a concern for public safety and maintaining order. This suggests that the French government is taking a proactive approach to prevent potential escalations during the protests. While BBC News reports on the preparations and police presence, other outlets may focus on the reasons behind the protests or the perspectives of the protestors, leading to different narratives about the situation.",
    "coverage": [
     {
-     "outlet": "Android Central",
-     "title": "Smart ring battle: Oura and Ultrahuman are in court again over a 'patent infringement'",
-     "url": "https://www.androidcentral.com/wearables/oura-ring/smart-ring-battle-oura-and-ultrahuman-are-in-court-again-over-a-patent-infringement",
-     "bias": null
+     "outlet": "BBC News",
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+     "bias": "Center"
     }
    ]
   },
   {
    "cat": "politics",
-   "date": "2026-10-23",
-   "title": "Charges Filed Against Former FBI Employees",
-   "sum": "Former FBI employees have been charged with lying to Congress related to inquiries into Hunter Biden. This situation follows longstanding accusations from Republicans regarding the FBI's handling of the laptop and related investigations.",
-   "more": "NPR emphasizes the actions taken against the former FBI employees in relation to their testimonies to Congress. The framing highlights Republican criticisms of the FBI's investigative processes, particularly regarding Hunter Biden. The outlet points to the political context surrounding these charges, indicating ongoing partisan tensions over the FBI's actions.",
+   "date": "2026-10-24",
+   "title": "Australian MP's condition improves after alleged car attack",
+   "sum": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital. This indicates a positive trend in his health after the incident.",
+   "more": "Different outlets may highlight various aspects of the attack, including its alleged nature and the circumstances surrounding it. Some may focus on the response of the political community or implications for public safety, while others emphasize the medical aspects of the MP's recovery. Additionally, the coverage might vary in terms of the details provided regarding the attacker or the specific events leading up to the incident.",
    "coverage": [
     {
-     "outlet": "NPR",
-     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
-     "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
-     "bias": null
-    }
-   ]
-  },
-  {
-   "cat": "politics",
-   "date": "2026-10-23",
-   "title": "Military Reinforcements Move to Mideast Amid Early Voting",
-   "sum": "Military reinforcements are being deployed to the Middle East, with some personnel departing the region, indicating a possible impending attack on Iran. Meanwhile, millions of Americans are participating in early voting for the midterm elections.",
-   "more": "NPR highlights the military movements in conjunction with the context of the upcoming midterm elections. The report suggests a sense of urgency regarding both military actions and civic engagement. Other outlets may focus more on the implications of military reinforcements, while differing in their emphasis on voter turnout and its importance in the electoral process.",
-   "coverage": [
-    {
-     "outlet": "NPR",
-     "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-     "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-     "bias": null
-    }
-   ]
-  },
-  {
-   "cat": "politics",
-   "date": "2026-10-23",
-   "title": "US House Representatives Born Outside the US",
-   "sum": "A total of 26 current US House representatives were born outside the United States. Unlike the president and vice president, natural-born citizenship is not a requirement for US House representatives.",
-   "more": "The emphasis on the differing citizenship requirements for congressional members compared to presidential roles highlights the unique position of House representatives. Business Insider points out the significant number of representatives with foreign birth backgrounds, which may reflect the diversity of the current political landscape. However, no additional context or specific examples of these representatives are provided, leaving space for further inquiries into their impact and representation.",
-   "coverage": [
-    {
-     "outlet": "Business Insider",
-     "title": "These 26 current US House representatives were born outside the US",
-     "url": "https://www.businessinsider.com/the-current-house-representatives-born-outside-the-us-2026-10#article",
-     "bias": null
+     "outlet": "BBC News",
+     "title": "Australian MP's condition improves after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
+     "bias": "Center"
     }
    ]
   },
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-   "sum": "Israeli soldiers shot and killed two men in the West Bank, claiming they were involved in an attack near Hebron. The incident resulted in at least five injuries, some of which are critical.",
-   "more": "NPR emphasizes the military's claim regarding the victims\u2019 involvement in the alleged attack, while Yahoo Entertainment provides a similar account but focuses on the military's preparation for a full closure of the West Bank. Both outlets report on the critical injuries sustained by bystanders, highlighting the severity of the situation. However, Yahoo also explicitly notes the preparation for a full military response, potentially implying a more extensive operational stance.",
+   "title": "Israel orders closure of West Bank after soldiers kill 2 men",
+   "sum": "Israeli soldiers shot and killed two men who the military claimed were involved in an attack near Hebron in the West Bank on Friday morning. The incident also left at least five others injured, some critically.",
+   "more": "NPR emphasizes the closure order that follows the shooting, indicating it as a response to the alleged attack. Yahoo Entertainment, while reporting the same event, highlights the preparation for a full closure, suggesting a more extensive military response. Both outlets report the attack incident similarly, but differ slightly in the framing of the military's actions following the shooting.",
    "coverage": [
     {
      "outlet": "NPR",
@@ -175,9 +181,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Sigma FP2 Introduced with Upgrades",
-   "sum": "Sigma has announced the FP2, a compact follow-up to its original Sigma FP camera. The new model features several upgrades including an improved sensor and an articulating LCD display.",
-   "more": "The Verge emphasizes the size and weight of the camera, reiterating Sigma's claim about the FP being the smallest and lightest full-frame mirrorless camera. This focus highlights the brand's commitment to maintaining a compact design while enhancing functionality. Other outlets might focus more on the technical specifications or the implications of the improved sensor rather than the size aspect. Overall, there seems to be a common recognition of the importance of these upgrades in appealing to a wider audience of photography enthusiasts.",
+   "title": "Sigma FP2 Introduced as Compact Full-Frame Camera",
+   "sum": "Sigma has unveiled the FP2 camera, which features significant upgrades over its predecessor. This follows the original FP's claim to be the world's smallest and lightest full-frame mirrorless camera.",
+   "more": "The announcement highlights improvements such as an enhanced sensor and a new articulating LCD display. Some outlets may focus more on the camera's size, while others emphasize specific technological advancements. Overall, the upgrades signify Sigma's commitment to refining its compact camera offerings.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -190,9 +196,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Laika Celebrates Two Decades of Progress with Wildwood",
-   "sum": "Laika marks its 20th anniversary with the release of Wildwood. Cinematographer Caleb Deschanel, who has had a long career in Hollywood, has contributed significantly to various iconic films.",
-   "more": "The Verge highlights Laika's journey over the past two decades, framing it as a culmination of their creative efforts. In contrast, while acknowledging Deschanel's extensive experience, the focus on his prior work varies among the outlets, with some emphasizing specific projects more than others. The celebration of Laika's accomplishments is more prominent in The Verge's narrative, showcasing the company's evolution within the animation industry.",
+   "title": "Laika's Journey and Caleb Deschanel's Career Highlights",
+   "sum": "Laika has dedicated two decades to creating its animated feature Wildwood. Caleb Deschanel, a cinematographer with a long history in Hollywood, has contributed to numerous significant films.",
+   "more": "The Verge emphasizes Laika's lengthy development process for Wildwood, highlighting the studio's commitment to animation over the years. In contrast, it focuses on Caleb Deschanel's broad experience across a range of iconic films, suggesting a seasoned perspective in the industry. While both subjects relate to the film industry, the framing of Laika's efforts as a significant journey contrasts with the depiction of Deschanel's varied and accomplished career.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -205,9 +211,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Melanoma Vaccine Trial Shows Promising Results",
-   "sum": "A melanoma vaccine tailored for individual tumors has shown that 82% of patients remain cancer-free two years after treatment. The trial results were released early due to a leak from Merck and Moderna.",
-   "more": "Gizmodo highlights the encouraging results of the melanoma vaccine trial, emphasizing the high percentage of sustained cancer-free patients. However, the outlet also notes that despite the positive outcome, the stock prices for Merck and Moderna fell, which some investors found puzzling. The framing in Gizmodo hints at a contradiction between patient success and market reaction, suggesting a disconnect between clinical success and investor confidence.",
+   "title": "Melanoma Patients Show Promising Results from Personalized Vaccine Trial",
+   "sum": "A study on melanoma patients who received a vaccine tailored to their tumors has shown that 82% remain cancer-free after two years. The results were released early due to an apparent leak.",
+   "more": "While the trial results were seen as a significant advancement in cancer treatment, investors reacted negatively, leading to a drop in the stock prices of Merck and Moderna. This puzzling response contrasts with the positive outlook on patient outcomes highlighted in the study. The early disclosure of results may have contributed to the stock market\u2019s reaction, suggesting a disconnect between clinical success and investor confidence.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
@@ -221,8 +227,8 @@
    "cat": "crime",
    "date": "2026-10-23",
    "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
-   "sum": "Art the Clown's favorite holiday may be Christmas, but he's also right at home in spooky season. The 'Terrifier' films are set to return to theaters in time for Halloween festivities.",
-   "more": "Gizmodo highlights the association of Art the Clown with both Halloween and Christmas, suggesting a playful duality in the character\u2019s persona. The framing emphasizes the trilogy's relevance to the Halloween season specifically, indicating a strategic timing for the theatrical return. Other outlets may focus on box office potential or audience anticipation differently, contributing to varied narratives about the franchise's impact on the horror genre during Halloween.",
+   "sum": "The popular 'Terrifier' trilogy is set to return to theaters just in time for Halloween. Fans of the franchise can expect a frightful experience during the spooky season.",
+   "more": "Gizmodo emphasizes the connection between Art the Clown and the Halloween season, suggesting that while Christmas may be a preferred holiday for the character, he is equally at home during Halloween. This framing highlights the holiday's thematic relevance to the film series. There is no indication from other outlets in this snippet about specific screening locations or dates, leaving some details about the release schedule ambiguous.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
