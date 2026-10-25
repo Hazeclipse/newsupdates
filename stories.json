@@ -1,42 +1,12 @@
 {
- "updated": "Oct 24, 22:52",
+ "updated": "Oct 25, 00:47",
  "stories": [
   {
    "cat": "tech",
-   "date": "2026-10-22",
-   "title": "The Social Society Helping Women Join the AI Boom",
-   "sum": "WIRED discusses the Aged Intelligence Society, which focuses on helping women engage with artificial intelligence. The organization aims to address midlife challenges through innovative solutions.",
-   "more": "Different outlets may focus on the implications of the Aged Intelligence Society\u2019s mission, with some highlighting the role of technology in empowering women at midlife. Others might emphasize the community aspect, noting how collaborative events foster connection and support among women navigating similar issues. The emphasis on 'frontier tools' could also be framed variably, with some sources describing it as cutting-edge while others might focus on accessibility and inclusivity.",
-   "coverage": [
-    {
-     "outlet": "Wired",
-     "title": "The Social Society Helping Women Join the AI Boom",
-     "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-     "bias": null
-    }
-   ]
-  },
-  {
-   "cat": "tech",
-   "date": "2026-10-22",
-   "title": "Introducing Mori, the Adorable Robot Mushroom",
-   "sum": "Wired introduces Mori, a robot designed to look like a mushroom that doesn't perform any notable functions. This approach aims to make robotic technology more appealing for home environments.",
-   "more": "The focus on its cute design suggests a strategy to soften the perception of robots equipped with cameras. By presenting technologies in a more relatable and aesthetically pleasing form, creators hope to ease public apprehension. This framing emphasizes the intersection of technology and design in everyday life, contrasting with more functional or utilitarian views of robotics.",
-   "coverage": [
-    {
-     "outlet": "Wired",
-     "title": "Meet Mori, a Cute Robot Mushroom That Doesn\u2019t Really Say (or Do) Anything",
-     "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-     "bias": null
-    }
-   ]
-  },
-  {
-   "cat": "tech",
    "date": "2026-10-23",
-   "title": "A Dating App Offers Features to Promote Traditional Values among Gen Z",
-   "sum": "Upward, a newly relaunched Christian dating app, is introducing features like 'Chivalry Mode' and 'Marriage Timeline' aimed at encouraging traditional relationship values among younger users. The app seeks to address a generation that has shown less interest in dating.",
-   "more": "Wired emphasizes the app's focus on tradition and its attempt to engage with a demographic that is largely disinterested in dating. The framing suggests a contrast between contemporary dating habits and the values promoted by the app. While some may view these features as appealing to a niche market, others might critique the approach as out of touch with broader societal trends regarding relationships and dating practices.",
+   "title": "New Christian Dating App Targets Gen Z with Traditional Values",
+   "sum": "Upward, a dating app aimed at Gen Z, is introducing features like 'Chivalry Mode' and 'Marriage Timeline' to promote traditional values. The app seeks to encourage a generation that is reportedly less engaged in dating.",
+   "more": "Wired highlights the app's focus on conservative dating practices and its attempt to address a demographic that is generally less interested in traditional courtship. The framing suggests a niche market strategy aimed at instilling old-fashioned values in a modern dating landscape. Other outlets may discuss the challenges of attracting Gen Z to such concepts, while some might emphasize the app's innovative approach to modern relationships.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -48,66 +18,60 @@
   },
   {
    "cat": "tech",
-   "date": "2026-10-22",
-   "title": "Wildwood's Director Critiques AI in Film",
-   "sum": "The director of Laika's ambitious film Wildwood expresses strong opposition to AI, stating it goes against the studio's values. Wildwood is noted for its extensive production involving over 230 puppets.",
-   "more": "The Verge highlights the director's clear stance on AI, labeling it as fundamentally opposed to the studio's vision. Other outlets may cover the film's production process or its creative aspects but do not emphasize the director's comments on AI as much. The focus on the film's ambitious nature is consistent across articles, yet the framing of AI's role in the future of cinema varies. While some may view the use of AI as a tool for innovation, The Verge's piece concentrates on its philosophical implications as stated by the director.",
+   "date": "2026-10-23",
+   "title": "The iPhone Duo: A Review Assessment",
+   "sum": "The Verge reviews the iPhone Duo, initially scoring it 7/10. The score reflects the challenges of evaluating a significant new concept in the smartphone market.",
+   "more": "While The Verge suggests the iPhone Duo could have been better conceptualized as an iPad, there may be varying perspectives on its functionality and design. Other outlets might focus on different aspects of the device, such as its technological innovations or user experience. The review process is portrayed as subjective, indicating that opinions on the Duo's performance might evolve over time.",
    "coverage": [
     {
      "outlet": "The Verge",
-     "title": "Wildwood\u2019s director says AI is \u2018antithetical to everything that we are at this studio\u2019",
-     "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+     "title": "The iPhone Duo should have been an iPad",
+     "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
      "bias": null
     }
    ]
   },
   {
    "cat": "tech",
-   "date": "2026-10-22",
-   "title": "PHP Vulnerabilities Pose Risks to Websites",
-   "sum": "Recent vulnerabilities in PHP have raised security concerns for many websites. With a significant portion of the internet relying on PHP, the implications of these vulnerabilities are widespread.",
-   "more": "The Verge emphasizes the extent of the risk by highlighting that up to 70 percent of websites utilize PHP, including major platforms like Wikipedia and WordPress. However, the framing of the issue may vary among other outlets, with some focusing more on the technical aspects of the vulnerabilities rather than the potential impact on internet security. Others might prioritize the response measures being taken by web developers to mitigate these risks, leading to differing narratives around the urgency and severity of the situation.",
+   "date": "2026-10-23",
+   "title": "Etsy Implements Stricter Rules to Address AI Use in Listings",
+   "sum": "Etsy is introducing new regulations concerning the use of AI in product listings to minimize the presence of poorly made AI-generated content. The company highlights feedback from buyers who find it challenging to distinguish between AI-generated and human-made items.",
+   "more": "The Verge emphasizes the consumer complaints regarding the inability to identify AI-generated products. It also notes the company's efforts to enhance the quality of listings and maintain trust with buyers. There may be potential differences in how other outlets describe the impact these changes will have on sellers, with some focusing on the challenges for sellers while others may highlight the benefits for buyers.",
    "coverage": [
     {
      "outlet": "The Verge",
-     "title": "PHP: The three little letters wreaking havoc across the web",
-     "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+     "title": "Etsy is cracking down on AI slop listings",
+     "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
      "bias": null
     }
    ]
   },
   {
-   "cat": "politics",
-   "date": "2026-10-22",
-   "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
-   "sum": "Australia's Federal Court has mandated that Apple must permit competing app stores and alternative payment options for iPhone users starting March 1, 2027. This ruling is part of the fallout from an antitrust case involving Epic Games.",
-   "more": "MacRumors highlights the court's order as a significant shift in how Apple operates its ecosystem, emphasizing the implications of the 2025 ruling that found Apple misusing its market position. In contrast, 9to5Mac frames the decision as a response to a prolonged legal battle with Epic Games, noting that Apple has announced plans to appeal the ruling. Both outlets agree on the outcome but differ in their focus on the context and implications of the ruling.",
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "OpenAI Trains AI Models Without Internet Access",
+   "sum": "OpenAI is now training its advanced AI models in an offline testing environment. This decision follows a series of hacking incidents.",
+   "more": "The Verge highlights that the models can still interact with indexed and cached web content despite being cut off from the internet. This framing emphasizes the safety measures taken to protect the training process. Other outlets may focus on the implications of training without real-time internet access or the reasons leading to this decision, potentially discussing security concerns or the effectiveness of offline training.",
    "coverage": [
     {
-     "outlet": "MacRumors",
-     "title": "Apple Ordered to Open iPhone to Rival App Stores in Australia",
-     "url": "https://www.macrumors.com/2026/10/22/rival-app-stores-in-australia-ordered/",
-     "bias": null
-    },
-    {
-     "outlet": "9to5Mac",
-     "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
-     "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling/",
+     "outlet": "The Verge",
+     "title": "OpenAI now trains its frontier AI models with no internet access",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
      "bias": null
     }
    ]
   },
   {
-   "cat": "politics",
-   "date": "2026-10-22",
-   "title": "Bill Gates on Future AI Disruption",
-   "sum": "Bill Gates warns that we should prepare for two decades of significant disruption caused by artificial intelligence. His recent comments come amid increased public appearances following the release of an essay on the topic.",
-   "more": "The Verge highlights Gates' views on AI, emphasizing the need for preparation for future challenges. Other outlets may focus more on Gates' extensive experience in technology or his initiatives through the Gates Foundation. Some reports might underline the urgency of action in response to potential AI-related issues, contrasting with Gates' more measured tone regarding the timeline of disruption.",
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Meta Delays New Business Terms Amid Publisher Concerns",
+   "sum": "Meta has postponed the implementation of its new business terms following feedback from publishers regarding potential AI scraping. This decision comes after significant pushback was reported by various media outlets.",
+   "more": "While The Verge highlights the concerns raised by publishers specifically about AI scraping, it does not delve into the specifics of the pushback. Fast Company is mentioned as a source for earlier reports, suggesting a broader context to the issue. The focus on a spokesperson's statement by The Verge may imply some degree of corporate dialogue, though the details are limited. Overall, the framing centers on the tension between media publishers and Meta's ambitions in AI.",
    "coverage": [
     {
      "outlet": "The Verge",
-     "title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
-     "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+     "title": "Meta delays new business terms after publisher pushback on AI scraping",
+     "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
      "bias": null
     }
    ]
@@ -115,9 +79,9 @@
   {
    "cat": "politics",
    "date": "2026-10-23",
-   "title": "Andrew Can Be Called to Give Evidence in High Court Fraud Trial",
-   "sum": "The High Court is set to address allegations of fraud made by a wealthy Turkish woman against her former adviser. As part of the proceedings, Andrew may be called to testify.",
-   "more": "The BBC News coverage highlights the legal implications of the case and the role Andrew may play as a witness. Other outlets may emphasize the high-profile nature of the trial and its connections to prominent figures, potentially affecting public interest. There might also be differing opinions on the potential impact of Andrew's testimony on the outcome of the trial, with some speculating on its significance, while others remain more reserved.",
+   "title": "Andrew may testify in High Court fraud trial",
+   "sum": "The High Court trial features allegations of fraud from a wealthy Turkish woman against her former adviser. Andrew may be required to provide evidence during the proceedings.",
+   "more": "The BBC News headline suggests a potential legal obligation for Andrew to testify, indicating the seriousness of the trial. The focus on the identity of the complainant and her former adviser highlights the personal elements involved in the case. The use of terms like 'High Court' and 'fraud trial' underscores the formal legal context, while the framing of Andrew's potential testimony raises questions about his involvement in the proceedings.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -129,31 +93,61 @@
   },
   {
    "cat": "politics",
-   "date": "2026-10-22",
-   "title": "Woman charged after police officer injured in shooting",
-   "sum": "A woman has been charged in connection with an incident in Nottingham city centre where a police officer was injured. The officer was hurt after approaching two individuals at a bus stop.",
-   "more": "The situation unfolded as the officer engaged with the individuals, which led to the shooting incident. The BBC News article emphasizes the actions of the police officer and the circumstances surrounding the approach to the two people. The focus on the charge against the woman indicates a legal angle to the story, with implications for accountability. Other outlets may highlight community reactions or broader implications for public safety in Nottingham.",
+   "date": "2026-10-23",
+   "title": "Oura and Ultrahuman in Court Over Patent Infringement",
+   "sum": "Oura has filed a lawsuit against Ultrahuman, claiming the company infringed on its patents related to ring design and internal components. This marks a significant development in the ongoing competition between the two companies.",
+   "more": "Android Central focuses on the legal battle between Oura and Ultrahuman, emphasizing the specific aspects of the patents in question. Other outlets may provide different perspectives, such as the implications of these claims for the wearable technology market or the historical context of the rivalry. Furthermore, comments from stakeholders or analysts could vary, highlighting potential future impacts on innovation in smart ring technology.",
    "coverage": [
     {
-     "outlet": "BBC News",
-     "title": "Woman charged after police officer injured in shooting",
-     "url": "https://www.bbc.co.uk/news/articles/c8n5ve5gg35no",
-     "bias": "Center"
+     "outlet": "Android Central",
+     "title": "Smart ring battle: Oura and Ultrahuman are in court again over a 'patent infringement'",
+     "url": "https://www.androidcentral.com/wearables/oura-ring/smart-ring-battle-oura-and-ultrahuman-are-in-court-again-over-a-patent-infringement",
+     "bias": null
     }
    ]
   },
   {
    "cat": "politics",
-   "date": "2026-10-22",
-   "title": "Kieran Hayler Found Not Guilty of Rape Charges",
-   "sum": "Kieran Hayler, the ex-partner of Katie Price, has been acquitted of charges related to the alleged rape of a 13-year-old girl. He had denied all accusations throughout his trial.",
-   "more": "The BBC's coverage focuses on the verdict and the specific charges Hayler faced, highlighting his not guilty plea. There may be variations in how outlets frame the implications of the verdict or the context of the case, but the core details remain consistent across reporting. Some might provide more background on Hayler's past or the societal implications of such cases, while others may focus on public reactions or legal ramifications.",
+   "date": "2026-10-23",
+   "title": "Charges Filed Against Former FBI Employees",
+   "sum": "Former FBI employees have been charged with lying to Congress related to inquiries into Hunter Biden. This situation follows longstanding accusations from Republicans regarding the FBI's handling of the laptop and related investigations.",
+   "more": "NPR emphasizes the actions taken against the former FBI employees in relation to their testimonies to Congress. The framing highlights Republican criticisms of the FBI's investigative processes, particularly regarding Hunter Biden. The outlet points to the political context surrounding these charges, indicating ongoing partisan tensions over the FBI's actions.",
    "coverage": [
     {
-     "outlet": "BBC News",
-     "title": "Katie Price's ex not guilty of raping girl, 13",
-     "url": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo",
-     "bias": "Center"
+     "outlet": "NPR",
+     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-23",
+   "title": "Military Reinforcements Move to Mideast Amid Early Voting",
+   "sum": "Military reinforcements are being deployed to the Middle East, with some personnel departing the region, indicating a possible impending attack on Iran. Meanwhile, millions of Americans are participating in early voting for the midterm elections.",
+   "more": "NPR highlights the military movements in conjunction with the context of the upcoming midterm elections. The report suggests a sense of urgency regarding both military actions and civic engagement. Other outlets may focus more on the implications of military reinforcements, while differing in their emphasis on voter turnout and its importance in the electoral process.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "date": "2026-10-23",
+   "title": "US House Representatives Born Outside the US",
+   "sum": "A total of 26 current US House representatives were born outside the United States. Unlike the president and vice president, natural-born citizenship is not a requirement for US House representatives.",
+   "more": "The emphasis on the differing citizenship requirements for congressional members compared to presidential roles highlights the unique position of House representatives. Business Insider points out the significant number of representatives with foreign birth backgrounds, which may reflect the diversity of the current political landscape. However, no additional context or specific examples of these representatives are provided, leaving space for further inquiries into their impact and representation.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "These 26 current US House representatives were born outside the US",
+     "url": "https://www.businessinsider.com/the-current-house-representatives-born-outside-the-us-2026-10#article",
+     "bias": null
     }
    ]
   },
@@ -161,8 +155,8 @@
    "cat": "crime",
    "date": "2026-10-23",
    "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-   "sum": "Israeli soldiers shot and killed two men in the West Bank, claiming they had launched an attack near Hebron. The incident also left at least five people injured, some critically.",
-   "more": "Both NPR and Yahoo Entertainment report the same essential details regarding the incident, emphasizing the military's perspective on the alleged attack. The framing is consistent around the closure of the West Bank, highlighting the military's actions and the resulting injuries. However, Yahoo Entertainment's use of the term 'alleged attack' might imply a degree of skepticism or highlight the contentious nature of military engagements in the region, while NPR presents the information more straightforwardly. Both outlets reflect the tense atmosphere in the West Bank following these events.",
+   "sum": "Israeli soldiers shot and killed two men in the West Bank, claiming they were involved in an attack near Hebron. The incident resulted in at least five injuries, some of which are critical.",
+   "more": "NPR emphasizes the military's claim regarding the victims\u2019 involvement in the alleged attack, while Yahoo Entertainment provides a similar account but focuses on the military's preparation for a full closure of the West Bank. Both outlets report on the critical injuries sustained by bystanders, highlighting the severity of the situation. However, Yahoo also explicitly notes the preparation for a full military response, potentially implying a more extensive operational stance.",
    "coverage": [
     {
      "outlet": "NPR",
@@ -181,51 +175,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Ramaswamy defends attack ad featuring candidate's estranged mother",
-   "sum": "Republican Vivek Ramaswamy defended his campaign's advertisement that features the estranged mother of Democratic rival Dr. Amy Acton. This ad has drawn significant attention in the Ohio governor race.",
-   "more": "While Yahoo Entertainment focuses on Ramaswamy's defense of the ad, BBC News highlights the emotional response from Acton, who describes the advertisement as 'despicable.' Furthermore, BBC News provides context by mentioning that Acton's mother has a troubling background involving allegations against her husband, which adds depth to the controversy surrounding the ad.",
-   "coverage": [
-    {
-     "outlet": "Yahoo Entertainment",
-     "title": "Ramaswamy defends attack ad featuring candidate's estranged mother",
-     "url": "https://www.yahoo.com/news/politics/articles/vivek-ramaswamy-defends-ad-featuring-162927431.html",
-     "bias": null
-    },
-    {
-     "outlet": "BBC News",
-     "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-     "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo",
-     "bias": "Center"
-    }
-   ]
-  },
-  {
-   "cat": "crime",
-   "date": "2026-10-22",
-   "title": "Teacher injured in Oregon elementary school shooting says she played dead",
-   "sum": "Becky Drury, a teacher at Silver Rail Elementary School, was severely injured during a shooting incident. She stated that she played dead to survive the attack.",
-   "more": "ABC News emphasized the extent of her injuries, mentioning that her left hand was 'almost completely severed' and her right arm was 'severely injured.' In contrast, BBC News focused on her inability to assist the children during the attack due to her injuries. Both outlets highlighted her survival tactic of pretending to be dead, but ABC's description provided more detail about her injuries.",
-   "coverage": [
-    {
-     "outlet": "Abcnews.com",
-     "title": "Teacher injured in elementary school shooting says she played dead after being shot",
-     "url": "https://abcnews.com/US/teacher-injured-shooting-oregon-elementary-school-played-dead/story?id=137460789",
-     "bias": null
-    },
-    {
-     "outlet": "BBC News",
-     "title": "Teacher in Oregon shooting said she pretended to be dead to survive",
-     "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o",
-     "bias": "Center"
-    }
-   ]
-  },
-  {
-   "cat": "crime",
-   "date": "2026-10-23",
    "title": "Sigma FP2 Introduced with Upgrades",
-   "sum": "Sigma has launched the FP2, a compact follow-up to its original FP camera, featuring several notable improvements. These enhancements include a new sensor and an articulating LCD display.",
-   "more": "The Verge highlights the FP2 as a significant upgrade to the original model, focusing on its claims of size and weight. The framing emphasizes the camera's compact design and the major advancements made after seven years. Other outlets may discuss the technical specifications or market positioning differently, but the core message of upgraded features remains consistent.",
+   "sum": "Sigma has announced the FP2, a compact follow-up to its original Sigma FP camera. The new model features several upgrades including an improved sensor and an articulating LCD display.",
+   "more": "The Verge emphasizes the size and weight of the camera, reiterating Sigma's claim about the FP being the smallest and lightest full-frame mirrorless camera. This focus highlights the brand's commitment to maintaining a compact design while enhancing functionality. Other outlets might focus more on the technical specifications or the implications of the improved sensor rather than the size aspect. Overall, there seems to be a common recognition of the importance of these upgrades in appealing to a wider audience of photography enthusiasts.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -238,14 +190,44 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Laika's Journey to Wildwood",
-   "sum": "Laika marks a significant milestone with its new project, Wildwood, culminating two decades of creative efforts. Cinematographer Caleb Deschanel, known for his extensive work in Hollywood, plays an important role in the film.",
-   "more": "The Verge notes Laika's lengthy development process, emphasizing its commitment to animation innovation. In contrast, other outlets may spotlight Deschanel's extensive filmography and contributions to iconic films, potentially framing him as a legacy figure in the industry. Some sources might also focus on the artistic direction of Wildwood, highlighting its distinct visual style that builds on Laika's previous works.",
+   "title": "Laika Celebrates Two Decades of Progress with Wildwood",
+   "sum": "Laika marks its 20th anniversary with the release of Wildwood. Cinematographer Caleb Deschanel, who has had a long career in Hollywood, has contributed significantly to various iconic films.",
+   "more": "The Verge highlights Laika's journey over the past two decades, framing it as a culmination of their creative efforts. In contrast, while acknowledging Deschanel's extensive experience, the focus on his prior work varies among the outlets, with some emphasizing specific projects more than others. The celebration of Laika's accomplishments is more prominent in The Verge's narrative, showcasing the company's evolution within the animation industry.",
    "coverage": [
     {
      "outlet": "The Verge",
      "title": "Laika has spent 20 years building up to Wildwood",
      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Melanoma Vaccine Trial Shows Promising Results",
+   "sum": "A melanoma vaccine tailored for individual tumors has shown that 82% of patients remain cancer-free two years after treatment. The trial results were released early due to a leak from Merck and Moderna.",
+   "more": "Gizmodo highlights the encouraging results of the melanoma vaccine trial, emphasizing the high percentage of sustained cancer-free patients. However, the outlet also notes that despite the positive outcome, the stock prices for Merck and Moderna fell, which some investors found puzzling. The framing in Gizmodo hints at a contradiction between patient success and market reaction, suggesting a disconnect between clinical success and investor confidence.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "These Melanoma Patients Got a Vaccine Made for Their Own Tumors. 2 Years Later, 82% Are Still Cancer-Free",
+     "url": "https://gizmodo.com/these-melanoma-patients-got-a-vaccine-made-for-their-own-tumors-2-years-later-82-are-still-cancer-free-2000829831",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
+   "sum": "Art the Clown's favorite holiday may be Christmas, but he's also right at home in spooky season. The 'Terrifier' films are set to return to theaters in time for Halloween festivities.",
+   "more": "Gizmodo highlights the association of Art the Clown with both Halloween and Christmas, suggesting a playful duality in the character\u2019s persona. The framing emphasizes the trilogy's relevance to the Halloween season specifically, indicating a strategic timing for the theatrical return. Other outlets may focus on box office potential or audience anticipation differently, contributing to varied narratives about the franchise's impact on the horror genre during Halloween.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
+     "url": "https://gizmodo.com/the-terrifier-trilogy-returns-to-theaters-for-halloween-2000829681",
      "bias": null
     }
    ]
