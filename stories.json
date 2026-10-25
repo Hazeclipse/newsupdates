@@ -1,12 +1,12 @@
 {
- "updated": "Oct 25, 05:38",
+ "updated": "Oct 25, 10:39",
  "stories": [
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "Dating App Targets Gen Z with Traditional Values",
-   "sum": "Upward, a newly relaunched Christian dating app, is introducing features like \u2018Chivalry Mode\u2019 and \u2018Marriage Timeline\u2019 aimed at encouraging Gen Z to consider marriage. The app's approach promotes traditional values at a time when dating rates among younger individuals have declined.",
-   "more": "Wired highlights the app's unique features designed to appeal to a generation that is less interested in dating. The emphasis on 'trad values' suggests a clear cultural stance, contrasting with a broader trend of shifting social norms around relationships. This framing underscores the app's intention to revive traditional courtship practices, even as it acknowledges the changing landscape of modern dating.",
+   "title": "Christian Dating App Targets Gen Z with Traditional Values",
+   "sum": "Upward, a newly relaunched Christian dating app, introduces features like 'Chivalry Mode' and a 'Marriage Timeline' to appeal to Gen Z. The app aims to promote traditional values in a generation that is increasingly moving away from dating.",
+   "more": "Wired emphasizes the app's focus on traditional values and its unique features designed to attract younger users. However, it highlights the irony of promoting marriage to a demographic that is not actively dating. Other outlets might present a more critical view of these features, questioning their effectiveness or the app's overall reception among Gen Z. There is also potential for varying opinions on whether this approach reflects a genuine cultural trend or a niche desire.",
    "coverage": [
     {
      "outlet": "Wired",
@@ -20,8 +20,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "Review of the iPhone Duo",
-   "sum": "The iPhone Duo received a score of 7/10 from The Verge. The review reflects the complexities of assessing a new smartphone concept.",
-   "more": "The Verge suggests that the iPhone Duo may have been better suited as an iPad, indicating a potential mismatch between the device's design and its intended functionality. They acknowledge the challenges inherent in reviewing new technology, hinting that initial evaluations might change as user experiences evolve. This perspective emphasizes the evolving nature of tech reviews, contrasting with more definitive or static evaluations from other outlets.",
+   "sum": "The Verge reviews the iPhone Duo, giving it a score of 7/10. The review reflects on the challenges of evaluating a significant new concept in smartphone design.",
+   "more": "The Verge suggests that the iPhone Duo's innovative features may not fully justify its rating at this stage, hinting at potential changes in perception over time. The review discusses the complexity of assessing new technology that deviates from traditional designs. Additionally, the outlet hints that initial impressions and scores might evolve as users become more accustomed to the device.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -35,8 +35,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "Etsy Implements Stricter Rules on AI Listings",
-   "sum": "Etsy is introducing new regulations regarding the use of AI in product listings. This initiative aims to minimize the prevalence of low-quality, AI-generated content on the platform.",
-   "more": "The Verge highlights the issue of buyer confusion about AI-generated content, underscoring the company's commitment to improving the shopping experience. While The Verge focuses on the impact on buyers' perceptions, other outlets may emphasize the implications for sellers and how these rules could affect their listings. Overall, the differing angles reflect the broader conversation about the role of AI in e-commerce and its effects on marketplace integrity.",
+   "sum": "Etsy is introducing stricter regulations regarding the use of AI in product listings to minimize the presence of low-quality AI-generated content. The company aims to address concerns from buyers who struggle to differentiate between AI-generated and handmade items.",
+   "more": "The Verge highlights the company's acknowledgment of buyer feedback about the difficulty in distinguishing AI content, suggesting that these new rules are a response to user concerns. Other outlets may emphasize different aspects of Etsy's announcement, such as potential impacts on sellers who rely on AI tools. Additionally, some might focus on the broader implications for the marketplace or compare it to regulations by similar platforms, showcasing how Etsy's approach might differ from others in addressing AI-generated content.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -50,8 +50,8 @@
    "cat": "tech",
    "date": "2026-10-23",
    "title": "OpenAI Trains AI Models Without Internet Access",
-   "sum": "OpenAI is training its advanced AI models in an offline environment to enhance security. This decision comes after recent incidents of hacking concerns.",
-   "more": "The Verge highlights the creation of an offline testing environment for AI models to interact safely with indexed and cached web content. The focus on security is emphasized, suggesting a proactive approach to prevent future hacking incidents. Other outlets may not emphasize the security context as strongly, instead focusing on the implications for AI development or industry standards.",
+   "sum": "OpenAI is now training its most advanced AI models in an offline environment. This change follows a series of incidents involving unauthorized hacking attempts.",
+   "more": "The Verge highlights the creation of an offline testing environment where AI models can engage with indexed and cached web content. The emphasis on the decision stems from a need to enhance security methods amid concerns of rogue hacking incidents. Other outlets may focus on the implications of this move for AI development, discussing potential impacts on innovation or safety.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -64,9 +64,9 @@
   {
    "cat": "tech",
    "date": "2026-10-23",
-   "title": "Meta Delays New Business Terms Amid Publisher Concerns",
-   "sum": "Meta has postponed the enforcement of its updated business terms following feedback from publishers regarding potential AI scraping of news sites. Publishers expressed concerns that these terms might enable unauthorized usage of their content for AI development.",
-   "more": "The Verge reports on the pushback from publishers, which appears to have influenced Meta's decision to delay. Fast Company, referenced in the article, initially detailed the concerns raised by these publishers regarding AI scraping. The framing here emphasizes the conflict between tech companies and publishers over content usage rights, highlighting the need for discussions on content protection in the age of AI. Different outlets may portray this situation with varying degrees of urgency or accountability regarding Meta's corporate practices.",
+   "title": "Meta Delays New Business Terms Following Publisher Concerns",
+   "sum": "Meta has postponed the implementation of its new business terms due to objections from publishers regarding AI scraping. Concerns were raised that the terms could facilitate scraping of news sites for AI training.",
+   "more": "The Verge highlights that the delay follows substantial pushback from publishers, emphasizing the strength of their concerns. Fast Company also reported on the situation, indicating that the response from publishers led to this change. This context suggests a broader tension between publishers and tech companies over content usage and AI advancements.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -80,8 +80,8 @@
    "cat": "politics",
    "date": "2026-10-23",
    "title": "Argentina drops investigation into President Milei over crypto fraud",
-   "sum": "An investigation into President Javier Milei regarding a cryptocurrency issue has been dropped. The inquiry focused on allegations of fraud linked to a cryptocurrency that declined in value after Milei deleted a social media post about it.",
-   "more": "BBC News frames the story by emphasizing Milei's denial of fraudulent actions, specifically mentioning the cryptocurrency's nosedive. In contrast, Al Jazeera English highlights the judge's determination that Milei's involvement in the cryptocurrency launch did not constitute fraud. While both outlets report on the dismissal of the investigation, BBC News puts more emphasis on the president's personal defense, whereas Al Jazeera focuses on the judicial ruling.",
+   "sum": "Javier Milei had denied acting fraudulently regarding a cryptocurrency that lost value after he removed a related social media post. The investigation has been concluded by an Argentinian judge.",
+   "more": "Both BBC News and Al Jazeera English report the conclusion of the fraud investigation into President Milei. However, Al Jazeera emphasizes the judge's statement that Milei's involvement does not constitute a fraudulent scheme, while the BBC focuses on his denial of wrongdoing. This difference highlights the varying emphasis on Milei's intent and the judicial assessment of his actions.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -100,9 +100,9 @@
   {
    "cat": "politics",
    "date": "2026-10-24",
-   "title": "Increase in Border Searches of Devices",
-   "sum": "Border searches of laptops and phones at U.S. entry points have risen by 32% this year. This trend shows a growing scrutiny of travelers' devices.",
-   "more": "Gizmodo highlights a significant uptick in the number of electronic devices being searched at borders, indicating increasing concerns about security. The emphasis is on the impact this has on privacy and the personal data of travelers. This framing suggests a critical view of the policies surrounding device searches, hinting at broader implications for civil liberties.",
+   "title": "Border Searches of Laptops and Phones Increasing",
+   "sum": "Border searches of electronic devices are up 32% this year compared to previous years. This rise indicates a growing trend in the scrutiny of travelers' devices upon entering the U.S.",
+   "more": "Gizmodo emphasizes the increase in the frequency of device checks, highlighting it as a significant change for travelers. The outlet suggests concerns regarding privacy may arise due to the heightened inspections. There is no mention of potential legal implications or controversies surrounding these searches in the provided headline.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
@@ -116,8 +116,8 @@
    "cat": "politics",
    "date": "2026-10-23",
    "title": "Andrew Can Be Called to Give Evidence in High Court Fraud Trial",
-   "sum": "The High Court trial is centered around allegations of fraud made by a wealthy Turkish woman against her former adviser. Andrew's potential testimony may play a role in the proceedings.",
-   "more": "The BBC highlights the context of the trial, focusing on the accusations and the individuals involved. Other outlets may explore the implications of Andrew's testimony differently, potentially emphasizing his public persona or prior controversies. The framing around the legal proceedings and the parties involved varies, with some emphasizing the financial aspects of the allegations while others may focus on personal reputations.",
+   "sum": "The High Court trial concerns allegations of fraud by a wealthy Turkish woman against her former adviser. The court may summon Andrew to provide testimony.",
+   "more": "The BBC News highlights the potential of Andrew being called to give evidence, focusing on the fraud allegations and the parties involved. Other outlets may frame the story by emphasizing Andrew's previous royal status or the implications of his testimony on the trial. Some might also explore the broader context of legal proceedings surrounding public figures, while others may delve into the details of the fraud allegations themselves.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -131,8 +131,8 @@
    "cat": "politics",
    "date": "2026-10-24",
    "title": "France Prepares for Day of Protest Following Nationwide Riots",
-   "sum": "France is gearing up for a day of protests after recent nationwide riots. Authorities plan to deploy over 70,000 police officers to manage the situation.",
-   "more": "The emphasis on the deployment of police officers indicates a concern for public safety and maintaining order. This suggests that the French government is taking a proactive approach to prevent potential escalations during the protests. While BBC News reports on the preparations and police presence, other outlets may focus on the reasons behind the protests or the perspectives of the protestors, leading to different narratives about the situation.",
+   "sum": "More than 70,000 police officers are set to be deployed in France as the country anticipates a day of protests. Authorities are concerned that demonstrators may defy restrictions on public demonstrations.",
+   "more": "BBC News emphasizes the scale of police preparation amid fears of unrest. The framing suggests a serious concern about safety and order during the protests. Other outlets may focus on the motivations behind the protests or the public's response to police deployment, but this report primarily centers on the security aspect and the readiness of law enforcement.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -146,8 +146,8 @@
    "cat": "politics",
    "date": "2026-10-24",
    "title": "Australian MP's condition improves after alleged car attack",
-   "sum": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital. This indicates a positive trend in his health after the incident.",
-   "more": "Different outlets may highlight various aspects of the attack, including its alleged nature and the circumstances surrounding it. Some may focus on the response of the political community or implications for public safety, while others emphasize the medical aspects of the MP's recovery. Additionally, the coverage might vary in terms of the details provided regarding the attacker or the specific events leading up to the incident.",
+   "sum": "The Independent MP is reported to be in a serious but stable condition following an alleged car attack. Medical updates indicate gradual improvement.",
+   "more": "The BBC News emphasizes the improvement in the MP's condition, focusing on the positive development. There is no mention of potential motives or details about the alleged attack. The report refrains from speculating on the circumstances surrounding the incident, maintaining a neutral tone in its coverage.",
    "coverage": [
     {
      "outlet": "BBC News",
@@ -160,9 +160,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Israel orders closure of West Bank after soldiers kill 2 men",
-   "sum": "Israeli soldiers shot and killed two men who the military claimed were involved in an attack near Hebron in the West Bank on Friday morning. The incident also left at least five others injured, some critically.",
-   "more": "NPR emphasizes the closure order that follows the shooting, indicating it as a response to the alleged attack. Yahoo Entertainment, while reporting the same event, highlights the preparation for a full closure, suggesting a more extensive military response. Both outlets report the attack incident similarly, but differ slightly in the framing of the military's actions following the shooting.",
+   "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+   "sum": "Israeli soldiers shot and killed two men in the occupied West Bank, claiming they were behind a recent attack near Hebron. The incident also left at least five others injured, with some in critical condition.",
+   "more": "Both NPR and Yahoo Entertainment report on the closure of the West Bank ordered by Israel in response to the alleged attack. They agree on the details surrounding the shooting, including the claim from the military that the two men launched an attack and the number of people injured. However, Yahoo Entertainment emphasizes the army's preparation for a full closure, while NPR focuses on the immediate actions taken following the incident.",
    "coverage": [
     {
      "outlet": "NPR",
@@ -181,9 +181,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Sigma FP2 Introduced as Compact Full-Frame Camera",
-   "sum": "Sigma has unveiled the FP2 camera, which features significant upgrades over its predecessor. This follows the original FP's claim to be the world's smallest and lightest full-frame mirrorless camera.",
-   "more": "The announcement highlights improvements such as an enhanced sensor and a new articulating LCD display. Some outlets may focus more on the camera's size, while others emphasize specific technological advancements. Overall, the upgrades signify Sigma's commitment to refining its compact camera offerings.",
+   "title": "Sigma FP2 Introduced with Upgrades",
+   "sum": "Sigma has unveiled the FP2, a follow-up to its original compact full-frame camera. This new model boasts significant upgrades such as an improved sensor and an articulating LCD display.",
+   "more": "The Verge highlights the camera as a continuation of Sigma's claim to producing the smallest full-frame mirrorless camera available, underscoring its compact design. While they focus on the technical advancements, they also emphasize the product's heritage from the original Sigma fp. Other outlets may choose to focus more on consumer applications or the market implications of the new features rather than strictly on the upgrades themselves.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -196,9 +196,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Laika's Journey and Caleb Deschanel's Career Highlights",
-   "sum": "Laika has dedicated two decades to creating its animated feature Wildwood. Caleb Deschanel, a cinematographer with a long history in Hollywood, has contributed to numerous significant films.",
-   "more": "The Verge emphasizes Laika's lengthy development process for Wildwood, highlighting the studio's commitment to animation over the years. In contrast, it focuses on Caleb Deschanel's broad experience across a range of iconic films, suggesting a seasoned perspective in the industry. While both subjects relate to the film industry, the framing of Laika's efforts as a significant journey contrasts with the depiction of Deschanel's varied and accomplished career.",
+   "title": "Laika's Journey to Wildwood",
+   "sum": "Laika has dedicated 20 years to the development of their latest project, Wildwood. Cinematographer Caleb Deschanel has had a long career in Hollywood, contributing to numerous iconic films.",
+   "more": "The Verge highlights Laika's extensive history leading up to the release of Wildwood, emphasizing the studio's commitment over two decades. It also focuses on Deschanel's diverse body of work, noting his experience on some of the film industry's most notable projects. While the emphasis is primarily on Laika's journey and Deschanel's career, other outlets may choose to focus on different aspects, such as the technological innovations used in Wildwood or the themes explored in the film.",
    "coverage": [
     {
      "outlet": "The Verge",
@@ -211,9 +211,9 @@
   {
    "cat": "crime",
    "date": "2026-10-23",
-   "title": "Melanoma Patients Show Promising Results from Personalized Vaccine Trial",
-   "sum": "A study on melanoma patients who received a vaccine tailored to their tumors has shown that 82% remain cancer-free after two years. The results were released early due to an apparent leak.",
-   "more": "While the trial results were seen as a significant advancement in cancer treatment, investors reacted negatively, leading to a drop in the stock prices of Merck and Moderna. This puzzling response contrasts with the positive outlook on patient outcomes highlighted in the study. The early disclosure of results may have contributed to the stock market\u2019s reaction, suggesting a disconnect between clinical success and investor confidence.",
+   "title": "Melanoma Vaccine Shows Promising Results for Patients",
+   "sum": "A recent study shows that 82% of melanoma patients who received a personalized vaccine are still cancer-free after two years. The trial results were released early due to a leak from Merck and Moderna.",
+   "more": "Gizmodo highlights the surprising market reaction to the positive trial results, noting that investors reacted by decreasing the stock prices of the companies involved. This points to a potential disconnect between the medical success of the vaccine and its perceived commercial value. Other outlets may focus more on the scientific implications or patient stories rather than the stock market response.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
@@ -227,8 +227,8 @@
    "cat": "crime",
    "date": "2026-10-23",
    "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
-   "sum": "The popular 'Terrifier' trilogy is set to return to theaters just in time for Halloween. Fans of the franchise can expect a frightful experience during the spooky season.",
-   "more": "Gizmodo emphasizes the connection between Art the Clown and the Halloween season, suggesting that while Christmas may be a preferred holiday for the character, he is equally at home during Halloween. This framing highlights the holiday's thematic relevance to the film series. There is no indication from other outlets in this snippet about specific screening locations or dates, leaving some details about the release schedule ambiguous.",
+   "sum": "The Terrifier trilogy is back in theaters just in time for Halloween. Art the Clown is a character that resonates with the spooky season.",
+   "more": "Gizmodo highlights the connection between the release and Halloween, indicating that the character's appeal is tied to the holiday. The emphasis is on Art the Clown's duality, suggesting he has a strong association with both Christmas and Halloween. Other outlets may focus more on audience reception or box office expectations for the trilogy's return, whereas Gizmodo specifically hones in on the thematic elements of the season.",
    "coverage": [
     {
      "outlet": "Gizmodo.com",
