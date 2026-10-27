@@ -1,0 +1,885 @@
+{
+ "date": "2026-10-25",
+ "updated": "Oct 27, 07:50 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-25",
+   "title": "MacBook Pro Max Sees Significant Price Drop Ahead of New Release",
+   "sum": "The MacBook Pro Max has reached its lowest price ever as Apple prepares to unveil a new MacBook next week. This discount marks a significant opportunity for potential buyers.",
+   "more": "With the announcement of a new model imminent, existing MacBook Pro Max models are being sold at steep discounts. Several outlets emphasize the strategic timing of this sale, as consumers might prefer to wait for the new release. Other reports highlight the increasing competition in the laptop market as a driving factor behind the pricing strategy.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+     "title_en": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+     "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-25",
+   "title": "Zen Browser as an Alternative to Arc",
+   "sum": "The Zen Browser is being presented as a suitable replacement for the discontinued Arc browser. Users who appreciated Arc's innovative design may find value in this new offering.",
+   "more": "The Verge emphasizes the disappointment among former Arc users and highlights Zen Browser as a fresh alternative. The article also mentions that Atlassian's acquisition of Arc led to a change in focus for the development team, transitioning towards a different product. This shift has left many users seeking a similar experience in Zen Browser. However, the urgency to find a new browser may vary among users, depending on their previous experience with Arc.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Zen Browser is the Arc replacement I was looking for",
+     "title_en": "Zen Browser is the Arc replacement I was looking for",
+     "url": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-25",
+   "title": "Major Companies Demand Crypto Platform Not to Tokenize Their Stocks",
+   "sum": "Several large companies, including Microsoft, McDonald's, and Verizon, have requested a crypto platform to refrain from tokenizing their stocks. This reflects the ongoing tension between cryptocurrency technologies and traditional corporate practices.",
+   "more": "The call from these companies underscores the importance of obtaining permissions even in 'permissionless' blockchain environments. While some see this as an evolving acknowledgment of the need for regulation, others might argue it stifles innovation within the crypto space. The framing around this issue varies, with some media outlets highlighting concern over financial integrity, while others focus on the implications for the future of tokenization and investment platforms.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Microsoft, McDonald\u2019s, Verizon, and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+     "title_en": "Microsoft, McDonald's, Verizon, and Others Tell Crypto Platform Not to Tokenize Their Stocks",
+     "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-25",
+   "title": "Murder Investigation Launched Following Targeted Attack in Leeds",
+   "sum": "A murder investigation is underway after a 38-year-old man was killed in a targeted assault. The incident involved a group of armed individuals.",
+   "more": "Police are currently investigating the circumstances surrounding the attack, emphasizing that it appears to have been premeditated. The authorities have not released further details about the identity of the victim or the suspects involved. Local residents have been urged to provide any information they may have regarding the incident. The severity of the attack highlights ongoing concerns about violence in the area.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Murder probe after man dies in 'targeted' attack",
+     "title_en": "Murder investigation after man dies in 'targeted' attack",
+     "url": "https://www.bbc.co.uk/news/articles/cmly09kzpe5xo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-25",
+   "title": "Suspect in Paris Suburb Shooting Under Psychiatric Observation",
+   "sum": "The suspect involved in a deadly shooting in a Paris suburb has been sent for psychiatric observation. Authorities aim to assess if his mental health is suitable for interrogation.",
+   "more": "The decision for psychiatric evaluation is part of the legal process to determine how the suspect can be interrogated. This move indicates concerns about the suspect's mental state, which could impact legal proceedings. Other outlets may focus more on the implications of his mental health for accountability, while some might emphasize the broader context of violence in the area.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+     "title_en": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Venezuelan Opposition Leader Mar\u00eda Corina Machado Returns from Exile",
+   "sum": "Mar\u00eda Corina Machado, a prominent Venezuelan opposition leader, has returned to Venezuela after being in exile for over ten months. She announced her arrival on social media, affirming her presence alongside supporters.",
+   "more": "Both NPR and CNN report on her return, with emphasis on her announcement and the circumstances of her arrival. NPR highlights her message of solidarity, while CNN provides visual coverage of her arrival at a church in Barquisimeto. The framing focuses on her status as an opposition leader and the significance of her return to Venezuelan politics.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+     "title_en": "Venezuelan opposition leader Mar\u00eda Corina Machado returns after months in exile.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Venezuelan opposition leader returns after 10 months in exile",
+     "title_en": "Venezuelan opposition leader returns after 10 months in exile.",
+     "url": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Independent Candidates Gain Attention in the West as Democrats Seek Senate Gains",
+   "sum": "Independent candidates in states like Nebraska and Montana are viewed as potential allies for Democrats aiming to win Senate seats. The Democrats are optimistic that these independents can help them challenge Republican dominance in the region.",
+   "more": "The article highlights the strategic importance of independent candidates for Democrats in traditionally conservative areas. It suggests that the success of these candidates may influence the overall electoral landscape in the West. The framing emphasizes both the hopefulness of the Democratic Party and the challenges they face in a region where their brand may not resonate well.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+     "title_en": "Independent candidates sense a moment in the West.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Democrats See Opportunity in Arkansas Amid Competitive Midterms",
+   "sum": "Democrats are recognizing a potential opening in Arkansas as midterm elections approach. Republicans have invested significant resources to protect their standing in this traditionally conservative state.",
+   "more": "The article highlights the changing dynamics in Arkansas, where the political environment may provide an opportunity for Democrats. Republicans' heavy spending suggests they are concerned about maintaining control in a state typically dominated by their party. This could indicate shifts in voter sentiment and the competitiveness of the upcoming elections.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+     "title_en": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Increasing Use of Paid Family Leave by Fathers in the U.S.",
+   "sum": "More fathers in the U.S. are taking paid family leave for the arrival of a new baby, with some utilizing the benefit as much as mothers. This shift occurs against a backdrop of rising concerns about the affordability of having children.",
+   "more": "While the U.S. lacks a national law for paid parental leave, states that offer such benefits have seen an increase in uptake among fathers. This trend reflects changing attitudes toward parental roles and responsibilities, with more dads engaging in child-rearing from the outset. Additionally, many Americans are expressing worries about the financial implications of starting a family, perhaps motivating this change in leave usage. NPR highlights the growing acceptance and use of parental leave by dads, especially in states where it is available.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+     "title_en": "More dads taking paid family leave for a new baby, sometimes as much as moms.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Oregon Ranchers Struggle Amid Drought and High Diesel Prices",
+   "sum": "Oregon ranchers are facing significant challenges due to the combined effects of drought and record-high diesel prices. These conditions are leading to increased costs for purchasing hay and hiring trucking services.",
+   "more": "The drought has made it necessary for ranchers to buy more hay, which is becoming increasingly expensive to transport due to rising diesel costs. The situation is exacerbated for those already struggling financially, as the price hikes in fuel add to their burdens. Different outlets may frame the economic struggles of the ranchers in terms of impact on livestock health or sustainability of ranching, highlighting varying aspects of their plight.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+     "title_en": "Drought and Fire Compound Challenges for Oregon Ranchers",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Israel's Crucial Upcoming Election",
+   "sum": "Israel is preparing for a significant election that could have wide-ranging implications for the country. The campaign features prominent figures like Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot.",
+   "more": "This election is being characterized as one of the most important in years, with key issues affecting the future of Israeli politics. Different news outlets may emphasize various aspects of the candidates' platforms and their potential impact on Israeli society. Observers are noting the heightened stakes and the potential for changes in government leadership, with varying opinions on the implications of these changes.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "What's at stake as Israel holds its most important election in years",
+     "title_en": "What's at stake as Israel holds its most important election in years",
+     "url": "https://www.cnn.com/2026/10/25/middleeast/israel-election-2026-whats-at-stake-intl",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Impact of Conservative Supreme Court on Upcoming Midterm Elections",
+   "sum": "The upcoming midterm elections are set to be influenced by decisions made by the conservative Supreme Court. Demonstrations are occurring in support of minority voting rights.",
+   "more": "The article discusses the significant role the Supreme Court has played in shaping electoral policies that could affect voting rights. Various groups are mobilizing to advocate for minority voting access, arguing that recent judicial decisions threaten those rights. The framing differs among news outlets, with some focusing on the potential for voter suppression and others emphasizing the legal arguments behind the court's rulings.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "How the conservative Supreme Court has reshaped this year's midterms",
+     "title_en": "How the conservative Supreme Court has reshaped this year's midterms",
+     "url": "https://www.cnn.com/2026/10/25/politics/supreme-court-midterm-rules",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Economic Pressures Could Shift Midwestern States in Midterm Elections",
+   "sum": "Democrats may have a chance to gain ground in the Midwest due to rising economic concerns. This shift is highlighted by events such as a rally for Democratic Senate candidate Abdul El-Sayed in Detroit.",
+   "more": "The political atmosphere in the Midwest is becoming increasingly favorable for Democrats as voters express dissatisfaction over economic pressures. Specific issues related to high costs of living are igniting political engagement, suggesting a potential revival for the party. However, opinions may vary on the extent to which these sentiments will translate into electoral success, with some analysts remaining cautious about premature conclusions.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "Economic pressures put new Midwestern states in play for the midterms",
+     "title_en": "Economic pressures put new Midwestern states in play for the midterms.",
+     "url": "https://www.cnn.com/2026/10/25/politics/midwest-midterm-elections-michigan-ohio-iowa",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-25",
+   "title": "Fake Social Security Phishing Email Exposed",
+   "sum": "A phishing email disguised as a Social Security statement has been identified. The email utilizes the SSA logo and a professional layout, though the sender's domain reveals it as a scam.",
+   "more": "This incident highlights the ongoing challenge of phishing attempts targeting sensitive personal information. Although the email appears legitimate at first glance, careful scrutiny of the sender's domain can help individuals protect themselves from falling victim. It serves as a reminder to remain vigilant against such fraudulent communications, especially those that impersonate government agencies.",
+   "coverage": [
+    {
+     "outlet": "Fox News",
+     "title": "Fake Social Security statement email hides a scam",
+     "title_en": "Fake Social Security statement email hides a scam",
+     "url": "https://www.foxnews.com/tech/fake-social-security-statement-email-hides-scam",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-25",
+   "title": "Man Arrested for Sexual Assault During Madrid Housing Protests",
+   "sum": "A 26-year-old man has been arrested for allegedly sexually assaulting a young woman at the Puerta del Sol campsite. The incident occurred amid protests concerning the housing crisis in Madrid.",
+   "more": "The protests have been marked by increasing tensions and violence, with this assault highlighting the risks associated with large-scale demonstrations. Several outlets report on the incident, emphasizing the urgent need for safety measures during such events. While some focus on the specific nature of the assault, others discuss broader implications related to the protest efforts and the housing crisis.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Detuvieron a un hombre de 26 a\u00f1os acusado de agredir sexualmente a una joven en el acampe de la Puerta del Sol",
+     "title_en": "A man of 26 years was arrested for sexually assaulting a young woman at the Puerta del Sol campsite.",
+     "url": "https://www.lanacion.com.ar/el-mundo/detuvieron-a-un-hombre-de-26-anos-acusado-de-agredir-sexualmente-a-una-joven-en-el-acampe-de-la-nid25102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-25",
+   "title": "Mar\u00eda Corina Machado Announces Return to Venezuela",
+   "sum": "Opposition leader Mar\u00eda Corina Machado has returned to Venezuela after nearly 10 months abroad. She expressed her presence and solidarity with the people.",
+   "more": "This marks a significant moment for Machado, who has faced challenges in her political career. Her return comes after several attempts to enter the country, highlighting her commitment to her cause. Different outlets may frame her return as a pivotal moment for the opposition in Venezuela, emphasizing the potential impact on the political landscape.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Mar\u00eda Corina Machado anunci\u00f3 que regres\u00f3 a Venezuela: \u201cEstoy aqu\u00ed, con ustedes\u201d",
+     "title_en": "Mar\u00eda Corina Machado announced her return to Venezuela: 'I am here, with you.'",
+     "url": "https://www.lanacion.com.ar/el-mundo/maria-corina-machado-anuncio-que-regreso-a-venezuela-estoy-aqui-con-ustedes-nid25102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-25",
+   "title": "Dismantling of Protest Camp Begins in Madrid",
+   "sum": "The disarmament of the protest camp at Puerta del Sol has started, a month after the protests regarding the eviction of Maricarmen in Madrid. The aim is to minimize disturbances to local businesses.",
+   "more": "The organization of the demonstrators is in discussions about how to approach the complete dismantling process. Different outlets may frame the situation based on the perspectives of the protesters versus the local businesses affected. Some may highlight the intentions of the protesters to minimize disruption, while others could focus on the necessity of ensuring order in the area.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Comenz\u00f3 el desarme del acampe en la Puerta del Sol, a un mes de las protestas por el desalojo de Maricarmen en Madrid",
+     "title_en": "Dismantling of protest camp begins at Puerta del Sol, Madrid",
+     "url": "https://www.lanacion.com.ar/el-mundo/comenzo-el-desarme-del-acampe-en-la-puerta-del-sol-a-un-mes-de-las-protestas-por-el-desalojo-de-nid25102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-25",
+   "title": "Garc\u00eda Ruminot Acknowledges Errors in Security Reform and Urges Right-Wing Unity for Upcoming Elections",
+   "sum": "The Minister of Segpres recognized that the government failed to adequately explain its security reform proposal. He expressed hope for receiving the necessary votes for its approval.",
+   "more": "Additionally, he admitted that the economic year has been more challenging than anticipated. Ruminot emphasized the need for the right to present a united front in the next elections. This acknowledgment may indicate a shift in the government's strategy as it seeks to navigate political pressures and electoral challenges.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Garc\u00eda Ruminot reconoce errores en reforma de seguridad y llama a la derecha a competir unida en pr\u00f3ximas elecciones",
+     "title_en": "Garc\u00eda Ruminot Acknowledges Errors in Security Reform and Urges Right-Wing Unity for Upcoming Elections",
+     "url": "https://www.latercera.com/politica/noticia/garcia-ruminot-reconoce-errores-en-reforma-de-seguridad-y-llama-a-la-derecha-a-competir-unida-en-proximas-elecciones/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-25",
+   "title": "Fl\u00e1vio Bolsonaro Calls for Real Change in Brazil's Presidential Runoff",
+   "sum": "Fl\u00e1vio Bolsonaro voted in Rio de Janeiro and advocated for significant change in Brazil during the presidential runoff. He expressed that the country requires a new direction away from the current government.",
+   "more": "After casting his vote, Bolsonaro emphasized the need for a shift in leadership as he competes against Luiz In\u00e1cio Lula da Silva. His call for change suggests a deep dissatisfaction with the current administration. The framing of this event across different outlets may focus on the broader implications of his statements for Brazilian politics.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Fl\u00e1vio Bolsonaro vota en R\u00edo de Janeiro y llama a un \u201ccambio real\u201d en segunda vuelta presidencial de Brasil",
+     "title_en": "Fl\u00e1vio Bolsonaro votes in Rio de Janeiro and calls for real change in Brazil's presidential runoff.",
+     "url": "https://www.latercera.com/mundo/noticia/flavio-bolsonaro-vota-en-rio-de-janeiro-y-llama-a-un-cambio-real-en-segunda-vuelta-presidencial-de-brasil/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-25",
+   "title": "Funding Increase for Initiative to Help Homeless by Christmas",
+   "sum": "A funding boost is expected to double the financial resources for a plan aimed at getting rough sleepers off the streets by Christmas. The initiative was one of the first pledges made by Burnham upon his arrival at Downing Street in July.",
+   "more": "This increase in funding highlights the government's commitment to addressing homelessness as a priority issue. Different media outlets may emphasize varying aspects of the plan, such as the urgency of the situation or the effectiveness of previous initiatives. Some may also focus on the political implications of making homelessness a prominent issue for Burnham's administration.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+     "title_en": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+     "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-25",
+   "title": "Could a Major Part of Brexit Be Reversed?",
+   "sum": "The BBC explores the possibility of reversing significant aspects of Brexit. The discussion highlights ongoing debates surrounding the implications of such a reversal.",
+   "more": "The episode considers the varying opinions on Brexit among political figures and the public. It addresses the potential consequences and benefits of reversing certain decisions made during the Brexit process. Different outlets may present contrasting views on whether such a reversal would be feasible or beneficial to the UK.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Could A Major Part Of Brexit Be Reversed?",
+     "title_en": "Could a Major Part of Brexit Be Reversed?",
+     "url": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_medium=display_ad&amp;at_ptr_name=bbc&amp;at_objective=consumption",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-25",
+   "title": "Meghan Markle Severed Ties with Father Over Abuse Allegations",
+   "sum": "Meghan Markle ended communication with her father after citing abuse claims. A source close to her revealed that she warned him he would never see his grandchildren.",
+   "more": "This situation highlights the strained familial relationships within the royal family. The use of the term 'abuse claims' indicates serious allegations that may have influenced Meghan's decision significantly. Different sources may frame Meghan as a protective mother or emphasize the tragic nature of a father-daughter relationship falling apart.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Meghan broke contact with father in letter citing abuse claims",
+     "title_en": "Meghan broke contact with father in letter citing abuse claims",
+     "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-25",
+   "title": "Protests Erupt in France Amid Security Concerns",
+   "sum": "Fresh clashes occurred in France as protesters marched through the streets. This follows previous violent demonstrations that have led to a strong response from President Emmanuel Macron.",
+   "more": "The protests have provoked a significant reaction from the French government, as President Macron seeks to manage the unrest and restore public order. Security measures have intensified following the recent violence, highlighting a growing concern over public safety. Different outlets may emphasize the government's response or the protesters' motivations, but all acknowledge the escalating tensions.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Fresh clashes rock France as protesters march on",
+     "title_en": "Fresh clashes rock France as protesters march on",
+     "url": "https://www.thedailystar.net/news/world/news/fresh-clashes-rock-france-protesters-march-4306821",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Thousands Protest in Prague Against Media Funding Reforms",
+   "sum": "Thousands of demonstrators gathered in Prague to oppose proposed reforms to public media funding. They claim these reforms, advocated by Prime Minister Andrej Babis and his coalition, threaten press freedom.",
+   "more": "The protests center around concerns that changes to media funding could undermine the independence of public broadcasting. The demonstrators expressed fears that the government's influence over media could grow if the funding reform is implemented. Al Jazeera highlights the potential repercussions on press freedom, while emphasizing the scale of public opposition to the proposals.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands protest in Prague against public media funding reforms",
+     "title_en": "Thousands protest in Prague against public media funding reforms.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Bulgaria Election Advances to Run-Off Due to Low Voter Turnout",
+   "sum": "Bulgaria's election is set to proceed to a run-off after a low level of voter participation. The final decision will be made between current President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov.",
+   "more": "The low voter turnout suggests possible voter apathy or dissatisfaction with the candidates. This run-off reflects a competitive political landscape, yet the lack of engagement may raise concerns about the democratic process in Bulgaria. Different outlets might emphasize the implications of such low participation rates on future elections or the significance of the candidates' policies.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Bulgaria election heads to a run-off amid low voter turnout",
+     "title_en": "Bulgaria election heads to a run-off amid low voter turnout",
+     "url": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Bulgarians Vote for President Amid Ukraine War Concerns",
+   "sum": "Bulgarian citizens are participating in a presidential election influenced by Russia's ongoing conflict in Ukraine. The main candidates have differing views on the situation despite both condemning recent drone strikes in the Black Sea.",
+   "more": "The election highlights the varying perspectives on the Ukraine war among the candidates. While both candidates are critical of the drone strikes, they diverge in their overall stance regarding the conflict. This divergence reflects broader societal debates in Bulgaria about the country's position on the war and its ties to Russia.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Bulgarians vote for president in shadow of Russia\u2019s war in Ukraine",
+     "title_en": "Bulgarians vote for president in shadow of Russia\u2019s war in Ukraine.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Serbia's Election: Student Movement Challenges Longtime Leader",
+   "sum": "Serbia recently held elections where longtime leader Aleksandar Vucic faced significant challenges from a student-led anti-corruption movement. The elections were marked by high voter turnout and culminated in a major victory for the student-backed faction.",
+   "more": "The electoral outcome was seen as historic, with celebrations breaking out in Belgrade following the victory of the student-backed movement. This election is viewed as pivotal in determining the future of governance in Serbia amid growing discontent with Vucic's leadership. Various media outlets highlight the significance of the student-led challenge to the established political order, with differing emphasis on the implications of the election results for anti-corruption efforts.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Serbia votes in election pitting longtime leader against student movement",
+     "title_en": "Serbia votes in election pitting longtime leader against student movement.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Portuguese Police Clear Lisbon Housing Protest Camp, Arrest 25",
+   "sum": "Portuguese police have dismantled a housing protest camp in Lisbon, resulting in the arrest of 25 individuals. The operation included officers using batons against demonstrators as activists called for government intervention in the housing crisis.",
+   "more": "The raid on the protest camp occurred overnight and was met with significant resistance from the activists. Reports indicate that tensions escalated quickly, with police employing forceful measures to disperse crowds. Different outlets may highlight the aggressive tactics used by police or emphasize the protests' demands for government action, showcasing varying perspectives on the incident.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+     "title_en": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+     "url": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Israel's Election Campaign Intensifies with Online Warfare",
+   "sum": "As Israel approaches its elections, both Prime Minister Netanyahu and his opponents are engaged in an online battle utilizing bots, deepfakes, and surveillance. The competition is tight, and both sides are leveraging digital strategies to influence voters.",
+   "more": "The article highlights the increasing reliance on technology in political campaigns, illustrating how both camps are strategically deploying tactics like misinformation and digital manipulation to sway public opinion. It notes the potential implications of such tactics on democratic processes and the integrity of the elections. The framing emphasizes the challenges posed by modern technology in maintaining a fair electoral environment, with specific attention to how these tactics may exacerbate existing political divisions.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Bots, deepfakes and surveillance: Israel\u2019s election goes to war online",
+     "title_en": "Bots, deepfakes and surveillance: Israel\u2019s election goes to war online",
+     "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Israel's Influence in Cyprus: Economic Concerns Among Citizens",
+   "sum": "Cypriots express concerns about the rapid influx of Israeli investments, feeling excluded from the benefits. The Cypriot government is fostering closer ties with Israel.",
+   "more": "Some citizens feel that the increasing Israeli presence is overshadowing local interests and impacting the property market. This situation raises questions about the implications of such foreign investments on national identity and local economies. Different outlets may emphasize various aspects of this relationship, with some focusing more on economic impacts while others highlight political ramifications.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Election posters, mass tourism and property: Israel\u2019s footprint in Cyprus",
+     "title_en": "Election posters, mass tourism and property: Israel\u2019s footprint in Cyprus",
+     "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-25",
+   "title": "Serbia Sees Highest Voter Turnout in Decades Amid Allegations of Irregularities",
+   "sum": "The voter turnout in Serbia has reached 65%, marking the highest level in decades. This comes as students and other groups oppose the longstanding leadership amidst reports of intimidation and violence.",
+   "more": "Various reports indicate that the elections have been marred by allegations of voting irregularities and intimidation tactics aimed at voters. The context of high turnout contrasts with such challenges, highlighting the intense public interest and dissent against the ruling party. Different outlets emphasize the student activism that has become a significant part of the protest against the leadership, noting how this demographic is particularly energized in the political landscape.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+     "title_en": "Serbia voter turnout highest in decades as students oppose longtime leader",
+     "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-25",
+   "title": "Suspect in Paris Suburb Shooting Undergoes Psychiatric Evaluation",
+   "sum": "The suspect involved in a fatal shooting in a Paris suburb has been sent for psychiatric observation. Authorities aim to determine if his mental health allows for continued interrogation.",
+   "more": "The decision for psychiatric evaluation comes amid concerns about the suspect's mental state and its relevance to the investigation. This procedure will help authorities understand whether the suspect can participate in the interrogation process effectively. Different outlets may emphasize the importance of mental health assessments in the legal process, while others might focus on the implications for the ongoing investigation.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+     "title_en": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+     "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-25",
+   "title": "Israel's Critical General Election Approaches",
+   "sum": "Israel is set to hold a significant general election that could impact the country's political landscape. The election features key figures such as Prime Minister Benjamin Netanyahu and his opposition rival Gadi Eisenkot.",
+   "more": "The election is seen as a pivotal moment for Israel, with various stakeholders analyzing how the outcome will shape future policies. Different news outlets highlight the implications of Netanyahu's long-standing leadership versus the potential change represented by Eisenkot. While some sources emphasize the stakes involved in terms of governance, others focus on voter sentiment and turnout leading up to the election.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "What's at stake as Israel holds its most important election in years",
+     "title_en": "What\u2019s at stake as Israel holds its most important election in years",
+     "url": "https://www.cnn.com/2026/10/25/middleeast/israel-election-2026-whats-at-stake-intl",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Venezuela's Opposition Leader Maria Corina Machado Returns from Exile",
+   "sum": "Maria Corina Machado, Venezuela's opposition leader, has returned after months in exile. She announced her arrival on social media, emphasizing her commitment to the people.",
+   "more": "Machado's return coincides with ongoing national protests demanding free elections in Venezuela. The framing by Al Jazeera highlights her status as a Nobel laureate, underscoring the significance of her homecoming amid a political crisis. NPR focuses on her direct engagement with supporters through social media, suggesting a grassroots connection. Overall, both outlets emphasize her return as a pivotal moment in the opposition's efforts against the current government.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+     "title_en": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Venezuela\u2019s opposition leader Maria Corina Machado returns from exile",
+     "title_en": "Venezuela\u2019s opposition leader Maria Corina Machado returns from exile.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Protests in Europe Raise Concerns and Opportunities for Change",
+   "sum": "Protests across Europe are prompting discussions about their potential impact. Observers note that such movements can lead to significant political shifts.",
+   "more": "While Al Jazeera focuses on the possibility of protests leading to change, Slate Magazine presents a more cautionary perspective, suggesting that riots may ultimately benefit the political right in America. This framing indicates a divergence in outlook on the efficacy and implications of protest movements. Al Jazeera emphasizes public demand for action, whereas Slate warns of potential negative consequences in the political landscape.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Can protests in Europe bring about change?",
+     "title_en": "Can protests in Europe bring about change?",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Slate Magazine",
+     "title": "France\u2019s Protests Are a Warning for America",
+     "title_en": "France\u2019s Protests Are a Warning for America",
+     "url": "https://slate.com/news-and-politics/2026/10/france-riots-protests-violence-politics-fascism-right-wing.html",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Madrid Government Delegate Resigns After Exclusion from PSOE Election Lists",
+   "sum": "Francisco Mart\u00edn Aguirre has resigned from his position as the Government Delegate in Madrid. His resignation follows his exclusion from the PSOE lists for the upcoming elections.",
+   "more": "Aguirre expressed that the conditions were not suitable for him to continue in his role. He had been serving since 2023. Different outlets noted that the timing of his resignation coincided with the official announcement of the lists, which may highlight the competitive and strategic nature of current political dynamics within the PSOE.",
+   "coverage": [
+    {
+     "outlet": "Eldiario.es",
+     "title": "Dimite el delegado del Gobierno en Madrid tras quedarse fuera de las listas del PSOE para las elecciones",
+     "title_en": "Government Delegate in Madrid Resigns After Being Excluded from PSOE Lists for Elections",
+     "url": "https://www.eldiario.es/madrid/dimite-delegado-gobierno-madrid-quedarse-fuera-listas-psoe-elecciones_1_13613892.html",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Huffingtonpost.es",
+     "title": "Francisco Mart\u00edn dimite como delegado del Gobierno en Madrid tras quedarse fuera de las listas del 29-N",
+     "title_en": "Francisco Mart\u00edn Resigns as Government Delegate in Madrid After Exclusion from 29-N Lists",
+     "url": "https://www.huffingtonpost.es/politica/francisco-martin-dimite-delegado-gobierno-madrid-quedarse-fuera-listas-29n-f202610.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Serbia's Vucic Concedes Defeat in Snap Election",
+   "sum": "Aleksandar Vucic, who has been a dominant figure in Serbian politics for over 14 years, has conceded defeat in a recent snap parliamentary election. His loss marks a significant shift in the political landscape of Serbia.",
+   "more": "Vucic's political journey began under the shadow of the controversial Slobodan Milosevic, and he has been a persistent campaigner throughout his tenure. This election results reflect a change driven by a student-led movement, suggesting a growing desire for political change among the populace. The implications of this election may indicate a shift in the Serbian political landscape, with potential impacts on future governance. Various news outlets may frame the story differently, focusing either on the implications for Vucic's political legacy or the rise of new political forces in Serbia.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Serbia's veteran ruler concedes defeat to student-led movement in snap election",
+     "title_en": "Serbia's veteran ruler concedes defeat to student-led movement in snap election",
+     "url": "https://www.yahoo.com/news/politics/articles/aleksandar-vucic-serbias-veteran-ruler-212043564.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Impact of Conservative Supreme Court on Midterm Elections",
+   "sum": "The conservative Supreme Court has influenced the upcoming midterm elections in significant ways. Voter support for minority voting rights has been highlighted amid the ongoing political climate.",
+   "more": "Demonstrations have occurred outside the US Supreme Court, emphasizing the importance of minority voting rights as voters prepare for the elections. Various outlets may frame the Court's impact differently, focusing either on legal precedents or the broader implications for voter turnout and rights. The polarizing nature of the Court's decisions continues to shape public opinion as the election approaches.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "How the conservative Supreme Court has reshaped this year's midterms",
+     "title_en": "How the conservative Supreme Court has reshaped this year's midterms",
+     "url": "https://www.cnn.com/2026/10/25/politics/supreme-court-midterm-rules",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Political Upstarts Could Influence Israel's Election",
+   "sum": "Voters in Israel, disillusioned with the polarized political climate of the Netanyahu era, are seeking new alternatives. This growing desire for change may empower emerging political figures.",
+   "more": "The New Yorker discusses how the current political landscape has led to a rise in independent candidates and new political movements. There is notable concern among traditional party lines as voters express their frustration with the status quo. Such sentiments might significantly alter the election outcomes, as these upstarts gather support from those disenchanted with established parties.",
+   "coverage": [
+    {
+     "outlet": "The New Yorker",
+     "title": "The Political Upstarts That May Decide Israel\u2019s Election",
+     "title_en": "The Political Upstarts That May Decide Israel\u2019s Election",
+     "url": "https://www.newyorker.com/news/the-lede/the-political-upstarts-that-may-decide-israels-election",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Meta Accused of Bias in Brazil's Election Process",
+   "sum": "Meta is reportedly ignoring a Brazilian court order to stop favoring former President Bolsonaro in social media content. Evidence was submitted to Brazil\u2019s Superior Electoral Court indicating that Meta's AI continues to associate Lula with negative content.",
+   "more": "The evidence presented by organizations such as Sleeping Giants and CTRL-Z suggests ongoing issues with how Meta's algorithms handle political content in Brazil. This situation highlights concerns regarding social media platforms' influence on elections and their compliance with legal directives. Different news outlets may emphasize the implications of corporate power in political processes, while others might focus on the legal ramifications of Meta's actions.",
+   "coverage": [
+    {
+     "outlet": "Panamericandispatch.org",
+     "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+     "title_en": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+     "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Republicans' Midterm Campaigns: An Analysis",
+   "sum": "The Republican Party has faced significant challenges in its midterm campaigns, particularly with issues such as the Iran war and economic concerns. Despite these difficulties, some believe the Republicans might still find a path to success in future elections.",
+   "more": "The New Yorker discusses various factors affecting the Republican campaigns, including foreign relations and controversial advertising strategies, highlighting a particularly offensive ad by Vivek Ramaswamy. In contrast, American Thinker offers a more optimistic view, suggesting that the Republicans could defy historical trends and hinting at a favorable outlook for the 2028 elections, regardless of the midterm results. This contrasting framing emphasizes the divide in perspectives regarding the immediate and long-term futures of the Republican Party.",
+   "coverage": [
+    {
+     "outlet": "The New Yorker",
+     "title": "The Republicans\u2019 Remarkably Bad Midterm Campaigns",
+     "title_en": "The Republicans\u2019 Remarkably Bad Midterm Campaigns",
+     "url": "https://www.newyorker.com/magazine/2026/11/02/the-republicans-remarkably-bad-midterm-campaigns",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Americanthinker.com",
+     "title": "Can Republicans Defy Midterm History?",
+     "title_en": "Can Republicans Defy Midterm History?",
+     "url": "https://www.americanthinker.com/articles/2026/10/can-republicans-defy-midterm-history/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "US Attorney General Defends Lawsuit Over Alaska Senate Election",
+   "sum": "US Attorney General Todd Blanche is defending a lawsuit concerning the Alaska Senate election, which faces criticism for potentially obstructing a Democratic victory. The legality and motives behind the lawsuit are being questioned.",
+   "more": "Different outlets highlight contrasting perspectives on the lawsuit. Al Jazeera emphasizes the criticisms aimed at the Department of Justice, suggesting that the lawsuit may be politically motivated. In contrast, Crooksandliars.com frames the actions as part of a broader strategy of election interference by Trump, portraying Blanche as a supporter of this agenda. This reflects a polarization in how the events are interpreted depending on the source.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+     "title_en": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit.",
+     "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Crooksandliars.com",
+     "title": "Trump DOJ Is Trying To Pre-Steal Alaska Senate Election",
+     "title_en": "Trump DOJ Is Trying To Pre-Steal Alaska Senate Election.",
+     "url": "https://crooksandliars.com/2026/10/trump-doj-trying-pre-steal-alaska-senate",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Todd Blanche Defends Trump Amid Speculation on Alaska Lawsuit",
+   "sum": "Todd Blanche confronted Dana Bash during a CNN segment regarding her suggestions that Trump's election lawsuit in Alaska could incite a January 6-style riot. He expressed frustration at her speculation.",
+   "more": "Blanche's comments highlighted his dismissal of Bash's concerns, insisting that her take was not grounded in reality. He urged her to be more genuine in her reporting. The framing of the incident varies slightly between outlets, with some emphasizing Blanche's strong response while others focus more on Bash's questioning.",
+   "coverage": [
+    {
+     "outlet": "The Daily Caller",
+     "title": "\u2018Oh, Stop It!\u2019: Todd Blanche Cuts Off Dana Bash\u2019s Speculating How Trump\u2019s Alaska Election Lawsuit Could Lead To Another Jan 6",
+     "title_en": "'Oh, Stop It!': Todd Blanche Cuts Off Dana Bash\u2019s Speculating How Trump\u2019s Alaska Election Lawsuit Could Lead To Another Jan 6",
+     "url": "https://dailycaller.com/2026/10/25/todd-blanche-rebukes-cnn-state-union-dana-bash-justice-department-lawsuit-alaska-election-dan-sullivan-january-6",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Wnd.com",
+     "title": "\u2018Oh, stop it!\u2019 Watch Todd Blanche spank Dana Bash for speculating Trump\u2019s election lawsuit could lead to another Jan. 6",
+     "title_en": "'Oh, stop it!' Watch Todd Blanche spank Dana Bash for speculating Trump\u2019s election lawsuit could lead to another Jan. 6",
+     "url": "https://www.wnd.com/2026/10/oh-stop-it-watch-todd-blanche-spank-dana/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Impact of Midterm Elections on Data Center Construction",
+   "sum": "Data centers have become a significant issue in the current midterm election cycle in the U.S., as candidates for Congress focus on them in their campaigns. Local and state officials hold more influence over the construction and energy use of these facilities than federal authorities.",
+   "more": "The emphasis on data centers reflects a growing concern about their impact on the economy and energy consumption. Candidates are leveraging this issue to appeal to voters who are increasingly aware of the implications of data infrastructure in their communities. While national conversations revolve around broader economic policies, the local implications of data center construction and regulation are becoming more prominent in political debates.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "The midterm races that could matter most to the U.S. economy aren't in Washington",
+     "title_en": "The midterm races that could matter most to the U.S. economy aren't in Washington.",
+     "url": "https://finance.yahoo.com/economy/articles/forget-house-senate-economy-may-224814398.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Economic Pressures Affect Midwestern States in Midterm Elections",
+   "sum": "Democrats may experience a resurgence in the Midwest amid rising economic concerns. The political landscape appears to be shifting as voters express dissatisfaction with high costs.",
+   "more": "The article discusses how economic challenges, particularly high costs of living, could influence voter sentiment in the Midwest. Democrats are seen as potentially capitalizing on these pressures to gain traction in the upcoming midterm elections. Various media outlets may highlight the broader implications of these shifts, emphasizing the changing dynamics in traditionally conservative areas. This framing suggests an evolving political landscape that may not align with previous expectations.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "Economic pressures put new Midwestern states in play for the midterms",
+     "title_en": "Economic pressures put new Midwestern states in play for the midterms",
+     "url": "https://www.cnn.com/2026/10/25/politics/midwest-midterm-elections-michigan-ohio-iowa",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Federal Appeals Court Questions Basis for Blocking California Ballots",
+   "sum": "A federal appeals court conducted a rare Sunday hearing regarding the Trump administration's request to block 20,000 ballots in California. The judge, appointed by President Trump, raised questions about the legitimacy of the request.",
+   "more": "The hearing highlights the ongoing legal battles over voting rights and election integrity in the United States. The judge's inquiries suggest skepticism about the federal government's rationale for seeking the injunction. This situation has led to differing interpretations among various media outlets about the implications for the election process in California.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
+     "title_en": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
+     "url": "https://www.yahoo.com/news/politics/articles/9th-circuit-panel-questions-basis-225404439.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1040 @@
+{
+ "date": "2026-10-24",
+ "updated": "Oct 27, 07:50 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-24",
+   "title": "Browser Recommendations from The Verge",
+   "sum": "The Verge introduces Installer No. 149, highlighting the best options for web browsers. It aims to guide readers in finding suitable alternatives.",
+   "more": "The article encourages readers to explore new browser options, suggesting that the current choices may not suffice. The tone is friendly and inviting, making it suitable for both new and returning readers. It acknowledges the changing seasons, possibly linking the need for a fresh start in browser choice to seasonal changes. There is no contrasting outlet perspective presented in the text.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "It\u2019s time to find a new browser",
+     "title_en": "It's time to find a new browser.",
+     "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-24",
+   "title": "Knicks' Championship Ring Phishing Test Draws Criticism",
+   "sum": "The Knicks faced backlash for a phishing test related to their championship ring. Even some fans found the test to be inappropriate.",
+   "more": "The initiative, intended to enhance security awareness, was described by critics as 'tone deaf' given the team's recent history. A Knicks fan explicitly labeled it as 'nasty work,' highlighting how the attempt was perceived negatively among supporters. This criticism reflects a growing sensitivity to privacy and security issues within sports organizations. Overall, the response underscores the challenges of balancing humor and awareness in promotional efforts.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Knicks\u2019 \u2018Tone Deaf\u2019 Championship Ring Phishing Test Sparks Backlash",
+     "title_en": "Knicks\u2019 \u2018Tone Deaf\u2019 Championship Ring Phishing Test Sparks Backlash",
+     "url": "https://gizmodo.com/knicks-tone-deaf-championship-ring-phishing-test-sparks-backlash-2000829959",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-24",
+   "title": "OpenAI Creates Artificial Internet for AI Testing",
+   "sum": "OpenAI has developed a simulated internet environment for their artificial intelligence agents. This setup allows for safe and controlled testing without real-world implications.",
+   "more": "The creation of this artificial internet resembles the concept of the Truman Show, where AI agents can interact and learn without the consequences of the outer world. It serves as a controlled playground for AI development, enabling researchers to observe and understand behaviors in a secure setting. This initiative is part of OpenAI's efforts to advance AI capabilities while mitigating potential risks associated with deploying these systems in the real world.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
+     "title_en": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
+     "url": "https://gizmodo.com/openai-built-a-giant-fake-internet-for-its-agents-to-use-and-abuse-safely-2000830274",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-24",
+   "title": "Block Introduces AI Model with Human-Like Voices",
+   "sum": "Block has unveiled a new AI model named Dessa that generates remarkably human-like voices. The model is designed to create a convincing auditory experience.",
+   "more": "Gizmodo's coverage highlights the innovative technology behind Dessa, emphasizing its ability to produce voices that are strikingly realistic. The article suggests that users may find the voice so lifelike that they could easily mistake it for an actual human speaker. There is no indication of competing viewpoints or contrasting coverage from other outlets in this report.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Check Out the Many Uncanny, Human-ish Voices From Block\u2019s New AI Model",
+     "title_en": "Check Out the Many Uncanny, Human-ish Voices From Block's New AI Model",
+     "url": "https://gizmodo.com/check-out-the-many-uncanny-human-ish-voices-from-blocks-new-ai-model-2000830237",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-24",
+   "title": "Increase in Border Searches of Electronic Devices",
+   "sum": "Border searches of laptops and phones by U.S. authorities have seen a 32% increase this year. This trend indicates that travelers entering the U.S. are facing more frequent checks of their electronic devices.",
+   "more": "The surge in device searches reflects heightened security measures at the border. Various outlets highlight the implications for traveler privacy and the potential for data access by authorities. This trend may raise concerns among civil liberties groups regarding the extent of security practices and their impact on personal privacy.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "title_en": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "DOJ Orders California to Set Aside Ballots from Suspected Noncitizens",
+   "sum": "The Department of Justice is urging California to segregate ballots believed to be from noncitizens. State officials are resisting this request.",
+   "more": "The DOJ has identified approximately 20,000 mail-in ballots that it suspects may belong to noncitizens. Furthermore, it has cautioned state election officials that counting these ballots could lead to criminal charges. California officials are rejecting this directive, indicating a significant tension between state and federal authorities regarding voter eligibility. This disagreement reflects differing views on immigration and election integrity.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "title_en": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "url": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "DOJ wants California to set aside 20,000 voters' ballots. The state is refusing.",
+     "title_en": "DOJ wants California to set aside 20,000 voters' ballots. The state is refusing.",
+     "url": "https://www.yahoo.com/news/politics/article/doj-tells-california-counties-to-set-aside-ballots-from-suspected-noncitizens-heres-what-to-know-181004310.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "New Personalized mRNA Vaccine Shows Promise in Melanoma Treatment",
+   "sum": "A new mRNA vaccine has demonstrated the ability to reduce the risk of melanoma recurrence by over 40 percent. The vaccine is tailored to individual tumors, highlighting the potential of mRNA technology in cancer therapy.",
+   "more": "The results from the ongoing Phase 3 trial suggest a significant advancement in treatment options for melanoma patients. This development aligns with the growing interest in mRNA vaccines beyond COVID-19, as they are now being explored for various cancers. Different outlets may frame this innovation either as a groundbreaking step in cancer treatment or emphasize the need for further testing before widespread use.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+     "title_en": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+     "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "Increased Border Searches of Electronic Devices for Travelers to the U.S.",
+   "sum": "Border searches of laptops and phones for travelers entering the United States have increased by 32% this year. The trend is expected to continue as authorities ramp up inspections.",
+   "more": "The article highlights the growing number of electronic device searches at U.S. borders, indicating a significant rise in scrutiny of travelers' personal data. This increase raises concerns about privacy and the extent of government oversight. While the article focuses on the rising statistics, it does not delve into the implications for travelers' rights or the legal framework governing such searches.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "title_en": "Increased Border Searches of Electronic Devices for Travelers to the U.S.",
+     "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "Australian MP's Condition Improves After Alleged Car Attack",
+   "sum": "An Independent MP in Australia is reported to be in a serious but stable condition following an alleged car attack. The update comes from a Melbourne hospital.",
+   "more": "While the condition of the MP has improved, details surrounding the alleged attack remain unclear. Multiple outlets focus on the severity of the situation, emphasizing the gravity of the attack and its implications. The framing across different news sources indicates a concern for the safety of politicians and potential motives behind the incident.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Australian MP's condition improves after alleged car attack",
+     "title_en": "Australian MP's Condition Improves After Alleged Car Attack",
+     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "Palestinian Families Displaced as Israeli Forces Demolish Homes in Hebron",
+   "sum": "Israeli forces have reportedly demolished homes in Hebron, displacing Palestinian families. This action follows the killing of two Israeli soldiers by Palestinian gunmen and occurs shortly before Israel's upcoming election.",
+   "more": "Local officials have expressed concerns about the humanitarian impact of the demolitions on the displaced families. The timing of the crackdown, coinciding with the elections, has raised questions about the political motivations behind the actions of Israeli forces. Different news outlets may focus on either the security concerns leading to the demolitions or the humanitarian crisis faced by the displaced families, reflecting varying editorial stances.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "Fire Breaks Out at Hitler's Eagle's Nest in Bavaria",
+   "sum": "A significant fire occurred at the Eagle's Nest retreat in Bavaria, once owned by Adolf Hitler. Authorities have arrested a 33-year-old German man in connection with the incident.",
+   "more": "The fire has attracted attention due to the historical significance of the site, which is a popular tourist destination. Police have not yet disclosed the motive behind the fire. While the initial reports highlight the swift action taken by local authorities, some outlets emphasize the historical implications of the damage. The focus remains on understanding the circumstances leading to the fire and the urgency of the police investigation.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+     "title_en": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat.",
+     "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-24",
+   "title": "How to Watch Ole Miss vs. Texas: Key Details and Implications",
+   "sum": "This article provides information on watching the upcoming game between Ole Miss and Texas, which is significant for College Football Playoff implications. It includes details about channels, live streams, and odds.",
+   "more": "The focus is on the importance of the game for both teams and their playoff chances. The article likely emphasizes the stakes involved, noting it as a 'can't-miss' match. There may be variations in the emphasis on the game's significance depending on the outlet, but the core details remain consistent regarding viewing options.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "How to watch Ole Miss vs. Texas: Channel, live streams, odds, College Football Playoff implications",
+     "title_en": "How to watch Ole Miss vs. Texas: Channel, live streams, odds, College Football Playoff implications",
+     "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-ole-miss-vs-texas-college-football-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-24",
+   "title": "DOJ Instructs California Counties to Address Noncitizen Voter Registration",
+   "sum": "The Department of Justice has ordered California counties to identify and set aside ballots from suspected noncitizen voters. Local election officials are warned of potential legal action if they do not comply.",
+   "more": "The DOJ's directive highlights ongoing concerns over voter registration accuracy in California. NBC News emphasizes that local officials are being urged to cooperate actively with federal authorities. Meanwhile, CNN\u2019s report stresses the importance of sorting ballots as part of the election process, highlighting the potential impact on the upcoming midterm elections. The framing in both outlets reflects the urgency and seriousness of addressing the issue of noncitizen voting.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "title_en": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "url": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "DOJ demands that California counties help identify noncitizen voters",
+     "title_en": "DOJ demands that California counties help identify noncitizen voters",
+     "url": "https://www.nbcnews.com/politics/2026-election/doj-demands-california-counties-help-identify-noncitizen-voters-rcna605356",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-24",
+   "title": "Ukraine Reports Restoration of Starlink Services",
+   "sum": "Ukrainian officials have announced that Starlink services are back to normal after a period of disruption. The restoration follows a week of issues affecting connectivity.",
+   "more": "President Volodymyr Zelenskyy confirmed that normal operating speeds of Starlink have been reinstated. The disruptions had raised concerns about communication capabilities during ongoing conflicts. Outlets may differ in their emphasis on the implications of restored connectivity for military and civilian communications.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Ukraine says Starlink is back to normal after disruptions",
+     "title_en": "Ukraine says Starlink is back to normal after disruptions.",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-24",
+   "title": "Shooting at Jordanian Church Leaves 7 Dead and 40 Injured",
+   "sum": "Gunmen attacked a church during a funeral in Jordan, resulting in multiple casualties. The incident took place in Karak, where three assailants opened fire.",
+   "more": "The attack occurred at a Greek Orthodox church and was captured on footage by Jordanian state television. Eyewitness accounts may reveal differing perspectives on the assailants' motivations and the community's reaction. Various news outlets may frame the attack differently, possibly focusing on the implications for security in Jordan or the impact on the local Christian community.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+     "title_en": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40.",
+     "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-24",
+   "title": "Yemeni City Faces Severe Water Crisis Amid Houthi Siege",
+   "sum": "Taiz, a city in southwestern Yemen, is experiencing a critical water shortage due to the encirclement by Houthi rebels. The water crisis in the city has been ongoing for more than a decade but has recently intensified.",
+   "more": "The blockade by Houthi forces has exacerbated existing challenges, leading to urgent calls for assistance from local authorities. Aid organizations are finding it increasingly difficult to reach the area due to the ongoing conflict. Perspectives on the crisis may vary, with some outlets focusing more on the humanitarian aspects while others emphasize the political ramifications of the siege.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+     "title_en": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+     "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-24",
+   "title": "GOP and Democrats Compete for Swing Voters in Pennsylvania",
+   "sum": "Republican Rep. Brian Fitzpatrick faced public scrutiny during a local street festival amidst a crucial election period. Both parties are intensifying efforts to appeal to undecided voters in a key district.",
+   "more": "At the street festival, Fitzpatrick was approached by an upset voter expressing discontent with his stance on specific issues, highlighting the contentious political atmosphere. As both parties ramp up their campaigns, the dynamics in swing districts like Pennsylvania are pivotal for the upcoming elections. Different media outlets may emphasize varying aspects of voter discontent, influencing public perception and party strategies.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "GOP and Democrats fight for swing voters in a crucial Pennsylvania district",
+     "title_en": "GOP and Democrats fight for swing voters in a crucial Pennsylvania district",
+     "url": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-24",
+   "title": "Identity Theft Risks Despite Clean Credit Reports",
+   "sum": "A clean credit report does not guarantee protection against identity theft. Criminals have various methods to exploit personal information without raising credit monitoring alerts.",
+   "more": "Several tactics used by identity thieves can bypass traditional credit monitoring systems. For instance, they may use personal data to open new accounts or engage in fraudulent activities without immediate detection. This highlights the need for individuals to be vigilant and proactive in protecting their personal information, even if their credit reports appear normal.",
+   "coverage": [
+    {
+     "outlet": "Fox News",
+     "title": "Your credit can look normal while someone steals your identity",
+     "title_en": "Your credit can look normal while someone steals your identity.",
+     "url": "https://www.foxnews.com/tech/credit-look-normal-while-someone-steals-identity",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-24",
+   "title": "Ocasio-Cortez Responds to Political Violence Incident",
+   "sum": "Alexandria Ocasio-Cortez stated that political violence has no place in the country. She made these remarks after receiving a threatening letter containing white powder in New York.",
+   "more": "Authorities are currently investigating the incident related to the letter. Ocasio-Cortez's comments reflect a growing concern over political violence in the United States. Different outlets may emphasize the security implications, while others focus on her condemnation of such acts.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Alexandria Ocasio-Cortez lo afirm\u00f3: \u201cLa violencia pol\u00edtica no tiene lugar en nuestro pa\u00eds\u201d",
+     "title_en": "Ocasio-Cortez stated: 'Political violence has no place in our country'.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/alexandria-ocasio-cortez-lo-afirmo-la-violencia-politica-no-tiene-lugar-en-nuestro-pais-nid24102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-24",
+   "title": "References to Argentina in the Latest Debate Between Lula and Flavio Bolsonaro",
+   "sum": "In the recent presidential debate ahead of the runoff, Brazilian President Lula and Senator Flavio Bolsonaro highlighted different aspects of Argentine politics. Key figures mentioned included Cristina Kirchner and Javier Milei.",
+   "more": "The debate occurred just 48 hours before the presidential runoff in Brazil, indicating high stakes and political tension. Lula's references to Argentina reflect ongoing political dynamics in the region, while Bolsonaro's remarks suggest a contrasting perspective on these issues. Coverage may vary based on the outlets' political alignments, focusing either on the implications for Brazil or the broader regional context.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Todas las menciones a la Argentina en el \u00faltimo debate entre Lula y Flavio Bolsonaro: de Cristina Kirchner a la motosierra de Milei",
+     "title_en": "All mentions of Argentina in the latest debate between Lula and Flavio Bolsonaro: from Cristina Kirchner to Milei's chainsaw.",
+     "url": "https://www.lanacion.com.ar/el-mundo/todas-las-menciones-a-la-argentina-en-el-ultimo-debate-entre-lula-y-flavio-bolsonaro-de-cristina-nid24102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-24",
+   "title": "Wellness Fest Kicks Off Its Second Edition",
+   "sum": "The Wellness Fest begins today at Hip\u00f3dromo Palermo, marking its second edition. Attendees can explore a schedule of activities, talks, classes, and experiences organized by the event\u2019s sponsors.",
+   "more": "This event is touted as the largest wellness festival in the region. It offers a diverse array of experiences aimed at promoting well-being. While some outlets focus on the scale of the event, others highlight specific activities available for participants.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Men\u00fa de experiencias: mir\u00e1 la agenda y constru\u00ed tu recorrido en el evento de bienestar m\u00e1s grande de la regi\u00f3n",
+     "title_en": "Menu of Experiences: Check the Agenda and Build Your Journey at the Largest Wellness Event in the Region",
+     "url": "https://www.lanacion.com.ar/salud/menu-de-experiencias-mira-la-agenda-y-construi-tu-recorrido-en-el-evento-de-bienestar-mas-grande-de-nid24102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-24",
+   "title": "USCIS Officially Implements DHS Rule Extending Work Permits for Immigrants",
+   "sum": "The USCIS has announced that immigrants with work permits can benefit from an automatic extension of up to 540 days. This applies to applications received before October 30, 2025, according to the DHS regulation.",
+   "more": "This rule aims to provide relief to immigrants by allowing them to maintain their employment status while their applications are processed. It underscores the ongoing efforts to streamline immigration processes amidst various regulatory changes. The focus on extending work permits highlights the importance of immigrant labor in the U.S. economy.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Es oficial: en qu\u00e9 caso el Uscis aplica la regla del DHS que da pr\u00f3rroga a inmigrantes con permisos de trabajo",
+     "title_en": "It's official: When USCIS applies the DHS rule that grants extensions to immigrants with work permits.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/es-oficial-en-que-caso-el-uscis-aplica-la-regla-del-dhs-que-da-prorroga-a-inmigrantes-con-permisos-nid24102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-24",
+   "title": "Netanyahu Suggests Israeli Intervention for Favorable Governments in Colombia or Slovenia",
+   "sum": "Israeli Prime Minister Netanyahu implied that his government could intervene to promote governments more aligned with Israeli interests in Colombia and Slovenia. He stated that his administration has managed to avoid sanctions through countermeasures, including efforts to bring back countries that had distanced themselves.",
+   "more": "The article primarily focuses on Netanyahu's remarks regarding potential interventions in foreign governments, highlighting his strategic approach to international relations. It captures the notion of leveraging diplomacy to regain influence over countries perceived as previously aligned with Israel. The framing emphasizes Israel's proactive stance in international politics, suggesting a calculated effort to strengthen ties with specific nations.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Netanyahu insin\u00faa una intervenci\u00f3n israel\u00ed para propiciar gobiernos m\u00e1s afines en Colombia o Eslovenia",
+     "title_en": "Netanyahu implies Israeli intervention to foster friendlier governments in Colombia or Slovenia.",
+     "url": "https://www.latercera.com/mundo/noticia/netanyahu-insinua-una-intervencion-israeli-para-propiciar-gobiernos-mas-afines-en-colombia-o-eslovenia/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-24",
+   "title": "Leonardo Boff Discusses Impact of Fl\u00e1vio Bolsonaro's Possible Victory",
+   "sum": "Leonardo Boff, a Brazilian theologian and long-time friend of President Luiz In\u00e1cio Lula da Silva, comments on the potential implications of Fl\u00e1vio Bolsonaro's victory in the upcoming elections. He views this as a continuation of destructive policies initiated by Fl\u00e1vio's father, Jair Bolsonaro.",
+   "more": "Boff emphasizes that the elections are crucial for democracy and the future of Brazil. He frames the situation in a context of concern for democratic values, anticipating that a win for Fl\u00e1vio Bolsonaro would mark a setback for those ideals. This perspective highlights the contrasts with supporters of the Bolsonaro family, who may view the potential victory in a more positive light, focusing on stability and governance. Such differing framings reveal the deep political divides within Brazilian society.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Leonardo Boff: \u201cLa eventual victoria de Fl\u00e1vio Bolsonaro ser\u00eda continuar la obra destructiva iniciada por su padre Jair\u201d",
+     "title_en": "Leonardo Boff: 'The eventual victory of Fl\u00e1vio Bolsonaro would continue the destructive work started by his father Jair.'",
+     "url": "https://www.latercera.com/mundo/noticia/leonardo-boff-la-eventual-victoria-de-flavio-bolsonaro-seria-continuar-la-obra-destructiva-iniciada-por-su-padre-jair/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "France Gears Up for Protests Following Nationwide Riots",
+   "sum": "France is preparing for a day of protests amid concerns about potential unrest after recent nationwide riots. Over 70,000 police officers will be deployed to manage the situation and enforce restrictions on demonstrations.",
+   "more": "The government is taking significant precautions to ensure public safety during the planned protests. The decision to deploy such a large police presence reflects fears that the protests might escalate into violence similar to the recent riots. Different news outlets emphasize varying aspects of the planned protests, with some focusing on police measures and others highlighting public sentiment on the necessity of the protests.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "title_en": "France prepares for day of protest a week after nationwide riots",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Israeli Forces Demolish Homes in Hebron Amid Rising Tensions",
+   "sum": "Israeli forces have reportedly demolished homes in Hebron, displacing Palestinian families. This action follows the recent killing of two Israeli soldiers by Palestinian gunmen.",
+   "more": "Local officials claim that the demolitions are part of a larger crackdown that is intensifying amidst the lead-up to Israel's elections. The timing of these events has raised concerns over the impact on the local Palestinian community. Varying reports highlight the differing perspectives on the actions taken by Israeli forces, with some viewing it as a necessary security measure, while others see it as further escalation of tensions.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Australian MP's Condition Improves Following Alleged Car Attack",
+   "sum": "An Australian MP is reported to be in serious but stable condition following an alleged car attack. The improvement in the MP's health was confirmed by a Melbourne hospital.",
+   "more": "Different news outlets highlight the circumstances surrounding the car attack, with some focusing on the alleged nature of the incident, while others emphasize the response from the local community and political figures. Additionally, reactions from fellow lawmakers and authorities are varied, with some calling for increased safety measures for public officials. The MP's recovery updates are being monitored closely by the media and the public.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Australian MP's condition improves after alleged car attack",
+     "title_en": "Australian MP's condition improves after alleged car attack",
+     "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Ukraine Reports Starlink Connection Issues Persist Despite Claims of Stability",
+   "sum": "Ukraine has declared that Starlink internet connections are now stable after recent limitations. However, there are still reports of issues affecting military and drone operations.",
+   "more": "The Ukrainian defense ministry indicates that despite statements suggesting improved connectivity, problems with the Starlink network continue. This follows claims made by Donald Trump regarding the reversal of restrictions imposed by Elon Musk, the owner of Starlink. The discrepancy between Ukraine's situation and Trump's assertions highlights differing perceptions about the access and reliability of this critical communication tool. This ongoing situation raises questions about who actually controls access to the Starlink network in Ukraine.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Ukraine says Starlink connection 'now stable' after network limits",
+     "title_en": "Ukraine says Starlink connection 'now stable' after network limits",
+     "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Plan for Northern Olympics to Receive Funding in Healey's Budget",
+   "sum": "A feasibility study will be conducted to explore the logistics of hosting the Olympics in northern England. The plan includes a budget allocation of \u00a37 million.",
+   "more": "The potential hosting of the Olympics in northern England aims to evaluate the area's capability to support such a large-scale event. Different media outlets may emphasize varying aspects of the feasibility study, such as economic impacts or community involvement. The announcement has sparked interest in national sports development and infrastructure improvements.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Plan for Northern Olympics to get \u00a37m in Healey's Budget",
+     "title_en": "Plan for Northern Olympics to get \u00a37m in Healey's Budget",
+     "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Understanding Budget Creation",
+   "sum": "The BBC discusses the essentials of creating a budget in their daily news podcast. Episodes are available every day of the week.",
+   "more": "The focus of the podcast is on providing insights into effective budgeting strategies. It aims to help listeners manage their finances more efficiently. Different articles surrounding budgeting may emphasize various aspects such as savings, spending habits, or financial planning, but the BBC's approach is more comprehensive by covering multiple facets of budget creation.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "The Secrets Of Creating A Budget",
+     "title_en": "The Secrets Of Creating A Budget",
+     "url": "https://www.bbc.co.uk/sounds/play/p0phhxfl?at_campaign=rss",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Brazil's Working Class Transformation Influences Presidential Election",
+   "sum": "The evolving dynamics of Brazil's working class are having a significant impact on the upcoming presidential election. President Lula faces challenges as calls for change grow stronger ahead of the second round of voting.",
+   "more": "Different media outlets highlight the various factors affecting the electorate, including economic changes and social movements. Some emphasize the urgency of reform demanded by voters, while others focus on Lula's strategies to maintain support amid the shifting landscape. As the election approaches, the discourse around the working class's role is becoming increasingly critical for understanding the political landscape in Brazil.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "How Brazil's changing working class is reshaping the presidential race",
+     "title_en": "How Brazil's changing working class is reshaping the presidential race",
+     "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Met Police Investigates Letter Claims Involving Meghan's Father",
+   "sum": "The Metropolitan Police has launched an investigation into a letter alleging disturbing claims about Meghan Markle's father. This follows a report from the Duchess of Sussex regarding the correspondence.",
+   "more": "The inquiry was initiated after Meghan expressed concerns about the content and implications of the letter she received. It remains unclear what specific allegations were mentioned in the correspondence. Various media outlets may focus on different aspects, such as the implications for Meghan's family relations or concerns about privacy and safety.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Met investigates reports of letter detailing claims about Meghan's father",
+     "title_en": "Met investigates reports of letter detailing claims about Meghan's father",
+     "url": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Arrest Made After Fire at Hitler's Eagle's Nest Retreat",
+   "sum": "An arrest has been made following a fire at Hitler's Eagle's Nest retreat in Germany. Approximately 200 emergency personnel were involved in combating the blaze at the historical site.",
+   "more": "The incident has drawn attention due to the significance of the location as a former Nazi retreat. Firefighting efforts were extensive, indicating the seriousness of the situation. Authorities have not disclosed the suspect's motivations or details surrounding the arrest.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+     "title_en": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-24",
+   "title": "Second Ebola Patient Dies in Kenya",
+   "sum": "A 65-year-old woman has died from Ebola in Kenya, becoming the second reported fatality linked to the outbreak. She was a close relative of the first victim, a man who traveled from the Democratic Republic of Congo.",
+   "more": "This development highlights the risk of Ebola transmission among close contacts of infected individuals. Authorities are likely facing challenges in containing the outbreak and increasing public health measures. The situation underscores the importance of monitoring and response to infectious diseases.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "title_en": "Woman, 65, becomes second patient to die of Ebola in Kenya.",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-24",
+   "title": "Mass Protests Against Netanyahu Ahead of Israeli Elections",
+   "sum": "Thousands of Israelis demonstrated in Tel Aviv against Prime Minister Benjamin Netanyahu just days before the elections. Protesters are calling for an independent inquiry into the events of October 7.",
+   "more": "The protests saw participation from opposition figures who joined the rally to emphasize their demands. This public outcry reflects significant discontent with the current government's handling of certain events. The framing of the protests focuses on accountability and demands for transparency as crucial points leading up to the elections.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands of Israelis rally against Netanyahu gov\u2019t days before election",
+     "title_en": "Thousands of Israelis rally against Netanyahu gov\u2019t days before election.",
+     "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-24",
+   "title": "Netanyahu's Influence on Israel's Institutions Ahead of Elections",
+   "sum": "As Israel prepares for elections on October 27, Prime Minister Benjamin Netanyahu is campaigning for re-election. His tenure has been marked by significant changes to the country's institutions.",
+   "more": "Netanyahu's leadership has been polarizing, impacting the political landscape in Israel. Amidst the electoral backdrop, discussions around the reshaping of institutions highlight the ongoing debates regarding governance and democracy in the country. Various outlets may frame Netanyahu's actions as either a necessary overhaul of outdated systems or as a troubling consolidation of power.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "How Benjamin Netanyahu reshaped Israel\u2019s institutions",
+     "title_en": "How Benjamin Netanyahu reshaped Israel\u2019s institutions",
+     "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-24",
+   "title": "France Increases Security Measures Ahead of Planned Protests",
+   "sum": "French security forces have deployed extensively in Paris due to concerns that upcoming protests might escalate into violence. Authorities have implemented measures such as banning gatherings and extending curfews.",
+   "more": "The preparations for the protests included calls from Interior Minister Laurent Nunez for police to be 'hyper-reactive' to any potential disturbances. Different outlets emphasize various aspects of the security response, with Yahoo highlighting the police presence and Al Jazeera focusing on the bans and curfews. Both outlets agree on the motive behind the heightened security: to prevent further unrest following prior disturbances.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "France mounts huge security operation as protesters prepare to march",
+     "title_en": "France mounts huge security operation as protesters prepare to march",
+     "url": "https://www.yahoo.com/news/articles/france-mounts-huge-security-operation-093641855.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France tightens security in anticipation of weekend protests",
+     "title_en": "France tightens security in anticipation of weekend protests",
+     "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-24",
+   "title": "France Readies for Protests Following Recent Riots",
+   "sum": "France is preparing for a day of protests, just a week after nationwide riots occurred. Authorities are deploying over 70,000 police officers due to concerns that protesters may ignore restrictions on demonstrations.",
+   "more": "The heightened security measures reflect the government's apprehension about potential unrest. Different media outlets emphasize the extent of police deployment and the possibility of violent clashes. While some focus on the restrictions in place for protesters, others highlight the public's right to express dissent despite these limitations.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "title_en": "France prepares for day of protest a week after nationwide riots",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-24",
+   "title": "England Dominates France in Rugby League World Cup Match",
+   "sum": "England achieved a significant victory over France, winning 82-0 in the Men's Rugby League World Cup. This win keeps England's hopes of advancing to the semi-finals alive.",
+   "more": "The match was conducted in Perth and showcased England's strong performance as they seek to progress in the tournament. To advance, England must defeat Papua New Guinea in their next match and hope that Tonga defeats Samoa. Both articles from BBC News emphasize the necessity of these outcomes for England to secure a place in the semi-finals.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "England thrash France to keep alive World Cup hopes",
+     "title_en": "England thrash France to keep alive World Cup hopes",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-24",
+   "title": "England Secures Chance to Remain in Men's Rugby League World Cup",
+   "sum": "England has created an opportunity to continue in the Men's Rugby League World Cup following a significant 68-point swing and a victory against Tonga. However, they will still require favorable results in the upcoming weekend.",
+   "more": "The article highlights the critical situation England faces, needing specific outcomes to keep their World Cup hopes alive. Different outlets may emphasize various aspects, such as the team's performance or the implications of the results needed next weekend. While all concede the challenge ahead, some may focus more on the significance of their victory against Tonga.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "68-point swing and a Tonga win - how England avoid World Cup exit",
+     "title_en": "68-point swing and a Tonga win - how England avoid World Cup exit",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6wyvpz0epywo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-24",
+   "title": "Businesses in Paris Brace for Upcoming Protests",
+   "sum": "As France anticipates another weekend of protests, various businesses and landmarks in Paris are taking precautions. This includes boarding up windows and closing museums to manage potential disruptions.",
+   "more": "Different businesses and attractions are adopting similar measures in response to the expected protests. The framing varies slightly across outlets, with some emphasizing the negative impact on tourism while others focus on the resilience of local businesses preparing for protest scenarios. Overall, the atmosphere in Paris is one of caution and readiness as the city prepares for the upcoming demonstrations.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Boarded-up windows, museums closed to visitors: How businesses in Paris are preparing for another day of protests",
+     "title_en": "Boarded-up windows, museums closed to visitors: How businesses in Paris are preparing for another day of protests",
+     "url": "https://www.businessinsider.com/france-protests-photos-businesses-shops-preparing-paris-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-24",
+   "title": "France Protests Start Amid Heavy Police Presence",
+   "sum": "Protests erupted in France with significant police enforcement in place. The level of unrest seemed to be less intense than during previous demonstrations.",
+   "more": "Authorities deployed 70,000 police officers to monitor the situation, aiming to mitigate any potential unrest. While some confrontations were reported, the overall atmosphere was described as calmer compared to earlier protests. This has led to a varying representation in news coverage, with some outlets highlighting the reduced violence, while others focus on the ongoing tensions and police measures.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "France protests begin under heavy security as police seek to prevent fresh unrest",
+     "title_en": "France protests begin under heavy security as police seek to prevent fresh unrest",
+     "url": "https://uk.news.yahoo.com/france-mounts-huge-security-operation-093641855.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "France Increases Security Measures Ahead of Anticipated Protests",
+   "sum": "French authorities are enhancing security measures across Paris in preparation for protests anticipated to potentially escalate into violence. The Interior Minister has called on police to be highly alert and responsive.",
+   "more": "In response to the upcoming protests, local authorities have implemented bans on gatherings and extended curfews to prevent unrest. The framing between the two outlets highlights not only the security measures but also the fear of possible violence associated with the protests. Al Jazeera emphasizes the overall lockdown measures taken to manage the situation, while Yahoo focuses on the proactive stance of law enforcement in monitoring the protests.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "France mounts huge security operation as protesters prepare to march",
+     "title_en": "France mounts huge security operation as protesters prepare to march",
+     "url": "https://www.yahoo.com/news/articles/france-mounts-huge-security-operation-093641855.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France tightens security in anticipation of weekend protests",
+     "title_en": "France tightens security in anticipation of weekend protests",
+     "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "Protests in Barcelona Result in Disturbances and Police Action",
+   "sum": "Barcelona experienced disturbances and police actions during a youth protest organized via social media. The incidents included clashes, looting, and the closure of stores in the city center.",
+   "more": "The protests were primarily located in Pla\u00e7a de Catalunya, drawing a significant number of young participants. Different outlets framed the events with varying emphasis; El Mundo highlighted the chaotic nature of the protests, including container burnings and store closures, while Eldiario.es focused on the confrontations with police and described the protest as being 'against the system'. Both reports underscore the tension and unrest in the area, noting the response of law enforcement to contain the situation.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "Disturbios, cargas, quema de contenedores y tiendas cerradas en el centro de Barcelona por una protesta de j\u00f3venes convocada por redes sociales",
+     "title_en": "Disturbances, clashes, container burning, and closed stores in central Barcelona due to a youth protest called through social media.",
+     "url": "https://www.elmundo.es/cataluna/2026/10/24/6adcf26cfdddff1e2a8b4599.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Eldiario.es",
+     "title": "Altercados, saqueos y cargas en el centro de Barcelona en una protesta juvenil \"contra el sistema\"",
+     "title_en": "Altercations, looting, and police action in central Barcelona during a youth protest 'against the system'.",
+     "url": "https://www.eldiario.es/catalunya/altercados-saqueos-cargas-centro-barcelona-protesta-juvenil-sistema_1_13612854.html",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "France Gears Up for Protest Amid Security Concerns",
+   "sum": "France is preparing for a day of protest following nationwide riots, with over 70,000 police officers being deployed. Authorities are concerned that protesters may ignore restrictions on demonstrations.",
+   "more": "The preparation signifies the government's anxiety about potential unrest as demonstrators gather. This reflects a broader anxiety within the country about maintaining order following the recent riots. Different media outlets highlight either the government\u2019s measures to ensure safety or the protesters' determination to express their grievances.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "title_en": "France prepares for day of protest a week after nationwide riots",
+     "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "Businesses in Paris Prepare for Upcoming Protests",
+   "sum": "As protests are set to continue in France, businesses in Paris are taking precautions by boarding up windows and closing museums to visitors. The city is bracing for substantial demonstrations over the weekend.",
+   "more": "The atmosphere in Paris is becoming tense as businesses anticipate disruptions caused by the protests. While some outlets focus on the physical preparations being made by local businesses, others emphasize the impact these protests may have on tourism and local economies. There is also a contrast in tone, with some articles highlighting the resilience of the city in the face of unrest, while others convey concern over the potential for violence during the demonstrations.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Boarded-up windows, museums closed to visitors: How businesses in Paris are preparing for another day of protests",
+     "title_en": "Boarded-up windows, museums closed to visitors: How businesses in Paris are preparing for another day of protests",
+     "url": "https://www.businessinsider.com/france-protests-photos-businesses-shops-preparing-paris-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "France Protests Under Heavy Security",
+   "sum": "Protests commenced in France with a strong police presence as authorities aimed to mitigate potential unrest. The situation seemed calmer compared to previous demonstrations.",
+   "more": "On Saturday, local media reported that around 70,000 police officers were deployed to oversee the protests. While there were some confrontations, these appeared to be less severe than those from the week prior. Various news outlets highlighted the increased police measures as a response to the earlier unrest, framing this deployment as a necessary precaution. Overall, the differing coverage indicates a focus on either the effectiveness or necessity of the heavy police presence.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "France protests begin under heavy security as police seek to prevent fresh unrest",
+     "title_en": "France protests begin under heavy security as police seek to prevent fresh unrest.",
+     "url": "https://uk.news.yahoo.com/france-mounts-huge-security-operation-093641855.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "Elon Musk Influences U.S. Foreign Policy Through Satellite Communications",
+   "sum": "The U.S. government has reportedly relied on Elon Musk to shape its foreign policy, particularly concerning military communications. This involvement has been ongoing for several years, through both the Biden and Trump administrations.",
+   "more": "The recent throttling of Ukraine's military access to SpaceX's satellite system has raised concerns about Musk's influence on international relations. It highlights the complexities of private enterprise intersecting with national security interests. Different news outlets may emphasize varying aspects of Musk's role, either portraying him as a crucial asset for U.S. foreign policy or as a controversial figure whose decisions impact geopolitical stability.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "The U.S. has reportedly relied on Elon Musk to help shape foreign policy for years",
+     "title_en": "The U.S. has reportedly relied on Elon Musk to help shape foreign policy for years",
+     "url": "https://www.yahoo.com/news/us/articles/exclusive-us-years-asked-musk-004340637.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-24",
+   "title": "Dezeen Launches Updated Website",
+   "sum": "Dezeen has launched a new version of its website that is described as richer and more versatile. The redesign aims to better reflect the current identity of the publication.",
+   "more": "The update was developed in collaboration with creative technology studio Made by On. The site refresh includes enhancements to both the visual aesthetics and functionality, making it more user-friendly. The changes signify an ongoing evolution for Dezeen, positioning it to better serve its audience and showcase its content.",
+   "coverage": [
+    {
+     "outlet": "Dezeen",
+     "title": "This week we launched the new Dezeen website",
+     "title_en": "Dezeen Launches Updated Website",
+     "url": "https://www.dezeen.com/2026/10/24/dezeen-website-launch-this-week/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-24",
+   "title": "Vivek Ramaswamy's Attack Ad in Ohio Governor's Race Faces Backlash",
+   "sum": "Vivek Ramaswamy's controversial attack ad featuring Amy Acton's estranged mother has drawn criticism from within the Republican Party. The ad has become a focal point in the competitive Ohio governor's race.",
+   "more": "While Ramaswamy's ad has faced significant backlash, President Donald Trump has publicly defended it, reiterating his support on Friday. This divergence in reactions highlights the tension within the Republican Party concerning campaign strategies. Some Republican commentators have expressed concern over the potential negative impact of the ad on the party's image in Ohio.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Has Vivek Ramaswamy\u2019s attack ad against Amy Acton backfired?",
+     "title_en": "Has Vivek Ramaswamy\u2019s attack ad against Amy Acton backfired?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/has-vivek-ramaswamys-attack-ad-against-amy-acton-backfired",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Trump doubles down on defending Vivek Ramaswamy\u2019s attack ad against Amy Acton",
+     "title_en": "Trump doubles down on defending Vivek Ramaswamy\u2019s attack ad against Amy Acton",
+     "url": "https://www.nbcnews.com/politics/2026-election/trump-defends-vivek-ramaswamy-attack-ad-ohio-amy-acton-mother-rcna605242",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-24",
+   "title": "Early Voting Begins in New York and Florida",
+   "sum": "Early voting has started in both New York and Florida as prominent figures cast their ballots. NYC Mayor Zohran Mamdani voted early at the Metropolitan Museum of Art, while President Trump voted for Republican candidates in Florida.",
+   "more": "The articles highlight the significant participation of political leaders in early voting, with NYC's mayor choosing a cultural landmark as his voting site. In contrast, Trump combined his voting activity with a public rally in Georgia, emphasizing his support for Republican candidates. While both articles focus on early voting, the New York Post emphasizes the cultural significance of the voting location, whereas ABC News highlights Trump's broader political activities surrounding his vote.",
+   "coverage": [
+    {
+     "outlet": "New York Post",
+     "title": "Zohran Mamdani casts his midterm ballot as first day of early voting kicks off in NYC",
+     "title_en": "Zohran Mamdani casts his midterm ballot as first day of early voting kicks off in NYC.",
+     "url": "https://nypost.com/2026/10/24/us-news/zohran-mamdani-casts-his-midterm-ballot-as-first-day-of-early-voting-kicks-off-in-nyc/",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Trump casts his midterm ballot early in Florida",
+     "title_en": "Trump casts his midterm ballot early in Florida.",
+     "url": "https://abcnews.com/Politics/wireStory/trump-casts-midterm-ballot-early-florida-137543344",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-24",
+   "title": "Increase in Border Searches of Electronic Devices",
+   "sum": "There has been a 32% increase in the number of laptops and phones searched at U.S. borders this year. Travelers are facing more scrutiny regarding their electronic devices as they enter the country.",
+   "more": "The uptick in searches highlights an ongoing trend of heightened security measures at borders. With more travelers being subjected to device inspections, concerns about privacy and civil liberties continue to surface. Different outlets may emphasize the implications for personal privacy, while some may focus on the reasons cited for increased security checks.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "title_en": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+     "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-24",
+   "title": "DOJ Directs California Counties to Reserve Ballots from Alleged Noncitizens",
+   "sum": "The Department of Justice has mandated that California counties take steps to set aside ballots that may come from suspected noncitizen voters. This directive comes as early voting progresses ahead of the midterm elections.",
+   "more": "Different outlets may emphasize various aspects of this order, with some focusing on the implications for voter participation and others emphasizing legal or procedural concerns. The urgency of the situation is underscored by the ongoing early voting in the state. Observers may note that this development reflects broader national debates around voting regulations and noncitizen voting.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "title_en": "DOJ orders California counties to set aside ballots from suspected noncitizens",
+     "url": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-24",
+   "title": "Political Battle for Swing Voters in Pennsylvania",
+   "sum": "Republican and Democratic parties are competing vigorously for swing voters in a key Pennsylvania district. This contest is highlighted by a notable confrontation involving GOP Rep. Brian Fitzpatrick.",
+   "more": "The confrontation occurred during a fall street festival, emphasizing the high stakes of the upcoming elections. Both parties are strategizing to appeal to undecided voters, highlighting various issues that resonate with local constituents. Different media outlets may emphasize the emotional aspect of voter engagement or focus on the strategic implications for the election outcomes.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "GOP and Democrats fight for swing voters in a crucial Pennsylvania district",
+     "title_en": "GOP and Democrats fight for swing voters in a crucial Pennsylvania district",
+     "url": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-24",
+   "title": "Trump's DOJ Sues in Alaska Over Name Confusion",
+   "sum": "The U.S. government is taking action to delay the results of the Alaska Senate election due to concerns regarding two candidates sharing the same name. This lawsuit has implications for the election process in Alaska.",
+   "more": "The lawsuit raises questions about how such name similarities can impact electoral outcomes and voter confusion. Different news outlets may focus on the legal implications versus the potential electoral consequences in their coverage. Some may highlight the broader context of the election integrity, while others may discuss the specifics of the candidates involved.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Dan Sullivan vs Dan Sullivan: Why is Trump\u2019s DOJ suing in Alaska?",
+     "title_en": "Dan Sullivan vs Dan Sullivan: Why is Trump\u2019s DOJ suing in Alaska?",
+     "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  }
+ ]
+}

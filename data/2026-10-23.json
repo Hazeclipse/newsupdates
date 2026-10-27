@@ -1,0 +1,1276 @@
+{
+ "date": "2026-10-23",
+ "updated": "Oct 27, 07:50 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Dating App Targets Gen Z with Traditional Values Features",
+   "sum": "Upward, a Christian dating app, has introduced features like 'Chivalry Mode' and 'Marriage Timeline' aimed at encouraging Gen Z users towards traditional values and marriage. The app seeks to appeal to a generation that generally engages less in dating.",
+   "more": "The relaunch of Upward emphasizes a return to traditional dating norms, which may resonate with some users but could also be met with skepticism from others who prefer modern dating practices. While some outlets focus on the app's attempt to promote marriage among youth, others highlight the contrast between its features and the contemporary dating landscape. The framing also suggests that these efforts might reflect a broader cultural shift or reaction to changing societal values regarding relationships.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "A Dating App Is Offering \u2018Chivalry Mode\u2019 and \u2018Marriage Timeline\u2019 to Get Gen Z Married",
+     "title_en": "A Dating App Is Offering \u2018Chivalry Mode\u2019 and \u2018Marriage Timeline\u2019 to Get Gen Z Married",
+     "url": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Etsy Implements New Rules on AI-Generated Listings",
+   "sum": "Etsy is introducing stricter regulations regarding the use of AI in product listings to minimize low-quality AI-generated content on its platform. The company has acknowledged that buyers often have difficulty distinguishing between AI-generated items and traditional products.",
+   "more": "The announcement comes as Etsy aims to enhance user experience and maintain the integrity of its marketplace. Sellers will need to adhere to specific guidelines to ensure clarity about the nature of their listings. This change reflects broader concerns about the impact of AI on online marketplaces, with differing views on the role of AI in creative industries.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Etsy is cracking down on AI slop listings",
+     "title_en": "Etsy is cracking down on AI slop listings.",
+     "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Reviewing the iPhone Duo: A Mixed Reception",
+   "sum": "The iPhone Duo received a score of 7/10 from The Verge, highlighting the difficulties in reviewing a groundbreaking device. The initial assessment may not remain static as opinions can evolve over time.",
+   "more": "The review reflects on the challenges involved in evaluating innovative technology such as the iPhone Duo, which represents a significant idea in the smartphone market. The score of 7/10 indicates a moderate reception, but the review acknowledges that this evaluation might change as users gain more experience with the device. The report emphasizes that perceptions of new technology can shift, which is common in the field of tech reviews.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "The iPhone Duo should have been an iPad",
+     "title_en": "The iPhone Duo should have been an iPad",
+     "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Popcorn Time Apps Disabled to Prevent Zombie Army",
+   "sum": "The abandoned Popcorn Time applications were disabled to mitigate potential misuse. Despite their longstanding abandonment, these apps continued to be installed and used.",
+   "more": "Popcorn Time, known for allowing users to stream torrents of movies and TV shows, has not seen active development for years. This software, branded as the 'Netflix of Piracy,' was particularly disliked by organizations like the MPAA. Different outlets may focus on various aspects, such as the implications for piracy or the technical aspects of disabling the apps.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+     "title_en": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
+     "url": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "OpenAI Trains AI Models Offline Amid Security Concerns",
+   "sum": "OpenAI has started training its advanced AI models without internet access due to recent hacking incidents. The company has established an offline testing environment for these models.",
+   "more": "The decision reflects OpenAI's commitment to security and reducing vulnerabilities associated with online exposure. The blog post details the measures taken to ensure that AI models can still function effectively without direct internet connectivity. Various tech outlets may emphasize the implications of this shift for AI development and safety differently, with some focusing on the security aspects while others may highlight potential limitations in data access.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "OpenAI now trains its frontier AI models with no internet access",
+     "title_en": "OpenAI now trains its frontier AI models with no internet access",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Jack Dorsey's Block Unveils AI Model Dessa for Human-like Conversations",
+   "sum": "Block, founded by Jack Dorsey, introduced an AI model named Dessa that mimics human conversations. The model is designed to engage users in discussions that can sometimes feel awkward or uncanny.",
+   "more": "The AI aims to simulate the experience of chatting with a new, albeit socially awkward, friend. Block showcased this model by sharing examples of chats it had with people, highlighting its unique conversational style. While the focus is on its human-like interaction, the model's occasional awkwardness raises questions about the limits of AI in social settings. This contrasts with other AI initiatives that prioritize more polished conversational abilities.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend",
+     "title_en": "Jack Dorsey's Block made an AI model that talks to you like an awkward new friend",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Meta Postpones New Business Terms Amid Publisher Concerns",
+   "sum": "Meta has decided to delay the enforcement of its new business terms following pushback from publishers regarding potential AI scraping of news sites. The concerns were initially highlighted by Fast Company.",
+   "more": "The statement from Meta's spokesperson, Daniel Robe, indicates that the feedback from publishers is being taken seriously, leading to this decision to postpone the implementation. Different outlets may frame the issue based on the extent of the concerns raised by publishers, with some focusing more on the implications for AI development and others on publisher rights and protections. This situation underscores the ongoing tensions between tech companies and content creators in the age of digital information.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Meta delays new business terms after publisher pushback on AI scraping",
+     "title_en": "Meta delays new business terms after publisher pushback on AI scraping",
+     "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Google Revises Privacy Policy Regarding Data for Targeted Ads",
+   "sum": "Google has revised its privacy policy to allow the use of Gmail and Google Photos data for targeted advertising. This change could affect users engaging with personalized AI features.",
+   "more": "The update highlights an exception to Google's previous commitments about user data usage, raising concerns among privacy advocates. Some critics argue that leveraging personal communication and photo data for advertising purposes undermines user trust. Responses from various outlets may emphasize different aspects of privacy implications versus user personalization benefits.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+     "title_en": "Now Google says it might use your Gmail and Google Photos data to target ads",
+     "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Laika's Journey to Wildwood",
+   "sum": "Laika has dedicated 20 years to developing its latest project, Wildwood. Cinematographer Caleb Deschanel reflects on his extensive career in Hollywood, having worked on numerous iconic films.",
+   "more": "Caleb Deschanel has had a multifaceted career, contributing to both cinematography and directing. His experiences include significant projects like The Passion of the Christ and Titanic. The piece highlights the long timeline of Laika's development process, emphasizing the studio\u2019s commitment to quality and the evolution of Deschanel's artistic journey over the decades.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Laika has spent 20 years building up to Wildwood",
+     "title_en": "Laika has spent 20 years building up to Wildwood",
+     "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Palmer Luckey Ventures into Super Soldier Dog Development",
+   "sum": "Palmer Luckey, known for his controversial views, is exploring the creation of AI-equipped super soldier dogs. This venture aims to enhance canine capabilities for military applications.",
+   "more": "Luckey's project has raised eyebrows due to his history of expressing support for building nuclear weapons, suggesting a provocative approach to military technology. The idea of outfitting dogs with cybernetic enhancements could spark ethical debates about animal treatment in warfare. It remains unclear how the public and military will respond to this concept, particularly given its implications for both technology and animal welfare.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Palmer Luckey Is Getting Into the Cybernetically Outfitted Super Soldier Dog Market",
+     "title_en": "Palmer Luckey Is Getting Into the Cybernetically Outfitted Super Soldier Dog Market",
+     "url": "https://gizmodo.com/palmer-luckey-is-getting-into-the-cybernetically-outfitted-super-soldier-dog-market-2000829914",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "Sam Altman Discusses Challenges in Addressing Bugs",
+   "sum": "Sam Altman expresses skepticism about the ability to resolve all software bugs through quick fixes. He suggests a need for a more profound approach to tackling these issues.",
+   "more": "Altman\u2019s comments highlight growing concerns in the tech community about the limitations of traditional bug-fixing methods. While some experts may argue for accelerated software updates, Altman's perspective suggests a more cautious and reflective approach is necessary. This framing indicates a shift from quick solutions to a more sustainable long-term strategy in software development.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Sam Altman: \u2018I No Longer Think We\u2019re Gonna Be Able to Just Patch All the Bugs\u2019",
+     "title_en": "Sam Altman: \u2018I No Longer Think We\u2019re Gonna Be Able to Just Patch All the Bugs\u2019",
+     "url": "https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-23",
+   "title": "American Express Addresses App and Website Disruptions",
+   "sum": "American Express has reported disruptions to its app and website but claims these issues were not due to a security vulnerability. The exact cause of the outages remains unspecified.",
+   "more": "While American Express has confirmed the disruptions, it has not provided detailed information regarding the underlying issue. This lack of clarity has led to customer concerns, though the company seeks to alleviate fears about security breaches. Various outlets focus on the company's reassurances, but the absence of specific information has resulted in differing levels of consumer confidence.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Amex Says App and Website Disruptions \u2018Not Caused by a Security Vulnerability\u2019",
+     "title_en": "Amex Says App and Website Disruptions \u2018Not Caused by a Security Vulnerability\u2019",
+     "url": "https://gizmodo.com/amex-says-app-and-website-disruptions-not-caused-by-a-security-vulnerability-2000829700",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Israel Closes West Bank Following Alleged Attack",
+   "sum": "Israeli forces killed two men they claimed were involved in an attack in the West Bank. The incident near Hebron left at least five people injured, some critically.",
+   "more": "Both NPR and Yahoo Entertainment reported on the Israeli military's actions following the shooting of the two men, emphasizing the violent nature of the incident. The framing in both outlets indicates a serious escalation in conflict in the region, with a focus on the injuries caused by the attack. There is consistency in the portrayal of the incident, particularly in the emphasis on the military's justification for the killing and the ensuing closure of the area.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+     "title_en": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Israel orders army to prepare for full closure of West Bank after alleged attack",
+     "title_en": "Israel orders army to prepare for full closure of West Bank after alleged attack",
+     "url": "https://www.yahoo.com/news/world/articles/israel-military-says-killed-2-064424157.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Sigma FP2 Unveiled as Upgraded Compact Full-Frame Camera",
+   "sum": "Sigma has introduced the FP2, a compact follow-up to its original fp model, which was touted as the world's smallest full-frame mirrorless camera. The new model features significant upgrades including an improved sensor and an articulating LCD display.",
+   "more": "The announcement comes seven years after the original fp was released, which emphasizes Sigma's commitment to preserving a small form factor while enhancing performance. The upgrades aim to appeal to both amateur and professional photographers looking for portability without sacrificing image quality. Various tech outlets have noted that advancements in sensor technology and LCD functionality highlight a trend towards user-friendly design in compact cameras.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "The Sigma FP2 brings significant upgrades to the \u2018world\u2019s smallest\u2019 full-frame camera",
+     "title_en": "The Sigma FP2 brings significant upgrades to the \u2018world\u2019s smallest\u2019 full-frame camera.",
+     "url": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Caleb Deschanel's Cinematic Journey Culminates in Wildwood",
+   "sum": "After two decades of development, Laika's latest project, Wildwood, marks a significant achievement for the studio. Cinematographer Caleb Deschanel reflects on his extensive career in Hollywood, contributing to numerous iconic films.",
+   "more": "Deschanel has worked on a diverse range of projects throughout his career, from major box office successes to cult classics. His experience in the industry spans several notable films, showcasing his versatility and talent. As Laika prepares for the release of Wildwood, it draws attention to the studio's commitment to innovative storytelling and animation techniques.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Laika has spent 20 years building up to Wildwood",
+     "title_en": "Laika has spent 20 years building up to Wildwood",
+     "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Positive Vaccine Trial Results for Melanoma Patients",
+   "sum": "A clinical trial of a personalized vaccine for melanoma patients has shown promising results, with 82% of participants remaining cancer-free after two years. The early release of these results followed an apparent leak, yet the market reacted negatively to the news.",
+   "more": "Despite the significant success indicated by the trial results, investors appeared confused by the positive data, as reflected in the declining stock prices of Merck and Moderna. The early publication of the trial data, prompted by a leak, may have contributed to the market's reaction. Analysts highlight that such promising outcomes typically bolster stock performance, making the drop more perplexing.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "These Melanoma Patients Got a Vaccine Made for Their Own Tumors. 2 Years Later, 82% Are Still Cancer-Free",
+     "title_en": "These Melanoma Patients Got a Vaccine Made for Their Own Tumors. 2 Years Later, 82% Are Still Cancer-Free.",
+     "url": "https://gizmodo.com/these-melanoma-patients-got-a-vaccine-made-for-their-own-tumors-2-years-later-82-are-still-cancer-free-2000829831",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "The 'Terrifier' Trilogy Returns to Theaters for Halloween",
+   "sum": "The 'Terrifier' trilogy is making a return to theaters just in time for Halloween. Art the Clown, the franchise's central character, is closely associated with the spooky season.",
+   "more": "The article highlights the popularity of the 'Terrifier' films, suggesting they are a staple for horror fans during Halloween. It notes that while Art the Clown enjoys terrifying people in the Halloween setting, there is also a nod to Christmas, showing the character's versatility in horror. No other outlets were mentioned in the provided text, so the framing remains focused on the resurgence of the trilogy.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "The \u2018Terrifier\u2019 Trilogy Returns to Theaters for Halloween",
+     "title_en": "The 'Terrifier' Trilogy Returns to Theaters for Halloween",
+     "url": "https://gizmodo.com/the-terrifier-trilogy-returns-to-theaters-for-halloween-2000829681",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Elon Musk Invests in Republican Candidates Ahead of Midterms",
+   "sum": "Elon Musk has invested approximately $445 million in Republican candidates and causes this year. This significant financial contribution comes as the midterm elections approach.",
+   "more": "Musk's financial backing is seen as a strategic move to influence the political landscape in favor of the GOP. While some outlets emphasize the magnitude of his contributions, others focus on the implications for his business interests. This investment marks a notable shift in Musk's political engagement, demonstrating his active involvement in shaping electoral outcomes.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Elon Musk Has Dumped Nearly Half a Billion Into Electing Republicans This Year",
+     "title_en": "Elon Musk Has Dumped Nearly Half a Billion Into Electing Republicans This Year",
+     "url": "https://gizmodo.com/elon-musk-has-dumped-nearly-half-a-billion-into-electing-republicans-this-year-2000829777",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Andrew May Be Called to Testify in High Court Fraud Trial",
+   "sum": "A High Court trial involving fraud allegations has emerged, where Andrew could potentially be called to give evidence. The case centers on claims made by a wealthy Turkish woman against her former adviser.",
+   "more": "The trial highlights serious accusations of financial misconduct and has drawn media attention due to the involvement of high-profile individuals. Different outlets may focus on the implications of Andrew's potential testimony, with some framing it as a pivotal moment in the case. There may also be varying emphasis on the profile of the Turkish woman and her allegations against her adviser.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Andrew can be called to give evidence in High Court fraud trial",
+     "title_en": "Andrew can be called to give evidence in High Court fraud trial",
+     "url": "https://www.bbc.co.uk/news/articles/cq0ld94pl8z5o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "CCTV Footage Shows Gunmen at Jordan Shooting Site",
+   "sum": "CCTV footage reportedly captures gunmen at the location of a shooting in Jordan. The incident occurred during a funeral at a church attended by dozens of people.",
+   "more": "Local media have indicated that the shooting took place while many were gathered for a funeral service. There is a focus on the timing and the presence of civilians in the church during the tragic event. Different outlets may emphasize the chaotic scene and the implications for safety in public spaces during such gatherings.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Watch: CCTV footage appears to show gunmen at site of Jordan shooting",
+     "title_en": "CCTV footage appears to show gunmen at site of Jordan shooting",
+     "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Review of Call of Duty Modern Warfare 4: A Fitting Conclusion",
+   "sum": "The review describes Call of Duty Modern Warfare 4 as a fitting swansong for the series. It highlights that the game addresses the shortcomings of earlier versions.",
+   "more": "CNET recognizes this installment as a strong conclusion to the series, emphasizing improvements over past games. The review suggests that it successfully corrects earlier missteps, providing a more satisfying gameplay experience. However, no other outlets are mentioned, so there is no contrasting framing to consider.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction",
+     "title_en": "Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction",
+     "url": "https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-23",
+   "title": "Building a $100 Million Business: The Journey of Erica Groussman",
+   "sum": "Erica Groussman created a successful business in just seven years, reaching a valuation of $100 million. Her entrepreneurial journey began with a simple idea inspired during a family trip.",
+   "more": "The article explores how Groussman transitioned from a startup to securing partnerships with major retailers like Costco and Whole Foods. It highlights her strategic approach to scaling the business and emphasizes the impact of her initial inspiration at Disney. Different outlets may focus on varying aspects, such as her leadership style or the challenges faced along the way.",
+   "coverage": [
+    {
+     "outlet": "Entrepreneur",
+     "title": "She Built a $100 Million Business in 7 Years. Here\u2019s How She Scaled From Scrappy Startup to Costco and Whole Foods.",
+     "title_en": "She Built a $100 Million Business in 7 Years.",
+     "url": "https://www.entrepreneur.com/building-a-business/she-built-a-100-million-business-32000-retail-locations-costco-whole-foods",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-23",
+   "title": "Israel Implements Lockdown in West Bank Following Military Action",
+   "sum": "Israel has ordered a full lockdown of the West Bank after its military killed two Palestinians accused of carrying out an attack. The incident resulted in at least five injuries, some of which are critical.",
+   "more": "Both NPR and NBC News report on Israel's response to the alleged attack, emphasizing the lockdown and military killings. NPR focuses on the military's assertion that the men were involved in an attack, while NBC News highlights Prime Minister Netanyahu's directive for the lockdown. The framing by both sources emphasizes the severity of the situation following the violence in the occupied territory.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+     "title_en": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack.",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Israel orders \u2018full lockdown\u2019 of West Bank after military kills 2 accused of attack",
+     "title_en": "Israel orders \u2018full lockdown\u2019 of West Bank after military kills 2 accused of attack.",
+     "url": "https://www.nbcnews.com/world/middle-east/israel-orders-west-bank-lockdown-hebron-shooting-attack-rcna605176",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-23",
+   "title": "Former FBI Employees Charged with Lying to Congress in Hunter Biden Inquiries",
+   "sum": "Two former FBI employees face charges for allegedly lying to Congress regarding their investigations into Hunter Biden. This comes amidst ongoing Republican accusations against the FBI concerning the handling of the laptop and related inquiries.",
+   "more": "The charges highlight the contentious relationship between the FBI and Republican lawmakers, who have frequently criticized the bureau's actions related to Hunter Biden. This case may further fuel partisan debates over the integrity and accountability of federal investigations. Different media outlets may frame this as a significant breach of trust or as a politically motivated attack amid the broader discourse on the Biden family.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+     "title_en": "Ex-FBI employees charged with lying to Congress over Hunter Biden inquiries",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149534/justice-fbi-charged-hunter-biden-laptop",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-23",
+   "title": "Military Reinforcements Deployed to Middle East Amid Early Voting in America",
+   "sum": "Military reinforcements are being sent to the Middle East, suggesting a possible attack on Iran. Concurrently, millions of Americans are participating in early voting for the midterm elections.",
+   "more": "The announcement about military reinforcements indicates escalating tensions in the region, as some personnel have begun to withdraw. While the focus is on the potential for conflict, the midterm elections are occurring simultaneously, with significant voter turnout reported. Different media outlets may emphasize the urgency of military preparations or the democratic process of voting, framing the situation in light of national security or civic engagement.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+     "title_en": "Military reinforcements move to Mideast.",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-23",
+   "title": "Pentagon's AI Practices Often Diverge from Guidelines, Report Reveals",
+   "sum": "A congressional watchdog report indicates that the Pentagon's development of AI weapons and projects frequently does not align with its own established guidelines for responsible AI use. This raises concerns about adherence to ethical standards in military AI applications.",
+   "more": "The report highlights discrepancies in how AI is being implemented in defense projects, suggesting a gap between policy and practice. Critics argue that without stringent adherence to ethical guidelines, the risk of unintended consequences significantly increases. Different outlets may emphasize varying aspects of the report, with some focusing on ethical implications while others concentrate on operational effectiveness.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+     "title_en": "The Pentagon's guidelines for 'responsible AI' aren't always followed, report shows",
+     "url": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Netanyahu Orders Total Closure of West Bank Following Hamas Attack",
+   "sum": "Israeli Prime Minister Benjamin Netanyahu has ordered a complete closure of the West Bank after a Hamas attack left two Israeli soldiers dead. The assault also resulted in three injuries.",
+   "more": "The attack involved two armed Palestinian men assaulting a military post in the occupied West Bank. This incident marks an escalation of tension in the region. Various news outlets may highlight the impact of the attack on Israeli-Palestinian relations differently, with some focusing on the military and security consequences while others might emphasize the humanitarian impact on Palestinian civilians.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Netanyahu orden\u00f3 el \u201ccierre total\u201d de Cisjordania tras un ataque de Hamas en el que murieron dos militares israel\u00edes",
+     "title_en": "Netanyahu ordered the 'total closure' of the West Bank after a Hamas attack that killed two Israeli soldiers.",
+     "url": "https://www.lanacion.com.ar/el-mundo/netanyahu-ordeno-el-cierre-total-de-cisjordania-tras-un-ataque-de-hamas-en-el-que-murieron-dos-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Protests Resume in France with Increased Security Measures",
+   "sum": "Protests are returning to the streets of France, with the government deploying over 70,000 security personnel. Authorities are aiming to prevent serious disturbances as up to 500,000 demonstrators are expected.",
+   "more": "The French government, led by President Macron, is taking significant precautions to manage the anticipated protests. There is a strong focus on maintaining order, given previous incidents of severe unrest during demonstrations. Different outlets may emphasize the scale of the protests or the government's security response, but the central theme remains the government's efforts to control the situation.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "La protesta vuelve a la calle en Francia y despliegan m\u00e1s de 70.000 efectivos",
+     "title_en": "Protests Resume in France with Increased Security Measures",
+     "url": "https://www.lanacion.com.ar/el-mundo/la-protesta-vuelve-a-la-calle-en-francia-y-despliegan-mas-de-70000-efectivos-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Latest Poll Indicates Close Race Between Bolsonaro and Lula for Brazil's 2026 Elections",
+   "sum": "Recent polls for the runoff of Brazil's 2026 elections show Flavio Bolsonaro and Lula in a tight contest, with 47% and 46% respectively. A small percentage of voters, 2%, remain undecided.",
+   "more": "The data suggests a highly competitive electoral environment as both candidates vie for the presidency. Variations in polling numbers highlight the challenges each candidate faces in swaying undecided voters. The close margin may intensify campaigning strategies as both candidates aim to secure their support base.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "\u00daltima encuesta del balotaje de las Elecciones Brasil 2026 anticipan que Flavio Bolsonaro y Lula salen 47 a 46",
+     "title_en": "Latest Poll for Brazil's 2026 Elections Shows Bolsonaro and Lula Tied at 47-46",
+     "url": "https://www.lanacion.com.ar/el-mundo/ultima-encuesta-del-balotaje-de-las-elecciones-brasil-2026-anticipan-que-flavio-bolsonaro-y-lula-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "N\u00fa\u00f1ez-Feij\u00f3o Distances Himself from Milei's Attacks on S\u00e1nchez",
+   "sum": "Alberto N\u00fa\u00f1ez-Feij\u00f3o stated that he does not agree with the 'language or forms' used by Milei in attacking S\u00e1nchez. While he appreciates Milei's economic policies, he condemns the insults.",
+   "more": "Feij\u00f3o, the leader of the PP and main candidate to succeed the socialist president, emphasized that he is taking a different approach from Milei. Despite his criticisms, he considers some libertarian economic policies to be sensible. This marks a clear distinction in political rhetoric among candidates, highlighting differing strategies in addressing opposition figures.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Alberto N\u00fa\u00f1ez-Feij\u00f3o dijo que no comparte \u201cni el lenguaje ni las formas\u201d de Milei, tras los ataques a S\u00e1nchez",
+     "title_en": "N\u00fa\u00f1ez-Feij\u00f3o says he disagrees with Milei's language and methods after attacks on S\u00e1nchez",
+     "url": "https://www.lanacion.com.ar/politica/alberto-nunez-feijoo-dijo-que-no-comparte-ni-el-lenguaje-ni-las-formas-de-milei-tras-los-ataques-a-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Princess of Asturias Award: A Day When Messi and Borges Met",
+   "sum": "Felipe VI referenced Jorge Luis Borges at the end of his speech, marking the 40th anniversary of Borges' death. The Argentine footballer, along with Julian Barnes and Patti Smith, received awards.",
+   "more": "The article highlights the significance of the Princess of Asturias Award ceremony, where both cultural and sporting icons were honored. It emphasizes the mention of Borges as a pivotal moment, connecting literature to contemporary figures like Messi. The framing around Messi and Borges varies, with some outlets focusing more on the cultural aspect of Borges while others highlight Messi's athletic achievements.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Premio Princesa de Asturias: el d\u00eda que Messi y Borges coincidieron en la boca del rey de Espa\u00f1a",
+     "title_en": "Princess of Asturias Award: The Day When Messi and Borges Met",
+     "url": "https://www.lanacion.com.ar/cultura/premio-princesa-de-asturias-el-dia-que-messi-y-borges-coincidieron-en-la-boca-del-rey-de-espana-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Controversy Over Melting Statue of Governor Ron DeSantis in Florida",
+   "sum": "A statue of Florida Governor Ron DeSantis melted during a protest regarding climate change, revealing a skull. This incident has sparked significant debate.",
+   "more": "The melting statue was part of a provocative protest aimed at drawing attention to climate issues. While some see the event as a clever form of activism, others argue it may be disrespectful towards the governor. Different media outlets may emphasize the artistic intention behind the protest or the political implications of targeting a prominent figure like DeSantis.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "En Florida: pol\u00e9mica por una estatua del gobernador Ron DeSantis que se derrite y se convierte en esqueleto",
+     "title_en": "In Florida: controversy over a statue of Governor Ron DeSantis that melts and turns into a skeleton. Discover why a statue of Ron DeSantis melted in Florida and exposed a skull during a protest for climate change.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/florida/en-florida-polemica-por-una-estatua-del-gobernador-ron-desantis-que-se-derrite-y-se-convierte-en-nid22102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Kirchnerist Municipality Imposes High Fees and New Registration on Trucks",
+   "sum": "A Kirchnerist municipality led by Mauro Poletti has increased fees for trucks traveling 5 kilometers to up to $62,000 and now requires them to register. Business chambers have referred to this as an internal customs measure.",
+   "more": "The move has sparked controversy among local business groups, who argue that the fees are excessively high and akin to creating a barrier to trade within the region. Some have voiced concerns that this will lead to increased costs for transport and logistics. The municipality's rationale for these fees and registration requirements remains focused on regulation and monitoring of transport activities. The framing of the situation presents it as a government effort to impose stricter controls on transportation, as opposed to merely a revenue-generating measure.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Un municipio kirchnerista cobra hasta $62.000 a los camiones por circular 5 kil\u00f3metros y ahora les exige un registro",
+     "title_en": "A Kirchnerist municipality charges up to $62,000 for trucks to travel 5 kilometers and now requires registration.",
+     "url": "https://www.lanacion.com.ar/economia/un-municipio-kirchnerista-cobra-hasta-62000-a-los-camiones-por-circular-5-kilometros-y-ahora-les-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "New York City Launches Free Food Program for Dogs and Cats",
+   "sum": "Mamdani announced that New York City will provide free food for dogs and cats at 22 locations. The municipal initiative began on October 19 across all five boroughs.",
+   "more": "Families are encouraged to check the hours, requirements, and availability at each center. This program aims to support pet owners in the community. The initiative reflects the city's commitment to animal welfare.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Mamdani anunci\u00f3 que Nueva York dar\u00e1 comida gratis a perros y gatos en 22 puntos de la ciudad",
+     "title_en": "Mamdani announced that New York will provide free food for dogs and cats at 22 locations in the city.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-anuncio-que-nueva-york-dara-comida-gratis-a-perros-y-gatos-en-22-puntos-de-la-ciudad-nid23102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-23",
+   "title": "Ecuador Arrests Former Presidential Candidate Luisa Gonz\u00e1lez for Alleged Money Laundering",
+   "sum": "Luisa Gonz\u00e1lez, a former presidential candidate linked to the corre\u00edsmo political movement, has been arrested in Ecuador on allegations of money laundering. She ran for president in the 2023 and 2025 elections, losing to the current president, Daniel Noboa.",
+   "more": "The arrest highlights ongoing legal issues facing politicians in Ecuador, particularly those associated with corre\u00edsmo. Different news outlets may emphasize the political implications of her arrest, given her previous candidacy and affiliation with a prominent political movement. The framing may vary, with some focusing on corruption in politics, while others highlight the government's crackdown on illegal activities.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Ecuador detiene a la excandidata presidencial del corre\u00edsmo Luisa Gonz\u00e1lez por presunto lavado de activos",
+     "title_en": "Ecuador Arrests Former Presidential Candidate Luisa Gonz\u00e1lez for Alleged Money Laundering",
+     "url": "https://www.latercera.com/mundo/noticia/ecuador-detiene-a-la-excandidata-presidencial-del-correismo-luisa-gonzalez-por-presunto-lavado-de-activos/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-23",
+   "title": "CCTV Footage Captures Gunmen at Scene of Jordan Shooting",
+   "sum": "CCTV footage reportedly shows gunmen at the location of a shooting incident in Jordan. The event took place during a funeral service attended by many people.",
+   "more": "Local media highlight the shocking nature of the shooting, as it occurred in a place of mourning. There is an emphasis on the chaotic atmosphere as the incident unfolded amidst a gathering for a funeral. Different outlets may vary in the level of detail shared about the gunmen and the ongoing investigation.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Watch: CCTV footage appears to show gunmen at site of Jordan shooting",
+     "title_en": "Watch: CCTV footage appears to show gunmen at site of Jordan shooting",
+     "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-23",
+   "title": "Chancellor Aims to Reduce Bureaucracy to Save Businesses",
+   "sum": "The Chancellor is set to implement changes designed to minimize unnecessary paperwork for businesses. These regulatory adjustments are projected to save companies up to \u00a3800 million.",
+   "more": "Ministers have emphasized that the overhaul of regulations is aimed at alleviating burdens on businesses. The focus on cutting 'pointless paperwork' underscores an effort to boost economic efficiency. However, some may question whether all reductions in bureaucracy will truly benefit companies in practical terms.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to \u00a3800m",
+     "title_en": "Chancellor plans to cut 'pointless paperwork' to save businesses up to \u00a3800m",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-23",
+   "title": "UK's AI Minister Advocates for Broad Involvement in AI Development",
+   "sum": "UK's AI Minister Kanishka Narayan emphasizes the need for regulation and the development of skills in managing artificial intelligence technology. He warns against allowing a small group of tech leaders to control AI advancements.",
+   "more": "Narayan highlights that effective engagement with AI requires a collaborative approach that includes diverse stakeholders. He suggests that merely regulating the technology is insufficient; building public and institutional capacity is essential. This approach aims to ensure that AI benefits are widely shared and not monopolized by a few individuals or corporations.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
+     "title_en": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
+     "url": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-10-23",
+   "title": "Export Initiative Aims to Revitalize South Korea's Mining Towns",
+   "sum": "An export push is underway to revitalize South Korea's depopulated mining towns, particularly in Gangwon Province. This initiative seeks to create new economic opportunities in areas affected by the decline of coal mining.",
+   "more": "The article highlights the challenges these towns face, including dwindling populations and derelict infrastructure. The strategy involves leveraging local resources and promoting exports to stimulate growth. Different media outlets may vary in focus, with some emphasizing community efforts while others may spotlight government policy implications.",
+   "coverage": [
+    {
+     "outlet": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+     "title": "Export push seeks to breathe new life into Korea's hollowed-out mining towns - The Korea Times",
+     "title_en": "Export push seeks to breathe new life into Korea's hollowed-out mining towns",
+     "url": "https://www.koreatimes.co.kr/business/companies/20261024/export-push-seeks-to-breathe-new-life-into-koreas-hollowed-out-mining-towns",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-10-23",
+   "title": "FDI Trends in China Indicate Stabilization",
+   "sum": "Foreign direct investment inflows into China have shown a clearer trend of stabilization during the first three quarters. This trend reflects an increase in investor confidence regarding the country's long-term economic prospects.",
+   "more": "The report highlights that the innovation-driven growth in China is contributing to the continued appeal of the market for foreign investors. There are indications that this stabilization may lead to an upsurge in investor activities in the future. Different media outlets may emphasize varying aspects of the FDI trends, focusing on certain economic sectors or geopolitical factors affecting investment decisions.",
+   "coverage": [
+    {
+     "outlet": "\u4e2d\u56fd\u65e5\u62a5",
+     "title": "FDI shows clearer trend of stabilization",
+     "title_en": "FDI shows clearer trend of stabilization",
+     "url": "https://www.chinadaily.com.cn/a/202610/23/WS6adab5ade4b06d4aa0564562.html",
+     "bias": null,
+     "src": "state"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-23",
+   "title": "Mass Protests in Poland Demand Access to Free and Legal Abortions",
+   "sum": "Thousands participated in protests across Poland, marking the sixth anniversary of a strict abortion ban. The demonstrations highlight ongoing public demand for reproductive rights.",
+   "more": "Protesters expressed their frustration over the imposition of the near-total abortion ban by Poland's highest court. The anniversary has sparked renewed calls for legislative changes and access to safe abortions. Different outlets may emphasize varying aspects of the protests, such as the historical context or the emotional stories of individuals affected by the law.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands protest across Poland for access to free and legal abortions",
+     "title_en": "Thousands protest across Poland for access to free and legal abortions.",
+     "url": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-23",
+   "title": "Venezuelans Call for Elections in First National Protest in Nearly Two Years",
+   "sum": "Venezuelans are calling for elections amid a national protest, marking their first significant demonstration in nearly two years. The capture of former president Nicolas Maduro by US forces has intensified demands for a successor.",
+   "more": "The protest highlights growing frustrations among the Venezuelan population regarding the political situation since Maduro's capture. Al Jazeera emphasizes the lack of a set date for new elections, indicating uncertainty in the political landscape. The framing focuses on the urgent need for democratic processes to restore stability, reflecting the sentiments of the protesters.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Venezuelans demand elections in first national protest in nearly two years",
+     "title_en": "Venezuelans demand elections in first national protest in nearly two years",
+     "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-23",
+   "title": "Macron to Meet Student Groups Amid Ongoing Protests in France",
+   "sum": "French President Macron is set to meet student representatives for the first time on Friday. This meeting comes ahead of anticipated further protests in the country.",
+   "more": "The meeting is a significant step as it marks Macron's engagement with student groups amid escalating tensions over various issues. Different outlets may frame the protests as either a response to governmental policies or broader societal concerns, highlighting the complexity of the situation in France. The focus on student involvement suggests a potential shift in the dynamics of the protests, as youth voices gain prominence in the national discourse.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Macron to meet student groups: Where are France\u2019s protests heading?",
+     "title_en": "Macron to meet student groups: Where are France\u2019s protests heading?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-23",
+   "title": "Serbia's Snap Election: Student-Led Challenge to Vucic's Power",
+   "sum": "A snap parliamentary election is set for October 25 in Serbia, focusing on the potential for a student-led group to challenge President Vucic's authority. The outcome may have significant implications for the political landscape.",
+   "more": "The election is being closely monitored due to its potential to alter the current power dynamics within Serbia. Vucic's administration has faced criticism, prompting student groups to mobilize in hopes of affecting change. Various media outlets emphasize different aspects: some highlight the role of youth activism, while others stress the implications for stability in the region.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Serbia\u2019s snap election: What\u2019s at stake and can students unseat Vucic?",
+     "title_en": "Serbia\u2019s snap election: What\u2019s at stake and can students unseat Vucic?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-23",
+   "title": "Uncertainty Surrounds President Biya's Future Leadership in Cameroon",
+   "sum": "Cameroonians are questioning President Paul Biya's potential successors as he returns to the country. The focus is particularly on who he will appoint as vice president.",
+   "more": "The speculation around Biya's choices reflects broader concerns about governance and succession in Cameroon. Observers are keenly watching the political dynamics that may unfold as Biya's tenure continues. The discussions highlight the anticipation and uncertainty within the country's political landscape as well as the impact of Biya's decisions on future leadership.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "As President Paul Biya returns to Cameroon, can he still rule?",
+     "title_en": "As President Paul Biya returns to Cameroon, can he still rule?",
+     "url": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-23",
+   "title": "Hundreds Plan Protest Against Palestine Action Ban at US Embassy",
+   "sum": "Hundreds of campaigners are set to defy a ban on Palestine Action by staging a mass protest at the US embassy in London. The demonstration coincides with a Supreme Court hearing regarding the group's classification as a 'terrorist' organization.",
+   "more": "The planned protest is framed as a significant act of defiance against the legal challenges faced by Palestine Action. The emphasis on the Halloween timing suggests a theatrical element to the protest, possibly to draw attention to their cause. Different outlets may highlight varying aspects of the protest, including the legal implications or the broader political context surrounding Palestine Action's activities.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+     "title_en": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+     "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "First Human Case of Obscure Livestock Virus Reported in France",
+   "sum": "French officials have announced the first known case of Shamonda virus detected in a human. Unfortunately, the individual did not survive the infection.",
+   "more": "The Shamonda virus is typically associated with livestock, and its detection in a human raises concerns about zoonotic diseases. Various health authorities are likely to monitor the situation closely to understand the implications of this case. While there are no reports of other infections, this incident emphasizes the need for vigilance in public health regarding animal-borne viruses.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "An Obscure Livestock Virus Has Been Found in a Human for the First Time\u2014and He Didn\u2019t Survive",
+     "title_en": "An Obscure Livestock Virus Has Been Found in a Human for the First Time\u2014and He Didn\u2019t Survive.",
+     "url": "https://gizmodo.com/an-obscure-livestock-virus-has-been-found-in-a-human-for-the-first-time-and-he-didnt-survive-2000829961",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Limoges City Hall Ruins Reflect Division Amid National Protests in France",
+   "sum": "The ruins of Limoges city hall embody the divisions within France as national protests unfold. Younger residents view the damage as a regrettable consequence of a broader movement, while others regard it as a tragic loss.",
+   "more": "The contrasting perspectives on the destruction highlight generational divides in the community. Some young people see the protests as vital for change and the damage to the town hall as secondary. In contrast, older residents view the fire as a significant and unacceptable loss to their heritage. This incident illustrates the complexities and differing interpretations of protest actions within France.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "title_en": "Ruins of Limoges city hall a symbol of France divided by national protests",
+     "url": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Launch of iPhone Duo Brings Limited Availability",
+   "sum": "Apple's first foldable smartphone, the iPhone Duo, has officially launched. Customers are receiving pre-orders, but supply remains very limited.",
+   "more": "The article discusses the challenges surrounding the availability of the iPhone Duo, highlighting that those who did not pre-order may still find opportunities to purchase it in stores, although stock is constrained. Different outlets may emphasize various aspects of the launch, such as the innovative design or anticipated consumer demand. Some may frame it as a significant technology advancement, while others could focus on the supply chain issues affecting availability.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times",
+     "title_en": "Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times",
+     "url": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Top 10 Airlines for First Class Travel Ranked by Passengers",
+   "sum": "Skytrax's World Airline Awards have ranked the best airlines for first class travel based on passenger feedback. This list highlights the airlines that provide outstanding first-class experiences.",
+   "more": "Different airlines may emphasize various aspects of first class service, such as comfort, amenities, and customer service. While one outlet may focus on the luxury of seating arrangements, another might highlight the quality of in-flight meals or the attentiveness of the staff. Overall, the rankings are reflective of passenger satisfaction across multiple criteria.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "The world's best airlines to fly first class, ranked by passengers",
+     "title_en": "The world's best airlines to fly first class, ranked by passengers",
+     "url": "https://www.businessinsider.com/best-first-class-airlines-ranking-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Elon Musk's Influence Extends Beyond Tesla",
+   "sum": "Elon Musk's reach encompasses significant power beyond his individual companies, particularly highlighted by the situation in Ukraine. His influence is evident in corporate valuations and technological advancements.",
+   "more": "The article emphasizes Musk's growing prominence in global affairs, suggesting that his decisions now resonate far beyond the realms of his companies. This framing portrays him not just as a businessman but as a key player in international matters. Other sources may highlight different aspects of his influence, such as public perception and political implications.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Elon Musk's power now extends far beyond Tesla, and Ukraine shows why",
+     "title_en": "Elon Musk's power now extends far beyond Tesla, and Ukraine shows why.",
+     "url": "https://finance.yahoo.com/technology/article/how-elon-musk-went-from-tesla-ceo-to-the-most-powerful-civilian-non-governmental-actor-in-history-100000227.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Trump Reveals Renovated Reflecting Pool with Security Cameras",
+   "sum": "President Trump announced the renovations of the Lincoln Memorial Reflecting Pool, which is currently being filled with water. The project includes the installation of anti-vandalism cameras.",
+   "more": "The renovations have been a point of ongoing attention for the administration, reflecting the significance of the landmark. Trump's comments emphasize both the aesthetic improvements and the measures taken to protect the site. Coverage may vary, with some outlets focusing on the security aspect while others highlight the restoration efforts.",
+   "coverage": [
+    {
+     "outlet": "Newsweek",
+     "title": "President Trump unveils renovated Reflecting Pool with anti-vandal cameras",
+     "title_en": "Trump Unveils Renovated Reflecting Pool with Anti-Vandal Cameras",
+     "url": "https://www.newsweek.com/donald-trump-unveils-renovated-reflecting-pool-with-anti-vandal-cameras-12609851",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Major Music Stars Embrace Residencies",
+   "sum": "Top musicians such as Harry Styles and Celine Dion are increasingly opting for residency performances. These events attract large audiences, as seen with Styles' shows at Madison Square Garden.",
+   "more": "Harry Styles' 30-date residency has made a significant impact, drawing tens of thousands of fans to New York City. The allure of these performances lies in their exclusivity and the unique experience they offer. Similarly, Celine Dion's long-running residency has been a major draw in Las Vegas, illustrating the trend's popularity. While some outlets emphasize the financial benefits for artists, others highlight the deeper connection these shows foster between performers and audiences.",
+   "coverage": [
+    {
+     "outlet": "Ap.org",
+     "title": "Major music stars like Harry Styles and Celine Dion are embracing residencies. Here\u2019s why",
+     "title_en": "Major music stars like Harry Styles and Celine Dion are embracing residencies.",
+     "url": "https://newsroom.ap.org/detail/Why%20big%20music%20stars%20like%20Harry%20Styles%20and%20Celine%20Dion%20are%20embracing%20residencies/6ffeeffb46fbc81a4c4a30f10babd4a1/text",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Pre-installed Malware Found on Inexpensive Android Phones",
+   "sum": "A malware campaign named Midnight Mimosa has been discovered on cheap Android phones. This malware can provide attackers with significant access to the device even before the owners activate them.",
+   "more": "The findings were reported by Fox News, highlighting the risks associated with low-cost phones. The Midnight Mimosa malware targets the firmware of these devices, raising concerns about security in the budget smartphone market. There is no indication from other news outlets regarding alternative sources or differing perspectives on this issue, indicating a consensus on the malware's threat.",
+   "coverage": [
+    {
+     "outlet": "Fox News",
+     "title": "Cheap Android phones found with malware already installed",
+     "title_en": "Cheap Android phones found with malware already installed",
+     "url": "https://www.foxnews.com/tech/cheap-android-phones-found-malware-already-installed",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Arkane Lyon Facing Potential Closure Amid Ongoing Marvel's Blade Development",
+   "sum": "Arkane Lyon may face closure in mid-November if a buyer isn't found while continuing to work on Marvel's Blade. The situation poses uncertainty for the studio's 217 employees.",
+   "more": "The report highlights the precarious situation at Arkane Lyon, where the development of Marvel's Blade continues against a backdrop of potential shutdown. The future of the studio depends on finding a buyer, which adds pressure to the ongoing project. Different outlets may focus on varying aspects of Arkane Lyon's efforts in game development or the implications of the potential closure for employees.",
+   "coverage": [
+    {
+     "outlet": "IGN",
+     "title": "Arkane Lyon Reportedly Could Be Closed in Mid-November if a Buyer Isn't Found, With Marvel's Blade Still in Development",
+     "title_en": "Arkane Lyon Reportedly Could Be Closed in Mid-November if a Buyer Isn't Found, With Marvel's Blade Still in Development",
+     "url": "https://www.ign.com/articles/xbox-wants-to-close-arkane-lyon",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Bitchat Surges in Popularity in France During Riots and Network Issues",
+   "sum": "Jack Dorsey's Bitchat has become the most popular social app in France, coinciding with recent riots and mobile network outages. This surge in interest follows a ban on the app in India.",
+   "more": "The rise of Bitchat in France appears to be tied to the current social unrest and connectivity challenges faced by users. Unlike in India, where the app has been banned, its usage in France is soaring as people turn to it for communication. This situation highlights differing regulatory environments for social media across countries and the varying user responses to such events.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Jack Dorsey\u2019s Bitchat Becomes France\u2019s Top Social App Amid Riots and Mobile Network Outage",
+     "title_en": "Jack Dorsey\u2019s Bitchat Becomes France\u2019s Top Social App Amid Riots and Mobile Network Outage",
+     "url": "https://gizmodo.com/jack-dorseys-bitchat-becomes-frances-top-social-app-amid-riots-and-mobile-network-outage-2000829670",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Photos of the Week: Highlights from Around the World",
+   "sum": "This week's collection of photos features a variety of events and scenes from different countries. Highlights include a large Hindu festival in India and preparations for Brazil's presidential runoff election.",
+   "more": "Additional images capture the effects of wildfires in Indonesia, Halloween festivities in Los Angeles, and a newborn giraffe in Germany. The framing across different media may emphasize the cultural significance of the Hindu festival or the political atmosphere surrounding the elections in Brazil. The environmental impact of wildfires might be highlighted in some outlets, while others could focus more on the lighthearted aspects of Halloween or the adorable new giraffe.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
+     "title_en": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
+     "url": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-foam-fight-santa-dance-orangutan-escape/689117/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-23",
+   "title": "Questions Arise Over French Sovereign Bond Yields",
+   "sum": "Economists in a macroeconomic strategy review are puzzled by the current state of French sovereign bond yields. There is a lack of understanding and clarity on the appropriate response to this situation.",
+   "more": "The meeting revealed a significant gap in knowledge regarding the reasons behind the fluctuations in bond yields. Participants expressed concern about their inability to formulate effective strategies in light of this uncertainty. This situation calls for an urgent review of economic policies to address the challenges facing the French economy. Different outlets may focus on various aspects of the issue, with some emphasizing the need for immediate action while others suggest a longer-term strategy.",
+   "coverage": [
+    {
+     "outlet": "Wilsoniumite.com",
+     "title": "France needs to read my paper",
+     "title_en": "France needs to read my paper",
+     "url": "https://wilsoniumite.com/2026/10/23/france-needs-to-read-my-paper/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-23",
+   "title": "Interior Ministry Warns of Jihadist Call to Attack in Spain",
+   "sum": "The Spanish Interior Ministry has issued a warning about a jihadist call to attack police and protesters in Spain. This alert follows the detection of a publication on a website associated with ISIS.",
+   "more": "The Spanish Cybersecurity Coordination Office identified an incitement to take advantage of protests occurring in several European countries for potential attacks. In response to this threat, the Mossos d'Esquadra, the police body in Catalonia, has increased security measures. Different outlets emphasize the connection of the threat to ongoing protests, highlighting both the scope of the warning across multiple countries and the specific focus on Spain.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "Interior alerta de un llamamiento yihadista a atacar a polic\u00edas y manifestantes en Espa\u00f1a",
+     "title_en": "Interior Ministry Alerts to Jihadist Call to Attack Police and Protesters in Spain.",
+     "url": "https://www.elmundo.es/madrid/2026/10/23/6adb70fbe9cf4afb108b459d.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Mundodeportivo.com",
+     "title": "Interior alerta de un llamamiento yihadista a atentar en Espa\u00f1a y los Mossos refuerzan la seguridad",
+     "title_en": "Interior Ministry Warns of Jihadist Call to Attack in Spain and Mossos Reinforce Security.",
+     "url": "https://www.mundodeportivo.com/actualidad/20261024/1004242629/ministerio-interior-alerta-llamamiento-yihadista-cometer-atentados-espana-manifestaciones-mossos-refuerzan-medidas-seguridad-agentes-dct.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-23",
+   "title": "U.S. Government Halts Evidence Sharing on ICE Shootings with Minnesota Officials",
+   "sum": "Minnesota officials report that the federal government has ceased to share evidence regarding fatal shootings involving ICE agents. This lack of communication raises concerns about accountability and transparency in such cases.",
+   "more": "The shift in evidence sharing has left Minnesota authorities in a challenging position as they investigate the incidents. Some officials express frustration over the lack of cooperation from the federal level, while others believe it undermines the accountability necessary for public trust. The decision might reflect broader tensions between state and federal authorities regarding immigration enforcement in the region.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Minnesota officials say U.S. government stopped sharing evidence on fatal ICE shootings",
+     "title_en": "U.S. Government Halts Evidence Sharing on ICE Shootings with Minnesota Officials",
+     "url": "https://www.yahoo.com/news/us/articles/minnesota-officials-us-government-stopped-124647149.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-23",
+   "title": "Mass Effect Fans Advocate for EA Boycott Over Canceled BioWare Game",
+   "sum": "Fans of the Mass Effect series are urging a boycott of EA products following the company's decision to close BioWare and cancel an upcoming game in the franchise. A petition to save the canceled title has over 75,000 signatures.",
+   "more": "The strong reaction from fans highlights their loyalty to the Mass Effect series and concern over BioWare's future. The petition reflects widespread frustration among the community regarding EA's treatment of the studio. Different media outlets may emphasize the passionate nature of the fandom or the implications for EA's business practices, but the core message remains focused on the desire to support BioWare and its projects.",
+   "coverage": [
+    {
+     "outlet": "IGN",
+     "title": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
+     "title_en": "Mass Effect Fans Call for EA Boycott as Petition to Save BioWare's Canceled Game Garners More than 75,000 Signatures",
+     "url": "https://www.ign.com/articles/mass-effect-fans-call-for-ea-boycott-as-petition-to-save-biowares-canceled-game-garners-more-than-75000-signatures",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-23",
+   "title": "Weekly Photo Highlights: Diverse Global Events",
+   "sum": "This week's featured photos capture a range of events from around the world including a large Hindu festival in India and preparations for a presidential election in Brazil. Additional highlights include Halloween festivities in Los Angeles and a newborn giraffe in Germany.",
+   "more": "The coverage showcases the vibrancy of societal and cultural events such as a foam fight and a Santa dance, reflecting different regional traditions. While some outlets emphasize the festivities like Halloween and the Hindu festival, others focus on significant political events like Brazil's presidential runoff. The juxtaposition of wildlife, such as the newborn giraffe, against human celebrations illustrates the diversity of experiences captured this week. The framing varies, with some publications focusing more on the unique cultural aspects and others on global political preparations.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
+     "title_en": "Photos of the Week: Foam Fight, Santa Dance, Orangutan Escape",
+     "url": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-foam-fight-santa-dance-orangutan-escape/689117/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-23",
+   "title": "The Armageddon Economy and the Escape Plans of Tech Leaders",
+   "sum": "The article examines the differing perspectives on future crises among tech leaders compared to the general public. It highlights the escape plans of these leaders amidst concerns of impending societal collapse.",
+   "more": "The framing in The Atlantic suggests a divide between the wealthy tech leaders who have measures in place to safeguard their futures and the average person who may be left vulnerable. The piece raises questions about inequality and the societal implications of such disparity in preparedness. It critiques the contrasting mindsets regarding risk and survival in an economic landscape perceived as unstable.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "The Armageddon Economy",
+     "title_en": "The Armageddon Economy",
+     "url": "https://www.theatlantic.com/podcasts/2026/10/zealousness-new-tech-right/689124/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-23",
+   "title": "Reflections on a Pivotal Moment",
+   "sum": "The author shares a personal experience about a significant moment that occurred on August 1. They reflect on the preceding week filled with little sleep and the weight of the upcoming year.",
+   "more": "The narrative emphasizes the emotional impact of being the first to wake up during this crucial time. The author hints at dreams and thoughts that occupied their mind, suggesting a sense of urgency or anticipation about the future. The tone is introspective, focusing on personal feelings and implications rather than external events.",
+   "coverage": [
+    {
+     "outlet": "Lesswrong.com",
+     "title": "I Did This Without Your Knowledge",
+     "title_en": "I Did This Without Your Knowledge",
+     "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-23",
+   "title": "Trump Administration to Challenge Alaska Senate Race Results",
+   "sum": "The Trump administration is seeking to prevent the certification of Alaska's Senate race results if Republican Senator Dan Sullivan narrowly loses. This request is based on the concern that votes for another candidate sharing the same name could alter the election outcome.",
+   "more": "Attorney General Todd Blanche defended the Justice Department's lawsuit regarding the potential blocking of the Senate results during an interview on CNN. This legal action highlights tensions surrounding election integrity and candidate identity in closely contested races. The framing differs slightly between outlets, with Newsweek focusing on the administration's direct involvement and NPR emphasizing the legal defense from the Justice Department.",
+   "coverage": [
+    {
+     "outlet": "Newsweek",
+     "title": "Trump admin. seeks to block Alaska Senate result if Dan Sullivan narrowly loses",
+     "title_en": "Trump admin. seeks to block Alaska Senate result if Dan Sullivan narrowly loses.",
+     "url": "https://www.newsweek.com/trump-admin-seeks-to-block-alaska-senate-result-if-dan-sullivan-loses-12609148",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+     "title_en": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-23",
+   "title": "Midterm Elections 2026: Last Push for House Candidates",
+   "sum": "Democratic and Republican candidates are making final efforts to sway voters ahead of the upcoming midterm elections. With the elections approaching in less than two weeks, both parties are strategizing to maximize their chances of success.",
+   "more": "According to reports, Democrats seem favored to gain control of the House, but Republicans believe they still have a viable path to victory. The campaign strategies focus on engaging voters at the local level, highlighting key issues that resonate in various districts. While Democratic candidates emphasize their party's platform and achievements, Republicans are seeking to capitalize on voter concerns regarding safety and the economy. This period is crucial as it may influence the overall outcome of the elections.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Democrats are favored to flip the House, but Republicans still have a path to victory",
+     "title_en": "Democrats are favored to flip the House, but Republicans still have a path to victory",
+     "url": "https://www.yahoo.com/news/politics/article/midterms-2026-will-republicans-or-democrats-win-control-of-the-house-these-are-the-key-races-to-watch-170805806.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-23",
+   "title": "Trump Administration Files Lawsuit to Prevent Potential Democratic Victory in Alaska",
+   "sum": "The Trump administration has initiated legal action aimed at blocking a possible Democratic win in Alaska. This lawsuit raises questions about potential interference by the administration in the midterm elections.",
+   "more": "The article highlights the implications of the lawsuit for the upcoming midterms, suggesting it could be part of a broader strategy to influence electoral outcomes. It raises concerns among commentators regarding the integrity of the electoral process. Furthermore, there is a sense of urgency in how this legal battle might impact voters in Alaska.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Trump administration sues to block possible Democratic win in Alaska",
+     "title_en": "Trump administration sues to block possible Democratic win in Alaska",
+     "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-23",
+   "title": "Major Crypto Super PAC Channels Funds to Former Trump Official's Firm for Democratic Support",
+   "sum": "The Fellowship PAC has directed over half a million dollars in support of Democrats through a firm associated with Bo Hines, a former advisor to Trump. This has raised questions about the motivations behind the funding.",
+   "more": "The financial ties between a former Trump official and a PAC supporting Democrats have garnered attention, suggesting a complex political maneuvering within the crypto sector. Different outlets may focus on the implications of a former Trump advisor supporting Democrats, potentially framing it as a surprising or strategic shift in political alliances. Further analysis may also consider the impact of crypto funding on party dynamics and electoral strategies.",
+   "coverage": [
+    {
+     "outlet": "The Intercept",
+     "title": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official\u2019s Firm to Support\u2026 Democrats?",
+     "title_en": "Giant Crypto Super PAC Funnels Big Money to Former Trump Official\u2019s Firm to Support\u2026 Democrats?",
+     "url": "https://theintercept.com/2026/10/23/crypto-donations-democrats-elections-bo-hines/",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-23",
+   "title": "The Stakes of Brazil\u2019s Presidential Election",
+   "sum": "The article discusses the influence of U.S. interests on Brazil's political landscape in the context of its presidential election. It critiques the export of unfavorable ideas from the U.S. to Brazil.",
+   "more": "The piece argues that these exported ideas aim to align Brazil more closely with U.S. interests, often at the expense of the country's well-being. The author expresses concern over the implications these influences could have on Brazil's future. Different media outlets may emphasize varying aspects of foreign influence and its potential consequences for Brazilian democracy.",
+   "coverage": [
+    {
+     "outlet": "The Intercept",
+     "title": "The Stakes of Brazil\u2019s Presidential Election",
+     "title_en": "The Stakes of Brazil\u2019s Presidential Election",
+     "url": "https://theintercept.com/2026/10/23/brazil-president-election-lula-bolsonaro-meta/",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-23",
+   "title": "New Jersey Early Voting Starts Saturday",
+   "sum": "Early voting for the midterm elections in New Jersey is set to begin on Saturday. Voters in Hoboken are already lining up to cast their ballots.",
+   "more": "This article provides a comprehensive guide for voters in New Jersey as they prepare for the 2026 midterm elections. It details the early voting process and what voters should know before heading to the polls. The framing emphasizes the readiness of voters and the importance of participating in the elections.",
+   "coverage": [
+    {
+     "outlet": "Gothamist",
+     "title": "NJ early voting begins Saturday. Here's everything you need to know.",
+     "title_en": "NJ early voting begins Saturday. Here's everything you need to know.",
+     "url": "https://gothamist.com/news/nj-early-voting-begins-saturday-heres-everything-you-need-to-know",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
