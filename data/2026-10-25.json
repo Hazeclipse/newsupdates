@@ -1,6 +1,6 @@
 {
  "date": "2026-10-25",
- "updated": "Oct 27, 07:50 UTC",
+ "updated": "Oct 27, 16:08 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -877,6 +877,221 @@
      "title_en": "9th Circuit panel questions basis for feds' request to block 20,000 California ballots",
      "url": "https://www.yahoo.com/news/politics/articles/9th-circuit-panel-questions-basis-225404439.html",
      "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-25",
+   "title": "US Marine Indicted for Murder and Robbery in Japan",
+   "sum": "A U.S. Marine in Okinawa faces indictment for murder and robbery. The case has sparked significant outrage in Japan.",
+   "more": "Devin Jacob Ballard, the accused, is a 20-year-old Marine whose actions have drawn attention in both the local and international media. Reports indicate that the incident has caused public outcry, highlighting the tensions surrounding U.S. military presence in Japan. Both ABC News and BBC News emphasize the serious nature of the charges, though BBC News underscores the outrage specifically among the Japanese population.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "US Marine indicted in alleged Okinawa robbery homicide",
+     "title_en": "US Marine indicted in alleged Okinawa robbery homicide",
+     "url": "https://abcnews.com/International/us-marine-indicted-alleged-okinawa-robbery-homicide/story?id=137553792",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "US Marine indicted for murder and robbery of woman in Japan",
+     "title_en": "US Marine indicted for murder and robbery of woman in Japan",
+     "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-25",
+   "title": "Government's Goal to Eliminate Rough Sleeping by Christmas",
+   "sum": "The government aims to end rough sleeping by the upcoming Christmas season. This ambitious target raises questions about the feasibility of achieving it.",
+   "more": "Different media outlets have varying levels of skepticism regarding the government's timeline. While some express hope that the initiative could bring about significant change, others are concerned about the lack of concrete plans to support the target. The discussion highlights the challenges of addressing homelessness effectively within a limited timeframe.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Can The Government End Rough Sleeping By Christmas?",
+     "title_en": "Can The Government End Rough Sleeping By Christmas?",
+     "url": "https://www.bbc.co.uk/sounds/play/p0pjpwl7?at_campaign_type=owned&amp;at_medium=display_ad&amp;at_ptr_name=bbc",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-25",
+   "title": "NFL Week 7 Open Thread Discussions",
+   "sum": "Several outlets discuss the anticipation and excitement surrounding the NFL Week 7 games. Fans are encouraged to share their thoughts and engage in discussions about the matches.",
+   "more": "Mile High Report focuses on specific teams like the Steelers and Texans while evaluating the potential threats posed by the Bengals and Ravens to playoff seeding. Hogs Haven presents a more relaxed view, inviting fans to simply enjoy the games without stress. Windy City Gridiron encourages comprehensive discussion about all the games of the week, fostering a broader dialogue among fans.",
+   "coverage": [
+    {
+     "outlet": "Mile High Report",
+     "title": "Week 7 Early Games Open Thread",
+     "title_en": "Week 7 Early Games Open Thread",
+     "url": "https://www.milehighreport.com/denver-broncos-discussion/189851/week-7-early-games-open-thread",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Hogs Haven",
+     "title": "NFL Week 7: Stress-free Sunday open thread",
+     "title_en": "NFL Week 7: Stress-free Sunday open thread",
+     "url": "https://www.hogshaven.com/openthread/450616/nfl-week-7-stress-free-sunday-open-thread",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Windy City Gridiron",
+     "title": "NFL Week 7 Game Discussion and Open Thread",
+     "title_en": "NFL Week 7 Game Discussion and Open Thread",
+     "url": "https://www.windycitygridiron.com/general/126118/nfl-week-7-game-discussion-and-open-thread-steelers-cowboys-packers-lions",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-25",
+   "title": "How to Watch Steelers vs. Saints on October 25, 2026",
+   "sum": "The upcoming NFL matchup between the Saints and the Steelers is set for Sunday, October 25, 2026, at Stade de France in Saint-Denis, France. The game will begin at 9:30 AM EDT.",
+   "more": "Fox Sports provides details on how to watch the game, including TV channel and live stream information. Behind the Steel Curtain also shares viewing options but does not provide as much context about the game's location. While both articles offer guidance on watching the match, the tone and depth of information vary slightly between the two outlets.",
+   "coverage": [
+    {
+     "outlet": "Fox Sports",
+     "title": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
+     "title_en": "How to Watch Steelers vs. Saints: TV Channel, Live Stream, Time - October 25, 2026",
+     "url": "https://www.foxsports.com/stories/nfl/how-to-watch-steelers-vs-saints-tv-channel-live-stream-time-october-25-2026",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Behind the Steel Curtain",
+     "title": "How to watch Steelers vs. Saints",
+     "title_en": "How to watch Steelers vs. Saints",
+     "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-game-information/176852/how-to-watch-steelers-vs-saints",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-25",
+   "title": "NFL's Historic Game in France: Steelers vs. Saints",
+   "sum": "The NFL is set to hold its inaugural game in France during Week 7, featuring the Steelers and the Saints. Fans are excited for this milestone event in Paris.",
+   "more": "Discussion around the game emphasizes its significance for the NFL's international expansion. While one outlet highlights the historic nature of the event, another invites fans to engage in a game day chat, focusing on the communal experience of watching the game. This framing showcases the excitement surrounding the match while also emphasizing the local fan experience.",
+   "coverage": [
+    {
+     "outlet": "Bleeding Green Nation",
+     "title": "Steelers vs. Saints: NFL Week 7 in Paris discussion",
+     "title_en": "Steelers vs. Saints: NFL Week 7 in Paris discussion.",
+     "url": "https://www.bleedinggreennation.com/game-day-threads/188083/steelers-vs-saints-nfl-week-7-in-paris-discussion",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Behind the Steel Curtain",
+     "title": "Steelers vs. Saints: Week 7 game chat",
+     "title_en": "Steelers vs. Saints: Week 7 game chat.",
+     "url": "https://www.behindthesteelcurtain.com/pittsburgh-steelers-discussion/176754/steelers-vs-saints-week-7-game-chat",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-25",
+   "title": "Massive Protests Erupt Against Netanyahu in Tel Aviv Prior to Elections",
+   "sum": "A significant protest against Prime Minister Benjamin Netanyahu has occurred in Tel Aviv as the Israeli parliamentary election approaches. Organizers claim over 100,000 participants demanded accountability from the government regarding security failures preceding the recent Hamas attack.",
+   "more": "The protests were characterized by calls for a state commission of inquiry into the government's handling of security issues. Participants expressed outrage over perceived governmental negligence. In different reporting, some outlets focused on the scale of the protests while others emphasized specific grievances related to the government's actions leading up to the attack.",
+   "coverage": [
+    {
+     "outlet": "Rt-english.com",
+     "title": "Thousands protest against Netanyahu ahead of Israeli election (VIDEO)",
+     "title_en": "Thousands protest against Netanyahu ahead of Israeli election (VIDEO)",
+     "url": "https://rt-english.com/news/647629-israel-netanyahu-protest-election/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Naturalnews.com",
+     "title": "Hundreds Protest at Meta\u2019s Sao Paulo Office Over Brazil Election Moderation",
+     "title_en": "Decenas de miles de israel\u00edes protestan contra Netanyahu antes de las elecciones (VIDEOS)",
+     "url": "https://www.naturalnews.com/2026-10-25-hundreds-protest-meta-platforms-office-sao-paulo.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "Decenas de miles de israel\u00edes protestan contra Netanyahu antes de las elecciones (VIDEOS)",
+     "title_en": "Decenas de miles de israel\u00edes protestan contra Netanyahu antes de las elecciones (VIDEOS)",
+     "url": "https://actualidad-rt.com/actualidad/634126-decenas-miles-israelies-protestan-netanyahu",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Blanche Defends DOJ Lawsuit Concerning Alaska Senate Race",
+   "sum": "Attorney General Todd Blanche has spoken out in favor of the Justice Department's lawsuit aimed at blocking the certification of Alaska's Senate election results in the event of a Republican loss. His comments were made during an interview on CNN.",
+   "more": "The Justice Department's lawsuit revolves around the outcomes of the Alaska Senate race, which is crucial for both parties. Blanche emphasized that the DOJ's actions are intended to uphold electoral integrity. Meanwhile, other narratives have emerged, particularly from CNBC, which focuses on the lawsuit being ordered by Trump and highlights the absence of connections to Democratic figures like Daniel J. Sullivan. This suggests a divide in framing the issue between those defending the lawsuit and those questioning the motivations behind it.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+     "title_en": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses.",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CNBC",
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "title_en": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification.",
+     "url": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-25",
+   "title": "Iranians Anxious Amid U.S. and Israeli Election Uncertainties",
+   "sum": "With elections approaching in the United States and Israel, many Iranians are concerned about the potential for war. Despite facing economic challenges and military pressures, the Iranian leadership maintains a defiant stance.",
+   "more": "Both articles highlight the rising anxiety among Iranians living in Tehran due to the looming threat of war as elections draw near. While ABC News emphasizes the general fear of all-out war, The Times of India also details how citizens are responding by stockpiling food in anticipation of potential conflict. The framing in the Times of India introduces a more personal perspective on the citizens' anxiety and actions, contrasting with the broader focus of ABC News on political uncertainty. Overall, there is a consistent theme of fear and defiance circulating through both reports.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
+     "title_en": "Iranians fear a possible return to all-out war as US and Israeli elections approach.",
+     "url": "https://abcnews.com/International/wireStory/iranians-fear-return-war-us-israeli-elections-approach-137554143",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
+     "title_en": "Iranians fear a possible return to all-out war as US and Israeli elections approach.",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/iranians-fear-escalating-conflict-as-us-and-israeli-elections-approach-amid-rising-tensions/articleshow/135194383.cms",
+     "bias": "Lean Right",
      "src": "ai"
     }
    ]

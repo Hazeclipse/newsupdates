@@ -30,5 +30,20 @@
  "wnd.com": "Right",
  "abcnews.com": "Lean Left",
  "gothamist.com": "Lean Left",
- "digiday.com": "Lean Left"
+ "digiday.com": "Lean Left",
+ "hogshaven.com": "Lean Right",
+ "milehighreport.com": "Lean Left",
+ "windycitygridiron.com": "Unknown",
+ "foxsports.com": "Unknown",
+ "behindthesteelcurtain.com": "Lean Right",
+ "bleedinggreennation.com": "Lean Left",
+ "frandroid.com": "Center",
+ "presse-citron.net": "Lean Left",
+ "naturalnews.com": "Right",
+ "rt-english.com": "Lean Left",
+ "actualidad-rt.com": "Lean Left",
+ "abc.net.au": "Center",
+ "rawstory.com": "Left",
+ "propublica.org": "Center",
+ "economictimes.indiatimes.com": "Lean Right"
 }

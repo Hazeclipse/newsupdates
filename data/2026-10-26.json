@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "updated": "Oct 27, 07:50 UTC",
+ "updated": "Oct 27, 16:08 UTC",
  "stories": [
   {
    "cat": "crime",
@@ -213,6 +213,319 @@
      "title_en": "Midterm Political Spending Disrupts Regional Advertiser Holiday Strategies",
      "url": "http://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/",
      "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-26",
+   "title": "Microsoft Offers Voluntary Buyouts to 60,000 Employees",
+   "sum": "Microsoft is offering voluntary buyouts to around 60,000 employees as part of a restructuring initiative. The terms will be similar to the company's standard severance package.",
+   "more": "Both Business Insider and Yahoo Entertainment report on Microsoft's decision to provide buyouts, highlighting the number of employees affected. Yahoo emphasizes the company's reorganization for the AI era, suggesting a strategic shift in focus. The framing slightly differs, with Business Insider focusing more on the terms of the buyout and procedural details, while Yahoo situates the decision within the broader context of AI development.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Microsoft is offering buyouts to around 60,000 employees. Read the memo.",
+     "title_en": "Microsoft is offering buyouts to around 60,000 employees. Read the memo.",
+     "url": "https://www.businessinsider.com/microsoft-is-offering-buyouts-read-the-memo-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Microsoft offers voluntary buyouts to 60,000 employees as it restructures for AI",
+     "title_en": "Microsoft offers voluntary buyouts to 60,000 employees as it restructures for AI.",
+     "url": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-26",
+   "title": "AI Agents Aspiring to Become Journalists",
+   "sum": "AI agents named Jayden, Sam, and Zack are actively pitching stories to editors. Their goal is to produce reported pieces and investigative features.",
+   "more": "The article discusses how these AI agents are striving to engage in journalistic practices typically reserved for humans. There are concerns about the implications of AI in journalism, especially regarding authenticity and reliability. Different outlets may emphasize varying aspects of this development, such as the ethical considerations or the potential future of AI in the media landscape.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+     "title_en": "Meet the AI Agents Trying to Be Real-Life Journalists",
+     "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-26",
+   "title": "Anthropic Files IPO Prospectus, Revealing Financial Details and Future Outlook",
+   "sum": "Anthropic has filed documents for an initial public offering, providing insights into its financials and risk factors. The prospectus also highlights the company's perspectives on the future of artificial intelligence.",
+   "more": "The IPO filing could set the stage for a significant event in the tech industry, as it allows observers to gauge Anthropic's valuation and market strategy. Different outlets may focus on varying aspects of the financial disclosures, particularly emphasizing either the company's potential growth trajectory or the inherent risks associated with AI development. The contrasting focus could influence public perception of the IPO's viability and the broader implications for the tech market.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+     "title_en": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+     "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-26",
+   "title": "Anthropic Files for IPO Aiming to Transform Human Endeavors with AI",
+   "sum": "Anthropic has submitted its S-1 prospectus to the SEC, setting the stage for an IPO to challenge OpenAI. The company, known for its AI model Claude, intends to operate under a Nasdaq ticker symbol.",
+   "more": "The filing indicates Anthropic's ambition to utilize artificial intelligence to impact various sectors significantly. By moving to go public, the company aims to position itself as a key player in the rapidly evolving AI landscape. This strategic move could accelerate Anthropic's growth and market presence compared to competitors like OpenAI, while allowing it to attract investment for further innovation.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
+     "title_en": "Anthropic's IPO Filing Lays Out a Plan to 'Revolutionize Every Area of Human Endeavor' with AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-26",
+   "title": "Teenager Arrested Following Florida Shooting Injuring 12",
+   "sum": "A teenager has been arrested after a shooting in Florida that injured twelve people, including children. The incident occurred near an American football stadium shortly after a game.",
+   "more": "The shooting took place on Saturday night and has raised concerns about safety in public venues. Witnesses reported hearing gunfire as they were leaving the game, creating chaos in the area. Police are continuing to investigate the circumstances surrounding the shooting and the motives behind it.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+     "title_en": "Police arrest teenager after shooting that injured 12, including children, in Florida.",
+     "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-26",
+   "title": "Trump Intensifies Anti-Muslim Attacks on El-Sayed in Michigan Senate Race",
+   "sum": "President Trump has increased his anti-Muslim rhetoric against Abdul El-Sayed, a Senate candidate from Michigan, framing him as a national security threat. This escalation raises questions about El-Sayed's loyalty to the United States.",
+   "more": "NPR's coverage highlights Trump's direct attacks on El-Sayed's religion and national allegiance, portraying it as a significant development in the political landscape of Michigan. Fox News provides a broader context, mentioning the tightening race and the urgency for news updates, though it does not emphasize the anti-Muslim angle as strongly. The framing differs in that NPR focuses more on the implications of Trump's statements regarding El-Sayed, while Fox News presents it within the competitive atmosphere of the Senate race.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+     "title_en": "Trump escalates anti-Muslim attacks against El-Sayed in Michigan",
+     "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump escalates attacks on El-Sayed as Michigan Senate race tightens and more top headlines",
+     "title_en": "Trump escalates attacks on El-Sayed as Michigan Senate race tightens",
+     "url": "https://www.foxnews.com/us/trump-escalates-attacks-el-sayed-michigan-senate-race-tightens-more-top-headlines",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-26",
+   "title": "GOP's Redistricting Efforts Fall Short; Lula Wins Fourth Term in Brazil",
+   "sum": "Republicans are investing heavily in the midterms but may struggle to secure districts designed to benefit them due to unexpected outcomes. Meanwhile, Luiz In\u00e1cio Lula da Silva has made a surprising political comeback by winning a fourth term in Brazil.",
+   "more": "The article highlights the challenges the GOP is facing with their redistricting strategy, indicating that despite significant financial investments, the results may not align with their expectations. In Brazil, the narrative focuses on Lula's unexpected return to power, showcasing a notable shift in the political landscape. Different news sources may emphasize either the failures of the Republican strategies or Lula's impressive comeback, but both aspects highlight significant political developments. The contrasting fortunes between the GOP in the U.S. and Lula in Brazil underline dynamic shifts in electoral politics.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+     "title_en": "GOP's Redistricting Efforts Fall Short",
+     "url": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-26",
+   "title": "Loggers Doubt Benefit from Repeal of Roadless Rule",
+   "sum": "Loggers express skepticism about President Trump's plan to repeal the Roadless Rule, which would allow road building in pristine forests. They believe it will not adequately address the industry's main challenges.",
+   "more": "Despite the potential easing of restrictions on road building and timber harvesting, many loggers feel that the repeal will not significantly revitalize their industry. They argue that other factors, such as market demand and sustainable practices, are more critical to their success. This viewpoint suggests a divide between political actions and the realities faced by those in the logging sector.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+     "title_en": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+     "url": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-26",
+   "title": "EU Congratulates Lula on Presidential Election Victory in Brazil",
+   "sum": "The European Union has congratulated Luiz In\u00e1cio Lula da Silva on his victory in the second round of Brazil's presidential elections. European Council President Ant\u00f3nio Costa emphasized that 'the Brazilian people have spoken' and noted that he has already spoken with Lula.",
+   "more": "La Nacion provided additional context by reporting on the electoral context and the close race between Lula and Flavio Bolsonaro. It highlighted that Lula's victory was backed by a majority of popular support, allowing him to renew his mandate. Furthermore, the outlet mentioned the timing of the results for the upcoming elections in 2026, indicating the competitive nature of Brazilian politics. There is a focus in the coverage on the implications of the election results for Brazil's future leadership.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "La UE felicita a Lula por su victoria en la segunda vuelta de las elecciones presidenciales en Brasil",
+     "title_en": "The EU congratulates Lula on his victory in the second round of the presidential elections in Brazil.",
+     "url": "https://www.latercera.com/mundo/noticia/la-ue-felicita-a-lula-por-su-victoria-en-la-segunda-vuelta-de-las-elecciones-presidenciales-en-brasil/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "Qui\u00e9n gan\u00f3 las elecciones a presidente en Brasil",
+     "title_en": "Who won the presidential election in Brazil?",
+     "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-a-presidente-en-brasil-nid25102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-26",
+   "title": "Uncertainty in Serbia Following Vucic's Leadership",
+   "sum": "A student-led movement has challenged the political dominance of Serbia's longtime leader, Aleksandar Vucic. This has led to uncertainty regarding future government leadership and formation.",
+   "more": "The movement has stirred discussions about potential candidates for prime minister and their timelines for forming a new government. There is a sense of unpredictability in the political landscape as various factions vie for power. Different news outlets may emphasize the ramifications of the student-led protests or focus on specific potential leaders more than others.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+     "title_en": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+     "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-26",
+   "title": "Iran's Hardliners Oppose President Pezeshkian Over US Negotiations",
+   "sum": "Iran's anti-negotiation hardliners are expressing opposition to President Pezeshkian regarding his approach to negotiations with the US. This internal conflict highlights the divisions within Iran's political landscape.",
+   "more": "The hardliners' opposition may affect Pezeshkian's ability to govern and navigate foreign relations effectively. The dissent signals a broader struggle within the Iranian government regarding engagement with the United States. Different outlets might frame this as either a significant challenge to the president's authority or as a predictable reaction from conservative factions.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Iran\u2019s anti-negotiation hardliners turn against President Pezeshkian",
+     "title_en": "Iran\u2019s anti-negotiation hardliners turn against President Pezeshkian",
+     "url": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-26",
+   "title": "Apple Unveils New iPad Mini with OLED Screen and Price Increase",
+   "sum": "Apple has announced its new iPad mini featuring a powerful A20 Pro chip and an OLED display. However, the price has increased compared to the previous generation.",
+   "more": "The new iPad mini boasts improvements like an upgraded design and enhanced durability with an IP67 rating. However, it also comes with a significant price hike, starting at 759 euros in France, which is up 70 euros from the previous model that had already seen a price increase. Different outlets emphasize the trade-off between performance upgrades and affordability, with some pointing out that the price escalation may be a concern for potential buyers.",
+   "coverage": [
+    {
+     "outlet": "Presse-citron",
+     "title": "Apple a annonc\u00e9 le nouvel iPad mini \u00e0 l\u2019instant\u00a0: processeur ultra-puissant, \u00e9cran OLED et hausse de prix in\u00e9vitable",
+     "title_en": "Apple Just Announced the New iPad Mini: Ultra-Powerful Processor, OLED Screen, and Inevitable Price Increase",
+     "url": "https://www.presse-citron.net/apple-annonce-ipad-mini-processeur-oled/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Frandroid",
+     "title": "Apple d\u00e9voile son nouvel iPad mini : Oled, puissant, \u00e9tanche et cher",
+     "title_en": "Apple Unveils Its New iPad Mini: OLED, Powerful, Waterproof, and Expensive",
+     "url": "https://www.frandroid.com/marques/apple/3299265_apple-devoile-son-nouvel-ipad-mini-oled-puissant-etanche-et-cher",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-26",
+   "title": "Black Voters Face Potential GOP Representation in New District",
+   "sum": "A newly redrawn congressional district in Memphis may result in Black voters being represented by a Republican who has historically opposed their interests. Brent Taylor, a state senator, is emerging as the leading candidate in this majority white district.",
+   "more": "The changes to the district were made by the Tennessee legislature, which many believe were aimed at diminishing Democratic representation in the area. Brent Taylor has a history of overriding local officials and disregarding the preferences of Memphis voters while serving as a state senator. This situation has raised concerns among local constituents about representation and the impact on their voting power.",
+   "coverage": [
+    {
+     "outlet": "ProPublica",
+     "title": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests",
+     "title_en": "In a Newly Drawn District, Black Voters May Get a Representative Who Spent Years Undermining Their Interests.",
+     "url": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Raw Story",
+     "title": "Black voters in new district may get GOP rep who spent years undermining their interests",
+     "title_en": "Black voters in new district may get GOP rep who spent years undermining their interests.",
+     "url": "https://www.rawstory.com/brent-taylor/",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-26",
+   "title": "Serbia's Ruling Party Acknowledges Electoral Defeat to Student-Led Movement",
+   "sum": "Serbia's veteran leader Aleksandar Vucic has conceded defeat in the recent election to a protest movement led by students. This election was deemed a referendum on the country's future amidst prolonged protests.",
+   "more": "According to the BBC, Vucic, who has been in power for 12 years, stated that it is 'evident' that his party lost the vote. DW highlights that these early elections followed nearly two years of protests triggered by a deadly incident linked to corruption. While both outlets report on the election results, they focus on different aspects of the context, with BBC emphasizing Vucic's acknowledgment of defeat and DW detailing the protests' background.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "El veterano gobernante de Serbia, Aleksandar Vucic, reconoce la derrota electoral ante un movimiento de protesta liderado por estudiantes",
+     "title_en": "Veteran Serbian Ruler Aleksandar Vucic Acknowledges Electoral Defeat to Student-Led Protest Movement",
+     "url": "https://www.bbc.com/mundo/articles/cmx28l1xy5j2o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Partido gobernante en Serbia reconoce derrota en elecciones frente a movimiento estudiantil",
+     "title_en": "Ruling Party in Serbia Recognizes Defeat in Elections to Student Movement",
+     "url": "https://www.dw.com/es/partido-gobernante-en-serbia-reconoce-derrota-en-elecciones-frente-a-movimiento-estudiantil/a-79758160",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-26",
+   "title": "Caution Advised When Using AI Chatbots for Election Decisions",
+   "sum": "As the midterm elections approach, there are important considerations regarding the use of AI tools in decision-making for voting. Voters should be aware of the limitations and potential biases of AI chatbots.",
+   "more": "The article emphasizes that while AI can provide information, it may not have the necessary context to guide informed voting choices. Additionally, there is a risk of unintentionally reinforcing existing biases within AI systems. Readers are urged to critically evaluate the information provided by AI tools and to consider multiple sources when making voting decisions. Different outlets may vary in their emphasis on the risks associated with reliance on AI for critical decisions like voting.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Why You Shouldn\u2019t Use AI Chatbots to Decide Who to Vote For",
+     "title_en": "Why You Shouldn\u2019t Use AI Chatbots to Decide Who to Vote For",
+     "url": "https://www.cnet.com/tech/services-and-software/ai-chatbots-election-voting-research-decisions/",
+     "bias": "Center",
      "src": "ai"
     }
    ]
