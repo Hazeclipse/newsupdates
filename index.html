@@ -3,95 +3,145 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>The Digest — Tech, Politics & Crime</title>
+<title>The Digest</title>
 <style>
-:root{--bg:#faf8f4;--card:#fff;--ink:#1c1b19;--mute:#6b675f;--line:#e5e0d6;--tech:#1d6fd8;--pol:#c2410c;--crime:#7c3aed;--L:#2563eb;--LL:#7aa7f0;--C:#8a8678;--LR:#f0a070;--R:#dc2626;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141413;--card:#1e1d1b;--ink:#f2efe8;--mute:#a09b90;--line:#33312d;--tech:#6aa6f5;--pol:#f59a6a;--crime:#b794f6;--L:#4f86f0;--LL:#6f95d0;--C:#8a8678;--LR:#d98a5c;--R:#f05a5a}}
+:root{--bg:#faf8f4;--card:#fff;--ink:#1c1b19;--mute:#6b675f;--line:#e5e0d6;--link:#1d6fd8;--tech:#1d6fd8;--pol:#c2410c;--crime:#7c3aed;--res:#0f766e;--L:#2563eb;--LL:#7aa7f0;--C:#8a8678;--LR:#f0a070;--R:#dc2626;--S:#6b21a8;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141413;--card:#1e1d1b;--ink:#f2efe8;--mute:#a09b90;--line:#33312d;--link:#6aa6f5;--tech:#6aa6f5;--pol:#f59a6a;--crime:#b794f6;--res:#5eead4;--L:#4f86f0;--LL:#6f95d0;--LR:#d98a5c;--R:#f05a5a;--S:#a855f7}}
 *{box-sizing:border-box}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,"Times New Roman",serif}
-main{max-width:760px;margin:0 auto;padding:24px 16px 60px}
+main{max-width:780px;margin:0 auto;padding:24px 16px 60px}
 h1{font-size:2rem;margin:0}
-.sub{color:var(--mute);font-family:system-ui,sans-serif;font-size:.9rem;margin:4px 0 16px}
-.note{font:.82rem system-ui,sans-serif;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--pol);padding:10px 12px;border-radius:6px;color:var(--mute);margin-bottom:18px}
-.tabs{display:flex;gap:8px;margin-bottom:16px;font-family:system-ui,sans-serif;flex-wrap:wrap}
-.tabs button{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:6px 14px;border-radius:999px;cursor:pointer;font-size:.9rem}
+.sub{color:var(--mute);font:.9rem system-ui,sans-serif;margin:4px 0 14px}
+.ui{font-family:system-ui,sans-serif}
+.datebar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+.datebar button,.datebar input,.tabs button{border:1px solid var(--line);background:var(--card);color:var(--ink);padding:6px 12px;border-radius:8px;font:.9rem system-ui,sans-serif;cursor:pointer}
+.datebar button:disabled{opacity:.4;cursor:default}
+.tabs{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}
+.tabs button{border-radius:999px}
 .tabs button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.tabs.sub2 button{font-size:.82rem;padding:4px 11px}
+.note{font:.82rem system-ui,sans-serif;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--pol);padding:10px 12px;border-radius:6px;color:var(--mute);margin-bottom:14px}
+.topic{font:700 1rem system-ui,sans-serif;color:var(--res);margin:22px 0 8px;padding-bottom:4px;border-bottom:2px solid var(--res)}
 article{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:12px;cursor:pointer}
 .tag{font:700 .72rem system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase}
-.tag.tech{color:var(--tech)}.tag.politics{color:var(--pol)}.tag.crime{color:var(--crime)}
+.tag.tech{color:var(--tech)}.tag.politics{color:var(--pol)}.tag.crime{color:var(--crime)}.tag.research{color:var(--res)}
 .date{font:.78rem system-ui,sans-serif;color:var(--mute);margin-left:8px}
 h2{font-size:1.2rem;margin:6px 0}
 .sum{margin:0;color:var(--mute)}
 .more{display:none;margin-top:12px;padding-top:12px;border-top:1px solid var(--line)}
 article.open .more{display:block}
-.hint{font:.8rem system-ui,sans-serif;color:var(--tech);margin-top:8px}
+.hint{font:.8rem system-ui,sans-serif;color:var(--link);margin-top:8px}
 article.open .hint{display:none}
 .more h3{font:700 .8rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--mute);margin:14px 0 6px}
 .mix{display:flex;height:8px;border-radius:4px;overflow:hidden;background:var(--line);margin:4px 0}
 .mix i{display:block}
 .mixnote{font:.8rem system-ui,sans-serif;color:var(--mute)}
-.cov{list-style:none;margin:0;padding:0;font-family:system-ui,sans-serif;font-size:.92rem}
+.cov{list-style:none;margin:0;padding:0;font:.92rem system-ui,sans-serif}
 .cov li{display:flex;gap:8px;align-items:baseline;padding:5px 0;border-bottom:1px dashed var(--line);flex-wrap:wrap}
-.cov a{color:var(--tech)}
+.cov a{color:var(--link)}
 .chip{font-size:.7rem;font-weight:700;padding:1px 8px;border-radius:999px;color:#fff;white-space:nowrap}
-.b-Left{background:var(--L)}.b-LeanLeft{background:var(--LL)}.b-Center{background:var(--C)}.b-LeanRight{background:var(--LR);color:#2a1a10}.b-Right{background:var(--R)}
+.b-Left{background:var(--L)}.b-LeanLeft{background:var(--LL)}.b-Center{background:var(--C)}.b-LeanRight{background:var(--LR);color:#2a1a10}.b-Right{background:var(--R)}.b-State{background:var(--S)}
 .b-None{background:none;color:var(--mute);border:1px dashed var(--mute)}
-.empty{font-family:system-ui,sans-serif;color:var(--mute);padding:24px;text-align:center;border:1px dashed var(--line);border-radius:10px}
+.est{opacity:.8;border:1px dashed #fff}
+.tr{font-size:.7rem;color:var(--mute)}
+.empty{font:1rem system-ui,sans-serif;color:var(--mute);padding:24px;text-align:center;border:1px dashed var(--line);border-radius:10px}
 footer{font:.78rem system-ui,sans-serif;color:var(--mute);margin-top:24px}
 </style>
 </head>
 <body>
 <main>
 <h1>The Digest</h1>
-<p class="sub">Tech, politics &amp; crime, in one place. Tap a story to dig in.</p>
-<div class="note" id="note"></div>
+<p class="sub">Tech, politics around the world, crime and our current research, in one place.</p>
+<div class="datebar">
+  <button id="prev" aria-label="Previous day">◀</button>
+  <input type="date" id="pick">
+  <button id="next" aria-label="Next day">▶</button>
+  <button id="latest">Latest</button>
+  <span class="sub" id="upd" style="margin:0"></span>
+</div>
 <div class="tabs" id="tabs"></div>
+<div class="tabs sub2" id="regions"></div>
+<div class="note" id="note" hidden></div>
 <div id="feed"></div>
-<footer>Outlet bias labels come from public raters such as AllSides. They describe perspective, not accuracy, they can change over time, and “Not rated” means we have no rating on file. Treat labels as a guide, not a verdict.</footer>
+<footer>Outlet labels (Left to Right) come from AllSides-style ratings for outlets I know, or an AI estimate marked “est.” for others. They describe perspective, not accuracy, and are approximate, so treat them as a guide. “State-run” marks government-controlled media. Non-English headlines are translated by AI (marked 🌐); summaries are AI-written, so check the sources.</footer>
 </main>
 <script>
-/* Sample data. When hosted with stories.json next to this page (made by fetch_news.py), that file replaces it. */
-let STORIES=[
-{cat:"tech",date:"Oct 15, 2026",title:"Apple makes a new smart-home push",sum:"Tech podcasts this month covered Apple unveiling new home-focused hardware and software.",more:"Mid-October episodes framed the announcement as a reset of Apple’s smart home strategy. Check the episode pages for what was actually announced.",coverage:[{outlet:"TWiT",title:"Tech News Weekly & MacBreak Weekly episodes",url:"https://twit.tv/episodes/news?page=13"}]},
-{cat:"tech",date:"Oct 8, 2026",title:"Congress takes aim at Flock",sum:"Lawmakers are scrutinizing Flock, the surveillance-camera company, per a TWiT news roundup.",more:"This is a headline-level item. Follow the source for specifics on the congressional action.",coverage:[{outlet:"TWiT",title:"Tech News Weekly #458",url:"https://twit.tv/episodes/news?page=13"}]},
-{cat:"politics",date:"Oct 13, 2026",title:"North Carolina flags ~1,400 voter-roll records",sum:"The state elections board says it will mail letters to about 1,400 people flagged as potential noncitizens on voter rolls.",more:"The people were flagged through a federal check. Flags are not final determinations, so the letters are a verification step.",coverage:[{outlet:"Political Wire",title:"Daily roundup, Oct 13, 2026",url:"https://politicalwire.com/2026/10/13/"}]},
-{cat:"politics",date:"Sep 23, 2026",title:"Court fight over a White House press restriction",sum:"The Justice Department urged a court to reject a lawsuit over a White House media ban, arguing it protects national security.",more:"Each outlet’s full article has the plaintiffs’ arguments.",coverage:[{outlet:"NPR",title:"DOJ defends White House media ban",url:"https://www.stlpr.org/npr/2026-09-23/doj-defends-white-house-media-ban-urges-court-to-reject-lawsuit"},{outlet:"AP",title:"Trump tells judge ban is necessary to protect national security",url:"https://www.adn.com/nation-world/2026/09/23/trump-tells-judge-media-ban-is-necessary-to-protect-national-security/",bias:"Center"}]},
-{cat:"politics",date:"Sep 2026",title:"Midterm convention sets the campaign tone",sum:"The Republican midterm convention wrapped with Vance appealing to the party base.",more:"Look for Democratic and independent coverage alongside this for balance.",coverage:[{outlet:"AP",title:"The Latest: Vance plays to the Republican base",url:"https://www.ajc.com/news/2026/09/the-latest-vance-plays-to-the-republican-base-on-the-final-day-of-the-midterm-convention/",bias:"Center"}]}
-];
-const BIAS_KEYS={"Left":"Left","Lean Left":"LeanLeft","Center":"Center","Lean Right":"LeanRight","Right":"Right"};
-let filter="all";
-const tabs=document.getElementById("tabs"),feed=document.getElementById("feed");
-const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const REGIONS={all:"All regions",namerica:"North America",samerica:"South America",europe:"Europe",eastasia:"East Asia",southasia:"South Asia",africa:"Africa",mideast:"Middle East"};
+const TABS=[["all","All"],["research","Research"],["tech","Tech"],["politics","Politics"],["crime","Crime"]];
+const KEY={"Left":"Left","Lean Left":"LeanLeft","Center":"Center","Lean Right":"LeanRight","Right":"Right"};
+const VAR={Left:"L",LeanLeft:"LL",Center:"C",LeanRight:"LR",Right:"R"};
+let DATES=[],STORIES=[],tab="all",region="all",cur="";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const safe=u=>/^https?:\/\//.test(u)?u:"#";
-function chip(b){const k=BIAS_KEYS[b];return k?`<span class="chip b-${k}">${b}</span>`:`<span class="chip b-None">Not rated</span>`}
+
+function chip(c){
+  if(c.src==="state")return `<span class="chip b-State" title="Government-controlled media">State-run</span>`;
+  const k=KEY[c.bias];
+  if(!k)return `<span class="chip b-None">Not rated</span>`;
+  return c.src==="ai"?`<span class="chip b-${k} est" title="AI estimate, not an official rating">~${c.bias}</span>`:`<span class="chip b-${k}">${c.bias}</span>`;
+}
 function mix(cov){
- const n={};let rated=0;
- cov.forEach(c=>{const k=BIAS_KEYS[c.bias];if(k){n[k]=(n[k]||0)+1;rated++}});
- if(!rated)return `<div class="mixnote">No rated outlets in this story’s coverage yet.</div>`;
- const bar=["Left","LeanLeft","Center","LeanRight","Right"].filter(k=>n[k]).map(k=>`<i style="width:${n[k]/rated*100}%;background:var(--${{Left:"L",LeanLeft:"LL",Center:"C",LeanRight:"LR",Right:"R"}[k]})"></i>`).join("");
- const left=(n.Left||0)+(n.LeanLeft||0),right=(n.Right||0)+(n.LeanRight||0);
- const msg=cov.length<2?"Only one outlet so far, so read with care.":(left&&!right?"Only left-leaning outlets among those rated.":right&&!left?"Only right-leaning outlets among those rated.":"Mixed coverage across the spectrum.");
- return `<div class="mix">${bar}</div><div class="mixnote">${msg} (${rated} of ${cov.length} outlets rated)</div>`;
+  const n={};let rated=0;
+  cov.forEach(c=>{const k=KEY[c.bias];if(k){n[k]=(n[k]||0)+1;rated++}});
+  const state=cov.filter(c=>c.src==="state").length;
+  let extra=state?` ${state} state-run outlet${state>1?"s":""}.`:"";
+  if(!rated)return `<div class="mixnote">No rated outlets in this story’s coverage.${extra}</div>`;
+  const bar=Object.keys(VAR).filter(k=>n[k]).map(k=>`<i style="width:${n[k]/rated*100}%;background:var(--${VAR[k]})"></i>`).join("");
+  const l=(n.Left||0)+(n.LeanLeft||0),r=(n.Right||0)+(n.LeanRight||0);
+  const msg=cov.length<2?"Only one outlet so far, so read with care.":l&&!r?"Only left-leaning outlets among those rated.":r&&!l?"Only right-leaning outlets among those rated.":"Mixed coverage across the spectrum.";
+  return `<div class="mix">${bar}</div><div class="mixnote">${msg} (${rated} of ${cov.length} rated).${extra}</div>`;
+}
+function card(s){
+  const reg=s.region?` · ${REGIONS[s.region]||""}`:"";
+  return `<article><span class="tag ${s.cat}">${s.cat}${reg}</span><span class="date">${esc(s.date)}</span>
+  <h2>${esc(s.title)}</h2><p class="sum">${esc(s.sum)}</p><div class="hint">Tap to learn more ▾</div>
+  <div class="more"><p>${esc(s.more)}</p><h3>Coverage mix</h3>${mix(s.coverage)}
+  <h3>Coverage from multiple outlets</h3><ul class="cov">${s.coverage.map(c=>{
+    const t=c.title_en||c.title,tr=c.title_en&&c.title_en!==c.title;
+    return `<li>${chip(c)}<b>${esc(c.outlet)}</b><a href="${safe(c.url)}" target="_blank" rel="noopener">${esc(t)}</a>${tr?`<span class="tr" title="Original: ${esc(c.title)}">🌐 translated</span>`:""}</li>`}).join("")}</ul></div></article>`;
 }
 function render(){
- tabs.innerHTML=["all","tech","politics","crime"].map(f=>`<button data-f="${f}" aria-pressed="${f===filter}">${f[0].toUpperCase()+f.slice(1)}</button>`).join("");
- const list=STORIES.filter(s=>filter==="all"||s.cat===filter);
- feed.innerHTML=list.length?list.map(s=>`
- <article><span class="tag ${s.cat}">${s.cat}</span><span class="date">${esc(s.date)}</span>
- <h2>${esc(s.title)}</h2><p class="sum">${esc(s.sum)}</p><div class="hint">Tap to learn more ▾</div>
- <div class="more"><p>${esc(s.more||"")}</p>
- <h3>Coverage mix</h3>${mix(s.coverage)}
- <h3>Coverage from multiple outlets</h3><ul class="cov">${s.coverage.map(c=>`<li>${chip(c.bias)}<b>${esc(c.outlet)}</b><a href="${safe(c.url)}" target="_blank" rel="noopener">${esc(c.title)}</a></li>`).join("")}</ul></div></article>`).join("")
- :`<div class="empty">No ${filter} stories yet. Once the news fetcher is connected, they appear here.</div>`;
+  $("tabs").innerHTML=TABS.map(([k,n])=>`<button data-t="${k}" aria-pressed="${k===tab}">${n}</button>`).join("");
+  $("regions").innerHTML=tab==="politics"?Object.entries(REGIONS).map(([k,n])=>`<button data-r="${k}" aria-pressed="${k===region}">${n}</button>`).join(""):"";
+  const note=$("note");note.hidden=tab!=="research";
+  if(tab==="research")note.textContent="Temporary section for what we’re currently researching. Edit the RESEARCH list in fetch_news.py to change topics.";
+  let list=STORIES.filter(s=>tab==="all"||s.cat===tab);
+  if(tab==="politics"&&region!=="all")list=list.filter(s=>s.region===region);
+  if(!list.length){$("feed").innerHTML=`<div class="empty">${STORIES.length?"No stories here for this day.":"No news saved for this day yet."}</div>`;return}
+  if(tab==="research"){
+    const topics=[...new Set(list.map(s=>s.topic))];
+    $("feed").innerHTML=topics.map(t=>`<div class="topic">${esc(t)}</div>`+list.filter(s=>s.topic===t).map(card).join("")).join("");
+  }else $("feed").innerHTML=list.map(card).join("");
 }
-tabs.onclick=e=>{const f=e.target.dataset.f;if(f){filter=f;render()}};
-feed.onclick=e=>{if(e.target.closest("a"))return;const a=e.target.closest("article");if(a)a.classList.toggle("open")};
-const note=document.getElementById("note");
-note.innerHTML="<b>Sample content.</b> These stories are placeholders from headlines I found, and the Crime tab is empty until the news fetcher is connected. Confirm details at the sources.";
-render();
-/* Live mode: works only when stories.json is hosted beside this page. */
-fetch("stories.json").then(r=>r.ok?r.json():Promise.reject()).then(d=>{if(Array.isArray(d.stories)&&d.stories.length){STORIES=d.stories;note.innerHTML="Updated "+esc(d.updated||"recently")+". Summaries are AI-written; check the sources.";render()}}).catch(()=>{});
+async function load(d){
+  cur=d;$("pick").value=d;
+  const i=DATES.indexOf(d);
+  $("prev").disabled=i<=0;$("next").disabled=i<0||i>=DATES.length-1;
+  try{
+    const r=await fetch(`data/${d}.json`,{cache:"no-store"});
+    if(!r.ok)throw 0;
+    const j=await r.json();STORIES=j.stories||[];$("upd").textContent="Updated "+(j.updated||d);
+  }catch(e){STORIES=[];$("upd").textContent=""}
+  render();
+}
+async function init(){
+  try{
+    const r=await fetch("data/index.json",{cache:"no-store"});
+    DATES=(await r.json()).dates||[];
+  }catch(e){DATES=[]}
+  if(!DATES.length){$("feed").innerHTML=`<div class="empty">No news data yet. Run the “Update news” workflow in your repo’s Actions tab.</div>`;render();$("feed").innerHTML=`<div class="empty">No news data yet. Run the “Update news” workflow in your repo’s Actions tab.</div>`;return}
+  $("pick").min=DATES[0];$("pick").max=DATES[DATES.length-1];
+  load(DATES[DATES.length-1]);
+}
+$("tabs").onclick=e=>{const t=e.target.dataset.t;if(t){tab=t;render()}};
+$("regions").onclick=e=>{const r=e.target.dataset.r;if(r){region=r;render()}};
+$("feed").onclick=e=>{if(e.target.closest("a"))return;const a=e.target.closest("article");if(a)a.classList.toggle("open")};
+$("pick").onchange=e=>{if(e.target.value)load(e.target.value)};
+$("prev").onclick=()=>{const i=DATES.indexOf(cur);if(i>0)load(DATES[i-1])};
+$("next").onclick=()=>{const i=DATES.indexOf(cur);if(i>=0&&i<DATES.length-1)load(DATES[i+1])};
+$("latest").onclick=()=>{if(DATES.length)load(DATES[DATES.length-1])};
+init();
 </script>
 </body>
 </html>
