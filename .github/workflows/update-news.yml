@@ -34,6 +34,7 @@ jobs:
           git add -A data
           git diff --staged --quiet || (git commit -m "Update news" && git push)
       - name: Rebuild the site
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api -X POST /repos/${{ github.repository }}/pages/builds
