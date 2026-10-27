@@ -213,7 +213,7 @@ def main():
                 arts += get(q, lang, dom)
             except Exception as e:
                 print("search failed:", meta, e)
-        stories.extend(build(client, arts, meta))
+        stories.extend(build(client, cache, arts, meta))
 
     run({"cat": "tech"}, [(TECH_Q, "en", None)])
     run({"cat": "crime"}, [(CRIME_Q, "en", None)])
