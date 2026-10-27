@@ -10,9 +10,10 @@ from urllib.parse import urlparse
 from openai import OpenAI
 
 MODEL = "gpt-4o-mini"      # swap for a newer cheap model if you like
-LOOKBACK_DAYS = 2          # how far back each run searches
+LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "2"))   # how far back this run searches
 KEEP_DAYS = 60             # ~2 months of history
-PER_SECTION = 5            # stories per section
+# More stories per section when backfilling several days at once
+PER_SECTION = int(os.environ.get("PER_SECTION", "5" if LOOKBACK_DAYS <= 2 else "20"))
 NEWSAPI = "https://newsapi.org/v2/everything"
 DATA = "data"
 
@@ -117,7 +118,7 @@ def estimate_bias(client, domains, cache):
 
 def get(q, lang=None, domains=None):
     since = (datetime.date.today() - datetime.timedelta(days=LOOKBACK_DAYS)).isoformat()
-    p = {"q": q, "from": since, "sortBy": "popularity", "pageSize": 50,
+    p = {"q": q, "from": since, "sortBy": "popularity", "pageSize": 100,
          "apiKey": os.environ["NEWSAPI_KEY"]}
     if lang:
         p["language"] = lang
@@ -225,11 +226,26 @@ def main():
         print("No stories built; nothing written.")
         return
     today = datetime.datetime.now(datetime.timezone.utc).date()
-    json.dump({"date": today.isoformat(), "updated": datetime.datetime.utcnow().strftime("%b %d, %H:%M UTC"),
-               "stories": stories}, open(f"{DATA}/{today.isoformat()}.json", "w"), indent=1)
+    updated = datetime.datetime.utcnow().strftime("%b %d, %H:%M UTC")
+    # Save each story under the day it was published, merging with any existing file for that day
+    by_day = {}
+    for s in stories:
+        by_day.setdefault(s["date"], []).append(s)
+    for day, items in by_day.items():
+        path = f"{DATA}/{day}.json"
+        old = []
+        if os.path.exists(path):
+            try:
+                old = json.load(open(path)).get("stories", [])
+            except Exception:
+                old = []
+        seen = {c["url"] for st in old for c in st["coverage"]}
+        fresh = [st for st in items if not any(c["url"] in seen for c in st["coverage"])]
+        json.dump({"date": day, "updated": updated, "stories": old + fresh},
+                  open(path, "w"), indent=1)
     json.dump(cache, open(f"{DATA}/bias_cache.json", "w"), indent=1)
     prune_and_index(today)
-    print(f"Wrote {len(stories)} stories for {today}.")
+    print(f"Built {len(stories)} stories across {len(by_day)} day(s).")
 
 
 if __name__ == "__main__":
