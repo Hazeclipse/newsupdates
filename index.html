@@ -46,6 +46,10 @@ article.open .hint{display:none}
 .tr{font-size:.7rem;color:var(--mute)}
 .empty{font:1rem system-ui,sans-serif;color:var(--mute);padding:24px;text-align:center;border:1px dashed var(--line);border-radius:10px}
 footer{font:.78rem system-ui,sans-serif;color:var(--mute);margin-top:24px}
+.ctl{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.ctl[hidden]{display:none}
+.ctl label{font-size:.85rem;color:var(--mute);display:flex;gap:6px;align-items:center}
+.datebar button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
 </style>
 </head>
 <body>
@@ -53,10 +57,20 @@ footer{font:.78rem system-ui,sans-serif;color:var(--mute);margin-top:24px}
 <h1>The Digest</h1>
 <p class="sub">Tech, politics around the world, crime and our current research, in one place.</p>
 <div class="datebar">
-  <button id="prev" aria-label="Previous day">◀</button>
-  <input type="date" id="pick">
-  <button id="next" aria-label="Next day">▶</button>
-  <button id="latest">Latest</button>
+  <button id="mDay" aria-pressed="true">Day</button>
+  <button id="mRange" aria-pressed="false">Range</button>
+  <span class="ctl" id="dayCtl">
+    <button id="prev" aria-label="Previous day">◀</button>
+    <input type="date" id="pick">
+    <button id="next" aria-label="Next day">▶</button>
+    <button id="latest">Latest</button>
+  </span>
+  <span class="ctl" id="rangeCtl" hidden>
+    <label class="ui">From <input type="date" id="from"></label>
+    <label class="ui">To <input type="date" id="to"></label>
+    <button id="wk">Last 7 days</button>
+    <button id="all">All saved</button>
+  </span>
   <span class="sub" id="upd" style="margin:0"></span>
 </div>
 <div class="tabs" id="tabs"></div>
@@ -70,7 +84,7 @@ const REGIONS={all:"All regions",namerica:"North America",samerica:"South Americ
 const TABS=[["all","All"],["research","Research"],["tech","Tech"],["politics","Politics"],["crime","Crime"]];
 const KEY={"Left":"Left","Lean Left":"LeanLeft","Center":"Center","Lean Right":"LeanRight","Right":"Right"};
 const VAR={Left:"L",LeanLeft:"LL",Center:"C",LeanRight:"LR",Right:"R"};
-let DATES=[],STORIES=[],tab="all",region="all",cur="";
+let DATES=[],STORIES=[],tab="all",region="all",cur="",mode="day";
 const $=id=>document.getElementById(id);
 const esc=s=>String(s==null?"":s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const safe=u=>/^https?:\/\//.test(u)?u:"#";
@@ -108,31 +122,56 @@ function render(){
   if(tab==="research")note.textContent="Temporary section for what we’re currently researching. Edit the RESEARCH list in fetch_news.py to change topics.";
   let list=STORIES.filter(s=>tab==="all"||s.cat===tab);
   if(tab==="politics"&&region!=="all")list=list.filter(s=>s.region===region);
-  if(!list.length){$("feed").innerHTML=`<div class="empty">${STORIES.length?"No stories here for this day.":"No news saved for this day yet."}</div>`;return}
+  if(!list.length){$("feed").innerHTML=`<div class="empty">${STORIES.length?"No stories here for this day or period.":"No news saved for this day yet."}</div>`;return}
   if(tab==="research"){
     const topics=[...new Set(list.map(s=>s.topic))];
     $("feed").innerHTML=topics.map(t=>`<div class="topic">${esc(t)}</div>`+list.filter(s=>s.topic===t).map(card).join("")).join("");
   }else $("feed").innerHTML=list.map(card).join("");
 }
+const shift=(d,n)=>{const t=new Date(d+"T00:00:00Z");t.setUTCDate(t.getUTCDate()+n);return t.toISOString().slice(0,10)};
+async function fetchDay(d){
+  try{const r=await fetch(`data/${d}.json`,{cache:"no-store"});if(!r.ok)throw 0;return await r.json()}catch(e){return null}
+}
 async function load(d){
   cur=d;$("pick").value=d;
   const i=DATES.indexOf(d);
   $("prev").disabled=i<=0;$("next").disabled=i<0||i>=DATES.length-1;
-  try{
-    const r=await fetch(`data/${d}.json`,{cache:"no-store"});
-    if(!r.ok)throw 0;
-    const j=await r.json();STORIES=j.stories||[];$("upd").textContent="Updated "+(j.updated||d);
-  }catch(e){STORIES=[];$("upd").textContent=""}
+  const j=await fetchDay(d);
+  STORIES=j?j.stories||[]:[];$("upd").textContent=j?"Updated "+(j.updated||d):"";
   render();
+}
+async function loadRange(a,b){
+  if(a>b)[a,b]=[b,a];
+  $("from").value=a;$("to").value=b;
+  const ds=DATES.filter(d=>d>=a&&d<=b);
+  const js=await Promise.all(ds.map(fetchDay));
+  const seen=new Set();STORIES=[];
+  js.forEach(j=>(j&&j.stories||[]).forEach(s=>{
+    const k=(s.coverage[0]||{}).url||s.title;
+    if(!seen.has(k)){seen.add(k);STORIES.push(s)}
+  }));
+  STORIES.sort((x,y)=>y.date.localeCompare(x.date));
+  $("upd").textContent=`${ds.length} day${ds.length===1?"":"s"} with news, ${a} to ${b}`;
+  render();
+}
+function setMode(m){
+  mode=m;
+  $("dayCtl").hidden=m!=="day";$("rangeCtl").hidden=m!=="range";
+  $("mDay").setAttribute("aria-pressed",m==="day");$("mRange").setAttribute("aria-pressed",m==="range");
+  if(!DATES.length)return;
+  const last=DATES[DATES.length-1];
+  if(m==="day")load(cur&&DATES.includes(cur)?cur:last);
+  else loadRange(shift(last,-6),last);
 }
 async function init(){
   try{
     const r=await fetch("data/index.json",{cache:"no-store"});
     DATES=(await r.json()).dates||[];
   }catch(e){DATES=[]}
-  if(!DATES.length){$("feed").innerHTML=`<div class="empty">No news data yet. Run the “Update news” workflow in your repo’s Actions tab.</div>`;render();$("feed").innerHTML=`<div class="empty">No news data yet. Run the “Update news” workflow in your repo’s Actions tab.</div>`;return}
-  $("pick").min=DATES[0];$("pick").max=DATES[DATES.length-1];
-  load(DATES[DATES.length-1]);
+  if(!DATES.length){$("feed").innerHTML=`<div class="empty">No news data yet. Run the “Update news” workflow in your repo’s Actions tab.</div>`;return}
+  const first=DATES[0],last=DATES[DATES.length-1];
+  for(const id of ["pick","from","to"]){$(id).min=first;$(id).max=last}
+  load(last);
 }
 $("tabs").onclick=e=>{const t=e.target.dataset.t;if(t){tab=t;render()}};
 $("regions").onclick=e=>{const r=e.target.dataset.r;if(r){region=r;render()}};
@@ -140,6 +179,11 @@ $("feed").onclick=e=>{if(e.target.closest("a"))return;const a=e.target.closest("
 $("pick").onchange=e=>{if(e.target.value)load(e.target.value)};
 $("prev").onclick=()=>{const i=DATES.indexOf(cur);if(i>0)load(DATES[i-1])};
 $("next").onclick=()=>{const i=DATES.indexOf(cur);if(i>=0&&i<DATES.length-1)load(DATES[i+1])};
+$("mDay").onclick=()=>setMode("day");
+$("mRange").onclick=()=>setMode("range");
+$("from").onchange=$("to").onchange=()=>{if($("from").value&&$("to").value)loadRange($("from").value,$("to").value)};
+$("wk").onclick=()=>{const l=DATES[DATES.length-1];if(l)loadRange(shift(l,-6),l)};
+$("all").onclick=()=>{if(DATES.length)loadRange(DATES[0],DATES[DATES.length-1])};
 $("latest").onclick=()=>{if(DATES.length)load(DATES[DATES.length-1])};
 init();
 </script>
