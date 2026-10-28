@@ -1,6 +1,6 @@
 {
  "date": "2026-10-26",
- "updated": "Oct 27, 16:08 UTC",
+ "updated": "Oct 28, 16:54 UTC",
  "stories": [
   {
    "cat": "crime",
@@ -526,6 +526,233 @@
      "title_en": "Why You Shouldn\u2019t Use AI Chatbots to Decide Who to Vote For",
      "url": "https://www.cnet.com/tech/services-and-software/ai-chatbots-election-voting-research-decisions/",
      "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-26",
+   "title": "UFO Sighted by Federal Agents Exhibiting Controlled Ascent",
+   "sum": "A recent report details the sighting of a triangular UFO observed by federal agents. The craft reportedly exhibited a slow and perfectly vertical ascent.",
+   "more": "The report's focus on the craft's controlled movement suggests a structured approach to its analysis. Different sources might emphasize the nature of the sighting, with some highlighting the 'absolute acoustic silence' described in the report. The implications of such a sighting could vary among outlets, influencing public perception of UFO phenomena.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "\u2018Absolute Acoustic Silence\u2019: Triangular UFO Spotted by Federal Agents",
+     "title_en": "'Absolute Acoustic Silence': Triangular UFO Spotted by Federal Agents",
+     "url": "https://gizmodo.com/absolute-acoustic-silence-triangular-ufo-spotted-by-federal-agents-2000830692",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-26",
+   "title": "Federal Judge Rules Dismissal of Maurene Comey Was Unlawful",
+   "sum": "A federal judge has ruled that the dismissal of Maurene Comey, the daughter of former FBI Director James Comey, was unlawful. This ruling raises additional concerns about politically motivated firings within the Department of Justice.",
+   "more": "The judge's decision comes amid ongoing debates regarding the integrity of federal employment practices. Different news outlets emphasize distinct aspects of the ruling; for example, NBC News focuses on the order for her reinstatement, while Fox News highlights the judge's rejection of broader claims about executive power in hiring decisions. NPR notes the implications of the ruling in the context of political influence within the DOJ. Overall, the framing reflects a concern about the politicization of justice-related personnel decisions.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Judge says DOJ illegally fired the daughter of former FBI director Comey",
+     "title_en": "Judge says DOJ illegally fired the daughter of former FBI director Comey.",
+     "url": "https://www.npr.org/2026/10/26/g-s1-149960/judge-maurene-comey-illegal-dismissal",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Judge orders DOJ to reinstate former federal prosecutor Maurene Comey",
+     "title_en": "Judge orders DOJ to reinstate former federal prosecutor Maurene Comey.",
+     "url": "https://www.nbcnews.com/politics/trump-administration/doj-justice-maurene-comey-court-reinstate-rcna605720",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Obama judge rules Trump DOJ illegally fired James Comey's daughter, rejects sweeping Article II claim",
+     "title_en": "Obama judge rules Trump DOJ illegally fired James Comey's daughter, rejects sweeping Article II claim.",
+     "url": "https://www.foxnews.com/politics/obama-judge-rules-trump-doj-illegally-fired-james-comeys-daughter-rejects-sweeping-article-ii-claim",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-26",
+   "title": "Lula Faces Market Decline and Flavio Bolsonaro Challenge After Historic Comeback",
+   "sum": "Lula's recent political comeback has been overshadowed by negative market reactions and challenges from Flavio Bolsonaro. Investors expressed strong concerns, leading the Liberal Party to distance itself from its candidate and acknowledge the election results.",
+   "more": "The market's strong negative response indicates a potential volatility in investors' confidence regarding Lula's leadership. Flavio Bolsonaro's challenge poses an additional political obstacle for Lula as he navigates the aftermath of the elections. The Liberal Party's distancing from its candidate suggests a shift in political strategy in light of the election outcomes and market reactions. Different news outlets may emphasize the implications of these developments on the political landscape, revealing varying perspectives on Lula's future challenges.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Tras una remontada hist\u00f3rica, Lula enfrenta la ca\u00edda de los mercados y el desaf\u00edo de Flavio Bolsonaro",
+     "title_en": "After a historic comeback, Lula faces falling markets and the challenge from Flavio Bolsonaro",
+     "url": "https://www.lanacion.com.ar/el-mundo/tras-una-remontada-historica-lula-enfrenta-la-caida-de-los-mercados-y-el-desafio-de-flavio-bolsonaro-nid26102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-26",
+   "title": "Upcoming Elections in Israel and the US with Global Consequences",
+   "sum": "Israel and the United States are both preparing for elections that may have far-reaching impacts. The results of these elections are expected to influence geopolitical dynamics and the global economy.",
+   "more": "The article emphasizes the significance of the timing of the elections, occurring simultaneously in two major nations. It suggests that the outcomes could lead to shifts in international relations and economic policies. Potential scenarios are discussed, indicating how the election results may affect various global issues. The framing differs among outlets regarding which nation's election is deemed more pivotal for global consequences.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Israel and the US are both going to the polls - the consequences will be global",
+     "title_en": "Israel and the US are both going to the polls - the consequences will be global.",
+     "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-26",
+   "title": "Serbia Celebrates Election Victory Against Ruling Party",
+   "sum": "Serbia experiences celebrations following the loss of the ruling party's grip on power. This significant shift comes after two years of persistent student-led protests focused on tackling corruption and mismanagement.",
+   "more": "Al Jazeera highlights the culmination of grassroots activism leading to a pivotal electoral outcome. The emphasis is on the role of student protests in driving change. Other outlets might focus more on the implications of the ruling party's defeat for future governance or public sentiment. However, Al Jazeera primarily centers on the celebratory aspect of the election result.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Photos: Serbia celebrates as ruling party loses grip on power",
+     "title_en": "Photos: Serbia celebrates as ruling party loses grip on power",
+     "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-26",
+   "title": "iOS 27.2 Released with New Features",
+   "sum": "Apple has released iOS 27.2, bringing the iPhone Duo and other models onto the same version. This update introduces several new features and improvements.",
+   "more": "Among the updates in iOS 27.2 are improvements to Siri AI, which can now recall past conversations. The update also includes several other enhancements that aim to improve user experience across devices. Different outlets emphasize various aspects of the update, with some focusing more on the technical improvements while others highlight user-facing changes. Overall, the release has been well-received as part of Apple's ongoing software development strategy.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "iOS 27.2 Features: Everything New in iOS 27.2",
+     "title_en": "iOS 27.2 Features: Everything New in iOS 27.2",
+     "url": "https://www.macrumors.com/2026/10/26/ios-27-2-features/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-26",
+   "title": "Vito Quiles Cancels Event in Bilbao Due to Protests and Security Concerns",
+   "sum": "Vito Quiles has canceled his event in Bilbao following two antifascist protests and the closure of the University of Deusto. A court has declared him in rebellion and ordered his search and detention to notify him of an upcoming trial.",
+   "more": "Different outlets emphasize various aspects of the cancellations. While Eldiario.es highlights the protest actions and Quiles's blaming of ETA for the situation, Elconfidencial.com focuses on Quiles's announcement regarding safety concerns and his intent to return after the elections. Both outlets reflect varying concerns regarding security and freedom of expression in their framing of the event's cancellation.",
+   "coverage": [
+    {
+     "outlet": "Eldiario.es",
+     "title": "Vito Quiles cancela su acto en Bilbao tras dos protestas antifascistas y el cierre de la Universidad de Deusto",
+     "title_en": "Vito Quiles cancels his event in Bilbao after two antifascist protests and the closure of the University of Deusto.",
+     "url": "https://www.eldiario.es/euskadi/vito-quiles-cancela-acto-bilbao-protestas-antifascistas-cierre-universidad-deusto_1_13614866.html",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elconfidencial.com",
+     "title": "Vito Quiles cancela su acto en Bilbao por un riesgo \"muy elevado\" de incidentes",
+     "title_en": "A court declares Vito Quiles in rebellion and orders his search and detention to notify him of the opening of a trial.",
+     "url": "https://www.elconfidencial.com/espana/2026-10-26/vito-quiles-cancela-su-acto-en-bilbao-por-un-riesgo_4453416/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-26",
+   "title": "Student List Movement Achieves Historic Victory in Serbia",
+   "sum": "The Student List has made a significant mark in Serbian history by successfully challenging Aleksandar Vucic's 12-year government. This unprecedented event highlights a shift in Eastern Europe's political landscape.",
+   "more": "The atmosphere surrounding the election was characterized by a strong sense of relief and liberation among voters after years of political tension. Various outlets emphasize this change as a historic victory, with the Student List's achievement representing a break from the past. There is a strong framing of this movement as both a grassroots effort and a pivotal moment in Serbia's political evolution, suggesting a potential shift in the region's dynamics.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "De las calles a la mayor\u00eda absoluta: c\u00f3mo el movimiento Lista Estudiantil logr\u00f3 derrocar la hegemon\u00eda de Vucic en Serbia",
+     "title_en": "From the streets to the absolute majority: how the Student List movement managed to overthrow Vucic's hegemony in Serbia.",
+     "url": "https://www.abc.es/internacional/calles-mayoria-absoluta-movimiento-lista-estudiantil-logro-20261026102051-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Aristeguinoticias.com",
+     "title": "De las aulas a las urnas: La \u201cLista Estudiantil\u201d logra un triunfo hist\u00f3rico en Serbia",
+     "title_en": "From classrooms to the polls: The 'Student List' achieves a historic victory in Serbia.",
+     "url": "https://aristeguinoticias.com/2610/mundo/de-las-aulas-a-las-urnas-la-lista-estudiantil-logra-un-triunfo-historico-en-serbia",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-26",
+   "title": "Alaska Senate Candidate Mary Peltola Halts Campaigning After Car Crash",
+   "sum": "Mary Peltola, the Democratic Senate candidate from Alaska, has paused her midterms campaign following a car accident that resulted in minor injuries. She is participating in a highly competitive race.",
+   "more": "Peltola's campaign has faced legal challenges as well, with her lawyers requesting a judge to dismiss a U.S. lawsuit concerning election certification. This lawsuit is viewed by her campaign as an unlawful federal intervention in the electoral process. The media outlets highlight her resilience in the face of adversity, focusing on both her recovery and the ongoing legal issues surrounding her campaign.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
+     "title_en": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash.",
+     "url": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "HuffPost",
+     "title": "Alaska Democratic Senate Candidate Peltola Asks Judge To Toss U.S. Lawsuit Over Certification",
+     "title_en": "Alaska Democratic Senate Candidate Peltola Asks Judge To Toss U.S. Lawsuit Over Certification.",
+     "url": "https://www.huffpost.com/entry/peltola-alaska-certification_n_6ae02363e4b065fbf4c2017d",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-26",
+   "title": "Prediction Markets Misjudged Brazilian Election Outcomes",
+   "sum": "Prediction markets incorrectly favored Fl\u00e1vio Bolsonaro in the Brazilian election before his unexpected loss. In the U.S., these markets are also attracting attention for their role in elections.",
+   "more": "The Futurism article highlights the stark contrast between the predictions and the eventual outcome in Brazil, pointing out how Fl\u00e1vio Bolsonaro was seen as the favorite until the election results were announced. On the other hand, the Hurriyet Daily News discusses the implications of prediction markets in the context of U.S. midterm elections, emphasizing concerns over misinformation. While both articles address the inaccuracy of prediction markets, the framing differs in focus: one centers on a specific outcome in Brazil, and the other on the broader impact of these markets in the U.S. electoral landscape.",
+   "coverage": [
+    {
+     "outlet": "Futurism",
+     "title": "\u201cPrediction\u201d Markets Were Comically Wrong About the Brazilian Election",
+     "title_en": "Prediction Markets Were Comically Wrong About the Brazilian Election",
+     "url": "https://futurism.com/future-society/prediction-markets-wrong-brazilian-election",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Hurriyet Daily News",
+     "title": "Prediction markets open new front for US election misinformation",
+     "title_en": "Prediction markets open new front for US election misinformation",
+     "url": "https://www.hurriyetdailynews.com/prediction-markets-open-new-front-for-us-election-misinformation-228644",
+     "bias": "Lean Left",
      "src": "ai"
     }
    ]

@@ -45,5 +45,15 @@
  "abc.net.au": "Center",
  "rawstory.com": "Left",
  "propublica.org": "Center",
- "economictimes.indiatimes.com": "Lean Right"
+ "economictimes.indiatimes.com": "Lean Right",
+ "skysports.com": "Center",
+ "rte.ie": "Center",
+ "elconfidencial.com": "Lean Left",
+ "abc.es": "Right",
+ "aristeguinoticias.com": "Lean Left",
+ "radaronline.com": "Lean Right",
+ "futurism.com": "Center",
+ "hurriyetdailynews.com": "Lean Left",
+ "reason.com": "Lean Right",
+ "dailymail.com": "Right"
 }
