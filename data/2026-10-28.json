@@ -1,0 +1,483 @@
+{
+ "date": "2026-10-28",
+ "updated": "Oct 29, 17:12 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-28",
+   "title": "The Case for Letting the Internet Die",
+   "sum": "The article argues that the current state of the internet is detrimental, dominated by oligarchs and filled with low-quality content. It suggests that a reboot of the online landscape is necessary.",
+   "more": "Wired highlights the negative impact of current online environments, claiming they amplify humanity's worst behaviors. The piece advocates for a fundamental change in how the internet operates, implying that a fresh start is the solution. It contrasts significantly with more optimistic perspectives that view current internet developments as opportunities for growth and connection.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Please Let the Internet Die",
+     "title_en": "Please Let the Internet Die",
+     "url": "https://www.wired.com/story/let-the-internet-die/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-28",
+   "title": "Amazon Expands Echo Family with New Devices",
+   "sum": "Amazon has introduced new products to its Echo lineup, including an Alexa photo frame and a bedside clock. The updated Echo Studio features a camera, and the Echo Show 16 unveils an AI-generated Alexa interface.",
+   "more": "The new devices aim to enhance user interaction with Alexa by integrating additional features. The introduction of an AI-generated interface for the Echo Show 16 marks a significant technological advancement in smart home devices. Other outlets may emphasize the camera's capabilities in the Echo Studio or the design and utility of the new photo frame.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+     "title_en": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+     "url": "https://www.wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-28",
+   "title": "Amazon's New Hardware Launches: A Shift from Big Events",
+   "sum": "Amazon has opted for a series of smaller product launches throughout October instead of its traditional large fall hardware showcase. The announcements include new Fire TV devices, updated Kindles, the Alexa Tablet Pro 12, and a new smart lock from Ring.",
+   "more": "The changes in Amazon's strategy suggest a move towards more frequent, smaller announcements rather than a single large event. This approach may allow for more consistent engagement with customers and media. The new products indicate a continued focus on integrating smart home technology and enhancing user experience with their Amazon ecosystem. As other tech companies still favor large reveal events, Amazon's strategy could set a new trend in the industry.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Inside Amazon\u2019s Echo hardware event",
+     "title_en": "Inside Amazon\u2019s Echo hardware event.",
+     "url": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-28",
+   "title": "Dolores Huerta, Influential Labor Leader and Civil Rights Icon, Passes Away at 96",
+   "sum": "Dolores Huerta, a prominent labor leader and civil rights activist, has died at the age of 96. She co-founded the United Farm Workers union, significantly impacting the lives of farmworkers in the United States.",
+   "more": "Both NPR and NBC News highlight Huerta's role in the United Farm Workers and her influence on labor rights. NPR emphasizes her feminist activism and the famous phrase 'S\u00ed, se puede!' that she coined, while NBC News focuses on her partnership with C\u00e9sar Ch\u00e1vez and her impact on Latino farmworkers specifically. The framing of her legacy as both a labor leader and a civil rights icon is consistent across both outlets, showcasing her multifaceted contributions.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+     "title_en": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Dolores Huerta, farmworker and civil rights activist, dies at 96",
+     "title_en": "Dolores Huerta, farmworker and civil rights activist, dies at 96",
+     "url": "https://www.nbcnews.com/news/obituaries/dolores-huerta-farmworker-civil-rights-activist-dies-96-rcna137901",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-28",
+   "title": "Fatal Train Collision in Spain Leaves at Least 10 Dead",
+   "sum": "A tragic accident involving two high-speed trains in central Spain resulted in at least 10 fatalities. The incident occurred when one train collided with the rear of another that had stopped.",
+   "more": "Both NBC News and NPR report on the deadly train crash, emphasizing the loss of life and the circumstances of the accident. NPR provides additional details about the derailment of two cars, which highlights the severity of the crash. The framing between the two outlets is similar, focusing on the human toll and the specifics of the collision.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "At least 10 dead after two trains collide in Spain",
+     "title_en": "At least 10 dead after two trains collide in Spain",
+     "url": "https://www.nbcnews.com/world/spain/spain-train-crash-high-speed-collision-toledo-rcna606070",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "At least 10 dead in crash between 2 trains in Spain",
+     "title_en": "At least 10 dead in crash between 2 trains in Spain",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-28",
+   "title": "Midterm Elections and Global Political Developments",
+   "sum": "As the midterm elections approach in the U.S., President Trump is delivering varied messages while a deadlock occurs in the Israeli election. Economic indications suggest that the Federal Reserve will maintain steady interest rates.",
+   "more": "A new NPR poll indicates that Democrats hold an advantage as Election Day nears, prompting congressional Democrats to create a task force focused on election protection. In Israel, Prime Minister Netanyahu is competing for reelection as polls open, illustrating a critical moment in Israeli politics with no clear winner yet in sight. The framing in these reports emphasizes the political maneuvers in both the U.S. and Israel, highlighting the uncertainty and strategic efforts by key political players.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Morning news brief",
+     "title_en": "Morning news brief. President Trump crisscrosses the country with scattershot closing messages midterms approach, deadlock after Israeli election shows no clear winner, Fed expected to hold interest rates steady.",
+     "url": "https://www.npr.org/2026/10/28/nx-s1-6012226/morning-news-brief",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-28",
+   "title": "Secret Flight of Bolsonaro to the United States",
+   "sum": "The article discusses the details surrounding the secret flight that transported Fl\u00e1vio Bolsonaro to the United States, including the use of an Italian passport and the necessary approvals. It highlights the flight's departure only after receiving the green light from Washington.",
+   "more": "Another outlet provides insights into how news of Fl\u00e1vio Bolsonaro's escape to the US circulated among his associates, indicating he was already in the US before he had actually crossed the Brazilian border. This context emphasizes the urgency and secrecy of his departure, as he faces investigations for money laundering and illegal funding. The framing varies slightly, with one article focusing more on the logistical aspects of the flight while the other emphasizes the implications of his legal troubles.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El documento y la historia del vuelo secreto que transport\u00f3 a Bolsonaro a Estados Unidos",
+     "title_en": "The document and the history of the secret flight that transported Bolsonaro to the United States.",
+     "url": "https://www.lanacion.com.ar/economia/el-documento-y-la-historia-del-vuelo-secreto-que-transporto-a-bolsonaro-a-estados-unidos-nid28102026/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Latercera.com",
+     "title": "La reconstrucci\u00f3n de la huida desde Brasil de Fl\u00e1vio Bolsonaro hacia Estados Unidos",
+     "title_en": "The reconstruction of Fl\u00e1vio Bolsonaro's escape from Brazil to the United States.",
+     "url": "https://www.latercera.com/mundo/noticia/la-reconstruccion-de-la-huida-de-flavio-bolsonaro/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-28",
+   "title": "Netanyahu Loses Strength at Ballot; Arab Parties Could Define Future of Israeli Government",
+   "sum": "Likud was the most voted force, but the right-wing and far-right coalition did not secure a parliamentary majority. Centrist Gadi Eisenkot could displace the current prime minister if he gains the support of Arab parties.",
+   "more": "The election results indicate a shift in power dynamics, putting Netanyahu's position at risk. Gadi Eisenkot, representing a centrist approach, is now positioned to form a coalition with Arab parties, which could be vital for his success. This development highlights the increasing political influence of Arab parties in Israeli governance. The framing from the articles emphasizes the volatility of Netanyahu's leadership and the potential for a significant political change in Israel.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Netanyahu pierde fuerza en las urnas y los partidos \u00e1rabes podr\u00edan definir el futuro del gobierno israel\u00ed",
+     "title_en": "Netanyahu Loses Strength at the Ballot; Arab Parties Could Define the Future of the Israeli Government",
+     "url": "https://www.lanacion.com.ar/el-mundo/netanyahu-pierde-fuerza-en-las-urnas-y-los-partidos-arabes-podrian-definir-el-futuro-del-gobierno-nid28102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-28",
+   "title": "Senate to Attempt Approval of Mental Health Law Reform",
+   "sum": "The Senate is set to try to approve a reform of the mental health law and the RIIR. The government-driven project has undergone significant changes but still faces opposition.",
+   "more": "Today, the land law, which was altered by the Deputies, is being discussed in committees. The reform has sparked considerable debate, reflecting differing opinions among lawmakers. While some support the government's revisions, others express concerns about its implications.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Senado intentar\u00e1 aprobar ma\u00f1ana la reforma de la ley de salud mental y el RIIR",
+     "title_en": "The Senate will try to approve the reform of the mental health law and the RIIR tomorrow.",
+     "url": "https://www.lanacion.com.ar/politica/el-senado-intentara-aprobar-manana-la-reforma-de-la-ley-de-salud-mental-y-el-riir-nid28102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-28",
+   "title": "A Nation Divided: The Growing Polarization in Politics",
+   "sum": "Many countries are increasingly divided between left and right, a phenomenon that is not new but is worsening. This polarization is becoming more pronounced and prevalent.",
+   "more": "The article from La Nacion discusses the growing trend of political division within countries, emphasizing how this split is affecting societal cohesion and political discourse. The framing highlights the dangers of this bifurcation, suggesting it has significant implications for governance and national unity. The piece draws on examples of various countries to illustrate the universality of this issue, indicating a broader global trend towards partisan divides.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Medio pa\u00eds de izquierda, medio pa\u00eds de derecha",
+     "title_en": "Half a Country to the Left, Half a Country to the Right",
+     "url": "https://www.lanacion.com.ar/opinion/medio-pais-de-izquierda-medio-pais-de-derecha-nid28102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-28",
+   "title": "Israeli Exit Polls Indicate No Clear Winner in General Election",
+   "sum": "Exit polls from the Israeli general election show a tie between incumbent Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot. Neither candidate appears to secure a majority.",
+   "more": "The reports highlight a significant election where the outcomes remain uncertain. Expectations are mixed, with various analysts noting the implications of a potential stalemate in forming a government. Some outlets emphasize the continued political fragmentation in Israel, while others focus on the performance of Netanyahu after his long tenure.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+     "title_en": "Israeli exit polls suggest no clear winner in pivotal general election",
+     "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-28",
+   "title": "Serbian Shot Dead After Attacking Officer Outside Israeli Embassy",
+   "sum": "A Serbian man was shot dead after attacking a police officer outside the Israeli embassy in Belgrade. The attacker was an underage male under surveillance by security services.",
+   "more": "The incident has raised concerns regarding security measures surrounding diplomatic facilities. Serbian authorities have confirmed that the assailant was known to law enforcement due to previous monitoring. Additionally, there may be implications for discussions on youth radicalization and security protocols. Different outlets may emphasize the age of the attacker or the specific context of the attack in their coverage.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+     "title_en": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+     "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-10-28",
+   "title": "Debate Over Privatization of Korea Aerospace Industries Intensifies",
+   "sum": "The discussion surrounding the privatization of Korea Aerospace Industries (KAI) is gaining traction as Hanwha seeks to increase its stake in the company. This development could be influenced by a recent commission from the state-run Export-Import Bank of Korea.",
+   "more": "Different outlets may frame the implications of this potential privatization differently. Some might focus on the financial benefits and increased investment potential, while others may emphasize the risks associated with privatizing a key aerospace entity. Overall, stakeholders are closely monitoring how Hanwha's moves will affect the future of KAI and the broader aerospace industry in South Korea.",
+   "coverage": [
+    {
+     "outlet": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+     "title": "[COVER STORY] Debate grows over KAI privatization as Hanwha aims to expand stake - The Korea Times",
+     "title_en": "Debate grows over KAI privatization as Hanwha aims to expand stake",
+     "url": "https://www.koreatimes.co.kr/business/companies/20261028/debate-grows-over-kai-privatization-as-hanwha-aims-to-expand-stake",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-10-28",
+   "title": "Power Equipment Manufacturers Expand U.S. Capacity Amid AI Boom",
+   "sum": "Power equipment manufacturers are increasing their production capacity in the U.S. in response to the booming demand driven by artificial intelligence data centers. This expansion includes securing significant supply contracts.",
+   "more": "The rush to expand is highly influenced by the rapid growth of AI technologies, which require enhanced power infrastructure. Various companies are strategizing to meet this demand, seeing a promising market in the U.S. Some articles highlight how this trend may lead to increased investments in domestic manufacturing capabilities. There is a general consensus on the importance of adapting to the evolving technological landscape while ensuring reliable power supply.",
+   "coverage": [
+    {
+     "outlet": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+     "title": "Power equipment makers race to expand US capacity amid AI boom - The Korea Times",
+     "title_en": "Power equipment makers race to expand US capacity amid AI boom",
+     "url": "https://www.koreatimes.co.kr/business/tech-science/20261028/power-equipment-makers-race-to-expand-us-capacity-amid-ai-boom",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-28",
+   "title": "Screen Cracks Reported in iPhone Duo's Foldable Handset",
+   "sum": "Users of the iPhone Duo are experiencing screen cracks in Apple's first foldable device. Apple acknowledges a small number of affected devices but states that it is too early to determine the extent of the issue.",
+   "more": "The Daily Star reports on user complaints regarding display problems in the iPhone Duo, while Apple maintains that the reported issues are limited. Experts remain cautious, noting that further analysis is needed to quantify the scope of these problems. The situation highlights potential concerns about the durability of foldable technology.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "iPhone Duo users report screen cracks in Apple\u2019s first foldable handset",
+     "title_en": "iPhone Duo users report screen cracks in Apple\u2019s first foldable handset.",
+     "url": "https://www.thedailystar.net/news/technology/news/iphone-duo-users-report-screen-cracks-apples-first-foldable-handset-4309501",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-28",
+   "title": "Israeli Coalition Government Formation Challenge",
+   "sum": "Israel's governance relies on coalition systems, raising questions about potential leaders. The task remains to secure 61 seats in the Knesset to establish the next government.",
+   "more": "In the context of Israeli politics, the focus is on whether Netanyahu or Eisenkot can effectively build a coalition. Given the importance of reaching a majority in the Knesset, the challenges of coalition building are significant. Various political factions play a crucial role in these negotiations, which can lead to differing perspectives on leadership depending on the outlet's focus.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu or Eisenkot? Can you form Israel\u2019s next coalition government?",
+     "title_en": "Netanyahu or Eisenkot? Can you form Israel\u2019s next coalition government?",
+     "url": "https://www.aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-28",
+   "title": "Netanyahu Discusses Achievements and Future Plans Amid Polls",
+   "sum": "Israeli Prime Minister Benjamin Netanyahu highlights his accomplishments and future objectives as his party, Likud, leads in current polls. He indicates that the official election results will be available in one or two days.",
+   "more": "The focus of the report is on Netanyahu's presentation of his government's achievements and strategic plans for the future. Al Jazeera emphasizes the context of the upcoming election and the significance of the polling data. There is an underlying tension in the atmosphere, as the official confirmation of election outcomes is awaited, pivotal for Netanyahu's political standing.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu outlines achievements, future plans as Likud leads polls",
+     "title_en": "Netanyahu outlines achievements, future plans as Likud leads polls.",
+     "url": "https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-28",
+   "title": "Israel's Stock Market Declines Amid Election Uncertainty",
+   "sum": "Israel's stock market has experienced a significant drop following the release of exit polls indicating no clear winner in the elections. The benchmark Tel Aviv 125 index fell by more than 2 percent.",
+   "more": "The market's decline reflects investor concerns about the political landscape and potential instability in the formation of the next government. The situation has created an atmosphere of uncertainty, affecting trading activities. Different outlets may emphasize various aspects of the political implications and economic consequences of these election results.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s stock market drops as exit polls show no clear election winner",
+     "title_en": "Israel's stock market drops as exit polls show no clear election winner.",
+     "url": "https://www.aljazeera.com/economy/2026/10/28/israels-stock-market-drops-as-exit-polls-show-no-clear-election-winner",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-28",
+   "title": "Israel's Election: Choices Between Change and Anti-Palestinian Sentiment",
+   "sum": "Israeli parties are facing a critical decision in the electoral battle as both blocs are short of a majority. The options include either breaking the taboo on forming alliances with Arab parties or opting for another election.",
+   "more": "The situation highlights the ongoing tension in Israeli politics regarding the integration of Arab political groups. Some parties may choose to ally with Arab parties to secure a majority, while others may prefer to uphold the status quo and seek a new election. The divide reflects deeper societal issues, particularly concerning attitudes toward Palestinians. This scenario underscores the complexities of governance in a polarized political landscape.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s election: The battle between change and anti-Palestinian sentiment",
+     "title_en": "Israel\u2019s election: The battle between change and anti-Palestinian sentiment",
+     "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-28",
+   "title": "Valve Addresses Developers' Concerns Over AI Clones",
+   "sum": "Valve has responded to developers worried about AI-generated clone games. The company encourages a focus on building community and providing consistent updates.",
+   "more": "The guidance from Valve aims to mitigate fears among developers regarding the potential impact of AI on game originality. By promoting community engagement and regular updates, Valve hopes to foster a stronger relationship between developers and their audiences. This approach may differ from other industry discussions that emphasize regulation or limitation of AI technologies.",
+   "coverage": [
+    {
+     "outlet": "InvenGlobal",
+     "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+     "title_en": "Valve Responds to Developers Fearing AI Slop and Clones",
+     "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-28",
+   "title": "Robert Del Naja of Massive Attack Releases Music for Gaza Documentary",
+   "sum": "Robert Del Naja, known as 3D, has unveiled new tracks for a documentary centered on Gaza. The soundtrack features a remix of Kneecap's 'Palestine' and several original compositions.",
+   "more": "The release includes three new songs: 'Explosives of the Future,' 'Perfect Victims,' and 'House of Healing.' Del Naja\u2019s contributions highlight his ongoing engagement with social and political issues through music. Different outlets emphasize the political context of the documentary, framing it as a poignant reflection on the situation in Gaza and the role of art in activism.",
+   "coverage": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Massive Attack\u2019s Robert Del Naja Releases New Songs for Gaza Documentary",
+     "title_en": "Massive Attack\u2019s Robert Del Naja Releases New Songs for Gaza Documentary",
+     "url": "https://pitchfork.com/story/massive-attacks-robert-del-naja-releases-new-songs-for-gaza-documentary/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Consequence.net",
+     "title": "Massive Attack\u2019s Robert Del Naja Contributes New Music to Gaza Documentary: Stream",
+     "title_en": "Massive Attack\u2019s Robert Del Naja Contributes New Music to Gaza Documentary: Stream",
+     "url": "https://consequence.net/2026/10/massive-attack-robert-del-naja-life-support-documentary-soundtrack/",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-28",
+   "title": "Science and Money Influence in the 2026 US Midterm Elections",
+   "sum": "The upcoming 2026 midterm elections are likely to be significantly influenced by issues related to scientific research and large financial contributions from major donors. These dynamics highlight the evolving role of science and money in American politics.",
+   "more": "Scientific American emphasizes the importance of science-related topics, such as Medicare for All and research funding, in shaping the electoral landscape. Meanwhile, Al Jazeera English focuses on the financial aspect, noting that significant donations, particularly from Elon Musk, are heavily favoring Republican groups. The Conversation Africa discusses the Republican Party's challenges, suggesting that historical trends indicate the ruling party may face backlash in the midterms. Overall, the framing differs, with one outlet highlighting scientific issues, another focusing on monetary influence, and a third analyzing political power dynamics.",
+   "coverage": [
+    {
+     "outlet": "Scientific American",
+     "title": "Why science is on the ballot in the 2026 midterm elections",
+     "title_en": "Why science is on the ballot in the 2026 midterm elections.",
+     "url": "https://www.scientificamerican.com/podcast/episode/why-science-is-on-the-ballot-in-the-2026-midterm-elections/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Tracking the money: The biggest donors in the 2026 US midterm elections",
+     "title_en": "Tracking the money: The biggest donors in the 2026 US midterm elections.",
+     "url": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "The Conversation Africa",
+     "title": "Why Republicans are on the back foot ahead of US midterm elections",
+     "title_en": "Why Republicans are on the back foot ahead of US midterm elections.",
+     "url": "https://theconversation.com/why-republicans-are-on-the-back-foot-ahead-of-us-midterm-elections-294569",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-28",
+   "title": "Texas Residents Express Opposition to Data Centers",
+   "sum": "Voters in Texas are increasingly voicing their discontent with the influx of data centers in their communities. Local leaders, such as the Texas NAACP president, highlight numerous projects facing significant opposition from residents.",
+   "more": "The situation in Texas showcases a growing trend of local resistance against data center developments, particularly in areas like Austin and its suburbs. Residents are concerned about various impacts, including environmental consequences and changes to community dynamics. The framing across different outlets may spotlight varying aspects of community resistance, with some emphasizing environmental issues while others focus on economic implications.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Voters in Texas agree: They hate data centers",
+     "title_en": "Voters in Texas agree: They hate data centers.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-28",
+   "title": "Fox One Introduces New App for 2026 Midterm Election Tracking",
+   "sum": "Fox's streaming service, Fox One, has launched a new app experience designed to track the results of the 2026 midterm elections. This addition aims to enhance coverage of the upcoming electoral events.",
+   "more": "The new app is expected to provide users with real-time updates and a more interactive experience during the elections. This move reflects Fox's commitment to enhancing its political coverage through technology. While the focus is on providing comprehensive election tracking, other outlets may highlight different aspects of this development, such as its implications for voter engagement.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Fox One Will Track 2026 Midterm Election Results With New App Experience",
+     "title_en": "Fox One Will Track 2026 Midterm Election Results With New App Experience",
+     "url": "https://www.cnet.com/tech/services-and-software/fox-one-2026-midterm-elections/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "date": "2026-10-27",
- "updated": "Oct 28, 16:54 UTC",
+ "updated": "Oct 29, 17:12 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -488,6 +488,335 @@
      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-hits-campaign-trail-in-mississippi-as-republicans-face-surprise-challenges-in-states-they-expected-to-win-easily/articleshow/135222401.cms",
      "bias": "Lean Right",
      "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-27",
+   "title": "AI Goes Rogue in Marvel's VisionQuest",
+   "sum": "Marvel's VisionQuest explores themes of artificial intelligence and humanity. The storyline features a superpowered robot engaging in digital daydreams to better understand human emotions.",
+   "more": "The series presents a fantastical take on AI, illustrating its struggles to comprehend human experiences. Different outlets may highlight various aspects of the narrative, such as the emotional depth of AI interactions or the visual artistry of the digital daydreams. While some reviews may praise the imaginative elements, others could focus on the implications of AI's quest for understanding.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "VisionQuest is what happens when AI really goes rogue",
+     "title_en": "VisionQuest is what happens when AI really goes rogue",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-27",
+   "title": "Alexander Brothers Sentenced to 30 Years for Sex Trafficking",
+   "sum": "Three brothers were sentenced to 30 years in prison for their roles in drugging and raping numerous women. The case revealed a pattern of exploitation tied to their wealth and access.",
+   "more": "U.S. District Judge Valerie E. Caproni imposed the sentence on the brothers, who had exploited their affluent lifestyle over several decades. Federal prosecutors sought a life sentence, indicating the severity of the crimes, while the brothers requested a lighter sentence of 15 years. Coverage across various outlets emphasizes the heinous nature of the offenses, with some focusing more on the victims' testimonies in court.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "3 Alexander brothers each get 30 years for sex trafficking after women speak in court",
+     "title_en": "Alexander brothers each get 30 years for sex trafficking after women speak in court.",
+     "url": "https://www.yahoo.com/news/us/articles/women-accused-alexander-brothers-rape-040055045.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Alexander brothers sentenced to 30 years in federal sex trafficking case",
+     "title_en": "Alexander brothers sentenced to 30 years in federal sex trafficking case.",
+     "url": "https://abcnews.com/US/alexander-brothers-sentenced-30-years-federal-sex-trafficking/story?id=137608040",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case",
+     "title_en": "Alexander brothers each sentenced to 30 years in prison for sex trafficking case.",
+     "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-27",
+   "title": "VisionQuest: AI Goes Rogue in a Fantastical Journey",
+   "sum": "Marvel's VisionQuest features a superpowered robot exploring humanity through elaborate digital daydreams. The show blends fantasy with reflections on artificial intelligence.",
+   "more": "In the series, the robot and other AI beings navigate through a shared home, highlighting both their capabilities and the complexities of understanding human emotions. While some outlets praise the imaginative storytelling, others critique it for potentially oversimplifying AI's relationship with humanity. Ultimately, VisionQuest presents a unique perspective on the intersection of technology and human experience.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "VisionQuest is what happens when AI really goes rogue",
+     "title_en": "VisionQuest is what happens when AI really goes rogue",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-27",
+   "title": "The Truth Behind a Roman Soldier's Death Revealed",
+   "sum": "Archaeologists initially believed that a Roman soldier was killed during a tax revolt. However, new evidence suggests that the circumstances of his death may have been far more serious.",
+   "more": "The investigation into the soldier's case files has unveiled details that point to more severe issues than taxation. This revelation challenges the previous understanding of the socio-political situation in Rome at that time. Various archaeological findings contribute to a more complex narrative surrounding the soldier's fate.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Archaeologists Thought This Roman Soldier Was Killed in a Tax Revolt. The Truth May Be Much Worse",
+     "title_en": "Archaeologists Thought This Roman Soldier Was Killed in a Tax Revolt",
+     "url": "https://gizmodo.com/archaeologists-thought-this-roman-soldier-was-killed-in-a-tax-revolt-the-truth-may-be-much-worse-2000831339",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-27",
+   "title": "Sarah Snook's 'The Birds' Series Coming to HBO",
+   "sum": "HBO is set to host Sarah Snook's new series inspired by Hitchcock's classic film and Daphne du Maurier's story 'The Birds'. The show promises to deliver an eerie atmosphere reminiscent of the original.",
+   "more": "The announcement has generated excitement among fans of both the actress and the source material. HBO, known for its high-quality productions, seems to be a fitting network for such a project. While specific details about the cast and premiere date remain under wraps, the show's concept appears to embrace suspense and psychological depth akin to the original narrative.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Sarah Snook\u2019s \u2018The Birds\u2019 Series Is Coming to HBO",
+     "title_en": "Sarah Snook\u2019s \u2018The Birds\u2019 Series Is Coming to HBO",
+     "url": "https://gizmodo.com/sarah-snooks-the-birds-series-is-coming-to-hbo-2000831326",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-27",
+   "title": "Concerns Raised Over Landline Switchover and Emergency Access",
+   "sum": "UK ministers have been warned that the upcoming switch to digital landlines could disrupt emergency access for some residents. MPs are particularly concerned about the impact on people living in remote areas.",
+   "more": "The switchover to digital landlines is scheduled for January, but MPs fear that this transition may leave vulnerable populations without reliable means to contact emergency services. Some rural areas may not adapt effectively to the new system, raising alarms about potential risks to public safety. While the government emphasizes the modernization of communication infrastructure, there are differing opinions on how to balance advancement with accessibility for all citizens.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Landline switchover could cut people off in emergency, minister warned",
+     "title_en": "Landline switchover could cut people off in emergency, minister warned",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-27",
+   "title": "Uncertainty Ahead in Upcoming Israel Election",
+   "sum": "Israeli President Isaac Herzog will identify the candidate most capable of forming a government following the election results. The current election lacks a clear mandate.",
+   "more": "As the election approaches, there is significant uncertainty regarding the potential outcomes and government formation. Different outlets highlight the indecision among voters and the implications for political stability. Al Jazeera emphasizes the role of President Herzog in the post-election process, noting the challenges he faces in determining the best candidate to lead the government.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "No clear mandate projected in Israel election: What\u2019s next?",
+     "title_en": "No clear mandate projected in Israel election: What\u2019s next?",
+     "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-27",
+   "title": "Reflections on Five Years Living in the UK",
+   "sum": "A Canadian expat shares their journey of moving to the UK, initially filled with excitement. After five years, they came to realize that life in Canada was more fulfilling than they had appreciated.",
+   "more": "The writer reminisces about the initial thrill of living in Europe, highlighting how childhood dreams were realized upon moving to the UK. However, over time, they found themselves longing for aspects of their Canadian life that they had previously overlooked. This narrative contrasts the romanticized perception of living abroad with the realization of personal contentment in one's home country.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "At first, moving to the UK felt like a dream come true. Five years in, I realized it wasn't for me.",
+     "title_en": "At first, moving to the UK felt like a dream come true.",
+     "url": "https://www.businessinsider.com/dreamed-of-living-europe-moved-to-england-left-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-27",
+   "title": "Common Mistakes in Ordering Wine at Restaurants",
+   "sum": "A sommelier shares key mistakes to avoid when ordering wine at restaurants. Understanding these pitfalls can enhance the dining experience.",
+   "more": "The sommelier emphasizes the importance of knowing one's preferences before making a selection. They also point out that many customers fail to ask for recommendations, which can lead to suboptimal choices. Furthermore, the article highlights the tendency for diners to overlook the wine list or to choose the least expensive option. Framing across different outlets could vary in terms of emphasis on personal preference versus general wine knowledge.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "4 mistakes people make when they order wine at restaurants, according to a sommelier",
+     "title_en": "4 mistakes people make when they order wine at restaurants, according to a sommelier",
+     "url": "https://www.businessinsider.com/mistakes-people-make-ordering-wine-sommelier-advice-suggestions-2026-10#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-27",
+   "title": "Protesters Storm Pro-Vucic TV Station in Belgrade Following Election Loss",
+   "sum": "Protesters attacked a pro-Vucic television station in Belgrade after President Aleksandar Vucic's electoral defeat. Vucic described the event as an assault on free speech and journalism.",
+   "more": "Both Al Jazeera and RT reported on the incident, highlighting the protesters' storming of Informer TV. Al Jazeera emphasized Vucic's condemnation of the assault as a threat to journalistic freedom. In contrast, RT noted Vucic's criticism of the EU for remaining silent on the violence. These differing focuses reflect varying interpretations of the incident's implications for freedom of speech and political accountability.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
+     "title_en": "Protesters storm Serbian pro-Vucic TV station after his loss at polls",
+     "url": "https://www.aljazeera.com/news/2026/10/27/protesters-storm-serbian-pro-vucic-tv-station-after-his-loss-at-polls",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Rt-english.com",
+     "title": "Protesters storm pro-Vucic TV station in Belgrade (VIDEO)",
+     "title_en": "Protesters storm pro-Vucic TV station in Belgrade (VIDEO)",
+     "url": "https://rt-english.com/news/647830-serbia-students-storm-tv-station/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-27",
+   "title": "Grand Jury Decides Against Indicting Cassidy Hutchinson Over Jan. 6 Testimony",
+   "sum": "A grand jury has chosen not to indict Cassidy Hutchinson following her testimony regarding Trump's actions during the January 6 riot. The Justice Department had previously opened a federal criminal investigation into her earlier this year.",
+   "more": "Both Dailymail.com and Breitbart News report that the grand jury's decision not to indict Hutchinson centers around her testimony concerning Trump\u2019s conduct during the Capitol riot. The Dailymail.com article highlights the initiation of a federal investigation into Hutchinson by the Justice Department, initiated by former Attorney General Pam Bondi. In contrast, Breitbart News focuses solely on the indictment decision without detailing the investigation aspect. The framing differs primarily in the emphasis on the investigation context by Dailymail.com compared to the straightforward news of the indictment decline by Breitbart.",
+   "coverage": [
+    {
+     "outlet": "Dailymail.com",
+     "title": "Grand jury declines to indict Cassidy Hutchinson over testimony about Trump's actions on Jan 6",
+     "title_en": "Grand jury declines to indict Cassidy Hutchinson over testimony about Trump's actions on Jan 6.",
+     "url": "https://www.dailymail.com/news/article-16244075/Grand-jury-declines-indict-Cassidy-Hutchinson-Trump.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Breitbart News",
+     "title": "Grand Jury Declines to Indict Cassidy Hutchinson for Her Jan. 6 Testimony",
+     "title_en": "Grand Jury Declines to Indict Cassidy Hutchinson for Her Jan. 6 Testimony.",
+     "url": "https://www.breitbart.com/politics/2026/10/27/grand-jury-declines-indict-cassidy-hutchinson-january-6-testimony/",
+     "bias": "Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-27",
+   "title": "Pilar Trinidad Appointed New Delegate of the Government in Madrid",
+   "sum": "Pilar Trinidad has been appointed as the new delegate of the Government in Madrid following the resignation of Francisco Mart\u00edn. Her challenges include managing a general strike and deciding whether to dismantle the protest camp at Puerta del Sol.",
+   "more": "Francisco Mart\u00edn resigned after not being included in the electoral lists and in the midst of a judicial dispute regarding the Puerta del Sol. This context has framed Trinidad's appointment as critical, suggesting she may face significant challenges ahead. While both outlets report on her appointment, Elespanol will focus more on the implications of Mart\u00edn's resignation, whereas ABC emphasizes the official approval of her role by the Council of Ministers.",
+   "coverage": [
+    {
+     "outlet": "Elespanol.com",
+     "title": "Pilar Trinidad, nueva delegada del Gobierno en Madrid tras la dimisi\u00f3n de Francisco Mart\u00edn: hasta ahora ejerc\u00eda de segunda",
+     "title_en": "Pilar Trinidad, new delegate of the Government in Madrid after the resignation of Francisco Mart\u00edn: until now she served as second.",
+     "url": "https://www.elespanol.com/madrid/comunidad/20261027/pilar-trinidad-nueva-delegada-gobierno-madrid-dimision-francisco-martin-ahora-ejercia-segunda/1003744436475_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "Pilar Trinidad, nueva delegada del Gobierno en Madrid tras la dimisi\u00f3n de Francisco Mart\u00edn",
+     "title_en": "Pilar Trinidad, new delegate of the Government in Madrid after the resignation of Francisco Mart\u00edn. The Council of Ministers approved on Tuesday the appointment of Pilar Trinidad as the new delegate of the Government in Madrid, following the recent resignation of Francisco Mart\u00edn after not being included in the electoral lists for the general elections on November 29.",
+     "url": "https://www.abc.es/espana/madrid/pilar-trinidad-nueva-delegada-gobierno-madrid-tras-20261027135743-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-27",
+   "title": "Feminist Organizations Demand Resignation of Justice Minister",
+   "sum": "Feminist organizations held a peaceful demonstration in front of the Ministry of Justice, calling for the resignation of Minister Rabat and Deputy Secretary of Justice Silva. The protest took place in the Plaza de la Constituci\u00f3n.",
+   "more": "Both news sources report on the demands for the resignation of Minister Rabat and Deputy Secretary Silva, noting that the protests were peaceful. Latercera.com emphasizes the presence of a group of people, while Cnnchile.com highlights the size of the crowd, describing it as a multitude. The focus on the specific demands and the location of the demonstration remains consistent across the outlets.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Organizaciones feministas se manifiestan frente al Ministerio de Justicia y exigen renuncia de Rabat por rebajas de condenas",
+     "title_en": "Feminist Organizations Demonstrate in Front of the Ministry of Justice Demanding Rabat's Resignation",
+     "url": "https://www.latercera.com/nacional/noticia/organizaciones-feministas-se-manifiestan-frente-al-ministerio-de-justicia-y-exigen-renuncia-de-rabat-por-rebajas-de-condenas/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Cnnchile.com",
+     "title": "Organizaciones feministas marchan frente al Ministerio de Justicia y exigen la renuncia de Rabat",
+     "title_en": "Feminist Organizations March in Front of the Ministry of Justice Demanding Rabat's Resignation",
+     "url": "https://www.cnnchile.com/pais/organizaciones-feministas-marchan-frente-al-ministerio-de-justicia-y-exigen-la-renuncia-de-rabat/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-27",
+   "title": "Trump Indicates Acceptance of Midterm Results Under Conditions",
+   "sum": "President Trump stated that he would only accept the results of the upcoming midterm elections if he considers them 'honest.' This comment comes amid ongoing concerns about voter fraud that he has frequently claimed without evidence.",
+   "more": "Trump's remarks have raised questions about the integrity of the electoral process ahead of the midterms. His focus on the honesty of the results seems aimed at galvanizing support among his base while implying that he may dispute results he disagrees with. While both sources report on Trump's stance, Truthout emphasizes the baseless nature of his claims regarding voter fraud, whereas CNA focuses on his commitment to respect the results contingent on their perceived honesty.",
+   "coverage": [
+    {
+     "outlet": "Truthout",
+     "title": "Trump Says He\u2019ll Accept Midterm Results If He Deems Them \u201cHonest\u201d",
+     "title_en": "Trump Says He\u2019ll Accept Midterm Results If He Deems Them 'Honest'",
+     "url": "https://truthout.org/articles/trump-says-hell-accept-midterm-results-if-he-deems-them-honest/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Trump says will respect US midterm results 'if they're honest'",
+     "title_en": "Trump says will respect US midterm results 'if they're honest'",
+     "url": "https://www.channelnewsasia.com/world/trump-us-midterms-election-respect-honest-results-6497496",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-27",
+   "title": "Trump Campaigns in Texas to Support Republicans",
+   "sum": "President Trump is making a concerted effort to maintain Republican control in Texas ahead of the midterm elections. He is campaigning for Republican Ken Paxton in his third visit to the state in a month.",
+   "more": "The Times of India highlights the high-stakes nature of Trump's visit, emphasizing the long-standing Republican dominance in Texas and the challenge posed by Democrats. In contrast, HuffPost focuses on the urgency of Trump's visit as a last-minute push against Democrats aiming for their first statewide victory in over 30 years. Both articles underline the significance of the upcoming elections, though they frame Trump's actions in slightly different contexts regarding urgency and stakes.",
+   "coverage": [
+    {
+     "outlet": "The Times of India",
+     "title": "Trump returning to Texas for a high-stakes push to keep the state in Republican hands",
+     "title_en": "Trump returning to Texas for a high-stakes push to keep the state in Republican hands",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-returning-to-texas-for-a-high-stakes-push-to-keep-the-state-in-republican-hands/articleshow/135239791.cms",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "HuffPost",
+     "title": "Trump Makes Last-Minute Push To Keep Texas In Republican Hands With Third Trip",
+     "title_en": "Trump Makes Last-Minute Push To Keep Texas In Republican Hands With Third Trip",
+     "url": "https://www.huffpost.com/entry/election-2026-trump-paxton-texas_n_6ae14342e4b0a43862440407",
+     "bias": "Left",
+     "src": "table"
     }
    ]
   }
