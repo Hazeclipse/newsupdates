@@ -1,6 +1,6 @@
 {
  "date": "2026-10-28",
- "updated": "Oct 29, 17:12 UTC",
+ "updated": "Oct 30, 16:53 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -475,6 +475,223 @@
      "title_en": "Fox One Will Track 2026 Midterm Election Results With New App Experience",
      "url": "https://www.cnet.com/tech/services-and-software/fox-one-2026-midterm-elections/",
      "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-28",
+   "title": "Discussion on Apple's Touchscreen MacBook Pro",
+   "sum": "Two articles reflect on the new Touchscreen MacBook Pro by Apple, questioning its necessity and design choices. While one article expresses confusion over the target audience, the other comments on the disappointment regarding its OLED feature.",
+   "more": "Gizmodo raises questions about the need for a Touchscreen MacBook, implying that it may not align with user expectations. CNET expresses a more personal disappointment, suggesting the OLED touch feature does not meet the anticipated criteria for a successful touchscreen addition. Both articles highlight a sense of confusion, although Gizmodo's framing focuses more on the broad relevance of the product, while CNET centers on the individual experience of using it.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Who Is the Touchscreen MacBook for, Exactly?",
+     "title_en": "Who Is the Touchscreen MacBook for, Exactly?",
+     "url": "https://gizmodo.com/who-is-the-touchscreen-macbook-for-exactly-2000832144",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "The MacBook Pro OLED Isn\u2019t the Touchscreen Mac I Was Looking For",
+     "title_en": "The MacBook Pro OLED Isn\u2019t the Touchscreen Mac I Was Looking For",
+     "url": "https://www.cnet.com/tech/computing/the-macbook-pro-oled-touchscreen-wasnt-what-i-wanted/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-28",
+   "title": "The M6 MacBook Pro's Price Issues",
+   "sum": "The M6 MacBook Pro's price point of $1,999 raises concerns about its value compared to other options. Alternatives such as the M6 Mac Mini and M5 MacBook Air are currently available at discounted prices.",
+   "more": "This pricing issue highlights the competitive landscape of Apple's product lineup. While the M6 MacBook Pro offers advanced features, potential buyers might find better deals in the form of the M6 Mac Mini and M5 MacBook Air. The article suggests that consumers may need to weigh their options carefully before making a purchase decision. The framing emphasizes the financial implications of choosing the M6 MacBook Pro over other models.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The New M6 MacBook Pro Has a Serious Price Problem",
+     "title_en": "The New M6 MacBook Pro Has a Serious Price Problem",
+     "url": "https://www.wired.com/story/m6-macbook-pro-price-problem/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-28",
+   "title": "Rian Johnson Releases New Camera App for iPhone",
+   "sum": "Director Rian Johnson has launched a new camera app for iPhone users. The app utilizes the image processing techniques he developed for his films.",
+   "more": "The app aims to provide users with enhanced photographic capabilities by leveraging the technology that Johnson has perfected in his cinematic work. While Gizmodo emphasizes Johnson's positive intentions in creating the app, it remains to be seen how it will be received by the public and if it can compete with existing photography apps.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "\u2018The Last Jedi\u2019 Director Launches a New Camera App for iPhone (Because He\u2019s a Good Guy)",
+     "title_en": "\u2018The Last Jedi\u2019 Director Launches a New Camera App for iPhone (Because He\u2019s a Good Guy)",
+     "url": "https://gizmodo.com/the-last-jedi-director-launches-a-new-camera-app-for-iphone-because-hes-a-good-guy-2000832061",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-28",
+   "title": "Mixed Emotions as Israeli Election Votes are Counted",
+   "sum": "As election votes are counted in Israel, voters express a mix of hope and despair. Leaders from the right make provocative statements regarding Arab voters.",
+   "more": "In Tel Aviv, voters showcased a range of emotions while waiting for the election results, reflecting the uncertainty of the political landscape. Simultaneously, prominent figures like Netanyahu and Smotrich voiced strong opinions against Arab voters, which could influence the political dialogue. The framing differs among outlets, with Al Jazeera focusing on both the emotional responses of voters as well as the contentious rhetoric from right-wing leaders, emphasizing a divided atmosphere in Israeli politics.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israeli right makes provocative statements as election votes are counted",
+     "title_en": "Israeli right makes provocative statements as election votes are counted.",
+     "url": "https://www.aljazeera.com/news/2026/10/28/israeli-right-makes-provocative-statements-as-election-votes-are-counted",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-28",
+   "title": "Company of Heroes 3's Operation Torch DLC Launches in November",
+   "sum": "The upcoming DLC for Company of Heroes 3, titled Operation Torch, will focus on the Allied landings in North Africa during World War II. Players will lead American forces in new single-player missions.",
+   "more": "This expansion aims to deepen the player's engagement with the historical context of the 1942 invasion. Players can expect missions that challenge their strategic capabilities. This DLC highlights the game's commitment to historical accuracy and immersive gameplay.",
+   "coverage": [
+    {
+     "outlet": "Rock Paper Shotgun",
+     "title": "Company of Heroes 3's Operation Torch DLC ships off to North Africa in November, for new missions based around the Allied landings",
+     "title_en": "Company of Heroes 3's Operation Torch DLC ships off to North Africa in November",
+     "url": "https://www.rockpapershotgun.com/company-of-heroes-3s-operation-torch-dlc-ships-off-to-north-africa-in-november-for-new-missions-based-around-the-allied-landings",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-28",
+   "title": "Protesters Clash with Police Demanding Resignation of Spanish Transport Minister",
+   "sum": "Protests erupted following a deadly train accident in Spain, leading to clashes between demonstrators and police forces. Eyewitnesses reported a stampede after police used tear gas against the crowd.",
+   "more": "National Police charged against protesters gathered outside the Ministry of Transport, where they were demanding the resignation of Minister \u00d3scar Puente. Both reports highlight the use of force by police, though Actualidad-rt.com focuses more on the chaos and stampede, while Europapress.es emphasizes the police actions against the protesters. The framing shows a significant concern for public safety on one side and a strong criticism of the government's handling of the accident on the other.",
+   "coverage": [
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "VIDEOS: Manifestantes chocan con polic\u00edas y exigen renuncia del ministro de Transporte espa\u00f1ol tras mort\u00edfera tragedia ferroviaria",
+     "title_en": "VIDEOS: Protesters Clash with Police and Demand Resignation of Spanish Transport Minister After Deadly Train Tragedy",
+     "url": "https://actualidad-rt.com/actualidad/634900-videos-manifestantes-chocan-policias-exigen-renuncia-ministro-accidente-urda",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Cargas policiales contra los manifestantes en el Ministerio de Transportes por el accidente ferroviario",
+     "title_en": "Police Charges Against Protesters at the Ministry of Transport Over Train Accident",
+     "url": "https://www.europapress.es/nacional/noticia-convocan-distintas-protestas-madrid-exigir-responsabilidades-gobierno-accidente-tren-20261028224534.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-28",
+   "title": "Demonstration Over Urda Train Accident Ends in Police Clashes",
+   "sum": "A demonstration in front of the Ministry of Transport in Madrid to protest a train accident in Urda ended with clashes and police intervention. The protest was sparked by the accident that resulted in at least 68 fatalities.",
+   "more": "Different outlets describe the event with varying focuses. According to ABC, the protest had hundreds of participants expressing their indignation, while El Periodico reported that over a thousand people gathered, emphasizing the ultranationalist character of the demonstration. Both reports agree on the police's involvement in managing the protest but differ in the number of participants and framing of the protest's nature.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "La manifestaci\u00f3n por el accidente en Urda frente a la sede del Ministerio de Transportes acaba con disturbios y cargas policiales",
+     "title_en": "The demonstration over the accident in Urda in front of the Ministry of Transport ends with disturbances and police charges.",
+     "url": "https://www.abc.es/espana/madrid/manifestacion-accidente-urda-frente-sede-ministerio-transportes-20261028213319-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elperiodico.com",
+     "title": "Cargas policiales en una manifestaci\u00f3n ultraderechista frente a la sede del Ministerio de Transportes",
+     "title_en": "Police charges during an ultraright demonstration in front of the Ministry of Transport.",
+     "url": "https://www.elperiodico.com/es/politica/20261028/cargas-policiales-manifestacion-ultraderechista-accidente-trenes-toledo-135868011",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-28",
+   "title": "Boston Dynamics Employees Protest Robot Deal With ICE",
+   "sum": "Boston Dynamics is experiencing employee protests in response to its business deal with ICE. Tech workers are expressing their concerns when their employers' actions contradict their personal values.",
+   "more": "The protests highlight a growing trend among tech workers who are standing up against corporate decisions that they believe conflict with ethical considerations. This incident reflects a broader movement in the tech industry where employees seek to influence business practices. The situation showcases the tension between corporate interests and employee values, particularly when it involves government contracts.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Boston Dynamics Faces Employee Protest Over Robot Deal With ICE",
+     "title_en": "Boston Dynamics Faces Employee Protest Over Robot Deal With ICE",
+     "url": "https://www.cnet.com/tech/computing/boston-dynamics-employee-protest-ice-deal/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-28",
+   "title": "Surprising Democratic Gains in Red-State Senate Races Amid Midterm Divisions",
+   "sum": "Recent polls indicate unexpected gains for Democrats in red-state Senate races. This comes as President Trump campaigns in Ohio, a state significant for the upcoming elections.",
+   "more": "Both articles highlight the surprising Democratic progress in traditionally Republican areas and emphasize the importance of the upcoming Ohio rally by Trump. There is a shared focus on the divisions within the electorate that are becoming evident during this election cycle. The framing remains consistent across the two sources, with both emphasizing the potential implications for Senate control in the midterms.",
+   "coverage": [
+    {
+     "outlet": "PBS",
+     "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+     "title_en": "New polls suggest surprising Democratic gains in red-state Senate races.",
+     "url": "https://www.pbs.org/newshour/show/new-polls-suggest-surprising-democratic-gains-in-red-state-senate-races",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Biztoc.com",
+     "title": "New polls suggest surprising Democratic gains in red-state Senate races",
+     "title_en": "New polls suggest surprising Democratic gains in red-state Senate races.",
+     "url": "https://biztoc.com/x/2ae15a42fcba7279",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-28",
+   "title": "Judge Critiques Prosecutors in Hunter Biden Laptop Case",
+   "sum": "A federal judge has reprimanded the Justice Department regarding the handling of a case involving two former FBI officials accused of lying to Congress. This case comes to light amid ongoing discussions surrounding Hunter Biden's laptop.",
+   "more": "Both articles highlight the judicial disapproval directed at the prosecutors for their methods in the case, which involves false statements made to Congress. The framing in the articles emphasizes the judge's criticism of the obstruction charge and the improper filing of the complaint. While both sources report on the same event, the specific details regarding the judge\u2019s decisions and remarks reflect slight variations in emphasis.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Hunter Biden laptop issue resurfaces as judge scolds prosecutors over case against ex-FBI officials",
+     "title_en": "Hunter Biden laptop issue resurfaces as judge scolds prosecutors over case against ex-FBI officials.",
+     "url": "https://abcnews.com/US/wireStory/hunter-biden-laptop-issue-resurfaces-judge-scolds-prosecutors-137593771",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "Hunter Biden laptop issue resurfaces as judge scolds prosecutors over case against ex-FBI officials",
+     "title_en": "Hunter Biden laptop issue resurfaces as judge scolds prosecutors over case against ex-FBI officials.",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/hunter-biden-laptop-issue-resurfaces-as-judge-scolds-prosecutors-over-case-against-ex-fbi-officials/articleshow/135248984.cms",
+     "bias": "Lean Right",
      "src": "ai"
     }
    ]
