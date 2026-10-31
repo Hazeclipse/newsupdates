@@ -1,6 +1,6 @@
 {
  "date": "2026-10-29",
- "updated": "Oct 30, 16:53 UTC",
+ "updated": "Oct 31, 15:57 UTC",
  "stories": [
   {
    "cat": "crime",
@@ -411,6 +411,243 @@
      "title": "Data Center Health Worries Animate Midterm Campaigns",
      "title_en": "Data Center Health Worries Animate Midterm Campaigns.",
      "url": "https://kffhealthnews.org/elections/data-centers-midterm-campaigns-health-pollution-noise-light-arizona-ohio/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-29",
+   "title": "Trump Administration Continues Legal Challenge Against Ballots in California and Alaska",
+   "sum": "The Trump administration has renewed its efforts to block ballots in California and challenge election results in Alaska. These actions follow recent judicial rulings and reports alleging voter confusion.",
+   "more": "In California, a federal judge dismissed the Trump administration's attempt to block 20,000 ballots, which has been characterized as a significant rebuke of the administration's tactics. Meanwhile, in Alaska, the administration's lawsuit claims that Democratic operatives have engaged in deceptive practices to influence voters. The framing from different outlets highlights the Trump administration's persistent legal actions while focusing on varying details regarding the claims of voter confusion in Alaska.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Trump administration renews bid to block 20,000 California ballots after court rebuke",
+     "title_en": "Trump administration renews bid to block 20,000 California ballots after court rebuke",
+     "url": "https://www.yahoo.com/news/politics/articles/california-feds-continue-election-war-195307417.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Trump administration renews bid to block Alaska election results",
+     "title_en": "Trump administration renews bid to block Alaska election results",
+     "url": "https://www.aljazeera.com/news/2026/10/30/trump-administration-renews-bid-to-block-alaska-election-results",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-29",
+   "title": "Lawsuit Claims Education Department Is Not Erasing Student Loans After College Closures",
+   "sum": "A new lawsuit alleges that the Education Department is failing to comply with federal law that mandates the erasure of student loans for borrowers whose colleges have abruptly closed. The lawsuit highlights concerns over the government's handling of these education debts.",
+   "more": "The lawsuit suggests that many affected borrowers are still carrying debts despite their colleges closing unexpectedly, which may not align with the protections intended by federal law. It raises questions about the government's responsibilities regarding student debt relief. Reports from various outlets may emphasize differing aspects of the issue, such as the impact on borrowers or the specifics of the legal framework involved.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+     "title_en": "Their colleges closed, but the government refuses to erase their debts, lawsuit says.",
+     "url": "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-29",
+   "title": "Virtual Scam in La Pampa Municipality Prevents Salary Payments",
+   "sum": "A virtual scam in a municipality of La Pampa resulted in the inability to pay salaries. Criminal maneuvers led to unauthorized transfers from the account designated for salary payments, prompting intervention from the provincial government.",
+   "more": "The situation highlights issues concerning cybersecurity and transparency in local government financial operations. While some reports emphasize the need for stronger protective measures, others focus on the immediate impact of the scam on municipal employees who are left without their salaries. There is a call for accountability surrounding the incident, and discussions are ongoing regarding how best to prevent such occurrences in the future.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Hicieron una estafa virtual en un municipio de La Pampa y no se pudieron pagar los sueldos",
+     "title_en": "A virtual scam in a municipality of La Pampa and salaries couldn't be paid.",
+     "url": "https://www.lanacion.com.ar/seguridad/hicieron-una-estafa-virtual-en-un-municipio-de-la-pampa-y-no-se-pudieron-pagar-los-sueldos-nid29102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-29",
+   "title": "US Economy Surges Ahead of Midterm Elections",
+   "sum": "The US economy unexpectedly accelerated, growing by 3.4% annually in the third quarter, providing relief to Trump just five days before the midterm elections. Prices also rose by 3.6% year-on-year in September.",
+   "more": "The economic growth has been framed positively by some sources, emphasizing its potential impact on Republican prospects in the upcoming elections. Meanwhile, the increase in prices may raise concerns among voters regarding inflation and the overall cost of living. The juxtaposition of economic growth and rising prices could influence voter sentiment in different ways, with some outlets focusing more on the relief for Trump and the Republicans, while others may highlight the implications of inflation.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "La econom\u00eda de EE.UU. se aceler\u00f3 de manera sorpresiva y le da un alivio a Trump a cinco d\u00edas de las elecciones",
+     "title_en": "The US economy unexpectedly accelerated and relieves Trump five days before the elections.",
+     "url": "https://www.lanacion.com.ar/el-mundo/la-economia-de-eeuu-se-acelero-de-manera-sorpresiva-y-le-da-un-alivio-a-trump-a-cinco-dias-de-las-nid29102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-29",
+   "title": "Bangladesh Obtains Three-Year Deferment for LDC Graduation",
+   "sum": "Bangladesh has received a three-year deferment for its graduation from the Least Developed Countries (LDC) status. This decision was made during the 81st UN General Assembly session in New York.",
+   "more": "The discussions leading up to the decision took place at 1:30 AM Bangladesh time. Although The Daily Star covers the decision from a national perspective, it suggests a potential impact on Bangladesh's developmental strategy. There may be differing views from other media outlets regarding the implications of this deferment for the country's economic status and future planning.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Bangladesh secures three-year LDC graduation deferment",
+     "title_en": "Bangladesh secures three-year LDC graduation deferment.",
+     "url": "https://www.thedailystar.net/business/news/bangladesh-secures-three-year-ldc-graduation-deferment-4311036",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-29",
+   "title": "Albanian Opposition Disrupts Parliament Amid Protests",
+   "sum": "Albanian opposition lawmakers have stormed the parliament, using flares and smoke bombs during the session. They accuse the prime minister of minimizing the significance of ongoing protests against the government.",
+   "more": "The opposition's actions reflect their frustration with the current government's handling of protests and political issues. The parliament session was disrupted significantly, highlighting the rising tensions within the political landscape in Albania. Different outlets may emphasize various aspects of the protests, such as the methods used by opposition lawmakers or the government's response.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Albanian opposition storms parliament, sets off flares and smoke bombs",
+     "title_en": "Albanian opposition storms parliament, sets off flares and smoke bombs",
+     "url": "https://www.aljazeera.com/news/2026/10/29/albanian-opposition-storms-parliament-sets-off-flares-and-smoke-bombs",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-29",
+   "title": "Uncertain Outcome in Israel Election as Votes Are Tallied",
+   "sum": "With nearly 90 percent of the votes counted in the Israeli election, Prime Minister Netanyahu's right-wing bloc is leading. However, it appears to be falling short of the necessary votes to form a government.",
+   "more": "The situation remains fluid as the final counts are still ongoing, leaving many questions about the formation of the next government. Analysts are highlighting the challenges Netanyahu may face despite his bloc's lead. The election results are shaping discussions on political stability in Israel and the implications for future governance.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+     "title_en": "No clear winner in Israel election with nearly 90 percent of votes counted.",
+     "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-29",
+   "title": "Geoffroy Roux de B\u00e9zieux Appointed President of the 2030 Winter Olympics Organizing Committee",
+   "sum": "Geoffroy Roux de B\u00e9zieux has been officially appointed as the president of the 2030 Winter Olympics organizing committee. He succeeds Edgar Grospiron, who resigned seven weeks prior.",
+   "more": "Both articles report on Roux de B\u00e9zieux's appointment, with '20 Minutes' noting the timing of the succession closely after Grospiron's resignation. The 'Le HuffPost' article focuses on the context of his prior leadership role in Medef. While both sources confirm the same facts, there may be nuances in how they emphasize Roux de B\u00e9zieux's prior experience and the implications of the leadership change for the upcoming Olympics.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "JO d\u2019hiver\u00a02030\u00a0: Geoffroy Roux\u00a0de\u00a0B\u00e9zieux officiellement nomm\u00e9 pr\u00e9sident du Comit\u00e9 d\u2019organisation",
+     "title_en": "Winter Olympics 2030: Geoffroy Roux de B\u00e9zieux Officially Appointed President of the Organizing Committee",
+     "url": "https://www.20minutes.fr/sport/4258603-20261029-jo-hiver-2030-geoffroy-roux-bezieux-officiellement-nomme-president-comite-organisation",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Geoffroy Roux\u00a0de\u00a0B\u00e9zieux nomm\u00e9 pr\u00e9sident du comit\u00e9 d\u2019organisation des JO 2030\u00a0en France",
+     "title_en": "Geoffroy Roux de B\u00e9zieux Appointed President of the 2030 Olympics Organizing Committee in France",
+     "url": "https://www.huffingtonpost.fr/sport/article/geoffroy-roux-de-bezieux-nomme-president-du-comite-d-organisation-des-jo-2030-en-france_347690.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-29",
+   "title": "Kylian Mbappe and Real Madrid's Path to Redemption in China",
+   "sum": "Kylian Mbappe, along with Real Madrid and La Liga, faces a challenging journey to regain acceptance in China following a controversial incident. Experts predict that restoring their reputations after comments about former Chinese leader Mao will be a lengthy process.",
+   "more": "Both Al Jazeera English and Aristeguinoticias.com highlight the controversy surrounding Mbappe's remarks about Mao Zedong. They agree on the challenges faced by Mbappe, Real Madrid, and La Liga in repairing their standing in China. The articles emphasize the necessity for time and effort to address the implications of the incident. However, there is no significant difference in framing between the sources.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Kylian Mbappe, Real Madrid and La Liga face long redemption road in China",
+     "title_en": "Kylian Mbappe, Real Madrid and La Liga face long redemption road in China",
+     "url": "https://www.aljazeera.com/sports/2026/10/29/kylian-mbappe-real-madrid-and-la-liga-face-long-redemption-road-in-china",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Aristeguinoticias.com",
+     "title": "Mbapp\u00e9, el Real Madrid y LaLiga enfrentan un largo camino hacia la redenci\u00f3n en China",
+     "title_en": "Mbappe, Real Madrid, and La Liga face a long road to redemption in China",
+     "url": "https://aristeguinoticias.com/2910/deportes/mbappe-el-real-madrid-y-laliga-enfrentan-un-largo-camino-hacia-la-redencion-en-china/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-29",
+   "title": "Government Urges Campers to Leave Puerta del Sol",
+   "sum": "The new government delegate in Madrid, Pilar Trinidad, has changed the approach toward the campers at Puerta del Sol. A letter has been sent encouraging them to leave, citing a shift in circumstances.",
+   "more": "The letter from the Interior Ministry states that the right to assemble has been fulfilled and that the conditions have changed since the protest began. This marks a significant shift in the previously more accommodating stance toward the campers. The framing from different outlets focuses on the urgency communicated by the government and the rationale behind the request to disperse.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "La Delegaci\u00f3n del Gobierno apremia a los acampados a irse pronto de la Puerta del Sol",
+     "title_en": "The Government Delegation urges the campers to leave Puerta del Sol soon.",
+     "url": "https://www.abc.es/espana/madrid/delegacion-gobierno-apremia-acampados-irse-pronto-puerta-20261029122246-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elconfidencial.com",
+     "title": "La Delegaci\u00f3n del Gobierno en Madrid anima por carta a los acampados a abandonar la Puerta del Sol",
+     "title_en": "The Government Delegation in Madrid encourages campers to leave Puerta del Sol by letter.",
+     "url": "https://www.elconfidencial.com/espana/madrid/2026-10-30/delegacion-gobierno-madrid-carta-acampados-sol_4455830/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-29",
+   "title": "Trump Cancels Weekend Rallies in Favor of Telerallies",
+   "sum": "President Donald Trump has canceled planned weekend rallies in Iowa and Kansas, choosing instead to participate in telerallies. This decision is aimed at reaching more voters as Election Day approaches.",
+   "more": "Trump's cancellation comes after an extensive four weeks of travel to promote Republican candidates. His allies believe that phone-in events could allow him to reach a wider audience across nearly two dozen states. Both articles reflect a similar framing, focusing on the strategic shift in Trump's campaign approach as Election Day draws near, although some mention the locations of the canceled rallies more prominently than others.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Trump cancels weekend rallies and opts for phone calls as Election Day nears",
+     "title_en": "Trump cancels weekend rallies and opts for phone calls as Election Day nears",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-lends-support-darline-graham-133116810.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events",
+     "title_en": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events",
+     "url": "https://www.channelnewsasia.com/world/donald-trump-cancels-midterm-rallies-phone-in-events-6505201",
      "bias": "Center",
      "src": "ai"
     }

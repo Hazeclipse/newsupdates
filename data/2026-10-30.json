@@ -1,0 +1,487 @@
+{
+ "date": "2026-10-30",
+ "updated": "Oct 31, 15:57 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-30",
+   "title": "Insights from a Meeting with Apple's CEO",
+   "sum": "The article discusses a meeting with Apple's CEO and insights into his leadership style. It highlights that Apple is stable and prefers to avoid drama.",
+   "more": "The CEO, described as a 'product guy,' is noted for his dedication and understanding of the company's culture and products. The article emphasizes that Apple aims to maintain its successful trajectory rather than undergo significant changes. By focusing on stability and innovation, the leadership seems to align with Apple's established values.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "I Spent 30 Minutes With Apple\u2019s CEO. Now I Know Why John Ternus Got the Job",
+     "title_en": "I Spent 30 Minutes With Apple\u2019s CEO",
+     "url": "https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-30",
+   "title": "Gift Ideas for Friends: Wellness Tech and Kitchen Essentials",
+   "sum": "Wired presents a curated list of gift ideas that includes wellness technology and kitchen essentials. These items are recommended based on thorough testing and personal endorsement.",
+   "more": "The article emphasizes practical gifts that cater to both technological needs and culinary experiences. Each suggested item is chosen for its quality and usefulness, appealing to a wide range of preferences. The framing focuses on the importance of gifting items that the author would personally choose for friends, highlighting a sense of personal connection and reliability in the recommendations.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials",
+     "title_en": "Gift Ideas for Friends (2026)",
+     "url": "https://www.wired.com/story/gifts-for-friends/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-30",
+   "title": "Silicon Valley Encourages Investment in High-Risk Technologies",
+   "sum": "Silicon Valley is promoting investments in technologies that carry significant risks, including potential catastrophic impacts on humanity. The inherent uncertainties of such investments raise questions about their viability.",
+   "more": "The article highlights the allure of potentially groundbreaking technologies while cautioning readers about the moral and existential stakes involved. It critiques the optimistic narratives often associated with tech investments, contrasting them with the profound risks. Different media outlets may emphasize either the innovative potential or the dire consequences of these investments, showcasing varied framing of the risks involved.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Silicon Valley wants you to invest in miracles",
+     "title_en": "Silicon Valley wants you to invest in miracles.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-30",
+   "title": "Waymo to Launch Robotaxi Service in Tokyo with Toyota bZ4X",
+   "sum": "Waymo has revealed plans to introduce a robotaxi service in Tokyo in 2027, using purpose-built Toyota bZ4X electric vehicles. This initiative strengthens the ongoing partnership between Waymo and Toyota.",
+   "more": "The announcement highlights the strategic collaboration between Waymo and Toyota, which initially began in April 2020. The news is significant as it marks a key step for Waymo's expansion in international markets, focusing on electric and sustainable transportation. Different outlets may emphasize various aspects of the partnership, such as the technological innovations involved or the potential impact on urban mobility.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Waymo\u2019s next robotaxi is a purpose-built Toyota bZ4X",
+     "title_en": "Waymo\u2019s next robotaxi is a purpose-built Toyota bZ4X.",
+     "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-30",
+   "title": "Court Dismisses Appeal of Australian Mushroom Murderer Erin Patterson",
+   "sum": "Erin Patterson's appeal to overturn her convictions for murder was rejected by an Australian court. The judges determined she will serve a life sentence without the possibility of parole.",
+   "more": "Patterson had claimed her trial was unfair on several grounds, but all were dismissed by the appeal judges. The prosecution's assertion that her original non-parole period was too lenient was also upheld. Coverage from different outlets emphasizes the finality of her sentence, with some focusing on the length of her prison term and the implications for her future.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Australian mushroom murderer loses appeal to overturn convictions",
+     "title_en": "Australian mushroom murderer loses appeal to overturn convictions",
+     "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Australian court rejects \u2018mushroom murderer\u2019 Erin Patterson\u2019s appeal",
+     "title_en": "Australian court rejects \u2018mushroom murderer\u2019 Erin Patterson\u2019s appeal",
+     "url": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-30",
+   "title": "Patrick Stewart's Last Film Highlights His Acting Versatility",
+   "sum": "Patrick Stewart's final movie before 'Avengers: Doomsday' showcases his talent in a unique animated murder mystery. His recent roles reflect his extraordinary versatility as an actor.",
+   "more": "While BGR praises Stewart's final film as a hidden gem on Prime Video, emphasizing its amusing qualities, /FILM takes a broader perspective by commenting on his overall talent and versatility in various roles. The focus on the final movie in BGR\u2019s article contrasts with /FILM\u2019s overview of his career, showcasing how different outlets choose to highlight specific aspects of his acting legacy. Both articles agree on Stewart's exceptional skill, but they frame his contributions differently, with one highlighting a specific film and the other addressing his career as a whole.",
+   "coverage": [
+    {
+     "outlet": "BGR",
+     "title": "Patrick Stewart's Final Movie Before Avengers: Doomsday Is A Hidden Gem On Prime Video",
+     "title_en": "Patrick Stewart's Final Movie Before Avengers: Doomsday Is A Hidden Gem On Prime Video",
+     "url": "https://www.bgr.com/2302184/patrick-stewart-last-movie-before-avengers-the-sheep-detectives-prime-video/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "/FILM",
+     "title": "Patrick Stewart's Final Movie Roles Sum Up His Generational Talent",
+     "title_en": "Patrick Stewart's Final Movie Roles Sum Up His Generational Talent",
+     "url": "https://www.slashfilm.com/2301896/patrick-stewart-final-movie-roles-the-sheep-detectives-avengers-doomsday/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-30",
+   "title": "New Sci-Fi, Fantasy, and Horror Books Coming in November",
+   "sum": "November sees the release of numerous new books in the sci-fi, fantasy, and horror genres. Notable authors like John Scalzi and Cassandra Khaw are among those contributing to this month\u2019s line-up.",
+   "more": "In addition to fiction, the month features memoirs from prominent figures in these genres, such as Andy Serkis and LeVar Burton. The variety in releases appeals to a broad audience, highlighting both established and emerging voices in speculative literature. The anticipation for these titles reflects a vibrant literary scene celebrating diverse storytelling.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "90 New Sci-Fi, Fantasy, and Horror Books Arriving in November",
+     "title_en": "90 New Sci-Fi, Fantasy, and Horror Books Arriving in November",
+     "url": "https://gizmodo.com/90-new-sci-fi-fantasy-and-horror-books-arriving-in-november-2000830155",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-30",
+   "title": "Key Insights from Swing Voters After One Year of Listening",
+   "sum": "A special NPR report highlights five key takeaways from a year of engaging with swing voters. These voters, who supported Biden in 2020 and switched to Trump in 2024, play a critical role in elections.",
+   "more": "The report focuses on the perspectives and changing opinions of this influential group over the past year. It emphasizes the importance of understanding their motivations and concerns as they navigate their political choices. While the NPR analysis provides an in-depth look, similar reports might present differing conclusions on voter sentiment and political alignment as they relate to larger electoral trends.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+     "title_en": "NPR special: 5 takeaways from a year of listening to swing voters",
+     "url": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-30",
+   "title": "Trump Won't Recognize Flavio Bolsonaro as Brazil's Legitimate Leader",
+   "sum": "Reports suggest that Trump will not recognize Flavio Bolsonaro as the legitimate leader of Brazil following his dramatic escape. The White House is not expected to support the political ambitions of the son of the former president.",
+   "more": "According to sources cited by Reuters, the decision stems from Trump's unwillingness to endorse Flavio Bolsonaro's political aspirations. This follows Flavio's entry into the United States, which was facilitated by the White House. The framing in this article highlights Trump's lack of support for Flavio's leadership claims, contrasting with possible expectations from Bolsonaro's supporters.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Aseguran que Trump no reconocer\u00e1 a Flavio Bolsonaro como l\u00edder leg\u00edtimo de Brasil tras su cinematogr\u00e1fica huida",
+     "title_en": "Trump Will Not Recognize Flavio Bolsonaro as Brazil's Legitimate Leader Following His Cinematic Escape",
+     "url": "https://www.lanacion.com.ar/el-mundo/aseguran-que-trump-no-reconocera-a-flavio-bolsonaro-como-lider-legitimo-de-brasil-tras-su-nid30102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-30",
+   "title": "Student-Led Election Victory in Serbia Calls for Resignations",
+   "sum": "Following a significant election win, the Student List MPs in Serbia are demanding the resignation of high-ranking officials. This move comes after they successfully ousted the party of Aleksandar Vu\u010di\u0107 from power.",
+   "more": "The call for resignations indicates a desire for substantial political change and accountability within the government. The newly elected student representatives are advocating for a shift in leadership and governance, reflecting the demands of their supporters. Different news outlets may highlight the implications of these demands differently, emphasizing either the potential for reform or the challenges that may arise in achieving such changes.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Student-backed election winners demand sweeping resignations in Serbia",
+     "title_en": "Student-backed election winners demand sweeping resignations in Serbia",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-30",
+   "title": "Cuban Voters in Florida May Shift Their Support in Midterms",
+   "sum": "Many Cubans in Florida previously supported Trump, but their backing in the upcoming midterms is uncertain. The frustration among this demographic could impact Republican candidates.",
+   "more": "The article highlights that while Trump garnered significant support from the Cuban community during his presidential campaign, the sentiments may have changed leading into the midterms. Frustrations over various issues could lead to a shift away from Republican candidates. This concern among the party is compounded by the changing political dynamics within the Cuban-American community, which may not align as closely with past voting patterns.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Many Cubans in Florida voted for Trump - but their support in the midterms is not guaranteed",
+     "title_en": "Many Cubans in Florida voted for Trump - but their support in the midterms is not guaranteed.",
+     "url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-30",
+   "title": "Dhaka's Waterbodies Shrink by Nearly Half in 35 Years",
+   "sum": "A study reveals that Dhaka has lost almost half of its water bodies in the last 35 years. The total water area is projected to have shrunk by 48 percent from 1990 to 2025.",
+   "more": "The Urban Development Directorate (UDD) conducted the study, highlighting significant environmental changes in the region. The findings underscore the urgent need for water conservation and sustainable urban planning. Different media outlets may emphasize various aspects of the study, such as the implications for climate change or urbanization's impact on water resources.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Dhaka lost half of its waterbodies in 35yrs",
+     "title_en": "Dhaka lost half of its waterbodies in 35yrs.",
+     "url": "https://www.thedailystar.net/news/bangladesh/news/dhaka-lost-half-its-waterbodies-35yrs-4310956",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-30",
+   "title": "Family Claims Execution of Bangladeshi Son Without Fair Trial",
+   "sum": "The family of Nazrul Islam, executed in Saudi Arabia, alleges that he was denied a fair trial. They contend that Saudi authorities executed him without prior notification or a chance to defend himself.",
+   "more": "The family's accusations highlight concerns about the judicial processes in Saudi Arabia, especially regarding foreign nationals. They emphasize the lack of communication from the Saudi authorities leading up to the execution. This incident raises questions about due process and the treatment of prisoners in the country.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "\u2018Our son was killed without a fair trial\u2019",
+     "title_en": "'Our son was killed without a fair trial'",
+     "url": "https://www.thedailystar.net/news/crime-justice/news/our-son-was-killed-without-fair-trial-4303011",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-30",
+   "title": "Bangladesh and Japan Seek Alternative Financing to Strengthen Economic Relations",
+   "sum": "Bangladesh and Japan are in discussions to explore alternative financing options to enhance their economic partnership. The finance ministry of Bangladesh has stated that both countries will work together to identify new sectors for collaboration.",
+   "more": "This initiative indicates a mutual interest in diversifying economic cooperation beyond traditional sectors. The agreement may lead to significant investments that could benefit both nations. The framing from The Daily Star emphasizes proactive steps towards collaboration, highlighting the potential for growth through innovative financing solutions.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Bangladesh, Japan explore alternative financing to deepen economic ties",
+     "title_en": "Bangladesh, Japan explore alternative financing to deepen economic ties",
+     "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-japan-explore-alternative-financing-deepen-economic-ties-4311356",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-30",
+   "title": "Protests Erupt Over Voter-List Revision in India",
+   "sum": "The husband of India's finance minister has joined protests questioning the integrity of the election process. This protest is part of a larger movement against changes to the voter list.",
+   "more": "Protesters argue that the revisions to the voter list could undermine fair elections in India. The protests highlight growing concerns about electoral practices under the current government. This situation reflects ongoing tensions regarding democracy and transparency in the region.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Husband of one of Modi\u2019s closest advisors questions election integrity",
+     "title_en": "Husband of one of Modi\u2019s closest advisors questions election integrity.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-30",
+   "title": "Netanyahu Criticizes Arab and Palestinian-Israeli Parties Amidst Election Setbacks",
+   "sum": "Israeli Prime Minister Netanyahu has accused Palestinian-Israeli parties of election fraud as he struggles to secure a majority. Opposition alliances may form to challenge his leadership.",
+   "more": "The framing of Netanyahu's accusations highlights tensions between his government and Arab political representation within Israel. Al Jazeera English reports on his specific claim of election fraud against Palestinian-Israeli parties, linking it to his lack of majority. Additionally, the potential for opposition parties to collaborate with these groups indicates a shift in the political landscape that could threaten Netanyahu's position.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu attacks Israel\u2019s Arab parties as he falls short of majority",
+     "title_en": "Netanyahu attacks Israel\u2019s Arab parties as he falls short of majority.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-30",
+   "title": "Israel's Election Deadlock: The Road Ahead",
+   "sum": "Israel faces a political impasse as no party has secured the 61-seat majority needed to establish a government in the Knesset. This situation raises questions about potential solutions to the ongoing political gridlock.",
+   "more": "The article discusses the current state of Israeli politics, emphasizing the challenges parties face in forming a coalition government. It highlights the implications of the deadlock on governance and stability in the region. Different outlets may focus on various proposed strategies to overcome the deadlock, reflecting divergent perspectives on the political landscape.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "How can Israel break its election deadlock?",
+     "title_en": "How can Israel break its election deadlock?",
+     "url": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-30",
+   "title": "U.S. Military Investigates Suspected Hack of Commissary Freezers",
+   "sum": "The U.S. military is looking into a potential hacking incident involving its ice cream supply at military base commissaries. Four officials reported that the matter is under investigation by Reuters.",
+   "more": "The investigation centers on the possibility that hackers may have manipulated the freezers, leading to the defrosting of ice cream stock. This unusual situation has raised concerns about cybersecurity within military operations. Details on how the hack might have occurred or the extent of the damage are still unclear.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "U.S. Military Thinks Hackers Defrosted All Its Ice Cream",
+     "title_en": "U.S. Military Thinks Hackers Defrosted All Its Ice Cream",
+     "url": "https://gizmodo.com/u-s-military-thinks-hackers-defrosted-all-its-ice-cream-2000832872",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-30",
+   "title": "Analysis of England's Rugby League World Cup Campaign Failures",
+   "sum": "England's men's and women's teams faced significant disappointments at the Rugby League World Cup. Initial analyses are already underway regarding the reasons behind their shortcomings.",
+   "more": "The piece from BBC News highlights the contrasting experiences of the men's and women's teams during the tournament. While both faced failures, the reasons and contexts for their setbacks may differ, leading to various insights and discussions among analysts and fans. The urgency of the inquests suggests a strong desire for answers and improvements moving forward.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Set up to fail? Where England's World Cup campaign went wrong",
+     "title_en": "Set up to fail? Where England's World Cup campaign went wrong.",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cqp9gv3mr8myo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-30",
+   "title": "Spain's Train Crash Intensifies Political Turmoil",
+   "sum": "A recent train crash in Spain has led to significant casualties and a shift in the political landscape. The incident has prompted protests and calls for political accountability amid the election campaign.",
+   "more": "The crash, which resulted in at least 69 fatalities, has shifted focus from other election issues, like housing, to security concerns. Prime Minister Pedro Sanchez is under pressure as the political crisis unfolds, with demands for his resignation growing. Both Al Jazeera and Rt-english.com note that the tragedy has intensified political debates, though Al Jazeera emphasizes a broader impact on the election campaign while Rt-english.com focuses on the specific protests and calls for accountability.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Spain\u2019s deadly train crash redraws electoral battle lines",
+     "title_en": "Spain\u2019s deadly train crash redraws electoral battle lines",
+     "url": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Rt-english.com",
+     "title": "Deadly train crash deepens political crisis in Spain",
+     "title_en": "Deadly train crash deepens political crisis in Spain",
+     "url": "https://rt-english.com/news/648052-spain-collision-crisis/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-30",
+   "title": "Massive Data Breach Exposes 41,000 US Homeland Security Workers",
+   "sum": "A significant data leak has revealed the personal information of 41,000 employees of the U.S. Department of Homeland Security, including undercover ICE agents. The leaked files include names, contact information, surveillance systems, and connections to ICE's covert operations.",
+   "more": "The breach has raised concerns about the privacy and safety of individuals within the department, especially as it includes sensitive data concerning high-ranking officials. Additionally, this incident occurs amid reports that the Department of Homeland Security has been actively targeting critics, including monitoring anonymous online profiles and journalists. The framing of the issue varies slightly among sources, with some focusing more on the implications for undercover agents, while others highlight the government's actions against dissenters.",
+   "coverage": [
+    {
+     "outlet": "Larazon.es",
+     "title": "Una filtraci\u00f3n masiva expone los datos de 41.000 trabajadores del Departamento de Seguridad Nacional de EE UU, incluidos agentes encubiertos del ICE",
+     "title_en": "A massive leak exposes the data of 41,000 workers from the US Department of Homeland Security, including undercover ICE agents.",
+     "url": "https://www.larazon.es/tecnologia-consumo/internet/filtracion-41000-trabajadores-dhs-agentes-encubiertos-ice_202610306ae3ae986973466c29e2696e.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "Filtraci\u00f3n masiva expone a 41.000 empleados del Departamento de Seguridad Nacional, incluidos agentes secretos del ICE",
+     "title_en": "Massive leak exposes 41,000 employees of the Department of Homeland Security, including secret ICE agents.",
+     "url": "https://actualidad-rt.com/actualidad/634941-filtracion-masiva-expone-empleados-seguridad-nacional-ice",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-30",
+   "title": "Paris Imposes Curfew in Response to Protests",
+   "sum": "Paris has declared a curfew in central areas of the city due to ongoing protests. Authorities state that measures to maintain order are necessary.",
+   "more": "The curfew will be in effect on Saturday and Sunday to address the demonstrations. French authorities justified the curfew by citing public order disturbances. Different outlets emphasize the need for these measures to maintain security amidst rising unrest.",
+   "coverage": [
+    {
+     "outlet": "Reforma.com",
+     "title": "Decreta Par\u00eds toque de queda en zona centro ante protestas",
+     "title_en": "Paris imposes curfew in central area due to protests.",
+     "url": "https://www.reforma.com/decreta-paris-toque-de-queda-en-zona-centro-ante-protestas/ar3305111",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Latercera.com",
+     "title": "Francia: Par\u00eds declara toque de queda en dos zonas de la ciudad ante nuevas manifestaciones",
+     "title_en": "France: Paris declares curfew in two areas of the city in response to new demonstrations.",
+     "url": "https://www.latercera.com/mundo/noticia/francia-paris-declara-toque-de-queda-en-dos-zonas-de-la-ciudad-ante-nuevas-manifestaciones/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-30",
+   "title": "Key Issues and Spending in the Upcoming Midterm Elections",
+   "sum": "Voter concerns are heavily focused on the economy as the midterm elections approach. Significant financial contributions from organizations like AIPAC and AI are shaping the electoral landscape.",
+   "more": "The economy is identified as a top priority among voters leading into the midterm elections, reflecting widespread public concern about financial issues. Meanwhile, The Intercept highlights the influence of major financial players like AIPAC and AI, pointing to substantial spending in the election cycle. This framing emphasizes the interplay between voter priorities and the financial strategies employed by influential groups. Different outlets may focus variously on the economic concerns of voters or the financial dynamics of campaign contributions.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "What to know about the US economy as midterm elections near",
+     "title_en": "What to know about the US economy as midterm elections near.",
+     "url": "https://abcnews.com/Business/us-economy-midterm-elections/story?id=137478975",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Intercept",
+     "title": "How AIPAC and AI Spent Their Money This Midterm Election",
+     "title_en": "How AIPAC and AI Spent Their Money This Midterm Election",
+     "url": "https://theintercept.com/2026/10/30/aipac-ai-spending-midterm-election/",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-30",
+   "title": "Pope Leo Requests Postal Ballot for US Midterms",
+   "sum": "Pope Leo has requested a postal ballot to participate in the upcoming US midterm elections. Officials have not yet received his vote from Vatican City.",
+   "more": "Pope Leo's eligibility to vote stems from his status as an American citizen living abroad, which allows him to retain his voting rights despite being the leader of Vatican City. This legal standpoint has been highlighted by experts discussing the implications of his voting. The framing differs slightly between sources, with TheJournal.ie focusing on the request for the ballot and the New York Post emphasizing the legal aspects of his voting rights.",
+   "coverage": [
+    {
+     "outlet": "TheJournal.ie",
+     "title": "Pope Leo has requested a postal ballot to vote in the US midterms from the Vatican",
+     "title_en": "Pope Leo has requested a postal ballot to vote in the US midterms from the Vatican.",
+     "url": "https://www.thejournal.ie/pope-leo-ballot-us-midterm-vote-vatican-7209750-Oct2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Why Pope Leo was legally allowed to vote in US election \u2014 despite being leader of Vatican City",
+     "title_en": "Why Pope Leo was legally allowed to vote in US election \u2014 despite being leader of Vatican City.",
+     "url": "https://nypost.com/2026/10/30/us-news/why-pope-leo-was-legally-allowed-to-vote-in-us-election-despite-being-leader-of-vatican-city/",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  }
+ ]
+}
