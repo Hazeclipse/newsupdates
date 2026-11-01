@@ -1,6 +1,6 @@
 {
  "date": "2026-10-30",
- "updated": "Oct 31, 15:57 UTC",
+ "updated": "Nov 01, 16:58 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -480,6 +480,380 @@
      "url": "https://nypost.com/2026/10/30/us-news/why-pope-leo-was-legally-allowed-to-vote-in-us-election-despite-being-leader-of-vatican-city/",
      "bias": "Lean Right",
      "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-30",
+   "title": "Binance Suffers Record $6.3 Billion Crypto Heist",
+   "sum": "Binance has reported the theft of $6.3 billion worth of cryptocurrency in what is considered the largest hack in the history of the cryptocurrency sector. The exchange has assured users that their funds are safe and plans to reimburse affected customers.",
+   "more": "The Verge emphasizes the scale of the theft, noting it as the biggest cryptocurrency hack on record. Meanwhile, Gizmodo highlights Binance's assertion that the stolen amount is insignificant to them, framing the situation in a more casual light. Both articles agree on the company's efforts to secure user funds and reimburse customers for their losses, but they differ in their tone, with The Verge taking a more serious approach compared to Gizmodo's more laid-back framing.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Binance hackers stole $6.3 billion in record-breaking crypto heist",
+     "title_en": "Binance hackers stole $6.3 billion in record-breaking crypto heist.",
+     "url": "https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them",
+     "title_en": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them.",
+     "url": "https://gizmodo.com/binance-reassures-users-that-6-3-billion-in-stolen-crypto-is-like-pocket-money-to-them-2000833409",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-30",
+   "title": "Google Pixel Watch 5 Sale: Lowest Price Available",
+   "sum": "Google's new smartwatch, the Pixel Watch 5, is currently on sale at its lowest price yet. This model includes several enhanced health and fitness features.",
+   "more": "The article highlights the timing of the sale as it occurs before Black Friday, suggesting that consumers may find better deals as the shopping holiday approaches. It is noted that the Pixel Watch 5 is a significant upgrade in terms of health tracking capabilities. Other retailers may offer different deals or promotions, which could impact how consumers view this sale.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+     "title_en": "Google Pixel Watch 5 Sale: Its Lowest Price Yet",
+     "url": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-30",
+   "title": "Peltola Addresses Allegations of Spoiler Candidate in Alaska",
+   "sum": "Mary Peltola, a Democratic Senate candidate, has denied knowledge of any effort to introduce a spoiler candidate on the Alaska ballot. This denial comes amidst new subpoenas issued by the Justice Department.",
+   "more": "In her statement, Peltola emphasized her disinterest in deceiving voters, reinforcing her position against any political maneuvers that could mislead the electorate. The situation has escalated as the Justice Department continues its investigation into the election. Various outlets report similarly on her denial, with a focus on her commitment to a fair electoral process.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Peltola denies knowing about Alaska spoiler candidate as DOJ issues new subpoenas",
+     "title_en": "Peltola denies knowing about Alaska spoiler candidate as DOJ issues new subpoenas.",
+     "url": "https://www.yahoo.com/news/politics/articles/alaskas-governor-orders-probe-peltolas-120704433.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Peltola denies knowing of 'any other candidate' on ballot besides herself, incumbent",
+     "title_en": "Peltola denies knowing of 'any other candidate' on ballot besides herself, incumbent.",
+     "url": "https://abcnews.com/Politics/peltola-denies-knowledge-candidate-alaska-senate-ballot-incumbent/story?id=137705982",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-30",
+   "title": "Upcoming Streaming Releases for November 2026",
+   "sum": "Gizmodo has highlighted the top horror, sci-fi, and genre films and shows set to be available for streaming in November 2026. The recommended titles will be accessible on platforms like Netflix, Hulu, and Disney+.",
+   "more": "The article focuses on various streaming platforms and suggests a curated selection of titles that cater to genre enthusiasts. It emphasizes the diversity of content available in November, particularly in the horror and sci-fi categories. However, the specific titles and their descriptions are not detailed in the provided text.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "The Films and Shows You Should Be Streaming in November 2026",
+     "title_en": "The Films and Shows You Should Be Streaming in November 2026",
+     "url": "https://gizmodo.com/the-films-and-shows-you-should-be-streaming-in-november-2026-2000832156",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-30",
+   "title": "Judge Initiates Inquiry into Potential DOJ Misconduct in Trump Golf Course Case",
+   "sum": "A federal judge is launching a formal investigation into the conduct of Trump officials in the East Potomac case. The inquiry will focus on whether there was any misleading information presented to the court regarding plans for the municipal golf course.",
+   "more": "This development indicates heightened scrutiny over the actions of Trump officials during the ongoing case involving the East Potomac golf course. The judge's decision to probe potential misconduct reflects concerns about the integrity of the legal process. Various media outlets highlight the significance of the inquiry in relation to the broader context of Trump's dealings with the Department of Justice, although some emphasize differing aspects of the implications for Trump's administration.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+     "title_en": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+     "url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-30",
+   "title": "Trump Administration Continues Sending Pregnant Migrant Minors to South Texas",
+   "sum": "The Trump administration persists in relocating pregnant migrant minors to South Texas despite existing concerns. Some of these minors have had to seek medical care, including abortions, outside of Texas due to unavailability.",
+   "more": "The ongoing action raises questions about the welfare and rights of these minors. The administration's approach has faced scrutiny from various advocacy groups emphasizing the need for accessible healthcare. Reports vary in detailing the specific medical care that is lacking within Texas for these young migrants.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+     "title_en": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas.",
+     "url": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-30",
+   "title": "Why Country Risk is Rising",
+   "sum": "Country risk is around 700 points due to insufficient fiscal balance. Scarce reserves, lack of growth, and electoral uncertainty contribute to market distrust.",
+   "more": "The article argues that while there may be improvements in fiscal numbers, these have not yet translated into greater market confidence. It highlights that external factors, such as economic growth and political stability, are critical for rebuilding trust with investors. Different outlets may emphasize the urgency of addressing these issues or the need for specific policies to restore confidence in the country's economy.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Por qu\u00e9 sube el riesgo pa\u00eds",
+     "title_en": "Why Country Risk is Rising",
+     "url": "https://www.lanacion.com.ar/economia/por-que-sube-el-riesgo-pais-nid30102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-30",
+   "title": "Government Seeks External Oversight for Santa Cruz Dams Project",
+   "sum": "The government is seeking external control over the dam projects in Santa Cruz and has launched a tender for inspection services worth 39.624 million. The works have resumed following an agreement with China, employing over 200 workers.",
+   "more": "The initiative reflects the government's commitment to ensuring the integrity of large infrastructure projects. Some reports emphasize the significance of collaboration with China in revitalizing these works. The involvement of external oversight may also be seen as a response to previous concerns about project management and accountability.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Gobierno busca un control externo sobre las obras de las represas en Santa Cruz y licita la inspecci\u00f3n por $39.624 millones",
+     "title_en": "Government Seeks External Control Over Santa Cruz Dams Project",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-busca-un-control-externo-sobre-las-obras-de-las-represas-en-santa-cruz-y-licita-la-nid30102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-30",
+   "title": "Setback for DHS: Judge Suspends New Asylum Regulation Until November 6",
+   "sum": "A judge has temporarily suspended a DHS regulation that would have reduced the timeframe for asylum seekers to defend their status from 30 days to 10 days. This suspension will remain in effect until November 6.",
+   "more": "The decision highlights ongoing legal challenges to DHS policies impacting asylum seekers. The regulation aimed to streamline the asylum process, but critics argued it would unfairly limit individuals' rights to present their cases. Different outlets may focus on the implications for the asylum system or the legal rationale behind the judge's decision.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Rev\u00e9s para el DHS: una jueza suspende hasta el 6 de noviembre la norma que reduc\u00eda el plazo para defender un estatus",
+     "title_en": "Setback for DHS: Judge Suspends New Asylum Regulation Until November 6",
+     "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/reves-para-el-dhs-una-jueza-suspende-hasta-el-6-de-noviembre-la-norma-que-reducia-el-plazo-para-nid30102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-30",
+   "title": "G20 Family Photo Abandoned Due to Protests Over Russian Minister",
+   "sum": "The G20 family photo was called off following protests concerning the presence of Russian Foreign Minister Sergei Lavrov. European foreign ministers chose not to be photographed with Lavrov at the summit in Atlanta.",
+   "more": "The cancellation of the family photo highlights the tensions surrounding Russia's role in international discussions, particularly in light of ongoing geopolitical conflicts. Different news outlets may emphasize varying aspects of the protests or the reactions of the European ministers, framing the situation in the context of broader diplomatic relations. Some may focus more on the implications for future G20 summits or the potential isolation of Russia among its peers.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+     "title_en": "G20 'family photo' cancelled after protests over presence of Russian minister",
+     "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-10-30",
+   "title": "Concerns Over AI Highlight Dollar's Vulnerabilities",
+   "sum": "Recent worries regarding artificial intelligence have brought attention to the issues surrounding the dollar's reliance on hot money. If the narrative surrounding AI falters, the dollar's status as a safe haven may conflict with its increasing perception as a risk-sensitive asset.",
+   "more": "The article emphasizes how the growing interest in AI could affect investors' views on the dollar. If investors become more price-sensitive due to uncertainties in the AI sector, this could undermine the dollar's stability. Different outlets might frame this discussion either as a warning about volatility associated with the dollar or focus more on the emerging dynamics between AI and currency markets.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "AI worries expose dollar's hot-money problem",
+     "title_en": "AI worries expose dollar's hot-money problem",
+     "url": "https://www.thedailystar.net/business/news/ai-worries-expose-dollars-hot-money-problem-4309566",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-30",
+   "title": "Polish Police Deployed to Top Court Following Judge Suspension",
+   "sum": "Polish police have been deployed to the top court after the suspension of the court's president. This suspension is part of an ongoing dispute regarding the politicization of the Constitutional Tribunal.",
+   "more": "The suspension has ignited protests and allegations of a coup, revealing tensions between the pro-European government led by Prime Minister Donald Tusk and conservative opponents. Al Jazeera emphasizes the context of the suspension as a continuation of a long-standing conflict over the judiciary's independence. In contrast, Haaretz highlights the immediate public response with protests, indicating a significant public reaction to the government's actions.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Polish police deployed to top court after head judge suspended",
+     "title_en": "Polish police deployed to top court after head judge suspended.",
+     "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "Police secure Poland's top court after government suspends its chief",
+     "title_en": "Police secure Poland's top court after government suspends its chief.",
+     "url": "https://www.haaretz.com/world-news/europe/2026-10-31/ty-article/police-secure-polands-top-court-after-government-suspends-its-chief/000001a1-8f02-dd01-a9ed-afaa9fad0000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-30",
+   "title": "Patrick Stewart: A Versatile Actor for All Generations",
+   "sum": "Patrick Stewart was known for his love of acting and his ability to take on a variety of roles. He demonstrated a remarkable versatility throughout his career.",
+   "more": "Stewart's dedication to his craft made him a beloved figure across multiple generations. His willingness to embrace diverse characters showcased his talent and adaptability. While many outlets celebrate his accomplishments, the framing often highlights different aspects of his career, from his iconic roles in 'Star Trek' to his powerful performances in Shakespearean plays.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Patrick Stewart Was a Man for All Generations",
+     "title_en": "Patrick Stewart Was a Man for All Generations",
+     "url": "https://gizmodo.com/patrick-stewart-was-a-man-for-all-generations-2000832725",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-30",
+   "title": "Protests Erupt in Italy Amid Rising Cost of Living",
+   "sum": "Thousands of students and workers have taken to the streets in Italy, demanding increased funding for education and relief from rising living costs. These protests have occurred under heavy police presence.",
+   "more": "In Rome, the protests began at the Termini train station, with participants accompanied by tractors and a taxi. There have been violent confrontations between protesters and police, with security forces using tear gas and water cannons, while some demonstrators ignited containers. While outlets report on the large turnout and the call for more support for education, they differ in their emphasis on the police's response, with some highlighting the violent clashes more prominently.",
+   "coverage": [
+    {
+     "outlet": "Aristeguinoticias.com",
+     "title": "Miles de estudiantes y trabajadores protestan en Italia bajo un fuerte despliegue de seguridad",
+     "title_en": "Thousands of students and workers protest in Italy under heavy security deployment.",
+     "url": "https://aristeguinoticias.com/3010/mundo/miles-de-estudiantes-y-trabajadores-protestan-en-italia-bajo-un-fuerte-despliegue-de-seguridad/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "Enfrentamientos entre manifestantes y la Polic\u00eda en las protestas en Italia por el aumento del costo de vida",
+     "title_en": "Clashes between protesters and police in Italy over rising cost of living.",
+     "url": "https://www.lanacion.com.ar/el-mundo/enfrentamientos-entre-manifestantes-y-la-policia-en-las-protestas-en-italia-por-el-aumento-del-costo-nid30102026/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "Estudiantes y trabajadores protestan en Italia bajo el blindaje policial para impedir disturbios",
+     "title_en": "Students and workers protest in Italy under police protection to prevent riots.",
+     "url": "https://www.abc.es/internacional/miles-estudiantes-trabajadores-protestan-italia-bajo-fuertes-20261030140136-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-30",
+   "title": "Finland Initiates Criminal Investigation into Google's Data Center Site",
+   "sum": "Finnish authorities have begun a criminal investigation into Google's forest clearing activities for a data center. The inquiry focuses on environmental violations related to significant land clearing without required assessments.",
+   "more": "The investigation by Finnish police centers on allegations that Google failed to complete necessary environmental impact assessments before clearing large areas of forest. Specifically, they cleared 330 hectares in Muhos and 200 hectares in Kajaani. This situation raises concerns about Google's compliance with local environmental regulations. Different outlets emphasize the scale of the forest area cleared and the implications of bypassing environmental assessments.",
+   "coverage": [
+    {
+     "outlet": "Rt-english.com",
+     "title": "Finland launches criminal probe into Google data center project",
+     "title_en": "Finland launches criminal probe into Google data center project.",
+     "url": "https://rt-english.com/news/648105-finland-probes-google-project/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Naturalnews.com",
+     "title": "Finland launches criminal probe into Google\u2019s forest clearing for data center",
+     "title_en": "Finland launches criminal probe into Google\u2019s forest clearing for data center.",
+     "url": "https://www.naturalnews.com/2026-10-31-finland-launches-criminal-probe-googles-forest-clearing.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-30",
+   "title": "Media Coverage of the 2026 Midterm Elections and Influences",
+   "sum": "Various news networks are preparing for the 2026 midterm elections with unique coverage strategies. Additionally, the role of religion and potential political disruptions by the Trump administration are significant issues in this electoral period.",
+   "more": "Adweek highlights the innovative non-linear coverage options that networks are planning for election night. NPR focuses on the increasing impact of religious rhetoric, especially anti-Muslim sentiments, during the Senate race in Michigan, as well as the political dynamics related to the Trump Administration and the Catholic Church. The Punch raises concerns over potential interference by Trump's administration in the elections, specifically regarding the integrity of the voting process and the handling of ballot counts. Overall, these pieces reflect different facets of electoral challenges and media strategies leading up to the midterms.",
+   "coverage": [
+    {
+     "outlet": "Adweek",
+     "title": "How News Networks are Covering the 2026 Midterm Elections",
+     "title_en": "How News Networks are Covering the 2026 Midterm Elections",
+     "url": "https://www.adweek.com/tvnewser/how-news-networks-are-covering-the-2026-midterm-elections/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "NPR",
+     "title": "How religion is influencing the midterm elections",
+     "title_en": "How religion is influencing the midterm elections",
+     "url": "https://www.npr.org/2026/10/30/nx-s1-6019434/how-religion-is-influencing-the-midterm-elections",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "The Punch",
+     "title": "How Trump could interfere in US midterm elections",
+     "title_en": "How Trump could interfere in US midterm elections",
+     "url": "https://punchng.com/how-trump-could-interfere-in-us-midterm-elections/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-30",
+   "title": "Trump Cancels Kansas Rally Ahead of Midterms",
+   "sum": "President Trump has canceled a planned rally in Kansas just days before the midterm elections. He is expected to participate in other campaign events via phone instead.",
+   "more": "The decision to cancel the rally in Kansas, which was set for October 31, was communicated by the Kansas Republican Party and various media outlets. Reports indicate that after weeks of active campaigning, Trump will shift to virtual participation in rallies. While some sources focus on the cancellation itself, others highlight the strategic adjustment to phone-in events, suggesting an effort to maintain engagement without in-person appearances.",
+   "coverage": [
+    {
+     "outlet": "Naturalnews.com",
+     "title": "Trump Cancels Kansas Rally Days Before Midterms; White House Cites Virtual Campaign Events",
+     "title_en": "Trump Cancels Kansas Rally Days Before Midterms; White House Cites Virtual Campaign Events.",
+     "url": "https://www.naturalnews.com/2026-10-30-trump-cancels-kansas-rally-days-before-midterms.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events",
+     "title_en": "Trump cancels weekend rallies, plans to phone in to other midterm campaign events.",
+     "url": "https://www.channelnewsasia.com/world/donald-trump-cancels-midterm-rallies-phone-in-events-6505201",
+     "bias": "Center",
+     "src": "ai"
     }
    ]
   }

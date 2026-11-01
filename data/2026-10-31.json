@@ -1,0 +1,312 @@
+{
+ "date": "2026-10-31",
+ "updated": "Nov 01, 16:58 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-10-31",
+   "title": "AI Agent Successfully Injects Drugs into Mouse Brain",
+   "sum": "A biotech startup showcased an AI agent that can choose a gene therapy and inject it into the brain of a live mouse. This development provides a significant insight into the potential future applications in research laboratories.",
+   "more": "The use of artificial intelligence in such sensitive biomedical applications raises ethical considerations and potential safety concerns. Different outlets may emphasize the implications of this technology on drug development and research efficiency. Some may highlight the novelty of this approach, while others focus on the potential risks involved in AI-driven medical interventions.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
+     "title_en": "An AI Agent Injected Drugs Into a Live Mouse\u2019s Brain",
+     "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-31",
+   "title": "Meta's Muse Potentially Transformative for Businesses",
+   "sum": "Meta's Muse is considered a promising AI tool that could lead to significant changes in various businesses. However, its actual impact has yet to materialize.",
+   "more": "Companies are actively working to reassure investors that AI agents, including Muse, represent more of an opportunity than a risk. Despite the optimism surrounding Muse, the article suggests that tangible outcomes and transformations in the business landscape have not yet occurred. Different outlets may emphasize either the potential of AI technologies or the caution surrounding their implementation, highlighting a nuanced debate on the future of AI in business.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Meta\u2019s Muse Could Upend All Kinds of Businesses. It Hasn\u2019t Yet",
+     "title_en": "Meta\u2019s Muse Could Upend All Kinds of Businesses. It Hasn\u2019t Yet.",
+     "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-31",
+   "title": "Justice Department Investigates Alaska Ballots in Senate Race",
+   "sum": "The Justice Department is looking to separate ballots in Alaska as part of a criminal investigation related to the Senate race. Allegations have emerged suggesting that Democrats may have recruited a spoiler candidate.",
+   "more": "The investigation is linked to claims that could influence the outcome of a competitive election. NPR notes that these developments arise amid scrutiny of electoral tactics used by political parties. The New York Times initially reported the allegations, highlighting the controversy surrounding the Senate race and the actions of political operatives.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+     "title_en": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-31",
+   "title": "Obama's Comments on Trump's Decor Spark Discussion",
+   "sum": "Former President Obama made remarks regarding President Trump's interior decorating style, suggesting a more casual venue for state dinners. His comments generated a mix of reactions and discussions about presidential decorum.",
+   "more": "While some took Obama's comments as a lighthearted critique of Trump's style, others viewed it as a more serious commentary on presidential traditions. The suggestion of hosting state dinners at a place like The Cheesecake Factory points to a contrast in style between the two administrations. This discourse highlights the often personal nature of political differences and the ways public figures use humor to address serious topics.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+     "title_en": "Forget the ballroom, we're headed to Cheesecake Factory!",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-31",
+   "title": "Elections in Texas: Hinojosa Leads Among Latinos While Abbott Dominates Rural Areas",
+   "sum": "Gina Hinojosa is leading the polls among Latino voters, while Greg Abbott is performing strongly in rural areas. This electoral trend is also evident in the Senate race.",
+   "more": "The article highlights a clear division in voting preferences, with Hinojosa gaining support in urban, Latino-rich regions, contrasting with Abbott's popularity in less populated rural areas. This pattern may reflect broader demographic shifts and different electoral strategies. Notably, the Senate race mirrors these trends, indicating a potentially competitive political landscape in Texas.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Elecciones en Texas: Hijonosa va ganando las encuestas entre latinos y Abbott domina en zonas rurales",
+     "title_en": "Elections in Texas: Hinojosa leads among Latinos while Abbott dominates rural areas",
+     "url": "https://www.lanacion.com.ar/estados-unidos/texas/elecciones-en-texas-hijonosa-va-ganando-las-encuestas-entre-latinos-y-abbott-domina-en-zonas-rurales-nid30102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-31",
+   "title": "Spain Train Disaster Affects S\u00e1nchez's Re-election Prospects",
+   "sum": "The recent train disaster in Spain poses a significant challenge for Prime Minister S\u00e1nchez as he approaches a snap general election. This incident adds to a series of crises affecting his government.",
+   "more": "With the election looming, the timing of this disaster may impact public perception and voter sentiment towards S\u00e1nchez's leadership. Various news outlets highlight the mounting pressure on the PM, emphasizing the urgency of addressing these crises to mitigate further damage to his campaign. The framing centers around how this incident could sway undecided voters in a critical political period.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Spain train disaster clouds S\u00e1nchez chances of re-election",
+     "title_en": "Spain train disaster clouds S\u00e1nchez chances of re-election",
+     "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-31",
+   "title": "Changes to Indefinite Leave to Remain Expected from Home Secretary",
+   "sum": "The Home Secretary, Mahmood, is anticipated to announce modifications to the rules concerning indefinite leave to remain in the UK. These plans have encountered resistance from within the government regarding new regulations for migrant workers already residing in the country.",
+   "more": "There are divisions in the government concerning the proposed changes, highlighting differing views on immigration policies. The opposition suggests that the alterations could negatively impact migrant workers currently in the UK. Discussions are ongoing as various stakeholders weigh the implications of the intended reforms.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
+     "title_en": "Mahmood expected to announce changes to rules around indefinite leave to remain.",
+     "url": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-31",
+   "title": "Poland's President Joins Protest Amid Constitutional Crisis",
+   "sum": "Poland's president has interrupted his visit to Senegal to participate in protests against police actions. This comes during a significant constitutional crisis involving the country's top court.",
+   "more": "The situation highlights the escalating tensions surrounding judicial independence in Poland. Protesters are expressing their frustrations over the government's perceived interference with the judiciary. While Al Jazeera focuses on the president's direct participation in the protests, other outlets may concentrate more on the background of the constitutional crisis and its implications for democracy in Poland.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Poland\u2019s president joins protest amid constitutional crisis at top court",
+     "title_en": "Poland\u2019s president joins protest amid constitutional crisis at top court",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-31",
+   "title": "French Lawmakers Approve New Internet Tax",
+   "sum": "French lawmakers have approved a tax of \u20ac0.055 per gigabyte for internet traffic. This measure is expected to generate significant revenue for the country.",
+   "more": "The approved tax is projected to yield approximately \u20ac10 billion annually and applies to digital content accessed by subscribers in France. Companies affected by this tax include major tech firms such as Google, Meta, and Netflix. This legislative decision highlights the increasing scrutiny on digital services and their contribution to national revenue in France.",
+   "coverage": [
+    {
+     "outlet": "Tom's Hardware UK",
+     "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.65 per gigabyte of content accessed",
+     "title_en": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.65 per gigabyte of content accessed.",
+     "url": "https://www.tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Assemblee-nationale.fr",
+     "title": "French lawmakers approved a tax of \u20ac0.055 for every gigabyte of internet traffic",
+     "title_en": "French lawmakers approved a tax of \u20ac0.055 for every gigabyte of internet traffic.",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-31",
+   "title": "Calm Protests on October 31st in Paris and Across France",
+   "sum": "Protests on October 31st against the high cost of living were deemed calm in the Paris metropolitan area and across France. The overall atmosphere of the demonstrations was peaceful.",
+   "more": "Both sources report that the protests took place amid concerns about rising living costs. 20 Minutes highlights that the situation was considered calm in the Paris agglomeration, while Le HuffPost notes a slight decrease in mobilization for this phase of the protests. Additionally, Le HuffPost mentions that the route for the march in Paris was changed at the last minute, reflecting some logistical challenges faced by organizers.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Manifestations du 31\u00a0octobre\u00a0: La situation jug\u00e9e \u00ab\u00a0calme\u00a0dans l\u2019agglom\u00e9ration parisienne\u00a0\u00bb",
+     "title_en": "Protests on October 31st: Calm Situation in the Paris Area",
+     "url": "https://www.20minutes.fr/societe/4259115-20261031-direct-manifestations-31-octobre-pres-demi-million-manifestants-selon-organisateurs-affrontements-fins-cortege",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Manifestations du 31\u00a0octobre\u00a0: la mobilisation s\u2019essouffle l\u00e9g\u00e8rement pour \u00ab\u00a0l\u2019acte III\u00a0\u00bb",
+     "title_en": "Protests on October 31st: Mobilization Slightly Wanes for 'Act III'",
+     "url": "https://www.huffingtonpost.fr/france/article/manifestations-du-31-octobre-la-mobilisation-qui-s-essouffle-legerement-pour-l-acte-iii_349340.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-31",
+   "title": "Poland's President Returns Amid Court Crisis",
+   "sum": "Poland's president has interrupted a trip to Senegal to address a growing constitutional crisis involving the top court. The situation has sparked accusations of a coup.",
+   "more": "The articles highlight the urgency of President Karol Nawrocki's return as Spain grapples with a significant constitutional crisis following the suspension of the chief justice. Different outlets emphasize various aspects of the situation; Al Jazeera focuses on the protests he joined, while The Daily Caller underscores the coup claims related to the government's actions. RTE notes the involvement of a far-right ally in the suspension, adding political depth to the narrative.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Poland\u2019s president joins protest amid constitutional crisis at top court",
+     "title_en": "Poland\u2019s president joins protest amid constitutional crisis at top court.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "The Daily Caller",
+     "title": "Polish President Rushes Home Amid Claims Of Coup",
+     "title_en": "Polish President Rushes Home Amid Claims Of Coup.",
+     "url": "https://dailycaller.com/2026/10/30/karol-nawrocki-rushes-home-poland-coup-claims",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Poland's president returns as court crisis escalates",
+     "title_en": "Poland's president returns as court crisis escalates.",
+     "url": "https://www.rte.ie/news/world/2026/1031/1597446-poland-courts/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-31",
+   "title": "Protests Erupt Across Europe Amid Cost of Living Crisis",
+   "sum": "Widespread protests are occurring across Europe, driven by rising costs of living and inadequate public services. Authorities are preparing for potential violence following recent incidents of looting and riots.",
+   "more": "Protesters in France express dissatisfaction with new government measures, claiming they are insufficient to address their concerns, which raises fears of continued unrest as the presidential election approaches in April. Different outlets emphasize various aspects of the protests, with NBC focusing on the potential for violence and CNA highlighting the political implications in France. The growing public anger related to economic pressures is a common theme across both reports.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Massive protests sweep Europe over cost of living and strained public services",
+     "title_en": "Massive protests sweep Europe over cost of living and strained public services.",
+     "url": "https://www.nbcnews.com/world/europe/europe-braces-massive-halloween-protests-cost-living-public-services-rcna606671",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Protests spread across Europe as cost-of-living pressures fuel public anger",
+     "title_en": "Protests spread across Europe as cost-of-living pressures fuel public anger.",
+     "url": "https://www.channelnewsasia.com/world/protests-across-europe-cost-living-pressures-fuel-public-anger-6503196",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-31",
+   "title": "Tensions Rise in Poland's Constitutional Tribunal Amid Political Crisis",
+   "sum": "Protests and clashes have erupted outside Poland's Constitutional Tribunal in response to a significant political crisis, including the alleged hacking of the Tribunal's website. Demonstrations have intensified, with opposition leaders claiming a coup d'\u00e9tat.",
+   "more": "The unrest began following the announcement of high-profile suspensions within the Tribunal, leading to increasing public outrage. Law enforcement has cordoned off the area, reflecting the seriousness of the situation. Some reports focus on the violent nature of the protests and the police response, while others highlight the political implications surrounding the allegations of a coup. The president's decision to cancel a trip abroad underscores the gravity of the situation.",
+   "coverage": [
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "Polic\u00edas antidisturbios y manifestantes: la tensi\u00f3n frente al Tribunal Constitucional de Polonia, en FOTOS",
+     "title_en": "Riot police and protesters: tension in front of Poland's Constitutional Tribunal in PHOTOS.",
+     "url": "https://actualidad-rt.com/actualidad/635287-policias-antidisturbios-manifestantes-tension-polonia",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Lavozdegalicia.es",
+     "title": "La polic\u00eda acordona el Tribunal Constitucional de Polonia en medio de una grave crisis pol\u00edtica",
+     "title_en": "Police cordon off the Polish Constitutional Tribunal amid a severe political crisis.",
+     "url": "https://www.lavozdegalicia.es/noticia/internacional/2026/10/30/policia-acordona-tribunal-constitucional-polonia-medio-grave-crisis-politica/00031793396634091850275.htm",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-10-31",
+   "title": "Justice Department Investigates Alaska Ballots in Senate Race",
+   "sum": "The U.S. Department of Justice is seeking to isolate specific ballots in Alaska amid an investigation into potential voter confusion related to a Senate candidate. This development follows allegations of recruitment of a spoiler candidate by Democrats.",
+   "more": "The Justice Department's request for a court order to isolate these ballots is part of a broader criminal probe concerning the circumstances surrounding the Senate race. The investigation has prompted discussions regarding voter confusion that may have arisen during the election process. Different outlets emphasize the implications of the investigation, particularly regarding allegations raised by The New York Times about Democratic strategies in the race.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+     "title_en": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Justice Department seeks to isolate Alaska ballots amid Senate race probe",
+     "title_en": "Justice Department seeks to isolate Alaska ballots amid Senate race probe",
+     "url": "https://www.yahoo.com/news/articles/top-federal-prosecutor-alaska-says-202506121.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
