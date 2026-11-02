@@ -1,6 +1,6 @@
 {
  "date": "2026-10-31",
- "updated": "Nov 01, 16:58 UTC",
+ "updated": "Nov 02, 20:35 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -305,6 +305,354 @@
      "url": "https://www.yahoo.com/news/articles/top-federal-prosecutor-alaska-says-202506121.html",
      "bias": "Center",
      "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-10-31",
+   "title": "Investigation Reveals North Korea's Role in Binance Crypto Heist",
+   "sum": "The FBI has attributed the $6.3 billion cryptocurrency heist at Binance to North Korea. This hack has significant implications for the crypto sector.",
+   "more": "According to NPR, the heist is explained through five key points detailing how it was executed and its impact. Yahoo highlights the FBI's claims linking the hack to a state-sponsored group previously involved in major cryptocurrency thefts. The framing differs as NPR provides a more general overview while Yahoo focuses on the FBI's investigation and implications regarding North Korea's activities.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "title_en": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "FBI says North Korea was behind $6 billion crypto theft from Binance",
+     "title_en": "FBI says North Korea was behind $6 billion crypto theft from Binance",
+     "url": "https://www.yahoo.com/news/us/articles/fbi-links-record-6-3-010848750.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-10-31",
+   "title": "Insights on Tech Journalism from Nathan Fielder's Documentary",
+   "sum": "Nathan Fielder's documentary 'You Can See Everything' provides an intimate look at Elizabeth Holmes, prompting reflections on the challenges faced in tech journalism. The film reveals important lessons about accountability and transparency in the industry.",
+   "more": "Several outlets highlight the documentary's impact on the perception of tech journalism, with some praising its capacity to expose deeper issues, while others criticize its method. The framing varies, with some focusing on the ethical implications of media representation and others discussing the specific narratives fostered by such portrayals. The contrast emphasizes the ongoing debates within the journalism community regarding integrity and sensationalism in reporting.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "What Nathan Fielder\u2019s \u2018You Can See Everything\u2019 Taught Me About Tech Journalism",
+     "title_en": "What Nathan Fielder\u2019s \u2018You Can See Everything\u2019 Taught Me About Tech Journalism",
+     "url": "https://gizmodo.com/what-nathan-fielders-you-can-see-everything-taught-me-about-tech-journalism-2000830561",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-31",
+   "title": "Virginia and D.C. File Lawsuit Against Trump Arch Construction",
+   "sum": "Virginia and the District of Columbia have filed a lawsuit to halt the construction of a proposed triumphal arch. A U.S. District Court judge has called for both parties to collaborate on a briefing schedule.",
+   "more": "The lawsuit was filed in federal court as a final attempt to prevent the arch's construction at Memorial Circle in Washington. Judge Tanya Chutkin has ordered discussions between both sides to establish a timeline for the motion for a temporary restraining order. This legal action portrays varying degrees of urgency and framing, with NPR highlighting the judge's directive for talks, while NBC News emphasizes the lawsuit as a last-ditch effort to stop the project.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Virginia and D.C. sue to block construction of Trump arch",
+     "title_en": "Virginia and D.C. sue to block construction of Trump arch.",
+     "url": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Virginia and D.C. sue to stop proposed Trump arch",
+     "title_en": "Virginia and D.C. sue to stop proposed Trump arch.",
+     "url": "https://www.nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-10-31",
+   "title": "Youth-Led Protests Erupt Across Europe, Raising Concerns in France",
+   "sum": "Youth-led protests have taken place across Europe, prompting warnings from French officials. Interior Minister Laurent Nu\u00f1ez highlighted a significant risk of disorder during these demonstrations, particularly on Halloween.",
+   "more": "The protests have seen approximately 320,000 individuals participating nationwide in France, reflecting widespread unrest among the youth. Officials are particularly concerned about potential violence as gatherings continue into the evening hours. Different media outlets have varied in their emphasis on the causes of the protests, with some highlighting socio-economic grievances while others focus on the demographic aspects.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "title_en": "France Fears Disorder as Youth Protests Spread across Europe",
+     "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-31",
+   "title": "Monsignor Braida Discusses Pope's Visit and Social Issues",
+   "sum": "Monsignor Braida emphasizes the importance of the Pope's visit to Don Orione, highlighting the need to support the most marginalized groups. He warns about the deep economic crisis and political confrontation in the country, particularly affecting those with disabilities.",
+   "more": "Braida, as the bishop of La Rioja and president of Pastoral Social, calls attention to the urgent need for social agreements to address these issues. He criticizes the tendency to marginalize the disabled in times of crisis. The framing focuses on the intersection of spiritual leadership and social justice, particularly in relation to the Pope's role.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Monse\u00f1or Braida: \u201cEs importante que el Papa vaya a Don Orione; los m\u00e1s postergados nunca pueden ser la variable de ajuste\u201d",
+     "title_en": "Monsignor Braida: 'It is important for the Pope to go to Don Orione; the most marginalized should never be the variable of adjustment.'",
+     "url": "https://www.lanacion.com.ar/politica/monsenor-braida-es-importante-que-el-papa-vaya-a-don-orione-los-mas-postergados-nunca-pueden-ser-la-nid31102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-31",
+   "title": "Milei Strengthens Ties with Evangelical Church Ahead of Pope Leo XIV's Visit",
+   "sum": "President Milei and his sister participated in the celebration of Evangelical Churches Day at the Casa Rosada Museum. They are set to inaugurate a temple today, whose pastor is the father of a libertarian senator.",
+   "more": "The involvement of the Milei family with the evangelical community highlights their efforts to solidify political support among religious groups. This initiative comes as they prepare for the upcoming visit from Pope Leo XIV, which may influence their relationship with both religious and political constituents. Different outlets may emphasize either the political implications of this alliance or the cultural significance of the church's influence in Argentine society.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Los Milei refuerzan su v\u00ednculo con la iglesia evang\u00e9lica antes de la visita del papa Le\u00f3n XIV",
+     "title_en": "Milei Strengthens Ties with Evangelical Church Ahead of Pope Leo XIV's Visit",
+     "url": "https://www.lanacion.com.ar/politica/los-milei-refuerzan-su-vinculo-con-la-iglesia-evangelica-antes-de-la-visita-del-papa-leon-xiv-nid31102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-10-31",
+   "title": "The Glamorous Night of the Princesses",
+   "sum": "Kate Middleton and Ingrid of Norway dazzled with fabulous, emotionally valuable tiaras during two historic events. These future queens stole the show in Windsor and Oslo with their stunning diamond and amethyst adornments.",
+   "more": "The coverage highlights the significance of both events, emphasizing the emotional weight of the tiaras worn by the princesses. There is a focus on the cultural importance of royal jewels, with varying emphasis on the historical context of their design. While La Nacion underscores the glamor and value of the tiaras, other outlets may focus more on the events' implications for the royal families.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "La gran noche de las princesas. Kate Middleton e Ingrid de Noruega brillaron con fabulosas tiaras de gran valor emocional",
+     "title_en": "The Glamorous Night of the Princesses",
+     "url": "https://www.lanacion.com.ar/revista-hola/la-gran-noche-de-las-princesas-kate-middleton-e-ingrid-de-noruega-brillaron-con-fabulosas-tiaras-de-nid31102026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-10-31",
+   "title": "Ebola Outbreak in DR Congo Claims Over 5,000 Lives",
+   "sum": "The Ebola outbreak in the Democratic Republic of Congo has resulted in more than 5,000 deaths. Government statistics indicate that over 10,000 individuals have been infected with the virus.",
+   "more": "The article highlights the severity of the outbreak, marking it as the deadliest in the country's history. It emphasizes the struggle public health officials face in managing and controlling the virus's spread. Different outlets may vary in their focus, with some concentrating on the response efforts while others might emphasize the humanitarian impact.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+     "title_en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+     "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-31",
+   "title": "Protests Erupt Outside Poland's Constitutional Court Amid Judicial Independence Crisis",
+   "sum": "Protests have taken place outside Poland's constitutional court, reflecting a broader crisis over judicial independence. The centrist government claims it is working to restore the judiciary after years of interference by far-right politics.",
+   "more": "The protests highlight significant tensions between the government and the judiciary, with many citizens concerned about the implications for democracy. Different media outlets may emphasize various aspects of this crisis, such as the historical context of judicial reforms or the public's response. The framing can also vary, with some portraying the government's actions as a necessary correction while others view them as a threat to democratic principles.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Protests outside Poland\u2019s constitutional court: What\u2019s the crisis about?",
+     "title_en": "Protests outside Poland\u2019s constitutional court: What\u2019s the crisis about?",
+     "url": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-10-31",
+   "title": "Protests Erupt in London and France Amid Ongoing Tensions",
+   "sum": "London police arrested 48 individuals during protests against a ban on Palestine Action, while France saw large-scale demonstrations related to living costs and education. These events are part of ongoing discontent in both countries.",
+   "more": "The protests in London and Edinburgh come ahead of a critical UK Supreme Court appeal regarding the proscription of Palestine Action, highlighting the group's contentious status. In France, authorities reported that 320,000 people participated in the demonstrations, marking the third consecutive weekend of significant public outcry over rising living costs and issues in the state school system. While Al Jazeera emphasizes the legal implications of the Palestine Action ban in the UK, the coverage on France highlights the sheer scale of public agitation fueled by economic concerns.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "London police arrest 48 as hundreds protest Palestine Action ban",
+     "title_en": "London police arrest 48 as hundreds protest Palestine Action ban.",
+     "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-31",
+   "title": "Youth-Led Protests Erupt Across Europe, France on High Alert",
+   "sum": "France is witnessing youth-led protests as demonstrators voice their concerns over living costs and education. The situation has led the French Interior Minister to warn of potential unrest during the Halloween weekend.",
+   "more": "The protests, which have sparked across Europe, have drawn significant participation from frustrated students. In France, authorities have prepared for continued unrest by deploying a large police presence and modifying protest routes in Paris. While NPR emphasizes the risk of disorder, CBC News highlights the scaling up of security measures in response to the protests. ABC News focuses on the broader scope of the demonstrations as they reflect growing discontent among youth regarding socioeconomic issues.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "title_en": "France seethes again as youth-led protests sweep Europe.",
+     "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "France braces for 3rd weekend of discord as youth-led protests spread across Europe",
+     "title_en": "France braces for 3rd weekend of discord as youth-led protests spread across Europe.",
+     "url": "https://www.cbc.ca/news/world/france-student-protests-europe-9.7404105",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+     "title_en": "Third weekend of protests in France as youth-led rallies sweep Europe.",
+     "url": "https://www.abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-31",
+   "title": "Looting in Frankfurt Amid Nationwide Gen Z Protests in Germany",
+   "sum": "Hooded rioters looted stores in Frankfurt following large-scale protests by Gen Z demonstrators across Germany's major cities. The unrest resulted in over 30 arrests and significant police deployment.",
+   "more": "The protests were organized to address various social issues, reflecting the frustrations of a generation. While the demonstration in Frankfurt turned violent with looting and clashes with police, reports from other cities may highlight differing levels of unrest and focus on the peaceful aspects of the protests. Some outlets emphasize the scale of the protests, while others focus on the violence that erupted in specific locations.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Looting erupts in Frankfurt as Gen Z protests draw crowds across Germany",
+     "title_en": "Looting erupts in Frankfurt as Gen Z protests draw crowds across Germany",
+     "url": "https://www.yahoo.com/news/articles/gen-z-protests-reach-germany-000319778.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Rt-english.com",
+     "title": "WATCH Rioters ransack shops as Gen Z protests rock Germany",
+     "title_en": "WATCH Rioters ransack shops as Gen Z protests rock Germany",
+     "url": "https://rt-english.com/news/648190-germany-frankfurt-gen-z-riots/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-10-31",
+   "title": "New Financial Savings Option and Innovative Road Marking in France",
+   "sum": "A new savings scheme, Livret D, aims to compete with the well-known Livret A at a rate of 3.5%, but some question its benefits. Additionally, a novel road marking design known as 'dragon teeth' is being tested for potential use in France.",
+   "more": "The Livret D scheme presents an alternative to traditional savings accounts, offering a higher interest rate while also raising concerns about its overall value to savers. Meanwhile, the 'dragon teeth' road markings are part of an experimental phase that seeks to innovate traffic management. Different media outlets highlight these developments, with some focusing more on the potential advantages of the new savings option, while others emphasize the logistical aspects of the road marking experiment.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "Livret D\u00a0: c\u2019est quoi cette nouvelle \u00e9pargne \u00e0 3,5\u00a0% qui veut concurrencer le Livret A\u00a0?",
+     "title_en": "Livret D: What is this new savings option at 3.5% that aims to compete with Livret A?",
+     "url": "https://www.journaldugeek.com/2026/10/31/livret-d-cest-quoi-cette-nouvelle-epargne-a-35-qui-veut-concurrencer-le-livret-a/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Presse-citron",
+     "title": "Les dents de dragon\u00a0: c\u2019est quoi ce nouveau marquage au sol qui arrive sur les routes\u00a0?",
+     "title_en": "Dragon Teeth: What is this new road marking that is coming to the streets?",
+     "url": "https://www.presse-citron.net/les-dents-de-dragon-cest-quoi-ce-nouveau-marquage-au-sol-qui-arrive-sur-les-routes/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-31",
+   "title": "Youth-led Protests Ignite Across Europe and Stir Tensions in France",
+   "sum": "Protests led by youth continue to escalate in France, alongside similar demonstrations across Europe. Authorities in France are on high alert, particularly as they anticipate potential disorder during Halloween.",
+   "more": "Reports indicate that the protests, driven by issues related to living costs and education, have mobilized hundreds of thousands across France, with French officials preparing for significant unrest. The French Interior Minister has especially emphasized the risks of violence during the nighttime hours. While CBC News highlights the deployment of 70,000 police and gendarmes, NPR mentions the nationwide participation of about 320,000 protesters. ABC News focuses on the inspiration drawn from frustrated high school students, framing the protests as a response to broader economic concerns.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "title_en": "France seethes again as youth-led protests sweep Europe.",
+     "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "France braces for 3rd weekend of discord as youth-led protests spread across Europe",
+     "title_en": "France braces for 3rd weekend of discord as youth-led protests spread across Europe.",
+     "url": "https://www.cbc.ca/news/world/france-student-protests-europe-9.7404105",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+     "title_en": "Third weekend of protests in France as youth-led rallies sweep Europe.",
+     "url": "https://www.abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-10-31",
+   "title": "Looting and Protests Erupt in Germany Amid Gen Z Demonstrations",
+   "sum": "Protests led by Gen Z activists have sparked significant unrest in various German cities, including instances of looting in Frankfurt. The demonstrations reflect a growing demand for political change and a better future among the youth.",
+   "more": "The looting in Frankfurt coincided with large-scale protests across Germany, where tens of thousands gathered in around 34 cities. While some outlets emphasized the violent incidents, others focused on the broader context of youth activism and political engagement. The protests are part of a larger wave of demonstrations across Europe, highlighting a shift in youth priorities. There were reports of police clashes and over 30 arrests during the unrest in Frankfurt.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Looting erupts in Frankfurt as Gen Z protests draw crowds across Germany",
+     "title_en": "Looting erupts in Frankfurt as Gen Z protests draw crowds across Germany",
+     "url": "https://www.yahoo.com/news/articles/gen-z-protests-reach-germany-000319778.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Rt-english.com",
+     "title": "WATCH Rioters ransack shops as Gen Z protests rock Germany",
+     "title_en": "WATCH Rioters ransack shops as Gen Z protests rock Germany",
+     "url": "https://rt-english.com/news/648190-germany-frankfurt-gen-z-riots/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Gen Z protests sweep cities across Germany",
+     "title_en": "Gen Z protests sweep cities across Germany",
+     "url": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694",
+     "bias": "Center",
+     "src": "table"
     }
    ]
   }

@@ -1,0 +1,585 @@
+{
+ "date": "2026-11-01",
+ "updated": "Nov 02, 20:35 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-01",
+   "title": "Exploring Google's Free Video Editing Tool Within Google Drive",
+   "sum": "Google Drive includes a lesser-known web app called Google Vids that functions as a free video editor. This tool is readily available for anyone to use.",
+   "more": "The Wired article highlights that many users may be unaware of this feature within Google Drive, suggesting that it could enhance productivity for those needing video editing capabilities. Unlike other video editing software that may require downloads or subscriptions, Google Vids provides an accessible option for users who utilize Google's ecosystem. While Wired frames it as a hidden gem, there may be other outlets that focus on its limitations compared to professional editing software.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "There\u2019s a Free Video Editor Inside Google Drive That Anyone Can Use",
+     "title_en": "There\u2019s a Free Video Editor Inside Google Drive That Anyone Can Use",
+     "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-01",
+   "title": "The Chromagraph Camera App: A Tool for Color Enthusiasts",
+   "sum": "The Chromagraph Camera app, created by a Hollywood cinematographer, aims to enhance iPhone photography by applying advanced color processing techniques. Priced at $13, it utilizes the same color math used in the film 'Knives Out.'",
+   "more": "The app has gained popularity for its ability to replicate professional cinematic color grading on mobile devices, making it attractive to both amateurs and professionals. Users have reported a significant improvement in the quality of their photos by utilizing the app\u2019s technology. While some outlets focus on its technical capabilities, others emphasize its accessibility for everyday users.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
+     "title_en": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
+     "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-01",
+   "title": "Chatbots Misleading Hikers, Endangering Lives",
+   "sum": "Relying on chatbots for hiking plans can compromise critical thinking and lead to dangerous outcomes. This is especially concerning in remote backcountry areas.",
+   "more": "The article discusses how technology, particularly AI chatbots, may take over responsibilities traditionally held by humans, such as trip planning. This reliance can lead hikers to make poor decisions, with serious consequences in inhospitable environments. The framing highlights a cautionary tale regarding the balance between technology and personal judgment in outdoor activities.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+     "title_en": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+     "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-01",
+   "title": "Protests Outside US Embassy Lead to Multiple Arrests",
+   "sum": "More than 300 arrests occurred during a protest by supporters of Palestine Action outside the US embassy. Since the group's proscription in July 2025, over 4,000 individuals have been arrested for their support.",
+   "more": "The protests were aimed at opposing the UK government's ban on Palestine Action, with hundreds gathering in London. Both BBC News and Al Jazeera English reported on the event, highlighting the significant police response to the demonstration. While BBC emphasized the total number of arrests associated with the group since its proscription, Al Jazeera focused more on the immediate protests and their purpose. This difference in framing reflects contrasting emphases on the ongoing issue of civil liberties and the responses to activism.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+     "title_en": "More than 300 arrests at Palestine Action support protest outside US embassy",
+     "url": "https://www.bbc.co.uk/news/articles/c98rz23ed781o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Palestine Action supporters arrested outside US embassy in London",
+     "title_en": "Palestine Action supporters arrested outside US embassy in London",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-01",
+   "title": "Cinematographer Develops App to Enhance iPhone Photography",
+   "sum": "The Chromagraph Camera app, created by cinematographer Steve Yedlin, applies similar color processing techniques used in film to iPhone photos. It is available for purchase at $13.",
+   "more": "The app aims to democratize the color grading process, allowing anyone with an iPhone to create visually striking images reminiscent of professional cinema. Steve Yedlin's approach emphasizes the importance of color in storytelling and how technology can bridge the gap between professional and amateur photography. The article from Wired highlights the personal connection Yedlin has with the project, reflecting his passion for color in films like 'Knives Out.'",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
+     "title_en": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
+     "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-01",
+   "title": "Lindsay Clancy Returns to Court as Case Decision Approaches",
+   "sum": "Lindsay Clancy, a Massachusetts woman accused of murdering her three children, is set to return to court. She is currently waiting for a decision regarding the possibility of a retrial in her case.",
+   "more": "The article highlights the anticipation surrounding Clancy's upcoming court appearance and the implications it may have for her legal situation. There is a focus on the severity of the accusations against her and the ongoing legal proceedings. Different outlets may frame her situation with varying degrees of sympathy or criticism, reflecting broader societal views on mental health and criminal justice.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Lindsay Clancy is back in court - where will her case go next?",
+     "title_en": "Lindsay Clancy is back in court - where will her case go next?",
+     "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-01",
+   "title": "Police Investigate Video of Officer Striking Youth with Handcuffs",
+   "sum": "Authorities are examining a video that depicts an officer striking a youth with handcuffs. The police claim that this footage represents only a small portion of the overall incident.",
+   "more": "The statement from the police indicates that the public should consider the broader context of the event. Different outlets may emphasize varying aspects of the incident, such as the police's response or public reactions to the video. The framing of the narrative may shift depending on the focus\u2014whether it is the officer's actions or the implications for police conduct and accountability.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Police probe video of officer hitting youth with handcuffs",
+     "title_en": "Police probe video of officer hitting youth with handcuffs",
+     "url": "https://www.bbc.co.uk/news/articles/cme8rkgpjk5ko",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-01",
+   "title": "Connecticut Senator Chris Murphy Hospitalized Following Stroke",
+   "sum": "Senator Chris Murphy of Connecticut was hospitalized after suffering a stroke. He is reportedly responding well to treatment and is expected to recover fully.",
+   "more": "Different outlets highlight various aspects of the situation. NBC News simply reports that Murphy was hospitalized, while NPR details that he experienced numbness in his arm before being admitted. Fox News confirms the hospitalization but does not provide additional information on his condition or symptoms. Overall, the framing across these outlets emphasizes his recovery and the incident's seriousness.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Sen. Chris Murphy hospitalized after stroke",
+     "title_en": "Sen. Chris Murphy hospitalized after stroke.",
+     "url": "https://www.nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+     "title_en": "Connecticut Senator Chris Murphy is hospitalized with a stroke.",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Connecticut Dem Sen Chris Murphy hospitalized for stroke",
+     "title_en": "Connecticut Dem Sen Chris Murphy hospitalized for stroke.",
+     "url": "https://www.foxnews.com/politics/connecticut-dem-sen-chris-murphy-hospitalized-stroke",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-01",
+   "title": "Federal Judge Dismisses Trump's Lawsuit Regarding Alaska Senate Election",
+   "sum": "A federal judge in Alaska has dismissed a civil lawsuit filed by the Trump administration aimed at interfering with the state's upcoming Senate election. The lawsuit sought to separate and preserve specific ballots.",
+   "more": "Both NBC News and NPR report on the dismissal of Trump's lawsuit, highlighting its unusual nature. While NBC emphasizes the attempt to preserve certain ballots, NPR focuses on the objective of blocking the certification of election results. The framing differs slightly, with NBC presenting it as a direct intervention in the election process and NPR framing it in terms of potential election outcome certification.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+     "title_en": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race.",
+     "url": "https://www.nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+     "title_en": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses.",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-01",
+   "title": "Haley Stevens Endorses Republican Candidate in Michigan Senate Race",
+   "sum": "Rep. Haley Stevens endorsed Republican candidate Mike Rogers, a significant move in the Michigan Senate race. This decision comes as she was originally set to attend a unity event with her former rival Abdul El-Sayed.",
+   "more": "Stevens' endorsement of Rogers represents a notable shift in her political alignments, particularly since she previously competed against El-Sayed in the Democratic primary. Different news outlets emphasize the implications of her endorsement; NPR highlights the rejection of her past rival while NBC News focuses on the strategic importance of this endorsement in a key battleground race. The dynamics between Stevens, El-Sayed, and Rogers are central to the narrative as the Senate race approaches its conclusion.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+     "title_en": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed.",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
+     "title_en": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race.",
+     "url": "https://www.nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-01",
+   "title": "Boca and River Face Off in Title Defining Match Surrounded by Controversy",
+   "sum": "Boca Juniors and River Plate are poised to clash in a pivotal match that may determine the title. Boca seeks to secure its position in the pursuit of four trophies, while River aims to disrupt their plans and prepare for the upcoming Clausura.",
+   "more": "The encounter is set to take place at Boca's iconic Bombonera stadium at 3 PM. There are underlying suspicions surrounding the match, which adds to the intensity of the rivalry. Coverage from various outlets may emphasize the stakes differently, focusing on either the significance of the trophies at stake or the tension between the teams.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Todo lo que pueden ganar y perder Boca y River, en un partido que casi define un t\u00edtulo y empieza envuelto en sospechas",
+     "title_en": "Everything Boca and River Can Gain and Lose in a Match That Might Define a Title and Starts Surrounded by Suspicion",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/todo-lo-que-pueden-ganar-y-perder-boca-y-river-en-un-partido-que-casi-define-un-titulo-y-empieza-nid01112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-01",
+   "title": "Indian Opposition Plans Major Rally Over Voter Roll Revisions",
+   "sum": "The Indian opposition is set to hold a large rally in New Delhi, demanding the resignation of the election chief. This comes in response to concerns that a voter roll revision could exclude 130 million voters.",
+   "more": "Both BBC News and DW report on the upcoming rally, emphasizing the scale of the event and the number of expected participants. BBC highlights the protests specifically tied to the voter roll revision exercise, while DW focuses on the rally's planning and its significance. The framing in both articles is consistent regarding the motivation behind the rally and the implications of the electoral roll changes.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+     "title_en": "India's opposition set to hold mega rally seeking election chief's resignation",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+     "title_en": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+     "url": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-01",
+   "title": "Over 300 Arrested at Palestine Action Support Protest Outside US Embassy",
+   "sum": "More than 300 individuals were arrested during a protest supporting Palestine Action outside the US embassy. The group has seen over 4,000 arrests connected to its activities since being designated as a proscribed organization in July 2025.",
+   "more": "The protest attracted significant attention due to the ongoing tensions surrounding Palestine Action's status. Different outlets emphasize the scale of the arrests, with some focusing on the implications for freedom of expression while others highlight the government's response to the organization's actions. The framing of these events varies, with certain media stressing the growing public support for Palestine Action amidst the arrests.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+     "title_en": "More than 300 arrests at Palestine Action support protest outside US embassy",
+     "url": "https://www.bbc.co.uk/news/articles/c98rz23ed781o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-01",
+   "title": "Government Addresses Garment Worker Protests",
+   "sum": "The Prime Minister has summoned ministers in response to unrest among garment workers. The Labour Minister has canceled his trip to the UAE to focus on resolving the situation involving demands for a Tk 30,000 minimum wage.",
+   "more": "The summoning of ministers indicates the government's urgency in addressing the workers' demands amidst growing protests. The cancelation of the Labour Minister's visit to the UAE highlights the priority given to negotiating a better wage for the workers. Various media outlets may portray the government's response differently, with some emphasizing the potential economic impacts while others might focus on the social implications of worker unrest.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "PM calls ministers over garment worker unrest",
+     "title_en": "PM calls ministers over garment worker unrest",
+     "url": "https://www.thedailystar.net/news/governance/news/pm-calls-ministers-over-garment-worker-unrest-4312746",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-01",
+   "title": "Bangladesh Implements Reform Roadmap for LDC Graduation",
+   "sum": "Bangladesh has proposed a reform targets roadmap to its development partners, particularly the European Union and the United Nations. The focus is on enhancing banking, revenue collection, and the overall business environment.",
+   "more": "This initiative aims to ensure that Bangladesh meets the criteria for graduation from Least Developed Country (LDC) status. The reforms are expected to attract investment and support economic stability. Different outlets may emphasize varying aspects of the reforms, such as their potential impact on business or their alignment with international standards.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "LDC graduation: Bangladesh sets reform targets for EU, UN to watch",
+     "title_en": "LDC graduation: Bangladesh sets reform targets for EU, UN to watch",
+     "url": "https://www.thedailystar.net/news/bangladesh/news/ldc-graduation-bangladesh-sets-reform-targets-eu-un-watch-4312371",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-01",
+   "title": "Israel Election: Timeline for Government Formation and Leadership Decisions",
+   "sum": "Israeli President Herzog is tasked with selecting a candidate to form the new government by November 11. This process is expected to involve complicated negotiations.",
+   "more": "The article clarifies the responsibility of President Herzog in appointing a candidate for government formation after the elections. It highlights the potential challenges and complexities that lie ahead in these negotiations, suggesting a tense political atmosphere. There is no indication in the article of differing perspectives from multiple outlets, focusing solely on the procedural aspects of the government formation.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel election: When will government be formed, who will lead it?",
+     "title_en": "Israel election: When will government be formed, who will lead it?",
+     "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-01",
+   "title": "Thousands Protest in Israel for Eisenkot-Arab Deal Against Netanyahu",
+   "sum": "Thousands in Israel gathered to rally for a deal between Eisenkot and Arab factions aimed at removing Netanyahu from power. At the same time, supporters of Netanyahu protested, asserting that Israel should not engage with what they term 'terrorists'.",
+   "more": "The rallies showcase a deep divide within Israeli society regarding the current government and its coalition partners. While one group demands a shift in leadership through negotiations with Arab parties, the counterprotest highlights fears and rejection of such alliances. The framing of the protesters also reflects differing views on national security and political legitimacy, underscoring the contentious atmosphere surrounding the Israeli political landscape.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
+     "title_en": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu.",
+     "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-01",
+   "title": "France Launches Attempted Murder Investigation into Petrol Bomb Attacks on Police",
+   "sum": "French authorities have initiated an attempted murder investigation following petrol bomb attacks on police during recent protests. Several security officers were reported injured in these incidents.",
+   "more": "Different media outlets emphasize various aspects of the situation. Al Jazeera notes the lack of arrests made so far, while ABC News highlights a specific account of an officer suffering serious burns. Breitbart provides context by connecting the attacks to Halloween riots in Paris, framing the events as part of broader unrest in the city.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France opens \u2018attempted murder\u2019 probe into petrol bomb attacks on police",
+     "title_en": "France opens \u2018attempted murder\u2019 probe into petrol bomb attacks on police",
+     "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "title_en": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "url": "https://www.abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Breitbart News",
+     "title": "France: Attempted Murder Investigation Opened over Molotov Cocktail Attack on Police During Halloween Riots",
+     "title_en": "France: Attempted Murder Investigation Opened over Molotov Cocktail Attack on Police During Halloween Riots",
+     "url": "https://www.breitbart.com/europe/2026/11/01/france-attempted-murder-investigation-opened-over-molotov-cocktail-attack-on-police-during-halloween-riots/",
+     "bias": "Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-01",
+   "title": "Protests in Support of Palestine Action Lead to Over 300 Arrests Outside US Embassy",
+   "sum": "A large protest in London supporting Palestine Action resulted in more than 300 arrests. The demonstrations against the UK government's ban on the group drew significant public attention.",
+   "more": "The protests were organized by Defend Our Juries and saw hundreds of participants expressing their support for Palestine Action, which has been outlawed since July 2025. While BBC News focuses on the sheer number of arrests associated with the group's support, Al Jazeera emphasizes the opposition to the government's ban. The Dailymail reports on both the arrests and the calls for solidarity, providing a detailed narrative of the protest's atmosphere and participants' messages.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+     "title_en": "More than 300 arrests at Palestine Action support protest outside US embassy.",
+     "url": "https://www.bbc.co.uk/news/articles/c98rz23ed781o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Palestine Action supporters arrested outside US embassy in London",
+     "title_en": "Palestine Action supporters arrested outside US embassy in London.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Dailymail.com",
+     "title": "Met Police make first arrests of pro-Palestine Action demonstrators as they pledge support for banned group outside US Embassy",
+     "title_en": "Met Police make first arrests of pro-Palestine Action demonstrators as they pledge support for banned group outside US Embassy.",
+     "url": "https://www.dailymail.com/news/article-16254649/Met-police-arrests-Palestine-Action-US-Embassy.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-01",
+   "title": "India's Opposition Plans Major Rally for Election Chief's Resignation",
+   "sum": "India's opposition is preparing for a large rally aimed at calling for the resignation of the election chief. This comes in response to protests regarding a voter roll revision that is suspected to potentially exclude 130 million voters.",
+   "more": "In New Delhi, thousands participated in the opposition rally, with demonstrators specifically demanding the resignation of the election chief due to perceived changes in the voter roll that could benefit Prime Minister Modi's party. The protests are a significant reaction to the controversial voter roll revisions that are raising fears of disenfranchisement. While both BBC News and Al Jazeera are reporting on this event, the emphasis on the political implications and the scale of the protest may vary in their presentations.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+     "title_en": "India's opposition set to hold mega rally seeking election chief's resignation",
+     "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Photos: Thousands join India\u2019s opposition rally against election chief",
+     "title_en": "Photos: Thousands join India\u2019s opposition rally against election chief",
+     "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-01",
+   "title": "Police Intervene in Portugal Housing Protests",
+   "sum": "Police in Portugal have forcibly cleared housing protest camps in major cities. This operation included the use of officers and police dogs in Lisbon.",
+   "more": "Clashes reportedly occurred during the police actions in both Lisbon and Porto, with protesters facing repeated dispersals over the past weeks. The protests centered around housing issues, which have prompted significant public outcry. Different outlets emphasize the recurring nature of these police interventions, highlighting the tense interactions between law enforcement and demonstrators.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Police storm Portugal housing protest camps",
+     "title_en": "Police storm Portugal housing protest camps.",
+     "url": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Portugal police storm housing protest camps in Lisbon, Porto",
+     "title_en": "Portugal police storm housing protest camps in Lisbon, Porto.",
+     "url": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "Judge Dismisses Lawsuit to Block Alaska Senate Certification",
+   "sum": "A federal judge has dismissed the Justice Department's lawsuit aimed at blocking the certification of Alaska's U.S. Senate race. The ruling came just two days before Election Day.",
+   "more": "U.S. District Judge Sharon Gleason stated that the lawsuit lacked merit. The Justice Department had contended that Senator Dan S. Sullivan's name on the ballot could mislead voters, potentially benefitting his Democratic opponent. The dismissal was characterized differently across outlets, with some emphasizing the unusual nature of the lawsuit initiated by the Trump administration. CBS News highlighted the arguments made by the Justice Department regarding voter diversion.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Judge dismisses DOJ lawsuit seeking to block Alaska Senate certification if GOP loses",
+     "title_en": "Judge dismisses DOJ lawsuit seeking to block Alaska Senate certification if GOP loses",
+     "url": "https://www.yahoo.com/news/politics/article/judge-dismisses-doj-lawsuit-seeking-to-block-alaska-senate-certification-if-gops-dan-sullivan-loses-184010306.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+     "title_en": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+     "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "The Punch",
+     "title": "US Judge dismisses Trump administration\u2019s bid to block Alaska Senate result",
+     "title_en": "US Judge dismisses Trump administration\u2019s bid to block Alaska Senate result",
+     "url": "https://punchng.com/us-judge-dismisses-trump-administrations-bid-to-block-alaska-senate-result/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "Midterm Election Watch Guide: GOP's Potential Outcomes",
+   "sum": "Key races on Tuesday will reveal whether the GOP can surpass expectations after lagging behind Democrats in the polls. The results will indicate if Republicans should be concerned or celebrate.",
+   "more": "Both articles emphasize the importance of Tuesday's races for the GOP, highlighting a critical moment that will dictate their response, whether it be panic or celebration. There is a consistent focus on the electoral expectations and the competitive landscape with Democrats. However, the specific wording varies slightly between the two articles, with some differences in emphasis on the urgency of the situation for Republicans.",
+   "coverage": [
+    {
+     "outlet": "The Daily Caller",
+     "title": "Midterm Election Watch Guide: When GOP Will Know If It\u2019s Time To Hit Panic Button Or Reach For Champagne",
+     "title_en": "Midterm Election Watch Guide: When GOP Will Know If It\u2019s Time To Hit Panic Button Or Reach For Champagne",
+     "url": "https://dailycaller.com/2026/11/01/midterm-elections-races-republicans-democrats-polls",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Wnd.com",
+     "title": "Midterm election watch guide: When Republicans will know if it\u2019s time to hit panic button or reach for champagne",
+     "title_en": "Midterm Election Watch Guide: When Republicans Will Know If It\u2019s Time To Hit Panic Button Or Reach For Champagne",
+     "url": "https://www.wnd.com/2026/11/midterm-election-watch-guide-when-republicans-will-know/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "Ballot Disputes Intensify in Alaska and California Ahead of US Midterms",
+   "sum": "Ballot disputes in Alaska and California are escalating as the midterm elections approach. Investigations and possible legal action are being initiated regarding mail-in voting procedures.",
+   "more": "Both outlets report on the increasing tensions surrounding the US midterm elections, particularly focusing on Alaska's Senate race and California's postal ballot situation. RTE highlights the criminal investigation initiated by the Trump administration in Alaska, while Business Standard emphasizes the federal prosecutor's probe and mentions the likelihood of the Justice Department appealing to the Supreme Court concerning California's mail-in ballots. The framing between the two articles remains consistent, focusing on the legal proceedings and implications for the elections.",
+   "coverage": [
+    {
+     "outlet": "RTE",
+     "title": "Alaska, California ballot fights heat up in US midterms",
+     "title_en": "Alaska, California ballot fights heat up in US midterms",
+     "url": "https://www.rte.ie/news/us/2026/1101/1597508-us-midterm-elections/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Standard",
+     "title": "US midterms enter final weekend as Alaska, California ballot fights heat up",
+     "title_en": "US midterms enter final weekend as Alaska, California ballot fights heat up",
+     "url": "https://www.business-standard.com/world-news/us-midterms-enter-final-weekend-as-alaska-california-ballot-fights-heat-up-126110100056_1.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "MotoGP Riders Intensify Pressure on Championship Organizers Ahead of Qatar Grand Prix",
+   "sum": "Tensions have escalated between MotoGP riders and championship organizers as the Qatar Grand Prix approaches. Riders are pushing for assurances regarding insurance and safety measures.",
+   "more": "According to reports, the majority of the riders have issued a letter to the championship promoter, emphasizing the need for the series to ensure adequate insurance coverage. This demand comes as the race, originally scheduled for mid-April, is rapidly approaching following a postponement. Both outlets highlight the riders' collective stance, but they emphasize differing aspects of the preparations and negotiations between the riders and organizers.",
+   "coverage": [
+    {
+     "outlet": "autosport.com",
+     "title": "MotoGP riders step up pressure in final bid to avoid Qatar Grand Prix",
+     "title_en": "MotoGP riders step up pressure in final bid to avoid Qatar Grand Prix",
+     "url": "https://www.autosport.com/motogp/news/motogp-riders-step-up-pressure-in-final-bid-to-avoid-qatar-grand-prix/10870465/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Motorsport.com",
+     "title": "MotoGP riders step up pressure in final bid to avoid Qatar Grand Prix",
+     "title_en": "MotoGP riders step up pressure in final bid to avoid Qatar Grand Prix",
+     "url": "https://www.motorsport.com/motogp/news/motogp-riders-step-up-pressure-in-final-bid-to-avoid-qatar-grand-prix/10870458/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  }
+ ]
+}
