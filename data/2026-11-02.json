@@ -1,0 +1,441 @@
+{
+ "date": "2026-11-02",
+ "updated": "Nov 03, 18:09 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-02",
+   "title": "Apple Delays Launch of Smart Home Robot",
+   "sum": "Apple's anticipated smart home robot launch is reportedly postponed until at least 2024 or even as late as 2028. The hardware for the robot has been completed for about two years, but software development is still ongoing.",
+   "more": "The report from The Information suggests significant software challenges are the reason for the delay. This timeline could impact Apple's strategy in the smart home market, especially as competitors continue to innovate. Different tech outlets may emphasize varying aspects of the delay, such as the technological complexities or Apple's market positioning.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Apple\u2019s \u2018Ultra\u2019 smart home robot might have to wait until 2028",
+     "title_en": "Apple's 'Ultra' smart home robot might have to wait until 2028",
+     "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "France Investigates Petrol Bomb Attacks on Police as Protests Continue",
+   "sum": "French authorities have launched an investigation into attempted murder following petrol bomb attacks on police during protests. This marks the third consecutive weekend of demonstrations across several cities in France.",
+   "more": "The BBC reports that hundreds of arrests were made during the ongoing protests, indicating a significant law enforcement response. In contrast, Al Jazeera notes that no arrests were made specifically in connection to the petrol bomb incidents despite several security officers being injured. This reflects a difference in focus between the two outlets, with the BBC emphasizing the scale of arrests while Al Jazeera highlights the injuries sustained by officers.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "title_en": "France launches attempted murder investigation after petrol bomb thrown at police.",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France opens \u2018attempted murder\u2019 probe into petrol bomb attacks on police",
+     "title_en": "France opens \u2018attempted murder\u2019 probe into petrol bomb attacks on police.",
+     "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Vivo's First Pro Max Phone Compared to Its Ultra Model",
+   "sum": "Vivo's new Pro Max phone has been compared to its existing Ultra model, particularly for its camera capabilities. Despite the Pro Max's advancements, the Ultra is still considered superior in the camera department.",
+   "more": "The Verge highlights the standout features of the Vivo X300 Ultra, specifically its impressive main camera and outstanding ultrawide lens, which are noted as the best in the industry. While the Pro Max introduces new features, it seems to fall short in match the Ultra's photography performance. Other outlets may provide varied perspectives on how the two models stack up against each other or focus on different features.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Vivo\u2019s first Pro Max phone proves its Ultra is still in a league of its own",
+     "title_en": "Vivo\u2019s first Pro Max phone proves its Ultra is still in a league of its own",
+     "url": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Batmobile Hits Cast Member During 'The Batman Part II' Shoot",
+   "sum": "A cast member was reportedly struck by the Batmobile on the set of 'The Batman Part II', which has been characterized as a 'cursed' production. This incident adds to the challenges faced by the film's crew.",
+   "more": "The report highlights ongoing issues surrounding the filming of 'The Batman Part II', raising concerns about the safety protocols on set. Additionally, the piece touches on the fate of David Oyelowo's 'Rocketeer' sequel, suggesting that the challenges in one production may echo in another. While specifics about the 'Rocketeer' sequel were not detailed, the mention implies difficulties behind the scenes. Different outlets may frame the Batmobile incident as part of a larger narrative about the troublesome production history of the film.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Batmobile Reportedly Strikes Cast Member on Set of Decidedly Cursed \u2018The Batman Part II\u2019",
+     "title_en": "Batmobile Reportedly Strikes Cast Member on Set of Decidedly Cursed 'The Batman Part II'",
+     "url": "https://gizmodo.com/batmobile-reportedly-strikes-cast-member-on-set-of-decidedly-cursed-the-batman-part-ii-2000833563",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Train Attacker Claimed 'I Am the Baddest', According to Trial Testimony",
+   "sum": "During a trial, it was revealed that the train attacker, Anthony Williams, made a bold statement asserting his identity. Police had previously responded to concerns about him the day before the attack.",
+   "more": "The trial included testimonies regarding Williams' behavior leading up to the attack, highlighting potential warning signs that were not acted upon. Jurors were informed of the police's prior engagement with Williams, which has raised questions about the adequacy of the response to the fears expressed. Different media outlets may focus on either the police's actions or Williams' statements, leading to varying interpretations of accountability and intent.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Train attacker said 'I am the baddest', trial hears",
+     "title_en": "Train attacker said 'I am the baddest', trial hears",
+     "url": "https://www.bbc.co.uk/news/articles/c65ynd5y102lo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-02",
+   "title": "DOJ Appeals to Supreme Court Over California Ballot Issues",
+   "sum": "The Justice Department is seeking Supreme Court intervention regarding California's mail-in ballots ahead of the upcoming election. This request follows lower court rejections of their attempts to address concerns over potential noncitizen ballots.",
+   "more": "The NPR article highlights the urgency of the request, framing it as part of the Trump administration's efforts to influence the election process in California. In contrast, Fox News focuses specifically on the appeal related to the segregation of ballots and the number of ballots involved, emphasizing the scale of the issue. Both outlets report on the same legal action but offer slightly different angles on its implications.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "DOJ asks for Supreme Court to intervene on California ballot demands",
+     "title_en": "DOJ asks for Supreme Court to intervene on California ballot demands",
+     "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "DOJ appeals to Supreme Court to reverse block on segregating 20K California ballots",
+     "title_en": "DOJ appeals to Supreme Court to reverse block on segregating 20K California ballots",
+     "url": "https://www.foxnews.com/politics/doj-appeals-supreme-court-reverse-block-segregating-20k-california-ballots",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-02",
+   "title": "A Test for Trump as Voting Approaches in the U.S.",
+   "sum": "Voting is set to take place in the United States tomorrow, posing a significant test for Trump. Three key factors are expected to influence the outcome.",
+   "more": "The article highlights the political environment leading up to the election, mentioning the importance of public sentiment and voter turnout. There is an implication that Trump\u2019s political future may be at stake based on the election results. Different outlets may emphasize varying aspects of these factors, such as economic conditions or social issues, affecting their framing of Trump\u2019s challenge.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Una prueba para Trump. Ma\u00f1ana se vota en Estados Unidos y hay tres factores que definir\u00e1n el resultado",
+     "title_en": "A Test for Trump as Voting Approaches in the U.S.",
+     "url": "https://www.lanacion.com.ar/el-mundo/una-prueba-para-trump-manana-hay-elecciones-en-estados-unidos-y-hay-tres-factores-que-definiran-el-nid02112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-02",
+   "title": "UN Warns About Drug Trafficking in Bolivia",
+   "sum": "The United Nations has issued a warning regarding drug trafficking in Bolivia. This alert highlights concerns about the growing influence of narcotics in the country.",
+   "more": "The report emphasizes the need for effective measures to tackle the increasing problem of drug trafficking in Bolivia. Different outlets may focus on various aspects of the UN's warning, including the impact on local communities and potential international responses. While some may discuss the historical context of drug production in Bolivia, others might highlight the urgency of international cooperation in addressing the issue.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Bolivia: la ONU advierte sobre el narcotr\u00e1fico",
+     "title_en": "Bolivia: UN Warns About Drug Trafficking",
+     "url": "https://www.lanacion.com.ar/editoriales/bolivia-la-onu-advierte-sobre-el-narcotrafico-nid02112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-02",
+   "title": "Senator Chris Murphy Anticipated to Fully Recover After Stroke",
+   "sum": "Senator Chris Murphy from Connecticut is expected to make a full recovery following a stroke. He had been actively campaigning for the Democratic candidates in the midterm election.",
+   "more": "The article emphasizes Murphy's dedication to campaigning and the implications of his health on the midterm elections. There are no significant differences in framing noted among various outlets regarding his expected recovery and political activities. Overall, the coverage focuses on both his health and his role in supporting Democratic candidates.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Senator Chris Murphy expected to make full recovery after stroke",
+     "title_en": "Senator Chris Murphy expected to make full recovery after stroke",
+     "url": "https://www.bbc.co.uk/news/articles/cw78pyy73d4xo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-02",
+   "title": "Buckingham Palace Clarifies King's Role Amid Slavery Apology Debate",
+   "sum": "Buckingham Palace has stated that the King serves a unifying role within the Commonwealth and does not engage in policy making. This clarification comes in the context of discussions surrounding an apology related to slavery.",
+   "more": "The palace's statement emphasizes that the King's responsibilities are ceremonial and symbolic rather than political. This response aims to address any misunderstandings about his influence on policy decisions. While various media outlets report on the royal family's stance, the focus remains on the King\u2019s role rather than the content of the apology itself.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "King's role is not policy making, says Palace in slavery apology row",
+     "title_en": "King's role is not policy making, says Palace in slavery apology row",
+     "url": "https://www.bbc.co.uk/news/articles/cm5ynve7q1zdo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-02",
+   "title": "High Court Questions Legality of IAU's Decision to Dissolve Madrasa Governing Bodies",
+   "sum": "The High Court is examining the legality of a decision made by the Islamic Arabic University (IAU) to dissolve the governing bodies of madrasas. This judicial scrutiny raises concerns about administrative actions taken by educational institutions.",
+   "more": "Different outlets may frame this development with a focus on either the implications for religious education or the broader legal context of administrative governance in educational institutions. Some might emphasize the potential impact on madrasa operations, while others could highlight the judicial authority in overseeing educational regulations. Overall, it reflects ongoing tensions between educational governance and legal oversight.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "HC questions legality of IAU move to dissolve madrasa governing bodies",
+     "title_en": "HC questions legality of IAU move to dissolve madrasa governing bodies",
+     "url": "https://www.thedailystar.net/news/governance/news/hc-questions-legality-iau-move-dissolve-madrasa-governing-bodies-4313586",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-02",
+   "title": "Israeli Officials Stand by Election Results Amid Netanyahu's Claims of Theft",
+   "sum": "Israeli officials maintain that the results of the election are valid despite Prime Minister Netanyahu's assertions of a stolen election. The election body emphasizes that the deadlocked outcome would remain unaffected even if allegations of foreign interference prove true.",
+   "more": "The framing of the situation varies among media outlets, with some focusing on Netanyahu's claims of election theft, while others highlight the election body's commitment to upholding the legitimacy of the results. The emphasis on foreign interference allegations suggests a potential broader conversation about election integrity. Overall, the narrative illustrates a contentious political atmosphere, reflecting deep divisions regarding trust in the electoral process.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
+     "title_en": "Israeli officials say results stand as Netanyahu claims election \u2018stolen\u2019",
+     "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-02",
+   "title": "Arab Parties Support Eisenkot Amid Ongoing Coalition Talks in Israel",
+   "sum": "Political negotiations in Israel continue as various parties consider their options. Arab parties have expressed support for Eisenkot amidst these discussions.",
+   "more": "The current coalition talks are complex, involving multiple political blocs and differing strategies for achieving power. Arab parties' backing for Eisenkot adds a noteworthy dynamic to the negotiations. While Al Jazeera presents this as a significant development in the talks, it doesn't detail the specific potential paths described by other sources, which may highlight different factions' responses to this support.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Arab parties back Eisenkot: What\u2019s the latest in Israel\u2019s coalition talks?",
+     "title_en": "Arab parties back Eisenkot: What\u2019s the latest in Israel\u2019s coalition talks?",
+     "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-02",
+   "title": "France Investigates Attempted Murder After Petrol Bomb Attacks on Police",
+   "sum": "An investigation into attempted murder has been launched in France following petrol bomb attacks on police during recent protests. This marks the third consecutive weekend of unrest in various cities.",
+   "more": "Despite the serious nature of the incidents, no arrests have been made specifically for the petrol bomb attacks according to Al Jazeera. Meanwhile, BBC News reports that hundreds of arrests occurred as protests continued throughout France. Officers described severe injuries from the attacks, with one stating the sensation of having 'skin that stings' after being set alight. Overall, coverage reflects a significant concern about escalating violence against law enforcement during these protests.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "title_en": "France launches attempted murder investigation after petrol bomb thrown at police.",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France opens \u2018attempted murder\u2019 probe into petrol bomb attacks on police",
+     "title_en": "France opens \u2018attempted murder\u2019 probe into petrol bomb attacks on police.",
+     "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "title_en": "France opens 'attempted murder' probe after riot police attacked with petrol bomb.",
+     "url": "https://www.abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-02",
+   "title": "Europe Experiences New Incidents of Grocery Store Freezer Hacks",
+   "sum": "Multiple grocery stores across Europe are facing issues with their refrigeration systems due to suspected cyberattacks. This follows a previous cyberattack in France that led to significant food waste.",
+   "more": "The recent hacking incidents have caused temperatures in some fridge and freezer units to rise above 100 degrees Fahrenheit, impacting perishable inventory. Notably, the timing of these attacks is significant as they come shortly after a similar event in France that had major repercussions for local supermarkets. While both outlets report on the broader impact on grocery chains, CBS News highlights the specific temperature rise, suggesting a more immediate operational concern resulting from these hacks.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Europe hit by another wave of grocery store freezer hacks",
+     "title_en": "Europe hit by another wave of grocery store freezer hacks",
+     "url": "https://www.businessinsider.com/freezer-hack-europe-grocery-stores-belgium-sweden-supermarkets-france-cyberattack-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "More European grocery stores hit by apparent fridge-freezer hacks",
+     "title_en": "More European grocery stores hit by apparent fridge-freezer hacks",
+     "url": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-02",
+   "title": "Cyberattacks Target European Grocery Store Freezers",
+   "sum": "European grocery chains have reported cyberattacks affecting their frozen food storage systems. These incidents raised concerns about food spoilage due to altered temperature settings.",
+   "more": "Media reports suggest that the temperature of freezers in Belgium, Sweden, and Luxembourg was increased, leading to fears of a coordinated cyberattack reminiscent of similar events in France. The incident highlights vulnerabilities in the supply chain of food storage and distribution. Notably, different outlets emphasize the geographic spread of the attacks and the potential implications for food safety.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "European grocery chains' freezers, refrigerators targeted in apparent cyberattacks",
+     "title_en": "European grocery chains' freezers, refrigerators targeted in apparent cyberattacks. Temperature settings were increased, resulting in food spoilage, companies said.",
+     "url": "https://abcnews.com/International/european-grocery-chains-freezers-refrigerators-targeted-apparent-cyberattacks/story?id=137769974",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Rt-english.com",
+     "title": "European supermarket freezers hit by suspected cyberattack \u2013 media",
+     "title_en": "European supermarket freezers hit by suspected cyberattack \u2013 media. Store freezers in Belgium, Sweden and Luxembourg overheated sparking fears of a cyberattack similar to those recently occurred in France.",
+     "url": "https://rt-english.com/news/648235-european-supermarket-freezers-cyber-attack/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-02",
+   "title": "New Wave of Cyberattacks on Supermarket Refrigeration Systems in Europe",
+   "sum": "A second wave of cyberattacks targeting refrigeration systems in European supermarkets has emerged, affecting Belgium, Luxembourg, Sweden, and Estonia. These attacks have led to significant food spoilage due to elevated temperatures in refrigeration units.",
+   "more": "The latest cyberattacks come just three weeks after similar incidents occurred in French supermarkets, raising concerns about the security of food supply chains across the continent. The framing differs between outlets, with one emphasizing the geographic spread of the attacks while the other highlights the direct impact on food losses. Both sources agree on the urgency of addressing these vulnerabilities in supermarket systems.",
+   "coverage": [
+    {
+     "outlet": "Help Net Security",
+     "title": "Second wave of refrigeration cyberattacks hits European supermarkets",
+     "title_en": "Second wave of refrigeration cyberattacks hits European supermarkets.",
+     "url": "https://www.helpnetsecurity.com/2026/11/02/european-supermarkets-refrigeration-units-cyberattacks/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Securityaffairs.com",
+     "title": "New wave of fridge cyberattacks hits European supermarkets, this time in Belgium, Luxembourg, Sweden and Estonia",
+     "title_en": "New wave of fridge cyberattacks hits European supermarkets, this time in Belgium, Luxembourg, Sweden and Estonia.",
+     "url": "https://securityaffairs.com/202260/security/another-fridge-cyberattack-hits-european-supermarkets-this-time-in-belgium-luxembourg-sweden-and-estonia.html",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-02",
+   "title": "Father of Pengo Bossio Wangi Hopes for Awareness After National Tribute to Racist Attack Victims",
+   "sum": "The father of Pengo Bossio Wangi expressed hopes for increased awareness regarding racism following a national tribute announced by the government for the victims of a recent racist attack in Trappes. The exact date for this tribute has yet to be confirmed.",
+   "more": "Bolema Bossio Wangi emotionally addressed the media, advocating for the national tribute to not only honor the victims but also to serve as a wake-up call about racism in society. Both articles highlight the father's desire for a societal shift following this tragedy. While 20 Minutes focuses on the announcement of the tribute, Le HuffPost emphasizes the emotional appeal made by the father in his plea for awareness.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Attentat raciste \u00e0 Trappes\u00a0: Le p\u00e8re de Pengo Bossio Wangi esp\u00e8re une \u00ab\u00a0prise de conscience\u00a0\u00bb apr\u00e8s l\u2019hommage national",
+     "title_en": "Racist Attack in Trappes: Father of Pengo Bossio Wangi Hopes for Awareness After National Tribute",
+     "url": "https://www.20minutes.fr/societe/4259684-20261102-attentat-raciste-trappes-pere-pengo-bossio-wangi-espere-prise-conscience-apres-hommage-national",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Attentat raciste \u00e0 Trappes\u00a0: le message fort du p\u00e8re de Pengo Bossio Wangi, tu\u00e9 lors de la fusillade",
+     "title_en": "Racist Attack in Trappes: The Strong Message from the Father of Pengo Bossio Wangi, Killed in the Shooting",
+     "url": "https://www.huffingtonpost.fr/france/video/attentat-raciste-a-trappes-le-message-fort-du-pere-de-pengo-bossio-wangi-tue-lors-de-la-fusillade_350561.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-02",
+   "title": "France Initiates Attempted Murder Investigation Following Petrol Bomb Incident",
+   "sum": "An investigation for attempted murder has been launched in France after a petrol bomb was thrown at police. This incident occurred amidst widespread protests, leading to hundreds of arrests across various cities.",
+   "more": "The BBC highlights the investigation's initiation following the petrol bomb attack amid ongoing protests for the third consecutive weekend. ABC News focuses on the personal impact on officers, detailing the physical injuries caused by the attack. While both outlets report on the violent incidents, the framing differs as BBC emphasizes the scale of protests and arrests, whereas ABC News prioritizes the individual experiences of law enforcement.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "title_en": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "title_en": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "url": "https://www.abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-02",
+   "title": "Candidates Intensify Campaigning Before US Midterms",
+   "sum": "As midterm elections approach, candidates from both parties are making their final campaign efforts. Early voting has seen a significant increase across the United States.",
+   "more": "Al Jazeera emphasizes the competitive nature of the congressional race, highlighting the urgency of rallies by Trump and other candidates. In contrast, RTE focuses on the surge in early voting, suggesting heightened engagement among voters compared to past elections. Together, they illustrate a dynamic electoral atmosphere with both campaign strategies and voter participation at the forefront.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Trump, Vance and candidates make final push before US midterms",
+     "title_en": "Trump, Vance and candidates make final push before US midterms",
+     "url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Surge in early voting as candidates make final push in US",
+     "title_en": "Surge in early voting as candidates make final push in US",
+     "url": "https://www.rte.ie/news/us/2026/1102/1597577-senate-race/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

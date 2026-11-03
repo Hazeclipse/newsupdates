@@ -1,6 +1,6 @@
 {
  "date": "2026-11-01",
- "updated": "Nov 02, 20:35 UTC",
+ "updated": "Nov 03, 18:09 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -578,6 +578,303 @@
      "url": "https://www.motorsport.com/motogp/news/motogp-riders-step-up-pressure-in-final-bid-to-avoid-qatar-grand-prix/10870458/",
      "bias": null,
      "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-01",
+   "title": "Top Travel Mugs of 2026: Insulated and Self-Heating Options",
+   "sum": "The article presents a selection of the best travel mugs for 2026, emphasizing features like insulation, leakproof designs, and self-heating capabilities. Brands highlighted include Ember, Owala, and Hydro Flask.",
+   "more": "These travel mugs are designed for durability and efficiency, ensuring beverages remain hot throughout the day. The focus is on convenience and quality, aiming to enhance the morning routine. The essential features mentioned are particularly appealing for those seeking reliable drinkware for travel. Different brands are showcased, each with unique selling points.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+     "title_en": "7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating",
+     "url": "https://www.wired.com/story/the-best-travel-mugs/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-01",
+   "title": "Gen Z Republicans Prepare for Congressional Elections",
+   "sum": "Young conservatives are aiming to influence the future of the GOP amidst a challenging election landscape. They are aspiring to be part of the first generation of Gen Z Republicans in Congress.",
+   "more": "On the eve of key elections, these candidates are focused on addressing issues that resonate with their peers, potentially reshaping the party's image and policies. This push by younger Republicans may contrast with the traditional views held by older party members. As they navigate this landscape, their strategies could significantly impact the GOP's future direction.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+     "title_en": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+     "url": "https://www.npr.org/2026/11/01/nx-s1-5946869/midterm-elections-gen-z-republicans",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-01",
+   "title": "Differences Between Democrats and Republicans in the US",
+   "sum": "Democrats and Republicans have key differences regarding economics, immigration, and the role of the state. The rise in independent candidates in US politics may be explained by these differences.",
+   "more": "The article discusses the fundamental distinctions between the two major parties in America and the reasons behind the increasing presence of independent candidates. It underscores how discontent with the traditional political structure may drive voters toward non-party-affiliated candidates. Additionally, varying perspectives on the political landscape may influence how different outlets frame the rise of independents, as some might highlight dissatisfaction with party politics while others focus on policy disagreements.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Cu\u00e1l es la diferencia entre dem\u00f3cratas y republicanos y por qu\u00e9 cada vez hay m\u00e1s candidatos independientes en USA",
+     "title_en": "What is the difference between Democrats and Republicans and why are there more independent candidates in the USA?",
+     "url": "https://www.lanacion.com.ar/estados-unidos/washington/cual-es-la-diferencia-entre-democratas-y-republicanos-y-por-que-cada-vez-hay-mas-candidatos-nid01112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-01",
+   "title": "Politics Intersected by Faith as the Pope Arrives",
+   "sum": "The arrival of the Pope has significantly influenced the political dynamics. Different sectors are harboring various expectations and responses amidst widespread speculation.",
+   "more": "The article discusses how the Pope's visit has impacted political sentiments, with various groups expressing distinct interpretations and concerns. Speculations surrounding this visit reflect the multifaceted role of faith in shaping political landscapes. While some sectors view the arrival positively, others may have reservations rooted in differing political ideologies.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "La pol\u00edtica, atravesada por la fe",
+     "title_en": "Politics Intersected by Faith as the Pope Arrives",
+     "url": "https://www.lanacion.com.ar/politica/la-politica-atravesada-por-la-fe-nid01112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-01",
+   "title": "Minister Mahiques Promotes Judge's Ascension, Potential Vacancy at Comodoro Py",
+   "sum": "Minister Mahiques is advocating for the advancement of Judge Daniel Rafecas, which may lead to a new vacancy in Comodoro Py. Rafecas' nomination is now moving toward the Senate.",
+   "more": "If confirmed, Rafecas could become a chamber magistrate at the Buenos Aires Court of Cassation, creating a strategic gap in the Retiro courts. This situation could impact ongoing cases that fall under his jurisdiction. Attention is drawn to how this change may influence the judicial landscape in the region.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El ministro Mahiques impulsa el ascenso de un juez y se podr\u00eda abrir una nueva vacante en Comodoro Py",
+     "title_en": "Minister Mahiques Promotes Judge's Ascension, Potential Vacancy at Comodoro Py",
+     "url": "https://www.lanacion.com.ar/politica/el-ministro-mahiques-impulsa-el-ascenso-de-un-juez-y-se-podria-abrir-una-nueva-vacante-en-comodoro-nid01112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-01",
+   "title": "Judge Dismisses Trump's Lawsuit Against Wall Street Journal",
+   "sum": "A judge has dismissed Donald Trump's lawsuit against the Wall Street Journal regarding a birthday book tied to Jeffrey Epstein. Trump had alleged that the publication of a letter to Epstein, which he purportedly wrote and signed, was defamatory.",
+   "more": "The lawsuit centered around a letter that Trump purportedly composed for Epstein's birthday book, which the Wall Street Journal published. Trump's legal team sought damages claiming that the article harmed his reputation. The judge's dismissal indicates a legal setback for Trump in his attempts to control the narrative surrounding his past associations.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "title_en": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-01",
+   "title": "Nine Killed in Florida Jet Crash",
+   "sum": "A jet crash in Florida has resulted in the deaths of nine individuals. The Transportation Secretary has called it a horrific tragedy.",
+   "more": "The crash occurred nine miles from President Trump's Mar-a-Lago resort, which has drawn particular attention to the incident. Authorities have not yet released details about the victims or the cause of the crash. The language used by Transport Secretary Sean Duffy suggests a significant impact on the local community and raises questions about aviation safety in the area.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Nine killed in 'horrific' Florida jet crash",
+     "title_en": "Nine killed in 'horrific' Florida jet crash",
+     "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-01",
+   "title": "Bulgaria's Presidential Run-off Voting Amid Economic Challenges",
+   "sum": "Bulgarians participated in a presidential run-off election, with Iliana Iotova polling as the frontrunner. If confirmed, she would be the first elected female president of Bulgaria.",
+   "more": "The election comes during a time of heightened tensions in the Black Sea and significant economic uncertainty. Record low voter turnout was noted, indicating potential public disengagement in the electoral process. Al Jazeera emphasized both Iotova's historic potential and the broader context of economic and geopolitical concerns affecting the voters.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Bulgaria\u2019s acting President Iotova leads in run-off exit polls",
+     "title_en": "Bulgaria\u2019s acting President Iotova leads in run-off exit polls.",
+     "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-01",
+   "title": "Portuguese Police Crack Down on Housing Protests in Lisbon and Porto",
+   "sum": "Portuguese police have forcibly dismantled housing protest camps in Lisbon and Porto, leading to multiple arrests. The situation has prompted political responses, including calls for government explanations.",
+   "more": "In the early hours, police moved in on demonstrators who had set up tents in public squares, an action reminiscent of a previous operation. Thirteen individuals were detained during this enforcement, and several were reported injured. The President of Portugal has requested an official explanation from the government regarding the police response to these ongoing housing protests. While some outlets highlight the violent nature of the police intervention, others focus on the political implications and debates it has ignited within the government.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "La polic\u00eda portuguesa no da tregua a las acampadas por la vivienda en Lisboa y Oporto",
+     "title_en": "Portuguese police show no mercy to housing protests in Lisbon and Porto.",
+     "url": "https://www.abc.es/internacional/policia-portuguesa-tregua-acampadas-vivienda-lisboa-oporto-20261101103547-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elconfidencial.com",
+     "title": "La polic\u00eda portuguesa desaloja acampadas por la vivienda con trece detenidos y varios heridos",
+     "title_en": "Portuguese police clear housing protests with thirteen arrested and several injured.",
+     "url": "https://www.elconfidencial.com/mundo/2026-11-01/la-policia-portuguesa-desaloja-acampadas-por-la-vivienda_4457103/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "El Mundo",
+     "title": "La Polic\u00eda portuguesa desmantela campamentos de protesta por la vivienda y detiene a 13 personas",
+     "title_en": "Portuguese police dismantle housing protest camps and detain 13 people.",
+     "url": "https://www.elmundo.es/internacional/2026/11/01/6ae71ad3e9cf4a14048b4584.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Un tribunal portugu\u00e9s autoriza la presencia de tiendas de campa\u00f1a de la acampada por la vivienda de Lisboa",
+     "title_en": "A Portuguese court authorizes the presence of tents in the Lisbon housing protest camp.",
+     "url": "https://www.europapress.es/internacional/noticia-tribunal-portugues-autoriza-presencia-tiendas-campana-acampada-vivienda-lisboa-20261102175904.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-01",
+   "title": "Over 100 Police Injured and 54 Arrested During Youth Protests in Frankfurt, Germany",
+   "sum": "Mass protests demanding social improvements took place in over 30 cities in Germany, leading to significant police injuries and property damage. Authorities reported that there were violent clashes involving a large number of protesters.",
+   "more": "The incidents in Frankfurt saw over 100 police officers injured, along with 54 arrests, according to reports from local authorities. The protests, which occurred across multiple cities, were characterized by clashes resulting in damage to at least 17 establishments, five of which were looted. Notably, some reports emphasized the background of the protesters, describing a substantial number as being of migrant origin, hinting at potential underlying social tensions. However, the overall framing among various outlets remains focused on the injuries to law enforcement and the scale of the protests.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "M\u00e1s de 100 polic\u00edas heridos y 54 detenidos tras disturbios durante protestas juveniles en Fr\u00e1ncfort, Alemania",
+     "title_en": "Over 100 police injured and 54 arrested after riots during youth protests in Frankfurt, Germany.",
+     "url": "https://www.latercera.com/mundo/noticia/mas-de-100-policias-heridos-y-54-detenidos-tras-disturbios-durante-protestas-juveniles-en-francfort-alemania/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "M\u00e1s de 100 polic\u00edas heridos y 54 detenidos en los disturbios de Frankfurt",
+     "title_en": "Over 100 police injured and 54 arrested in Frankfurt riots.",
+     "url": "https://www.europapress.es/internacional/noticia-mas-100-policias-heridos-54-detenidos-disturbios-frankfurt-20261101171347.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "M\u00e1s de 100 agentes de polic\u00eda resultan heridos en violentos disturbios en Fr\u00e1ncfort",
+     "title_en": "More than 100 police officers injured in violent riots in Frankfurt.",
+     "url": "https://www.dw.com/es/m%C3%A1s-de-100-agentes-de-polic%C3%ADa-resultan-heridos-en-violentos-disturbios-en-fr%C3%A1ncfort/a-79823376",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "Trump Campaigns in Key States Ahead of Midterm Elections",
+   "sum": "President Trump's Republican party is gaining momentum ahead of the midterm elections, particularly in Michigan due to a prominent Democratic endorsement. The upcoming elections are seen as crucial for Senate control.",
+   "more": "With just two days until the elections, Trump is focusing his campaign efforts in Iowa and Kansas, indicating the importance of these states for Republican strategies. The framing of the elections varies, as Democrats and some Republicans view it as a direct referendum on Trump's policies. This contrast in perspectives highlights the contentious political climate leading up to the elections.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Trump heads to Iowa and Kansas with Senate control in balance",
+     "title_en": "Trump heads to Iowa and Kansas with Senate control in balance",
+     "url": "https://www.yahoo.com/news/articles/trump-heads-iowa-kansas-rallies-110258414.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Trump heads to Iowa, Kansas with Senate control in balance",
+     "title_en": "Trump heads to Iowa, Kansas with Senate control in balance",
+     "url": "https://www.channelnewsasia.com/world/trump-heads-iowa-kansas-senate-control-in-balance-6510766",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "Democrat Endorses Republican in Michigan Senate Race",
+   "sum": "Haley Stevens, a former congresswoman, has endorsed Republican candidate Mike Rogers in a competitive Michigan Senate race. This unexpected endorsement comes just days before the crucial vote.",
+   "more": "Stevens previously lost the Democratic nomination to Abdul El-Sayed, making her endorsement particularly significant in the context of party tensions. The backing of Rogers could provide a valuable advantage to the Republican party in a race that is pivotal for control of Congress. Both articles highlight a notable shift in party loyalty, with BBC News focusing on the escalation of party disputes while RTE emphasizes the implications for the upcoming midterm elections.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "title_en": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Michigan Democrat backs Republican in key US senate race",
+     "title_en": "Michigan Democrat backs Republican in key US senate race",
+     "url": "https://www.rte.ie/news/2026/1102/1597577-senate-race/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-01",
+   "title": "Haley Stevens Endorses Republican Mike Rogers, Dividing Democrats",
+   "sum": "Democratic Rep. Haley Stevens has publicly endorsed Republican Mike Rogers for the US Senate in Michigan. This endorsement comes amid a contentious rivalry with Democratic nominee Abdul El-Sayed.",
+   "more": "The endorsement is seen as a significant defection from Stevens, who was expected to support her party's candidate. This move could impact voter sentiment and the dynamics of the upcoming elections. Different outlets may emphasize the dramatic nature of the endorsement and its potential consequences for party unity.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+     "title_en": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+     "url": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Israelnationalnews.com",
+     "title": "Haley stevens breaks with El-Sayed, endorses Republican Mike Rogers",
+     "title_en": "Haley Stevens breaks with El-Sayed, endorses Republican Mike Rogers.",
+     "url": "https://www.israelnationalnews.com/news/435484",
+     "bias": "Right",
+     "src": "ai"
     }
    ]
   }
