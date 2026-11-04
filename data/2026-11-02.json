@@ -1,6 +1,6 @@
 {
  "date": "2026-11-02",
- "updated": "Nov 03, 18:09 UTC",
+ "updated": "Nov 04, 18:21 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -432,6 +432,363 @@
      "title": "Surge in early voting as candidates make final push in US",
      "title_en": "Surge in early voting as candidates make final push in US",
      "url": "https://www.rte.ie/news/us/2026/1102/1597577-senate-race/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-02",
+   "title": "Upcoming Apple Developments and AI's Role in Elections",
+   "sum": "Apple has several product launches and updates planned through the end of 2026. Meanwhile, AI is influencing the ongoing elections, which could reshape the political landscape.",
+   "more": "MacRumors highlights Apple's upcoming hardware releases and software updates, emphasizing that their busy season is not yet over. Business Insider discusses the political implications of the elections, noting that while AI is not directly on the ballot, the election outcomes may reflect the public's sentiment towards AI technologies. Both articles suggest significant developments in their respective fields, but they focus on different aspects\u2014Apple on technological advancements and Business Insider on political dynamics related to AI.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Isn't Done With 2026: Here's What's Still Coming",
+     "title_en": "Apple Isn't Done With 2026: Here's What's Still Coming",
+     "url": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "AI isn't on the ballot, but it's still being tested",
+     "title_en": "AI isn't on the ballot, but it's still being tested",
+     "url": "https://www.businessinsider.com/ai-isnt-on-ballot-still-being-tested-bi-today-newsletter-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-02",
+   "title": "Upcoming Dyson Vacuum Sales Ahead of Black Friday 2026",
+   "sum": "While Black Friday is still weeks away, significant sales on Dyson vacuums are already available. Deals include popular models like the Dyson Spot+Scrub Ai and Dyson V16 Piston Animal.",
+   "more": "Wired highlights that consumers do not need to wait for Black Friday to take advantage of discounts on Dyson vacuums. The article suggests various models that are part of current promotions, indicating early shopping opportunities. The focus appears to be on technology and timing in securing deals, reflecting a proactive consumer approach.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+     "title_en": "Best Dyson Vacuum Deals (2026)",
+     "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-02",
+   "title": "Google Dismantles Botnet Built from 1.3 Million Set-Top Boxes",
+   "sum": "Google has revealed that one of its Android manufacturing partners created a backdoor in 1.3 million set-top boxes, turning them into a botnet. The company has since dismantled the backdoor and severed ties with the offending manufacturer.",
+   "more": "The devices in question were manufactured by Videostro, a company based in Shenzhen, China. Google\u2019s action reflects its commitment to maintaining the security of its Android ecosystem and protecting users from potential exploitation. Different outlets may emphasize various aspects of the incident, such as the implications for security in IoT devices or the importance of manufacturer accountability in the production of technology.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
+     "title_en": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet.",
+     "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Prosecutors Indicate Potential Retrial for Lindsay Clancy",
+   "sum": "Prosecutors have suggested that a retrial for Lindsay Clancy may occur regarding the deaths of her three children. A judge indicated that if the case returns to court, it could be as early as March 2027.",
+   "more": "During a recent hearing, prosecutors confirmed their intention to retry Clancy if the case moves forward. This statement was made by prosecutors across different outlets, although the emphasis on the timeline varies. The BBC highlights the potential March 2027 retrial date stated by Judge William Sullivan, while Rolling Stone focuses on the confirmation from prosecutors about moving forward with the case.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+     "title_en": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+     "url": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Prosecutors Intend to Retry Lindsay Clancy for Deaths of Her Three Children",
+     "title_en": "Prosecutors intend to retry Lindsay Clancy for deaths of her three children",
+     "url": "http://www.rollingstone.com/culture/culture-news/prosecutors-retry-lindsay-clancy-children-deaths-1235651424/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Judge Dismisses Complaint Against Former FBI Officials in Hunter Biden Case",
+   "sum": "A federal judge has dismissed a complaint against two ex-FBI officials accused of lying to Congress regarding the Hunter Biden investigation. The judge characterized the investigation that led to the charges as rushed and politically motivated.",
+   "more": "Both articles report on the same legal decision regarding the FBI officials' alleged misconduct in the Hunter Biden case. Yahoo Entertainment emphasizes the judge's views on the investigation being politically charged, while Al Jazeera English also highlights the dismissal of charges without additional details. The framing of the story remains consistent across both outlets, focusing on the judicial dismissal of the allegations.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Judge dismisses complaint against ex-FBI officials accused of lying about Hunter Biden",
+     "title_en": "Judge dismisses complaint against ex-FBI officials accused of lying about Hunter Biden",
+     "url": "https://www.yahoo.com/news/politics/articles/judge-dismisses-complaint-against-2-153427170.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
+     "title_en": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
+     "url": "https://www.aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Trump Administration Appeals to Supreme Court Over California Mail Ballots",
+   "sum": "The Trump administration has requested the Supreme Court to set aside 20,000 mail-in ballots in California, citing concerns over noncitizen voters. This appeal follows previous rejections from a federal appeals court.",
+   "more": "Al Jazeera highlights California's response, indicating that blocking these ballots could disenfranchise eligible voters. The framing from Yahoo Entertainment focuses on the Trump administration's legal maneuvers, while Al Jazeera emphasizes the potential impact on voter disenfranchisement. The contrasting perspectives illustrate the tension between election integrity concerns and the rights of eligible voters.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Trump admin. appeals to Supreme Court to sideline 20,000 mail ballots in California",
+     "title_en": "Trump admin. appeals to Supreme Court to sideline 20,000 mail ballots in California.",
+     "url": "https://www.yahoo.com/news/politics/article/doj-appeals-to-supreme-court-to-set-aside-20000-california-ballots-from-suspected-noncitizens-heres-what-to-know-192102635.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+     "title_en": "Trump asks Supreme Court to block 20,000 California ballots before midterms.",
+     "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-02",
+   "title": "Google Dismantles Botnet Linked to Android Partner",
+   "sum": "Google has reported that a partner in its Android manufacturing network created a backdoor in 1.3 million set-top boxes, converting them into a botnet. The company has since dismantled the backdoor and severed ties with the manufacturer Videostro.",
+   "more": "The incident highlights ongoing security concerns in the Android ecosystem, particularly regarding manufacturing integrity. Google acted swiftly to address the breach and mitigate potential risks associated with the compromised devices. Different outlets may emphasize the implications for user privacy and security in varying degrees.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet",
+     "title_en": "One of Google\u2019s Android partners turned 1.3 million set-top boxes into a botnet.",
+     "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-02",
+   "title": "Morning News Brief",
+   "sum": "Democratic Rep. Haley Stevens has endorsed a GOP candidate in a Michigan race as key races remain competitive on the eve of the midterm election. Gulf states are expressing concerns about a potential U.S. attack on Iran.",
+   "more": "The endorsement by Rep. Stevens highlights unusual bipartisan support in a typically partisan environment, with the Michigan race attracting significant attention. As the midterm election approaches, many races in the U.S. are closely contested, indicating a highly competitive electoral landscape. Gulf states are reportedly anxious about U.S. military actions against Iran, which could escalate tensions in the region.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Morning news brief",
+     "title_en": "Democratic Rep. Haley Stevens endorses GOP candidate in Michigan race",
+     "url": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-02",
+   "title": "Exploring the Potential of mRNA Vaccines for Cancer Treatment",
+   "sum": "Recent advances in mRNA technology have sparked hope for a potential cancer vaccine. Researchers are optimistic that these developments could benefit many patients facing lethal forms of cancer.",
+   "more": "The article highlights the long-standing pursuit of an effective cancer vaccine and notes how recent breakthroughs with mRNA technology have caught the attention of various stakeholders, including patients and investors. While excitement is palpable, the challenges of proving efficacy and safety remain. Different media outlets may focus on varying aspects, such as the emotional narratives of patients or the scientific potential, leading to different interpretations of the technology's impact.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
+     "title_en": "This woman defied lethal cancer. Can mRNA vaccines make that possible for others?",
+     "url": "https://www.npr.org/2026/11/02/nx-s1-6009085/mrna-cancer-vaccine-pancreatic-skin",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-02",
+   "title": "New Traffic Connection Opens in River and University City Area",
+   "sum": "A new road connection has been opened, significantly changing traffic flow in the River and University City region. The ramp allows crossing from Cantilo to the Innovation Park and access to Lugones from University City, benefiting over 350,000 users.",
+   "more": "The project aims to improve accessibility and reduce congestion in a busy area. Local authorities expect the new connection to enhance mobility for residents and commuters alike. Different media outlets highlight varying aspects of the project's potential impact on traffic and urban development, with some focusing more on the benefits to the local economy.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Puente Labruna: abren una nueva conexi\u00f3n vial y cambia la forma de circular en la zona de River y la Ciudad Universitaria",
+     "title_en": "Puente Labruna: a new road connection opens and changes traffic in the River area and University City.",
+     "url": "https://www.lanacion.com.ar/sociedad/puente-labruna-abren-una-nueva-conexion-vial-y-cambia-la-forma-de-circular-en-la-zona-de-river-y-la-nid02112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-02",
+   "title": "Pope Leo XIV's Visit to Argentina: What You Need to Know",
+   "sum": "Pope Leo XIV will arrive in Argentina on Sunday, November 8, and will leave on Wednesday, November 11. The article outlines the events and activities scheduled during his visit.",
+   "more": "The article provides a detailed agenda, including public holidays and scheduled masses. It serves as a guide for those interested in participating in the Pope's events. While specific dates and times are emphasized, there is little indication of public sentiment or reaction to the visit across different outlets.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Visita del papa Le\u00f3n XIV a la Argentina: feriados, agenda, cronograma, misas y todo lo que hay que saber",
+     "title_en": "Visit of Pope Leo XIV to Argentina: Holidays, Agenda, Schedule, Masses and Everything You Need to Know",
+     "url": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-a-la-argentina-feriados-agenda-cronograma-misas-y-todo-lo-que-hay-que-saber-nid02112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-02",
+   "title": "Legal Challenge to Australia's Social Media Ban Begins in High Court",
+   "sum": "A rights group is set to challenge Australia's social media ban in the High Court, claiming it infringes on the rights of individuals under 16. The policy is described as world-leading.",
+   "more": "The rights group argues that the ban unfairly restricts free communication for young people, which could have implications for their development and social interactions. This legal challenge is anticipated to draw significant attention due to the unique nature of the policy. While the BBC focuses on the implications for free communication, other outlets may emphasize the government's intent behind the legislation or the reactions of various stakeholders.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Legal challenge to Australia's social media ban to start in High Court",
+     "title_en": "Legal challenge to Australia's social media ban to start in High Court",
+     "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-02",
+   "title": "Analyzing Israel's Political Deadlock Post-Election",
+   "sum": "Knesset member Ofer Cassif discusses the ongoing political deadlock in Israel, attributing it to the 'politics of exclusion'. The conversation raises questions about the future direction of Israeli politics.",
+   "more": "Cassif's remarks highlight the need for a more inclusive political approach to break the current impasse. Different media outlets may frame the issue of political exclusion from various perspectives, emphasizing either the consequences for governance or the implications for social cohesion. The emphasis on the 'politics of exclusion' suggests a critical view of the current political landscape, potentially inviting discussions on the need for reform.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "After Israel\u2019s election: What\u2019s next?",
+     "title_en": "After Israel\u2019s election: What\u2019s next?",
+     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-02",
+   "title": "HRW Urges Zambia to Stop Post-Election Repression",
+   "sum": "Human Rights Watch has called on Zambia to cease its crackdown following the recent elections. There have been reports of opposition figures being arrested and going missing since President Hakainde Hichilema's victory in August.",
+   "more": "The article highlights the ongoing concerns regarding the treatment of opposition members in Zambia after the election. It emphasizes the need for the government to respect democratic processes and human rights. Different outlets may frame the issue by focusing on the implications for Zambian democracy or the international community's response to these developments.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "HRW calls on Zambia to halt post-election crackdown",
+     "title_en": "HRW calls on Zambia to halt post-election crackdown",
+     "url": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-02",
+   "title": "Activists Aim to Dox Billionaires, Starting with Elon Musk",
+   "sum": "The Capytistas, an anti-oligarchy group, have announced plans to expose the personal addresses of Elon Musk and other wealthy individuals. They believe that those who acquire political power should face public scrutiny.",
+   "more": "The group claims to have over $1.2 million in funding for their activities. Their initial focus is on Musk and Tesla's board, suggesting a targeted approach towards influential figures in the tech industry. This move has sparked discussions about privacy and the responsibilities of the wealthy regarding their influence on politics.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+     "title_en": "Anti-Oligarchy Activists Plan to Dox Elon Musk and Hundreds of Billionaire-Linked Homes",
+     "url": "https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-02",
+   "title": "Man Completes 31,000-Mile Walk Around the World",
+   "sum": "Karl Bushby finished his 28-year journey walking around the world by returning to his mother's house in England. He started this journey in 1998 and has now completed it after many years.",
+   "more": "Bushby's emotional return was marked by a heartfelt embrace with his mother, Angela, highlighting the personal significance of his long journey. The completion of the walk brings closure to a remarkable adventure that began nearly three decades ago. Different outlets may emphasize the emotional reunion with his mother or the staggering distance he covered during his travels.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Man completes 31,000-mile walk around the world and returns to mom\u2019s house",
+     "title_en": "Man completes 31,000-mile walk around the world and returns to mom\u2019s house",
+     "url": "https://www.yahoo.com/news/articles/karl-bushby-returns-home-northern-125849710.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-02",
+   "title": "The Story Behind Beethoven's 'Ode to Joy'",
+   "sum": "The article explores the complex journey and emotional depth behind Beethoven's 'Ode to Joy'. It describes the piece as both a hymn of rage and a hymn of redemption.",
+   "more": "'Ode to Joy' is framed as a timeless love letter to the possibilities of human experience, encapsulating Beethoven's trials and triumphs throughout his life. The narrative emphasizes the profound sorrow that influenced the composition, painting a picture of a resilient artistic spirit. Different outlets may highlight various aspects of Beethoven's emotional struggles or the societal impact of the piece, but the core themes of suffering and hope remain consistent.",
+   "coverage": [
+    {
+     "outlet": "Themarginalian.org",
+     "title": "Trial, Triumph, and the Art of the Possible: The Moving Story Behind Beethoven\u2019s \u201cOde to Joy,\u201d a Lifetime of Sorrow in the Making",
+     "title_en": "Trial, Triumph, and the Art of the Possible: The Moving Story Behind Beethoven\u2019s 'Ode to Joy'",
+     "url": "https://www.themarginalian.org/2026/11/02/beethoven-ode-to-joy/",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-02",
+   "title": "Trump Administration Appeals to Supreme Court Over California Ballots",
+   "sum": "The Trump administration is seeking Supreme Court intervention regarding California ballots ahead of the midterm elections. Concerns are rising about the potential partisan use of law enforcement powers.",
+   "more": "Both CBC News and ABC News report on the Trump administration's appeal to the Supreme Court, highlighting the implications for the midterm elections and voter participation. While CBC emphasizes the fears of partisan law enforcement, ABC focuses on the appeal's timing as politicians make their final appeals to voters. This framing could influence public perception of the administration's motives in the election process.",
+   "coverage": [
+    {
+     "outlet": "CBC News",
+     "title": "Trump administration ramps up midterm battles, asks Supreme Court to intervene in California case",
+     "title_en": "Trump administration ramps up midterm battles, asks Supreme Court to intervene in California case",
+     "url": "https://www.cbc.ca/news/world/trump-administration-california-alaska-9.7405838",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Trump administration appeals to Supreme Court over California ballots stoush",
+     "title_en": "Trump administration appeals to Supreme Court over California ballots stoush",
+     "url": "https://www.abc.net.au/news/2026-11-03/us-midterms-daily-news-briefing-trump-supreme-court-california/107335082",
      "bias": "Center",
      "src": "ai"
     }
