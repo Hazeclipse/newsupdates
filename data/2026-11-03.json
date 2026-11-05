@@ -1,6 +1,6 @@
 {
  "date": "2026-11-03",
- "updated": "Nov 04, 18:21 UTC",
+ "updated": "Nov 05, 18:25 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -445,6 +445,142 @@
      "title_en": "AI isn't on the ballot, but it's still being tested.",
      "url": "https://www.businessinsider.com/ai-isnt-on-ballot-still-being-tested-bi-today-newsletter-2026-11#article",
      "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-03",
+   "title": "Binance Reports $6.34 Billion Crypto Heist Orchestrated by Hackers",
+   "sum": "Binance revealed that hackers executed a significant theft of $6.34 billion using well-known techniques such as fake job interviews and compromised internal tools. The breach, attributed to suspected North Korean attackers, took place over several months.",
+   "more": "Different outlets emphasize various elements of the hacking process. Wired focuses on the specific methods used, such as the fake job interview and malicious downloads, while The Verge highlights the collaboration of these techniques over an extended period. Slashdot.org mentions the role of internal AI tools alongside other methods to infiltrate Binance's systems. Overall, the accounts converge on the effectiveness and sophistication of the hackers' approach.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist",
+     "title_en": "Binance Says Hackers Used Well-Known Tricks to Carry Out a $6.34 Billion Heist.",
+     "url": "https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Verge",
+     "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+     "title_en": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist.",
+     "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Slashdot.org",
+     "title": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto",
+     "title_en": "Binance Says Hackers Used Fake Job Interviews, AI Tool to Steal $6.3 Billion In Crypto.",
+     "url": "https://it.slashdot.org/story/26/11/03/1939254/binance-says-hackers-used-fake-job-interviews-ai-tool-to-steal-63-billion-in-crypto",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-03",
+   "title": "Google Struggles with AI Revenue and New School Policy",
+   "sum": "Google's revenue growth from its Search engine has slowed, even as search queries increase. Additionally, a new policy forces schools to choose between using Google's Search and its AI tools.",
+   "more": "The earnings report from Google parent Alphabet indicated a decrease in Search revenue growth, raising concerns about the company's ability to monetize AI effectively. Meanwhile, the policy affecting schools has sparked a debate among experts about the implications of forcing educational institutions to choose between different services. While some view the move as a necessary integration of technology, others highlight the potential drawbacks of limiting access to search capabilities. Different outlets focus on either the financial implications of AI for Google or the educational consequences of its new policy.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Google hasn\u2019t figured out how to make AI pay like its search engine",
+     "title_en": "Google hasn\u2019t figured out how to make AI pay like its search engine.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "Google Is Forcing Schools to Choose Between Its Search Engine and AI",
+     "title_en": "Google Is Forcing Schools to Choose Between Its Search Engine and AI.",
+     "url": "https://www.cnet.com/tech/services-and-software/google-forcing-schools-choose-between-search-engine-ai/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-03",
+   "title": "OpenAI Reports ChatGPT Search Queries Rising",
+   "sum": "OpenAI announces that ChatGPT's search query volume has reached 20% of Google's. This shift indicates a growing preference for ChatGPT over traditional search engines.",
+   "more": "The announcement highlights the changing landscape of online search, showing that more users are opting for conversational interfaces. OpenAI's consumer product lead, Adam Fry, emphasized this trend as significant in the context of digital queries. Some sources may frame this development as a challenge to Google's dominance in the search market, while others might focus on the implications for user interaction with AI technologies.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "OpenAI says ChatGPT is catching up to Google in search",
+     "title_en": "OpenAI says ChatGPT is catching up to Google in search",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-03",
+   "title": "Former Airline Employee Sentenced for $600k Fraud",
+   "sum": "Chaculvin Hayes, a former airline employee, has been sentenced for fraudulently obtaining $600,000 through upgrades and vouchers. He pleaded guilty to the charges in June.",
+   "more": "The case highlights the challenges in preventing insider fraud within the airline industry. Hayes's actions not only affected the airline financially but also impacted customer trust. His sentencing serves as a cautionary tale for other employees in similar positions about the consequences of unethical behavior.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Former Airline Employee Sentenced for Bilking $600k in Upgrades, Vouchers, and More",
+     "title_en": "Former Airline Employee Sentenced for Bilking $600k in Upgrades, Vouchers, and More",
+     "url": "https://gizmodo.com/former-airline-employee-sentenced-for-bilking-600k-in-upgrades-vouchers-and-more-2000834454",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-03",
+   "title": "Manchester United Fans Protest Ownership During Match",
+   "sum": "Manchester United fans protested ownership by throwing tennis balls onto the pitch during a Champions League match. The team later staged a comeback win after trailing by two goals.",
+   "more": "While both articles report on the fan protest involving tennis balls, the framing differs slightly in the aftermath of the incident. Fox Sports highlights the protest specifically during the Champions League match against Roma, while ABC News emphasizes the context of Manchester United's comeback win following the fans' demonstration. Both outlets acknowledge the ongoing discontent among fans regarding the club's ownership.",
+   "coverage": [
+    {
+     "outlet": "Fox Sports",
+     "title": "Manchester United Fans Hurl Tennis Balls On Pitch In Protest Of Ownership",
+     "title_en": "Manchester United Fans Hurl Tennis Balls On Pitch In Protest Of Ownership",
+     "url": "https://www.foxsports.com/stories/soccer/manchester-united-fans-hurl-tennis-balls-pitch-protest-ownership",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Man United claims comeback win after fans launch tennis balls in protest",
+     "title_en": "Man United claims comeback win after fans launch tennis balls in protest",
+     "url": "https://www.abc.net.au/news/2026-11-04/football-champions-league-wrap-man-united-wins-after-protest/107344354",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-03",
+   "title": "Israel Connected to Far-Right Influence Campaign Promoting Great Replacement Theory",
+   "sum": "A report indicates that Israel is linked to a significant influence campaign promoting the far-right conspiracy theory known as the great replacement theory. This campaign has reached millions of social media users.",
+   "more": "The report describes the campaign as one of the largest documented efforts to spread this conspiracy theory internationally. It highlights the role of various actors and their strategies to amplify these narratives online. Different outlets may emphasize various aspects of the influence, such as the scale of the operation or the implications for political discourse and community relations.",
+   "coverage": [
+    {
+     "outlet": "The National",
+     "title": "Israel linked to far-right great replacement theory influence campaign",
+     "title_en": "Israel linked to far-right great replacement theory influence campaign.",
+     "url": "https://www.thenational.scot/news/26692688.israel-linked-far-right-great-replacement-theory-influence-campaign/",
+     "bias": "Left",
      "src": "ai"
     }
    ]
