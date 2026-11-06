@@ -1,6 +1,6 @@
 {
  "date": "2026-11-04",
- "updated": "Nov 05, 18:25 UTC",
+ "updated": "Nov 06, 17:46 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -645,6 +645,205 @@
      "title_en": "Trump takes aim at Republicans but says Democrats did a 'good job'",
      "url": "https://www.bbc.co.uk/news/articles/c6073l9y15xxo",
      "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-04",
+   "title": "Nothing Announces Launch of Screen-Free AI Device",
+   "sum": "Nothing CEO Carl Pei has revealed plans for the company's first AI device, set to launch in December. This announcement follows a year after plans for 'AI-native' devices and an operating system were first shared.",
+   "more": "The Verge emphasizes the lack of details surrounding the device, portraying a sense of intrigue. Meanwhile, CNET highlights the innovative aspirations behind the product, suggesting it aims to marry functionality with aesthetics. Both outlets reflect anticipation for the device, but CNET leans more into its potential as a stylish work tool.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Nothing teases a screen-free AI device ahead of launch next month",
+     "title_en": "Nothing teases a screen-free AI device ahead of launch next month.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "Cult Phone-Maker Nothing\u2019s Mystery Screenless AI Device Is Coming Next Month",
+     "title_en": "Cult Phone-Maker Nothing\u2019s Mystery Screenless AI Device Is Coming Next Month.",
+     "url": "https://www.cnet.com/tech/services-and-software/nothings-first-standalone-ai-device-coming-next-month/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-04",
+   "title": "Concerns Over AI Overviews in Education",
+   "sum": "Google's integration of AI Overviews with traditional search has raised concerns among parents and educators. They fear that this reliance on machine-generated answers undermines students' critical thinking skills.",
+   "more": "Parents and educators are particularly worried that easy access to AI-generated answers will reduce students' problem-solving abilities and engagement in learning. Some believe that the use of AI in classrooms can create dependence, making it harder for students to develop their own analytical skills. The frustration is evident as schools search for ways to balance technology use with effective learning outcomes.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+     "title_en": "Google Is Forcing AI Overviews in Classrooms.",
+     "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-04",
+   "title": "Chernobyl's Dogs Show Signs of Evolutionary Change",
+   "sum": "A new study has found evidence of natural selection occurring in the dogs of Chernobyl. The reasons behind these genetic differences and their potential evolutionary advantages remain unclear.",
+   "more": "Researchers are observing changes in the population of dogs that have adapted to life in the exclusion zone around Chernobyl. While natural selection is evident, the specific factors contributing to these genetic adaptations are still unknown. Different reports may frame the findings with varying emphasis on the implications of these changes and what they mean for understanding evolution in isolated environments.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Chernobyl\u2019s Dogs May Be Evolving, but Scientists Don\u2019t Know Why",
+     "title_en": "Chernobyl\u2019s Dogs May Be Evolving, but Scientists Don\u2019t Know Why",
+     "url": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-04",
+   "title": "Google Pixel 11 Phones on Sale Ahead of Black Friday",
+   "sum": "Google has announced a sale on its latest Pixel 11 smartphones, including the Pixel 11, 11 Pro, and 11 Pro XL. Consumers can save up to $350 during this promotion.",
+   "more": "This sale marks the lowest prices to date for the Pixel 11 series, allowing customers to upgrade to some of the smartest Android smartphones available. The timing of the sale, ahead of Black Friday, suggests a strategic move to attract early holiday shoppers. Other outlets may highlight the features of the new Pixel models, emphasizing their capabilities alongside the discounts.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+     "title_en": "Google Pixel 11, 11 Pro, and 11 Pro XL Sale: Save Up to $350",
+     "url": "https://www.wired.com/story/google-pixel-11-deal-november-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-04",
+   "title": "Political Influencers Discuss the Impact of Social Media on Politics",
+   "sum": "Kat Abughazaleh and CJ Pearson shared their insights on the role of social media in shaping political landscapes during an event at the WIRED World Fair. Their discussion followed the recent midterm elections.",
+   "more": "The conversation highlighted the idea that social media has created a fragmented political environment where different groups have diverging realities. Both speakers emphasized the challenges this poses for future political discourse and engagement. While some outlets might focus on the positive potential of social media for grassroots movements, others may stress the risks of misinformation and polarization in political conversations.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "\u2018We Have No Shared Reality\u2019: Two Political Influencers on the Future of Politics Online",
+     "title_en": "'We Have No Shared Reality': Two Political Influencers on the Future of Politics Online",
+     "url": "https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-04",
+   "title": "Democrats to Investigate Elon Musk's Influence After Midterms",
+   "sum": "Following the midterm elections, Elon Musk is expected to face increased scrutiny from Democrats in both Washington and Texas. Investigations may focus on his influence, particularly regarding his management of DOGE and various government contracts.",
+   "more": "The investigations aim to assess the impact of Musk's actions on political and economic matters. This scrutiny could also extend to his relationships with government officials and potential conflicts of interest arising from his business ventures. Different news outlets may emphasize the political ramifications or the economic implications of Musk's influence, illustrating varied perspectives on the issue.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
+     "title_en": "Elon Musk will face scrutiny from Democrats in Washington and Texas after midterms",
+     "url": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-04",
+   "title": "Patricia Bullrich Responds to Cristina Kirchner After US Elections",
+   "sum": "Patricia Bullrich, a senator from the libertarian party, reacted to a post by former president Cristina Kirchner about the defeat of the Republicans in the US elections. Bullrich emphasized the concept of freedom in her response.",
+   "more": "The exchange occurred on social media, where Kirchner made an ironic comment regarding the Republican loss, prompting Bullrich's retort. Bullrich's mention of freedom could be interpreted as a critique not only of Kirchner's comments but also of her legal situation. This interaction highlights the ongoing political tensions between different factions within Argentine politics, particularly following significant electoral events such as those in the United States.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Patricia Bullrich cruz\u00f3 a Cristina Kirchner en redes tras las elecciones en Estados Unidos: \u201cFreedom is beautiful\u201d",
+     "title_en": "Patricia Bullrich Responds to Cristina Kirchner After US Elections",
+     "url": "https://www.lanacion.com.ar/politica/patricia-bullrich-cruzo-a-cristina-kirchner-en-redes-tras-las-elecciones-en-estados-unidos-freedom-nid04112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-04",
+   "title": "Trump's Midterm Loss and Its Implications for Domestic and International Influence",
+   "sum": "Following disappointing midterm election results, President Trump's domestic power may be curtailed, but he is expected to seek ways to retain influence abroad. The article discusses how Trump aims to demonstrate his capability on the global stage despite setbacks at home.",
+   "more": "The BBC's international editor emphasizes the contrast between Trump's diminished power on the home front and his potential actions internationally. Trump may pursue foreign policies that reaffirm his presence in global matters, attempting to counterbalance any domestic limitations. Other outlets might focus on how these international maneuvers could affect his political standing domestically, which reflects varying perspectives on his leadership and international strategy.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+     "title_en": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad.",
+     "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-04",
+   "title": "Trans Rights Protest at 'Harry Potter' Store Opening in London",
+   "sum": "Transgender rights protesters gathered outside the opening of a new 'Harry Potter' store in London, expressing their views through chants. The event saw significant demonstrations as well-known figures arrived.",
+   "more": "The coverage by Breitbart News described the demonstrators as a 'mob,' highlighting a more negative framing of the protest. In contrast, The Daily Caller referred to the protesters as 'Trans-Rights Protestors,' which suggests a more focused identity on the rights aspect. Both articles emphasize the presence of protesters at the store's grand opening, indicating that it was a notable event with diverse opinions surrounding it.",
+   "coverage": [
+    {
+     "outlet": "Breitbart News",
+     "title": "Video: Trans Rights Mob Protest Outside 'Harry Potter' Store in London",
+     "title_en": "Video: Trans Rights Mob Protest Outside 'Harry Potter' Store in London",
+     "url": "https://www.breitbart.com/entertainment/2026/11/04/video-trans-rights-mob-protest-outside-harry-potter-store-in-london/",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "The Daily Caller",
+     "title": "Trans-Rights Protestors Storm \u2018Harry Potter\u2019 Store Opening As Star Actors Arrive",
+     "title_en": "Trans-Rights Protestors Storm 'Harry Potter' Store Opening As Star Actors Arrive",
+     "url": "https://dailycaller.com/2026/11/04/trans-rights-protesters-swarm-harry-potter-store-grand-opening-uk-jk-rowling-actors",
+     "bias": "Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-04",
+   "title": "Highlights from the 2026 US Midterms",
+   "sum": "The 2026 US midterm elections were marked by smooth proceedings and notable outcomes. Democrats gained control of Congress, showcasing both historic victories and setbacks.",
+   "more": "The Atlantic emphasizes the smooth conduct of the elections as a significant victory, focusing on the administrative success rather than individual races. In contrast, Al Jazeera highlights specific winners and losers, detailing the Democratic gains and the implications of various individual contests. While both outlets recognize the importance of the elections, their framing differs, with The Atlantic concentrating on the overall process and Al Jazeera on the political outcomes.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "The Biggest Victory of the Night",
+     "title_en": "The Biggest Victory of the Night",
+     "url": "https://www.theatlantic.com/ideas/2026/11/midterm-election-democrats-normal/689279/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "The biggest winners and losers of the 2026 US midterms",
+     "title_en": "The biggest winners and losers of the 2026 US midterms",
+     "url": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms",
+     "bias": "Lean Left",
      "src": "table"
     }
    ]

@@ -1,0 +1,372 @@
+{
+ "date": "2026-11-05",
+ "updated": "Nov 06, 17:46 UTC",
+ "stories": [
+  {
+   "cat": "crime",
+   "date": "2026-11-05",
+   "title": "Russell Brand Found Guilty of Rape and Sexual Assault",
+   "sum": "Comedian Russell Brand has been convicted in a London court of one count of rape and three counts of sexual assault. The trial included seven charges against him.",
+   "more": "Despite Brand's denial of the charges, the jury's decision confirmed the allegations made against him. Reports emphasize the serious nature of the court's verdict and the impact it may have on his career. Different outlets focus on various aspects of the trial, such as the specifics of the counts and Brand's defense strategy, showcasing the varying narrative styles across publications.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Russell Brand found guilty of rape and sexual assault charges",
+     "title_en": "Russell Brand found guilty of rape and sexual assault charges.",
+     "url": "https://www.yahoo.com/news/world/article/russell-brand-found-guilty-of-rape-and-sexual-assault-142916771.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Russell Brand found guilty in UK rape, sexual assault trial",
+     "title_en": "Russell Brand found guilty in UK rape, sexual assault trial.",
+     "url": "https://abcnews.com/GMA/Culture/russell-brand-found-guilty-uk-rape-sexual-assault/story?id=137877576",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Jezebel",
+     "title": "Russell Brand Found Guilty of 4 Counts of Sexual Misconduct in U.K. Court",
+     "title_en": "Russell Brand Found Guilty of 4 Counts of Sexual Misconduct in U.K. Court.",
+     "url": "https://www.jezebel.com/russell-brand-found-guilty-of-4-counts-of-sexual-misconduct-in-u-k-court",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Russell Brand Found Guilty in Rape Trial",
+     "title_en": "Russell Brand Found Guilty in Rape Trial.",
+     "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/russell-brand-verdict-rape-trial-1235651472/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-05",
+   "title": "Hong Kong Activist Joshua Wong Sentenced to 10 Years in Prison",
+   "sum": "Joshua Wong, a prominent Hong Kong activist, has been sentenced to ten years in prison after being convicted under a national security law. His sentencing highlights ongoing concerns about the suppression of pro-democracy movements in Hong Kong.",
+   "more": "Wong's conviction marks his second under the stringent national security law imposed by Beijing, which was enacted to curb dissent in Hong Kong. Critics argue that this reflects an alarming trend of persecution against activists and a diminishing space for democratic expression in the region. While NPR emphasizes the implications for pro-democracy movements, Al Jazeera focuses on Wong's status as a notable figure in this struggle. Both outlets underscore the government's clampdown on dissent as a critical issue.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+     "title_en": "Hong Kong activist Joshua Wong sentenced to 10 years in prison.",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+     "title_en": "Hong Kong activist Joshua Wong sentenced to ten years in jail.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-05",
+   "title": "Patricia Walsh, Influential Leftist Leader and Advocate for Human Rights Trials, Passes Away at 74",
+   "sum": "Patricia Walsh, a prominent figure on the left and a key proponent of trials for crimes committed during the dictatorship, has died at the age of 74. She was known as the daughter of renowned writer and journalist Rodolfo Walsh.",
+   "more": "In her political career, Walsh served as a national deputy, city legislator, and even ran for the presidency. Her legacy as an advocate for human rights and justice has left a significant mark on Argentine society. Reports about her passing highlight her contributions to both politics and the fight against impunity for past atrocities.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Muri\u00f3 Patricia Walsh, hist\u00f3rica dirigente de la izquierda y una de las impulsoras de los juicios por los cr\u00edmenes de la dictadura",
+     "title_en": "Patricia Walsh, historical leader of the left, passes away",
+     "url": "https://www.lanacion.com.ar/politica/murio-patricia-walsh-historica-dirigente-de-la-izquierda-y-una-de-las-impulsoras-de-los-juicios-por-nid05112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-05",
+   "title": "Vance Critiques Trump While Addressing Election Defeat",
+   "sum": "Vice President Vance offered a pointed critique of the Republican election defeat, placing blame on the handling of the Iran war. This marks a significant departure from the usual support shown by party members towards the sitting president.",
+   "more": "The analysis highlights the growing divides within the Republican Party, particularly as Vance openly challenges Trump's approach. Some media outlets emphasize the potential political ramifications of Vance's remarks, suggesting a shift in loyalty among key party figures. Others focus on the implications for future elections, noting that this critique could resonate with voters disillusioned by recent conflicts. Overall, Vance's stance signals an evolving narrative within the party as it grapples with its identity post-election.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Analysis: Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "title_en": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-05",
+   "title": "Parliament Faces Urgent Refurbishment Decisions Over Asbestos Concerns",
+   "sum": "Asbestos has been discovered in more areas of Parliament, prompting calls for an urgent decision on the building's refurbishment. Warnings have been issued about the potential for a fire akin to that of Notre Dame.",
+   "more": "The BBC highlights the pressing need for Members of Parliament (MPs) to act swiftly regarding the refurbishment. This follows concerns over safety due to the presence of asbestos and an alarming reminder of Notre Dame's fire risks. The emphasis is on avoiding delays, underscoring the importance of the discussions taking place. Other outlets may focus more on the implications for parliamentary operations and public safety.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "More asbestos found in Parliament, as MPs urged to get on with revamp",
+     "title_en": "More asbestos found in Parliament, as MPs urged to get on with revamp",
+     "url": "https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-05",
+   "title": "US Trade Show 2026 Kicks Off in Dhaka",
+   "sum": "The three-day event in Dhaka is designed to showcase American products, services, and innovations. It aims to highlight new opportunities for bilateral trade and investment.",
+   "more": "The trade show serves as a platform for fostering economic ties between the US and Bangladesh. Participants can expect to see a variety of American innovations across multiple sectors. Different outlets may emphasize the importance of this event in enhancing trade relations, while others may focus on the types of products being showcased.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "US Trade Show 2026 begins in Dhaka",
+     "title_en": "US Trade Show 2026 begins in Dhaka",
+     "url": "https://www.thedailystar.net/business/news/us-trade-show-2026-begins-dhaka-4316371",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-05",
+   "title": "Bangladesh Bank Calls for Enhanced Oversight to Combat Loan-Based Money Laundering",
+   "sum": "Bangladesh Bank has urged finance companies to improve their oversight and risk management practices. This initiative aims to address issues related to anonymous loans and the associated risks of money laundering.",
+   "more": "The emphasis is on tackling the diversion of loan funds and scrutinizing related-party transactions. The call comes as part of a broader effort to enhance financial integrity and reduce illicit financial activities within the sector. Different outlets may emphasize various aspects of the call, with some focusing on the regulatory implications while others highlight the potential impacts on financial stability.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "BB urges finance companies to curb loan-based money laundering",
+     "title_en": "BB urges finance companies to curb loan-based money laundering",
+     "url": "https://www.thedailystar.net/business/news/bb-urges-finance-companies-curb-loan-based-money-laundering-4316356",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-05",
+   "title": "Joint List Supports Eisenkot for Israeli Government Formation",
+   "sum": "The Joint List has announced its support for Eisenkot in forming the next government of Israel. This comes after Arab-led parties achieved a historic milestone by winning 19 seats in the Knesset during the recent general election.",
+   "more": "The support from the Joint List marks a significant political development, as it reflects the growing influence of Arab parties in Israeli politics. With their record number of seats, the Joint List is poised to play a crucial role in shaping the new government's agenda. However, reactions to this support may vary across different political factions in Israel, highlighting existing tensions surrounding representation and governance.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Joint List says it will back Eisenkot to form Israel\u2019s next government",
+     "title_en": "Joint List says it will back Eisenkot to form Israel\u2019s next government",
+     "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-05",
+   "title": "Avast Launches Free VPN: No Data Caps or Ads",
+   "sum": "Avast has introduced a completely free VPN service that features no data limits and is ad-free. Users can select from three connection countries, positioning Avast as a competitor to Proton.",
+   "more": "The launch of this free VPN is framed as a significant move, offering a true alternative to existing services like Proton. The VPN allows unlimited device connections, which raises questions regarding potential hidden drawbacks or compromises. While some outlets highlight the service's advantages, others express skepticism about the sustainability of such a free offering without potential future costs.",
+   "coverage": [
+    {
+     "outlet": "Presse-citron",
+     "title": "Avast lance son VPN gratuit\u00a0: sans quota, sans pub, et une vraie alternative \u00e0 Proton",
+     "title_en": "Avast launches its free VPN: no quota, no ads, and a real alternative to Proton.",
+     "url": "https://www.presse-citron.net/avast-lance-son-vpn-gratuit-sans-quota-sans-pub-et-une-vraie-alternative-a-proton/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Frandroid",
+     "title": "Avast lance un VPN gratuit, sans pub, illimit\u00e9 et \u00ab sans compromis \u00bb : y a-t-il un pi\u00e8ge ?",
+     "title_en": "Avast launches a free, ad-free, unlimited VPN: is there a catch?",
+     "url": "https://www.frandroid.com/services/vpn/3308423_avast-lance-un-vpn-gratuit-sans-pub-illimite-et-sans-compromis-y-a-t-il-un-piege",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-05",
+   "title": "France Prepares for Strikes and Protests Amid National Mobilization by Unions",
+   "sum": "Five unions in France are organizing a nationwide day of action involving strikes and protests. The mobilization reflects significant unrest and discontent among workers.",
+   "more": "The planned actions indicate a coordinated effort by unions to challenge the current labor situation in France. Different unions may have varying motivations, with some focusing on wage issues while others emphasize working conditions. The scale of the strikes suggests a widespread sentiment among labor groups that could impact multiple sectors.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France gears up for strikes and protests as unions promise national mobilisation",
+     "title_en": "France gears up for strikes and protests as unions promise national mobilisation.",
+     "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-05",
+   "title": "Elizabeth Holmes Documentary to Screen at the International Space Station",
+   "sum": "A24 is sending a three-hour documentary about Elizabeth Holmes to the International Space Station for astronauts to watch. This initiative highlights the intersection of entertainment and space exploration.",
+   "more": "The decision to showcase the documentary in space demonstrates a unique approach to engaging astronauts with Earthly narratives. While the coverage may differ among outlets, the emphasis on the novelty of space film screenings remains consistent. The documentary's examination of Holmes\u2019 story may offer astronauts a different perspective on ambition and ethics while they float in microgravity.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "\u2018You Can See Everything\u2019 \u2026 in Space? A24 Sends Elizabeth Holmes Doc to ISS",
+     "title_en": "\u2018You Can See Everything\u2019 \u2026 in Space? A24 Sends Elizabeth Holmes Doc to ISS.",
+     "url": "https://www.cnet.com/culture/entertainment/you-can-see-everything-outer-space-a24/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-05",
+   "title": "Joshua Wong Sentenced to 10 Years in Prison",
+   "sum": "Hong Kong activist Joshua Wong has been sentenced to 10 years in prison for his second conviction under the national security law imposed by Beijing. This case underscores the criticisms surrounding the crackdown on pro-democracy movements in Hong Kong.",
+   "more": "Both NPR and CBC News emphasize Wong's status as a prominent activist and the implications of his sentencing under the national security law. The framing from both articles reflects a shared concern regarding the suppression of the pro-democracy movement in Hong Kong. The consistent mention of the law's origin from Beijing highlights the geopolitical dimensions of the case. Overall, the articles focus on the legal ramifications and its impact on civil liberties in the region.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+     "title_en": "Hong Kong activist Joshua Wong sentenced to 10 years in prison.",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Prominent Hong Kong activist Joshua Wong sentenced to 10 years in 2nd national security case",
+     "title_en": "Prominent Hong Kong activist Joshua Wong sentenced to 10 years in 2nd national security case.",
+     "url": "https://www.cbc.ca/news/world/joshua-wong-second-sentence-9.7410128",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-05",
+   "title": "Paraguay President Santiago Pe\u00f1a Resigns Amid Bank Collapse",
+   "sum": "Paraguay\u2019s President Santiago Pe\u00f1a has resigned following the collapse of a bank. His departure comes amid mounting pressure, including an impeachment motion and protests.",
+   "more": "Both ABC News and Al Jazeera reported on Pe\u00f1a's resignation due to the bank collapse. However, Al Jazeera emphasized his connection to Trump and the immediate political consequences he faced, including protests and an impeachment motion. This detail was not highlighted in the ABC News report, which focused primarily on the resignation event itself.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Paraguay President Santiago Pe\u00f1a resigns following bank collapse",
+     "title_en": "Paraguay President Santiago Pe\u00f1a resigns following bank collapse.",
+     "url": "https://abcnews.com/US/wireStory/paraguay-president-santiago-pea-resigns-bank-collapse-137881803",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Paraguay President Pena resigns in wake of bank collapse",
+     "title_en": "Paraguay President Pena resigns in wake of bank collapse.",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-05",
+   "title": "Joshua Wong Sentenced to 10 Years in Prison for Pro-Democracy Activism",
+   "sum": "Joshua Wong, a prominent figure in Hong Kong's pro-democracy protests, has been sentenced to 10 years in prison. His conviction is part of a broader crackdown on opposition politicians, activists, and journalists in the region.",
+   "more": "Both articles highlight Wong's significant role in the pro-democracy movement and the severe sentence he faces. El Mundo emphasizes the judge's mention of Wong seeking foreign interference during a visit to the United States, while Elespanol.com focuses on the accusations against Wong of conspiracy under China's national security law. The framing in both outlets underscores the harsh realities of dissent in Hong Kong, with El Mundo presenting a more critical view of the judicial process.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "Joshua Wong, rostro de las protestas prodemocr\u00e1ticas de Hong Kong, condenado a 10 a\u00f1os de prisi\u00f3n",
+     "title_en": "Joshua Wong, face of pro-democracy protests in Hong Kong, sentenced to 10 years in prison.",
+     "url": "https://www.elmundo.es/internacional/2026/11/05/6aec0fae21efa0a21a8b4579.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elespanol.com",
+     "title": "El activista Joshua Wong, l\u00edder del movimiento prodemocracia en Hong Kong, condenado a 10 a\u00f1os de c\u00e1rcel",
+     "title_en": "Activist Joshua Wong, leader of the pro-democracy movement in Hong Kong, sentenced to 10 years in prison.",
+     "url": "https://www.elespanol.com/mundo/asia/20261105/activista-joshua-wong-lider-movimiento-prodemocracia-hong-kong-condenado-anos-carcel/1003744446823_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-05",
+   "title": "Spanish Supreme Court Requests Fifth Suspension of Immunity for Euro MP Alvise",
+   "sum": "The Spanish Supreme Court has requested the European Parliament to suspend the immunity of Euro MP Luis P\u00e9rez Fern\u00e1ndez, also known as Alvise, due to charges related to public disorder. This marks the fifth such request against him.",
+   "more": "The Supreme Court's request, led by magistrate Carmen Lamela, emphasizes the need for legal proceedings to continue against Alvise. Different outlets may highlight the implications of this request on Alvise's political career or the potential effects on public order in Spain. The framing may also differ regarding how the legal proceedings are perceived within the broader context of political accountability.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "El Supremo pide un quinto suplicatorio contra Alvise por provocar des\u00f3rdenes p\u00fablicos",
+     "title_en": "The Supreme Court requests a fifth suspension against Alvise for causing public disorder.",
+     "url": "https://www.elmundo.es/espana/2026/11/05/6aec68eb21efa0fc068b45a4.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "Alvise acumula ya cinco suplicatorios, el \u00faltimo, para investigarle por des\u00f3rdenes p\u00fablicos",
+     "title_en": "Alvise already accumulates five requests, the latest to investigate him for public disorder.",
+     "url": "https://www.abc.es/espana/alvise-acumula-cinco-suplicatorios-ultimo-investigarle-desordenes-20261105130702-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-05",
+   "title": "The Blue Wave's Impact on Technology and Politics",
+   "sum": "The recent Midterm elections resulted in significant Democratic victories, which are impacting various sectors, including technology and venture capital. The intersection of politics, particularly MAGA ideologies, and advancements in AI data centers are becoming increasingly prominent.",
+   "more": "Business Insider highlights how the political dynamics following the Midterm elections are shaping the landscape of venture capital in Silicon Valley, specifically along Sand Hill Road. The Atlantic emphasizes the strong reaction from Americans against Trump, suggesting that the Democratic wins represent a clear shift in public sentiment. While both articles agree on the existence of a 'Blue Wave,' Business Insider focuses more on its implications for the tech industry, whereas The Atlantic discusses the broader political implications.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "The Blue Wave hits Sand Hill Road",
+     "title_en": "The Blue Wave hits Sand Hill Road. Elon Musk, venture capital, MAGA politics, and AI data centers collide as Democrats win big in the Midterm elections.",
+     "url": "https://www.businessinsider.com/the-blue-wave-hits-sand-hill-road-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Atlantic",
+     "title": "The Blue Wave Is Real",
+     "title_en": "The Blue Wave Is Real. America\u2019s response to Trump was an unmistakably emphatic one.",
+     "url": "https://www.theatlantic.com/politics/2026/11/blue-wave-midterms-democrats/689271/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
