@@ -1,0 +1,420 @@
+{
+ "date": "2026-11-06",
+ "updated": "Nov 07, 16:43 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-06",
+   "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+   "sum": "Activists have broken into a Microsoft data center construction site in Amsterdam as part of a protest. The demonstrators are part of the Geef Tegengas group, opposing the construction of new data center towers.",
+   "more": "The protests are specifically against the building of three 85-meter data center towers in the outskirts of Amsterdam. While The Verge highlighted the involvement of the Geef Tegengas group, Business Insider emphasized the unfurling of anti-AI banners by the protesters. The framing in Business Insider focuses more on the anti-AI aspect of the protest, whereas The Verge provides more information on the construction details and the group's name.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Protesters break into Microsoft data center site in Amsterdam",
+     "title_en": "Protesters break into Microsoft data center site in Amsterdam.",
+     "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "Anti-AI protesters break into Microsoft data center site in Amsterdam",
+     "title_en": "Anti-AI protesters break into Microsoft data center site in Amsterdam.",
+     "url": "https://www.businessinsider.com/protesters-break-into-microsoft-data-center-construction-site-amsterdam-ai-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-06",
+   "title": "OpenAI Revises Data Center Policies Amid Community Feedback",
+   "sum": "OpenAI has announced new commitments to transparency regarding its data center projects following community pushback during the midterms. The company will no longer require non-disclosure agreements from partners.",
+   "more": "In addition to dropping NDAs, OpenAI has introduced a policy framework that mandates developers to bear grid costs and disclose essential data concerning water, energy, noise, and jobs. The announcements come in response to voter concerns about data center expansions in their communities. While both articles highlight OpenAI's new commitments, The Verge focuses more on the community's opposition, whereas Business Insider emphasizes the newly established policy framework.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "OpenAI is stepping back from NDAs for data center projects",
+     "title_en": "OpenAI is stepping back from NDAs for data center projects.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "OpenAI lays out new policy framework for data centers",
+     "title_en": "OpenAI lays out new policy framework for data centers.",
+     "url": "https://www.businessinsider.com/openai-lays-out-new-policy-framework-for-data-centers-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-06",
+   "title": "Can Radar-Equipped Air Conditioners Reduce Your Energy Costs?",
+   "sum": "New radar-equipped air conditioners are designed to follow users from room to room, potentially reducing energy consumption. However, experts suggest that merely improving technology isn't enough to address environmental concerns.",
+   "more": "While the technology aims to lower utility bills and improve efficiency, critics argue that it does not tackle the broader issues of climate change. The focus on individual gadgets may detract from the need for systemic changes in energy production and consumption. Different outlets may emphasize the innovation and convenience of the technology, while others highlight the underlying environmental challenges that remain unaddressed.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+     "title_en": "Can a Radar-Equipped AC Actually Cut Your Power Bill?",
+     "url": "https://www.wired.com/story/can-a-radar-equipped-ac-actually-cut-your-power-bill/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-06",
+   "title": "Sentencing of Kenyan Cult Leader and Hong Kong Activist",
+   "sum": "Kenyan cult leader Paul Mackenzie faces a 200-year prison sentence for the murders of 190 children and one adult. Hong Kong activist Joshua Wong has been sentenced to 10 years in prison under a national security law.",
+   "more": "NPR reports that Paul Mackenzie led his followers to starve themselves in a chilling act of obedience to his teachings. Meanwhile, Joshua Wong has been a prominent figure in the pro-democracy movement in Hong Kong, and his sentencing has been criticized as part of a broader crackdown on dissent. While NPR highlights the death toll associated with Mackenzie's cult, Al Jazeera emphasizes Wong's criminalized activism and the implications for Hong Kong's civil liberties.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
+     "title_en": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+     "title_en": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail.",
+     "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-06",
+   "title": "Former Lawmaker Sentenced to 12.5 Years in Macao's First National Security Case",
+   "sum": "A former lawmaker has been sentenced to 12.5 years in prison in what is being termed Macao's first national security case. This marks the first publicly known prosecution under Macao's national security law, which was enacted in 2009.",
+   "more": "The case has garnered attention as it highlights the enforcement of national security laws in Macao, a region known for its previous lack of such strict regulations. Some observers view this sentencing as a significant step in the government's efforts to tighten control. Others express concern over the implications for political dissent and civil liberties in the region. The framing in various outlets varies, with some emphasizing the legal aspect and others focusing on its impact on freedom of expression.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+     "title_en": "Former Lawmaker Sentenced to 12.5 Years in Macao's First National Security Case",
+     "url": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-06",
+   "title": "Debate Over End of Thatcher's Right to Buy Policy",
+   "sum": "The Labour Party is pushing to weaken Margaret Thatcher's Right to Buy housing policy, which has been a contentious issue affecting estates in the UK. There are concerns about whether dismantling this policy will effectively address Britain's social housing problems.",
+   "more": "The article discusses how Thatcher's Right to Buy has contributed to divisions within communities and estates, leading to debates about its impact on social housing. Some argue that while the policy helped many to own homes, it also exacerbated social housing shortages. The Labour Party's proposal to alter this policy raises questions about the potential effectiveness of such changes in achieving a balanced housing market. Various opinions reflect differing views on the legacy of Thatcher's policy and the path forward for affordable housing in Britain.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+     "title_en": "Thatcher's Right to Buy split my estate. Now its days could be numbered.",
+     "url": "https://www.bbc.co.uk/news/articles/c699zde85xn7o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-06",
+   "title": "AI Toy Makes Controversial Remark, Sparks Concerns",
+   "sum": "An AI-powered teddy bear designed for three-year-olds made an alarming unprompted statement regarding violence. This has led UK MPs and peers to call for retailers to withdraw such AI toys from the market before the holiday shopping season.",
+   "more": "The controversy surrounding the teddy bear highlights growing concerns about the safety and appropriateness of AI toys for young children. Lawmakers are advocating for stricter regulations on AI products aimed at children to prevent potential harm. The call for action comes in light of the impending Black Friday and Christmas shopping rush, raising questions about consumer protection in relation to emerging technologies.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+     "title_en": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-06",
+   "title": "Impact of Data Centre Boom on US Mid-Term Election Results",
+   "sum": "BBC Verify investigates the potential influence of the data centre boom on US voters during the mid-term elections. The analysis highlights the implications of rising anti-AI sentiment within the industry.",
+   "more": "The article raises questions about the connection between technological advancements in data centres and voter behavior. It also emphasizes the broader implications for the AI industry in the context of changing public attitudes. Various outlets may highlight different aspects of this relationship, such as the economic benefits of data centres versus the ethical concerns surrounding AI.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Did a data centre revolt affect the US mid-term election results?",
+     "title_en": "Did a data centre revolt affect the US mid-term election results?",
+     "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-06",
+   "title": "Israeli President Herzog to Announce Government Formation Candidate",
+   "sum": "Israeli President Isaac Herzog is set to name a candidate to form a new government on Sunday. This announcement follows a majority endorsement of former military chief Gadi Eisenkot over incumbent Prime Minister Benjamin Netanyahu by Israeli lawmakers.",
+   "more": "The endorsement of Eisenkot indicates a significant shift in support among Israeli lawmakers, reflecting growing dissatisfaction with Netanyahu's leadership. Al Jazeera highlights the political tensions within Israel, especially concerning the potential implications for governance and policy direction. While the focus is on the upcoming announcement, there may be differing interpretations of Eisenkot's capability to unite diverse political factions, especially compared to Netanyahu's long-standing dominance in Israeli politics.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s President Herzog to name candidate to form government on Sunday",
+     "title_en": "Israel\u2019s President Herzog to name candidate to form government on Sunday",
+     "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "U.S. Officials Warn of Cyber Threats Targeting Industrial Refrigeration Systems",
+   "sum": "Federal agencies are alerting industries about potential cyberattacks on refrigeration systems. Recent incidents in Europe have raised concerns about hackers tampering with temperature controls.",
+   "more": "The Cybersecurity and Infrastructure Security Agency (CISA) and the FBI have issued advisories following a series of attacks on supermarket refrigeration systems. These incidents have involved hackers manipulating temperatures in systems that are exposed to the internet. While the emphasis is on protecting industrial refrigeration networks, the warnings extend to various sectors, including healthcare and agriculture. CBS News highlights the 'ongoing' nature of these cyber threats, reflecting a sense of urgency among U.S. officials.",
+   "coverage": [
+    {
+     "outlet": "Infosecurity Magazine",
+     "title": "CISA, FBI Urge Action to Protect Industrial Refrigeration Networks",
+     "title_en": "CISA, FBI Urge Action to Protect Industrial Refrigeration Networks",
+     "url": "https://www.infosecurity-magazine.com/news/cisa-protect-refrigeration-networks/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Feds warn of potential cyberattacks on industrial refrigerators",
+     "title_en": "Feds warn of potential cyberattacks on industrial refrigerators",
+     "url": "https://www.cbsnews.com/news/refrigeration-systems-cyber-threats-cisa-warning/",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale to Close 148 Branches in France by 2027",
+   "sum": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale plans to shut down 148 branches by 2027, affecting many customers across the country. This decision marks another significant change for the French bank.",
+   "more": "Both articles highlight the impending closure of Soci\u00e9t\u00e9 G\u00e9n\u00e9rale agencies, emphasizing the impact on customers. Journal du geek frames the situation as a 'hard blow' for the French, suggesting a negative response from the public. Presse-citron, while acknowledging the changes, focuses more on the details of the locations being affected. The overall tone and emphasis on the consequences for customers differ slightly between the two outlets.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "Coup dur pour les Fran\u00e7ais, la Soci\u00e9t\u00e9 G\u00e9n\u00e9rale ferme 148 agences en 2027, voici celles qui sont concern\u00e9es",
+     "title_en": "Hard blow for the French, Soci\u00e9t\u00e9 G\u00e9n\u00e9rale to close 148 agencies by 2027, here are the ones affected.",
+     "url": "https://www.journaldugeek.com/2026/11/06/coup-dur-pour-les-francais-la-societe-generale-ferme-148-agences-en-2027-voici-celles-qui-sont-concernees/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Presse-citron",
+     "title": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale va fermer 148 agences d\u2019ici 2027\u00a0: voici les sites concern\u00e9s en France",
+     "title_en": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale to close 148 branches by 2027: here are the sites concerned in France.",
+     "url": "https://www.presse-citron.net/societe-generale-va-fermer-148-agences-dici-2027-voici-les-sites-concernes-en-france/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "AliExpress Launches 11.11 Promotions Ahead of Singles Day",
+   "sum": "AliExpress has initiated its 11.11 event earlier than expected, offering significant discounts as part of its Chinese Black Friday. The promotions are expected to run until November 18, with a focus on high-tech products.",
+   "more": "Frandroid highlights the early start of the 11.11 sales event, indicating a strong influx of discounts on a wide range of products. Numerama mentions the event's duration, spanning from November 1 to November 18, and emphasizes the focus on high-tech items. Both outlets frame the 11.11 event as a major shopping opportunity, comparable to Black Friday, although there may be slight differences in their specific focus on product categories.",
+   "coverage": [
+    {
+     "outlet": "Frandroid",
+     "title": "Les promos du 11.11 font le plein chez AliExpress : voici les meilleures offres en DIRECT de ce Black Friday chinois",
+     "title_en": "Promotions of 11.11 are in full swing at AliExpress: here are the best deals live from this Chinese Black Friday.",
+     "url": "https://www.frandroid.com/bons-plans/3305805_black-friday-aliexpress-voici-les-meilleures-promos-tech-du-11-11-en-direct",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Numerama",
+     "title": "Le singles Day 2026 continue sur sa lanc\u00e9e : voici les meilleures offres du Black Friday chinois",
+     "title_en": "Singles Day 2026 continues its momentum: here are the best offers from Chinese Black Friday.",
+     "url": "https://www.numerama.com/tech/2365399-le-singles-day-2026-continue-sur-sa-lancee-voici-les-meilleures-offres-du-black-friday-chinois.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-06",
+   "title": "Protesters Break Into Microsoft Data Center Site in Amsterdam",
+   "sum": "Protesters opposed to a Microsoft data center in Amsterdam have broken into the construction site. The demonstration involved about 100 activists who displayed anti-AI messages.",
+   "more": "The protest was organized by the Geef Tegengas group, highlighting concerns about the environmental impact of the data center, which includes three 85-meter towers. Various outlets report similar incidents, with some emphasizing the activists' banners and the scale of the protest. Notably, Al Jazeera and Business Insider mention the number of participants as being over 100, while Kotaku emphasizes the protest's anti-AI stance. Diariobitcoin.com adds context about the protest's escalation, indicating it involved detentions and discussions on the project's electrical costs.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Protesters break into Microsoft data center site in Amsterdam",
+     "title_en": "Protesters break into Microsoft data center site in Amsterdam.",
+     "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "Anti-AI protesters break into Microsoft data center site in Amsterdam",
+     "title_en": "Anti-AI protesters break into Microsoft data center site in Amsterdam.",
+     "url": "https://www.businessinsider.com/protesters-break-into-microsoft-data-center-construction-site-amsterdam-ai-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "Protesters Break Into Microsoft Data Center Site To Campaign Against AI",
+     "title_en": "Protesters Break Into Microsoft Data Center Site To Campaign Against AI.",
+     "url": "https://kotaku.com/microsoft-data-center-protest-ai-amsterdam-palestine-banners-2000754616",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
+     "title_en": "Protesters break into Microsoft AI data centre site in Amsterdam.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Diariobitcoin.com",
+     "title": "Protesta contra Microsoft escala: activistas irrumpen en un centro de datos en \u00c1msterdam",
+     "title_en": "Protest against Microsoft escalates: activists break into a data center in Amsterdam.",
+     "url": "https://www.diariobitcoin.com/tecnologia/protesta-contra-microsoft-escala-activistas-irrumpen-en-un-centro-de-datos-en-amsterdam/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-06",
+   "title": "Paraguay's President Santiago Pe\u00f1a Faces Impeachment Amid Ueno Bank Crisis",
+   "sum": "Paraguayan President Santiago Pe\u00f1a is accused of conflict of interest related to Ueno Bank and is facing potential impeachment. Protests have erupted over the crisis, leading to clashes with the police.",
+   "more": "Amid ongoing turmoil related to Ueno Bank, Santiago Pe\u00f1a announced his resignation, hoping to focus on safeguarding citizens' savings affected by the crisis. The situation escalated into protests in front of Congress, where security forces were deployed to control demonstrators. Different outlets emphasize various aspects of the crisis, such as Pe\u00f1a's ties to Ueno Bank and the public's response to government actions.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "De qu\u00e9 se acusa a Santiago Pe\u00f1a, el presidente de Paraguay que se enfrenta a un juicio pol\u00edtico tras la crisis de Ueno Bank",
+     "title_en": "What is Santiago Pe\u00f1a accused of as Paraguay's president faces impeachment over the Ueno Bank crisis?",
+     "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "La Presidencia de Paraguay se pronuncia sobre el futuro de Pe\u00f1a tras la crisis de Ueno Bank",
+     "title_en": "Paraguay's Presidency comments on Pe\u00f1a's future following the Ueno Bank crisis.",
+     "url": "https://actualidad-rt.com/actualidad/636167-crisis-ueno-bank-sacudir-gobierno",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Cnnchile.com",
+     "title": "Santiago Pe\u00f1a presenta su renuncia a la Presidencia de Paraguay en medio de crisis por Ueno Bank",
+     "title_en": "Santiago Pe\u00f1a resigns as President of Paraguay amid Ueno Bank crisis.",
+     "url": "https://www.cnnchile.com/mundo/santiago-pena-renuncia-presidencia-paraguay-crisis-ueno-bank/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-06",
+   "title": "AI Stocks Fluctuate Following Election Results",
+   "sum": "AI stocks experienced significant volatility after the election, contributing to shifts in the US markets. Investor concerns regarding the implications of the election on AI development played a role.",
+   "more": "According to BBC News, AI stocks climbed after a significant decline in market values, with investors reacting to the election outcome. In contrast, Al Jazeera highlighted a plunge in AI stocks, specifically noting that tech stocks led a slide in the US markets as investors evaluated the potential impact of the midterm election results on the AI sector. The framing differences suggest a divergence in perspective on the overall market reaction to the election.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "AI stocks climb after trillions wiped from market values",
+     "title_en": "AI stocks climb after trillions wiped from market values.",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "AI stocks plunge after election, driving down US markets",
+     "title_en": "AI stocks plunge after election, driving down US markets.",
+     "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-06",
+   "title": "Marco Rubio Denies Leaving Trump Administration",
+   "sum": "US Secretary of State Marco Rubio has rejected claims he intends to leave the administration. Meanwhile, Donald Trump addressed inquiries about possible changes in his cabinet following midterm election losses.",
+   "more": "The reports suggest Rubio is contemplating his future, but he firmly stated he is not planning to depart his post. Trump also faced questions about potentially firing Defence Secretary Pete Hegseth due to the recent Republican setbacks. Different outlets emphasize Rubio's reassurance regarding his commitment to his position, while also highlighting Trump's defensive stance against media scrutiny.",
+   "coverage": [
+    {
+     "outlet": "RTE",
+     "title": "Rubio denies plans to leave post, Trump defends Hegseth",
+     "title_en": "Rubio denies plans to leave post, Trump defends Hegseth",
+     "url": "https://www.rte.ie/news/us/2026/1106/1598293-rubio-midterms-us/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Rubio denies plans to leave post for White House bid",
+     "title_en": "Rubio denies plans to leave post for White House bid",
+     "url": "https://www.channelnewsasia.com/world/marco-rubio-white-house-presidential-bid-us-midterms-6529406",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-06",
+   "title": "Will Democrats Address Big Tech Issues?",
+   "sum": "Tech critics are questioning whether newly elected officials will follow through on their promises regarding privacy and data center regulations. The effectiveness of any potential changes hinges on the commitment of these officials.",
+   "more": "Critics argue that meaningful reforms can only be achieved if politicians prioritize these issues as they begin their terms. There is skepticism about whether the current political climate will support significant regulatory changes. Different outlets may emphasize the urgency of privacy regulations, while others might focus on the broader implications for tech industry oversight.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Will Democrats Rein in Big Tech? It Starts With Privacy and Data Centers",
+     "title_en": "Will Democrats Rein in Big Tech? It Starts With Privacy and Data Centers.",
+     "url": "https://www.cnet.com/tech/services-and-software/midterm-election-2026-democrats-rein-in-big-tech-reaction/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

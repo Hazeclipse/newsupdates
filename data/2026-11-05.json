@@ -1,6 +1,6 @@
 {
  "date": "2026-11-05",
- "updated": "Nov 06, 17:46 UTC",
+ "updated": "Nov 07, 16:43 UTC",
  "stories": [
   {
    "cat": "crime",
@@ -363,6 +363,357 @@
      "title": "The Blue Wave Is Real",
      "title_en": "The Blue Wave Is Real. America\u2019s response to Trump was an unmistakably emphatic one.",
      "url": "https://www.theatlantic.com/politics/2026/11/blue-wave-midterms-democrats/689271/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-05",
+   "title": "Grimes to Star in AI Film 'Gods Don't Give Gifts'",
+   "sum": "Pop star Grimes is set to appear in the AI-generated sci-fi movie 'Gods Don't Give Gifts.' This film is being promoted as the first AI film to reach theaters.",
+   "more": "The film represents a significant step in exploring the commercial potential of AI-generated content in cinema. While The Verge highlights Grimes' role as a star addition, suggesting it brings credibility to the project, Gizmodo expresses skepticism about the authenticity of her performance, questioning the reality of what audiences will see. Both outlets point to the film's innovative nature but frame it differently, with one focusing on its potential and the other on concerns around reality and authenticity.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Grimes is going to star in an AI movie that\u2019s coming to theaters",
+     "title_en": "Grimes is going to star in an AI movie that's coming to theaters.",
+     "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Grimes Shows Off Her Acting Chops in New AI Movie. Or Does She?",
+     "title_en": "Grimes Shows Off Her Acting Chops in New AI Movie. Or Does She?",
+     "url": "https://gizmodo.com/grimes-shows-off-her-acting-chops-in-new-ai-movie-or-does-she-2000835869",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-05",
+   "title": "Discord Moves from Electron to Rust for Desktop App",
+   "sum": "Discord is transitioning its desktop application from Electron to Rust, aiming to reduce resource consumption. This change is expected to enhance performance while improving memory safety.",
+   "more": "Both articles highlight the reasons for Discord's transition, emphasizing the high resource usage associated with Electron. The Verge focuses on the specifics of RAM usage, while Slashdot.org places more emphasis on performance improvements and memory safety. Despite these differences in framing, both agree on the anticipated benefits of moving to Rust.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Discord is ditching Electron and its new app uses less RAM",
+     "title_en": "Discord is ditching Electron and its new app uses less RAM",
+     "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Slashdot.org",
+     "title": "Discord Is Ditching Electron For Rust",
+     "title_en": "Discord Is Ditching Electron For Rust",
+     "url": "https://tech.slashdot.org/story/26/11/05/193239/discord-is-ditching-electron-for-rust",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-05",
+   "title": "Congress Prepares for Increased Scrutiny of Tech Industry",
+   "sum": "Congress is gearing up for significant hearings and investigations into the tech industry, especially focusing on CEOs and regulatory measures related to AI and data centers. Democrats are set to take control of committees, signaling a shift in oversight following their electoral successes.",
+   "more": "The article highlights the upcoming challenges for tech companies, particularly regarding CEO hearings and proposals for stricter regulations on artificial intelligence. Moreover, investigations into Elon Musk's management decisions, particularly concerning DOGE, suggest a renewed interest in scrutinizing influential tech figures. The framing of the situation varies across outlets, with some emphasizing the regulatory nature of the changes while others focus on the political implications of Democratic control over committees.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Tech is about to get hammered in Congress",
+     "title_en": "Tech is about to get hammered in Congress",
+     "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-05",
+   "title": "Yellowjackets Season 4 Trailer Released",
+   "sum": "The trailer for the fourth and final season of 'Yellowjackets' has been released, featuring Hilary Swank as adult Melissa. The new season appears to bring heightened tension and drama.",
+   "more": "The trailer showcases some intense moments that suggest a climactic conclusion to the series. Hilary Swank's return as a key character might indicate a significant role in the unfolding plot. Different outlets may emphasize various aspects of the trailer, such as the emotional stakes or the suspenseful nature of the storyline.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "It\u2019s All Finally Happening in the \u2018Yellowjackets\u2019 Season 4 Trailer",
+     "title_en": "It\u2019s All Finally Happening in the \u2018Yellowjackets\u2019 Season 4 Trailer",
+     "url": "https://gizmodo.com/yellowjackets-season-4-trailer-2000835779",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-05",
+   "title": "Ben Barnes Discusses Season 2 of 'The Institute' Based on Stephen King's Work",
+   "sum": "Ben Barnes, the star of 'Shadow and Bone' and 'Westworld,' shares insights about his role in the second season of 'The Institute,' a thriller series based on Stephen King's story. He portrays a former cop assisting superpowered children who are on the run.",
+   "more": "In the interview, Barnes elaborates on the character dynamics and the challenges faced by the protagonists in the new season. His discussion highlights the darker themes and complex relationships that develop as the narrative progresses. While some outlets praise the show's unique take on King's work, others emphasize the rising tension and psychological depth the second season promises.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Ben Barnes on Where Stephen King Sci-Fi Series \u2018The Institute\u2019 Goes in Season 2",
+     "title_en": "Ben Barnes on Where Stephen King Sci-Fi Series \u2018The Institute\u2019 Goes in Season 2",
+     "url": "https://gizmodo.com/ben-barnes-on-where-stephen-king-sci-fi-series-the-institute-goes-in-season-2-2000833389",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-05",
+   "title": "Potential Changes in U.S. Foreign Policy and Healthcare After Midterms",
+   "sum": "Democrats may look to reshape U.S. foreign policy and healthcare following the midterm elections. Key discussions focus on possible reforms in both areas that could arise from their electoral success.",
+   "more": "NPR highlights historian Anne Applebaum's views on how a Democratic Congress could influence foreign policy, detailing both achievable reforms and limitations. Meanwhile, NBC News emphasizes that healthcare will be a significant focus, as victories could lead to changes in insurance costs and coverage options. The framing from NPR centers on foreign policy adjustments, while NBC News prioritizes healthcare reform, showcasing different aspects of Democratic priorities post-elections.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+     "title_en": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "5 healthcare fights Democrats could take on after midterms sweep",
+     "title_en": "5 healthcare fights Democrats could take on after midterms sweep",
+     "url": "https://www.nbcnews.com/health/health-care/5-healthcare-fights-democrats-take-midterms-sweep-rcna607457",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-05",
+   "title": "Prospects for Lower Fuel Prices Amid Democratic Majority in Congress",
+   "sum": "The recent Democratic majority in Congress may influence the president's decisions regarding the war in Iran, potentially affecting fuel prices. However, the complexities of the international oil market make it challenging for Congress to directly impact gasoline and diesel costs.",
+   "more": "While the political landscape shifts with the new Democratic majority, the direct effects on fuel prices remain uncertain. Analysts predict that while there could be pressure to change foreign policy, the intricacies of global oil dynamics are likely to dampen any immediate changes in pricing. NPR emphasizes the complexity of the oil market, suggesting that a significant decrease in fuel prices is not a guaranteed outcome. Other outlets may focus more on the political implications without delving into the intricate economics of oil pricing.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
+     "title_en": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath.",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-05",
+   "title": "Melania Trump Highlights Agreement Between Russia and Ukraine",
+   "sum": "Melania Trump has announced a rare agreement she facilitated between Russia and Ukraine. This news follows a six-day pause in conflict from the Russian-occupied city of Oleshky.",
+   "more": "The administration is increasing its efforts to reach a lasting peace agreement to resolve the ongoing war in Ukraine. Different outlets may focus on various aspects of Melania Trump's involvement, with some emphasizing her diplomatic role while others critique the effectiveness of such agreements. The announcement comes at a time when international attention is strongly focused on the conflict's impact on global stability.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+     "title_en": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-05",
+   "title": "US Companies Warn That Trump's Defeat May Affect Financial Aid to Argentina",
+   "sum": "American companies have raised concerns that a change in leadership in the U.S. might influence financial support for Argentina. The U.S. Chamber of Commerce noted potential impacts on financial backing, the 2025 swap, and assistance from the IMF.",
+   "more": "The American Chamber of Commerce (Amcham) expressed that the shifting power dynamics in Washington could lead to alterations in financial aid to Argentina, a sentiment echoed by the Vice President of the US Chamber of Commerce during a recent forum. This indicates a growing apprehension among U.S. businesses regarding the future of economic relations with Argentina in light of political changes. As these concerns develop, the framing of the issue in different media may highlight the urgency for Argentina to adapt to potential shifts in U.S. policy.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Las empresas estadounidenses alertaron que la derrota de Trump puede condicionar el auxilio financiero a la Argentina",
+     "title_en": "US Companies Warn That Trump's Defeat May Affect Financial Aid to Argentina",
+     "url": "https://www.lanacion.com.ar/economia/las-empresas-estadounidenses-alertaron-que-la-derrota-de-trump-puede-condicionar-la-ayuda-financiera-nid05112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-05",
+   "title": "Country Risk Surpasses 900 Points Amid Economic Concerns",
+   "sum": "Argentina's country risk has exceeded 900 points, reaching its highest level of the year. Factors contributing to this increase include external shocks and internal uncertainties regarding the economic program and the upcoming presidential elections.",
+   "more": "The decline in Argentine bonds is attributed to external shocks, as well as skepticism about the sustainability of the country's economic program. The proximity of next year's presidential elections adds to the uncertainty, affecting investor confidence. This sentiment has led to significant fluctuations in the country's financial indicators, reflecting broader concerns about economic stability.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El riesgo pa\u00eds supera los 900 puntos: los factores externos e internos que impulsan al indicador al nivel m\u00e1s alto del a\u00f1o",
+     "title_en": "Country risk surpasses 900 points: external and internal factors driving the indicator to the highest level of the year.",
+     "url": "https://www.lanacion.com.ar/economia/el-riesgo-pais-supera-los-900-puntos-los-factores-externos-e-internos-que-impulsan-al-indicador-al-nid05112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-05",
+   "title": "Mauricio Macri Calls for Dialogue and Impeccable Conduct from Government",
+   "sum": "Mauricio Macri urged the government to create 'spaces for dialogue' and display 'impeccable behavior.' He expressed discomfort with the Pro party's situation and noted the lack of openness from Milei's faction for organic support.",
+   "more": "Macri's comments highlight the tension between different political groups within Argentina, particularly between the Pro party and Milei's supporters. While he calls for better communication, there are indications of friction that may hinder collaboration. His emphasis on 'impeccable behavior' suggests a desire for higher standards among political leaders. The framing across different outlets may vary, especially regarding the implications of 'dialogue' and 'support' within a fractious political landscape.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Mauricio Macri le reclam\u00f3 al Gobierno que construya \u201cespacios de di\u00e1logo\u201d y exhiba un \u201ccomportamiento impecable\u201d",
+     "title_en": "Mauricio Macri urged the Government to create 'spaces for dialogue' and to exhibit 'impeccable behavior.'",
+     "url": "https://www.lanacion.com.ar/politica/mauricio-macri-le-reclamo-al-gobierno-que-construya-espacios-de-dialogo-y-exhiba-un-comportamiento-nid05112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-05",
+   "title": "Concerns About Dollar and Country Risk According to Consulting Firms",
+   "sum": "Consulting firms BlackToro and Arriazu Macroanalistas suggest that the Central Bank has the necessary 'firepower' to manage the exchange rate. However, they do not anticipate a decrease in the JP Morgan indicator in the short term.",
+   "more": "Both consulting firms express a degree of skepticism about immediate improvements in the financial indicators. They acknowledge the Central Bank's capabilities but highlight the ongoing challenges in stabilizing the economy. The emphasis on the short-term outlook differs from more optimistic assessments that may suggest quicker recovery.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "\u201cMiedo al p\u00e9ndulo\u201d: qu\u00e9 va a pasar con el d\u00f3lar y el riesgo pa\u00eds, seg\u00fan una consultora",
+     "title_en": "Fear of the Pendulum: What Will Happen with the Dollar and Country Risk, According to a Consulting Firm",
+     "url": "https://www.lanacion.com.ar/economia/miedo-al-pendulo-que-va-a-pasar-con-el-dolar-y-el-riesgo-pais-segun-una-consultora-nid05112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-05",
+   "title": "New Zealand Prepares for Close Election",
+   "sum": "New Zealand is gearing up for an election that is expected to be closely contested, with smaller parties playing a crucial role. Major political contenders are anticipated to lack the majority required for independent governance.",
+   "more": "The emphasis on smaller parties indicates a shift in political dynamics, potentially leading to coalition governments. Various outlets highlight the uncertainty surrounding the election outcomes, as public sentiment could sway the results in unforeseen directions. The narrative suggests a significant focus on the influence of minor parties, which may disrupt traditional voting patterns.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "New Zealand braces for knife-edge election: What you need to know",
+     "title_en": "New Zealand braces for knife-edge election: What you need to know",
+     "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-05",
+   "title": "Israel's Herzog Acknowledges Election Results and Initiates Government Formation Talks",
+   "sum": "Israeli President Isaac Herzog has accepted the results of the recent elections and begun discussions to form a new government. This decision undermines Prime Minister Netanyahu's attempts to cast doubt on the election outcome.",
+   "more": "The acceptance of the election results signals a significant shift in the political landscape, particularly affecting Netanyahu and his coalition's influence. Herzog's actions may help stabilize the political situation by facilitating a transition to a new governance structure. Various media outlets emphasize the implications for Netanyahu's political future, with some focusing more on the challenges he faces in regaining support.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s Herzog accepts vote results, opens talks on forming a government",
+     "title_en": "Israel's Herzog accepts vote results, opens talks on forming a government",
+     "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-05",
+   "title": "US Midterm Elections Influence Israel's Leadership Race",
+   "sum": "The outcome of the US midterm elections is impacting the political landscape in Israel, particularly in the race for Prime Minister. Netanyahu's relationship with the US is becoming increasingly contentious.",
+   "more": "The article explores how the Republican losses in the midterms are complicating Netanyahu's position and may influence his political future. There is a focus on the changing dynamics of US-Israel relations as the midterm results unfold. Different outlets may frame this situation in terms of its implications for both domestic Israeli politics and international relations, highlighting various aspects of Netanyahu's reliance on support from the US.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "The blame game: How the US midterm shock is shaping Israel\u2019s race for PM",
+     "title_en": "The blame game: How the US midterm shock is shaping Israel\u2019s race for PM",
+     "url": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-05",
+   "title": "King Discusses Politically Charged Deployments Amid Caribbean Tour",
+   "sum": "The King expressed enjoyment regarding his 'politically charged' deployments, according to a Palace aide. His recent Caribbean tour raised questions about the UK's historical involvement in the slave trade.",
+   "more": "During the tour, the King was confronted with inquiries about the legacy of the slave trade and Britain's historical actions in the Caribbean. This has led to a broader discussion about the monarchy's role in addressing past injustices. Different outlets may vary in their portrayal of the King's responses, with some emphasizing his willingness to engage with difficult topics while others focus on the historical implications of his visit.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "King relishes 'politically charged' deployments, Palace aide says",
+     "title_en": "King relishes 'politically charged' deployments, Palace aide says",
+     "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-05",
+   "title": "Historic Elections: Black and Native American Women Break New Ground",
+   "sum": "The 2026 midterm elections saw significant achievements for Black and Native American candidates. These candidates have made history by attaining key leadership positions across the United States.",
+   "more": "Black candidates from both the Democratic and Republican parties achieved historic success in the elections, with six governors representing diverse states. Meanwhile, Native American women also made history, with former Interior Secretary Deb Haaland elected as the first Native American woman governor in New Mexico, and Peggy Flanagan becoming Minnesota's first Native American woman senator. The framing of these achievements varies slightly between outlets, with some emphasizing the overall diversity in governance while others highlight the individual milestones of the candidates.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Black candidates from both parties made history in midterm elections",
+     "title_en": "Black candidates from both parties made history in midterm elections.",
+     "url": "https://abcnews.com/Politics/black-candidates-make-history-party-lines-250-years/story?id=137851377",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "2 Native American women make history in midterm election",
+     "title_en": "2 Native American women make history in midterm election.",
+     "url": "https://www.cbsnews.com/news/deb-haaland-peggy-flanagan-native-american-women-make-history-midterms/",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-05",
+   "title": "Big Tech Continues Investment in AI Data Centers",
+   "sum": "After recent earnings calls, it's evident that major tech companies are committed to significant spending on AI data center infrastructure. The push for AI capabilities is far from over.",
+   "more": "The article highlights that Big Tech's investment in AI infrastructure remains aggressive, and there is an ongoing race to enhance AI capabilities. While the companies involved are competitors, they share a common goal of expanding their AI functionalities. Different outlets may emphasize the competition aspect, portraying it as a tech race, while others focus more on the implications of such spending on the industry and the broader market.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Big Tech\u2019s big AI buildout will not end until someone stops it",
+     "title_en": "Big Tech's big AI buildout will not end until someone stops it",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
      "bias": "Lean Left",
      "src": "ai"
     }
