@@ -1,6 +1,6 @@
 {
  "date": "2026-11-06",
- "updated": "Nov 07, 16:43 UTC",
+ "updated": "Nov 08, 16:51 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -412,6 +412,630 @@
      "title_en": "Will Democrats Rein in Big Tech? It Starts With Privacy and Data Centers.",
      "url": "https://www.cnet.com/tech/services-and-software/midterm-election-2026-democrats-rein-in-big-tech-reaction/",
      "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-06",
+   "title": "Tech Giants Suffer Major Setback in 2026 Election",
+   "sum": "In the 2026 election, American voters largely supported Democrats and expressed opposition to AI. This signals a renewed and intensified conflict between Big Tech and regulatory authorities.",
+   "more": "Different outlets highlight various aspects of the election's impact on the tech industry. The Verge emphasizes the overwhelming voter sentiment against AI, framing the situation as a significant setback for Big Tech. In contrast, The Atlantic raises questions about whether tech leaders recognize the need for change in light of the election results. This contrast shows a focus on the political consequences in one outlet and self-reflection within the industry in the other.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Big Tech lost big in the 2026 election",
+     "title_en": "Big Tech lost big in the 2026 election.",
+     "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Atlantic",
+     "title": "Breaking Down Tech\u2019s Brutal Election",
+     "title_en": "Breaking Down Tech\u2019s Brutal Election.",
+     "url": "https://www.theatlantic.com/podcasts/2026/11/breaking-down-techs-brutal-election/689325/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-06",
+   "title": "Tesla to End Cybertruck Production by 2027",
+   "sum": "Tesla has announced plans to wind down production of its Cybertruck model by mid-2027 at Gigafactory Texas. This decision follows years of disappointing sales performance.",
+   "more": "CEO Elon Musk confirmed the timeline for the production stop on his social media account. Several sources note the Cybertruck's perceived failure in the market, emphasizing how it struggled since its initial hype. The change is part of Tesla's strategy to shift focus towards developing its self-driving vehicle, the Cybercab. Different outlets frame the news with an emphasis on the Cybertruck's troubled sales history and its significance in Tesla's product lineup.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Good Riddance: Tesla to End Cybertruck Production in 2027",
+     "title_en": "Good Riddance: Tesla to End Cybertruck Production in 2027",
+     "url": "https://www.cnet.com/home/electric-vehicles/tesla-ends-cybertruck-production-2027/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Tesla to wind down Cybertruck production after years of poor sales",
+     "title_en": "Tesla to wind down Cybertruck production after years of poor sales",
+     "url": "https://finance.yahoo.com/markets/stocks/article/musk-bids-farewell-to-cybertruck-as-tesla-bets-on-robots-and-self-driving-162259557.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-06",
+   "title": "New DNA Technology May Resolve JonBen\u00e9t Ramsey Case After 30 Years",
+   "sum": "Recent advancements in DNA technology could potentially uncover new evidence in the 1996 murder of JonBen\u00e9t Ramsey. Her case remains one of the most notorious unsolved crimes in the United States.",
+   "more": "Both articles emphasize the significance of new DNA technology in potentially solving the case after nearly three decades. They detail the chilling circumstances surrounding JonBen\u00e9t's kidnapping and murder, highlighting the emotional impact on her family. While the coverage is similar, the sources may offer different perspectives on the implications of this technological advancement for the ongoing investigation.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+     "title_en": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+     "url": "https://abcnews.com/US/new-dna-tech-solve-jonbent-ramseys-murder-case/story?id=137603999",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+     "title_en": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+     "url": "https://www.yahoo.com/news/us/articles/dna-tech-could-solve-jonben-182509064.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-06",
+   "title": "Thomas Markle, Meghan Markle's Father, Arrested Over Child Sexual Abuse Material",
+   "sum": "Thomas Markle, the father of Meghan Markle, has been arrested by the FBI on charges related to child sexual abuse material. The arrest took place in Florida after an FBI investigation involving storage units in Los Angeles.",
+   "more": "Reports vary slightly in their focus on the circumstances of the arrest. While BBC News emphasizes the court appearance and storage unit searches, Yahoo Entertainment highlights the arrest location at a care home. Al Jazeera adds details about the nature of the explicit photos found. Overall, the narrative centers around serious allegations against Thomas Markle, with uniformity in reporting the involvement of federal authorities.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+     "title_en": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+     "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Meghan Markle's father Thomas arrested on charges related to child sexual abuse material",
+     "title_en": "Meghan Markle's father Thomas arrested on charges related to child sexual abuse material",
+     "url": "https://www.yahoo.com/news/us/article/thomas-markle-arrested-by-fbi-on-charges-linked-to-child-sexual-abuse-material-reports-say-153545681.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida",
+     "title_en": "Meghan Markle's father Thomas Markle Sr. arrested by FBI in Florida",
+     "url": "https://abcnews.com/GMA/News/meghan-markles-father-thomas-markle-sr-arrested-fbi/story?id=137912305",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Meghan Markle\u2019s father arrested in US over alleged child sex abuse photos",
+     "title_en": "Meghan Markle\u2019s father arrested in US over alleged child sex abuse photos",
+     "url": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-06",
+   "title": "New DNA Technology Offers Hope in JonBen\u00e9t Ramsey Case",
+   "sum": "New advancements in DNA technology may provide solutions to the unsolved murder of JonBen\u00e9t Ramsey, which occurred over 30 years ago. This development brings renewed hope to the ongoing investigation into her death.",
+   "more": "The case of JonBen\u00e9t Ramsey, who was found murdered in 1996, has puzzled authorities and the public for decades. With the introduction of new DNA techniques, there is optimism among investigators that crucial evidence can be reexamined. Different sources emphasize the potential impact of these advancements on cold cases in general. However, views may vary on the likelihood of making significant breakthroughs in this particular case based on historical challenges.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+     "title_en": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later.",
+     "url": "https://www.yahoo.com/news/us/articles/dna-tech-could-solve-jonben-182509064.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+     "title_en": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later.",
+     "url": "https://abcnews.com/US/new-dna-tech-solve-jonbent-ramseys-murder-case/story?id=137603999",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-06",
+   "title": "Houston Mayor Limits Police Cooperation with ICE",
+   "sum": "Houston Mayor John Whitmire has announced changes to the city's police cooperation with ICE following recent election results. Minor traffic violations will no longer lead to referrals to US Immigration and Customs Enforcement.",
+   "more": "The mayor's decision is framed as a response to the political shifts in Texas, attributed to the recent elections. While the Houston Chronicle emphasizes the impact of the electoral results on city policy, Al Jazeera focuses on the practical implications for local law enforcement practices. Both outlets highlight the reduced engagement between local police and federal immigration authorities, suggesting a shift towards prioritizing community relations. This change aligns with broader trends in various cities aiming to limit cooperation with immigration authorities.",
+   "coverage": [
+    {
+     "outlet": "Chron.com",
+     "title": "Houston mayor says 'elections matter' as he moves to curb city's cooperation with ICE",
+     "title_en": "Houston mayor says 'elections matter' as he moves to curb city's cooperation with ICE",
+     "url": "https://www.chron.com/news/houston-texas/article/john-whitmire-changes-houston-police-policy-22516751.php?utm_medium=referral&utm_campaign=yahoo_syndication",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Houston mayor curbs cooperation of US city\u2019s police with ICE",
+     "title_en": "Houston mayor curbs cooperation of US city\u2019s police with ICE",
+     "url": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-06",
+   "title": "Man Charged with Murder of Carrie Mullane",
+   "sum": "A 35-year-old man has been charged with the murder of Carrie Mullane. Police report that the last confirmed sighting of her was on October 10 when she left Limerick for Enniskillen.",
+   "more": "The case has garnered significant attention as details about Mullane's disappearance emerge. Authorities are continuing their investigation, and community members are expressing their shock at the incident. Different media outlets may focus on the police's ongoing efforts to uncover more information and the community's response to this tragic event.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Man, 35, charged with murder of Carrie Mullane",
+     "title_en": "Man, 35, charged with murder of Carrie Mullane",
+     "url": "https://www.bbc.co.uk/news/articles/c54g11430n7ro",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-06",
+   "title": "Two Arrested After Gunshots Damage Vehicle in Swansea",
+   "sum": "A 41-year-old man and a 16-year-old boy have been arrested following damage to a car caused by gunshots. The police stated that the vehicle in Morriston showed signs consistent with a firearms discharge.",
+   "more": "The police are investigating the incident and have not released further details regarding the circumstances that led to the gunfire. The community may be concerned about the implications of such an event in their area. Local residents may also wonder about the safety measures in place following this incident. It remains to be seen how this case will unfold in the justice system.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
+     "title_en": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
+     "url": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-06",
+   "title": "Stephen Miller Appointed as White House Chief of Staff",
+   "sum": "Stephen Miller has been appointed by President Trump to replace Susie Wiles as White House chief of staff. This change follows significant Republican losses in the midterm elections.",
+   "more": "NPR emphasizes the timing of Miller's appointment as a response to the Republican defeat, while Fox News highlights Wiles' tenure and her status as the longest-serving chief of staff during Trump's presidency. The focus on Wiles' departure seems to set a tone of accountability for the recent electoral outcomes. Overall, both outlets report on the leadership change while framing it within the context of electoral challenges faced by the Republicans.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
+     "title_en": "Stephen Miller replaces Susie Wiles as White House chief of staff.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles",
+     "title_en": "Trump names Stephen Miller new White House chief of staff, replacing Susie Wiles.",
+     "url": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-06",
+   "title": "Historic Firsts in Incoming Class of U.S. Senators",
+   "sum": "The new class of U.S. senators includes several historic firsts, such as the first Native American, the first Muslim senator, and the Senate's first Paralympian. These elected officials mark significant milestones in representation within the U.S. government.",
+   "more": "The midterm elections resulted in a diverse group of candidates who are breaking new ground in the Senate. This reflects a changing political landscape where underrepresented communities are gaining visibility in high offices. Various media outlets highlight the importance of these milestones for inclusivity and diversity in American politics.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "The incoming class of U.S. senators is full of historic firsts",
+     "title_en": "The incoming class of U.S. senators is full of historic firsts.",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-06",
+   "title": "Judge Blocks Construction of Trump's Arch",
+   "sum": "A judge has halted the construction of Trump's arch after it received federal approval. This decision comes as the Labor Department prepares to release an important jobs report.",
+   "more": "The ruling reflects ongoing legal challenges surrounding the project despite previous approvals. Additionally, the Labor Department's upcoming jobs report is highly anticipated following a significant drop in the stock market. Different outlets may highlight the implications of these developments, particularly the timing of the jobs report in relation to market volatility.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+     "title_en": "Judge halts construction of Trump's arch",
+     "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-06",
+   "title": "Fl\u00e1vio Bolsonaro Claims Sole Escape from Brazil",
+   "sum": "Fl\u00e1vio Bolsonaro stated from Miami that he fled Brazil alone, insisting he would take his secrets to the grave. He expressed that staying in Brazil would have inevitably led to his imprisonment.",
+   "more": "In an interview with The New York Times, he emphasized that he would never disclose how he managed to leave Brazil following his electoral defeat. Bolsonaro denied receiving assistance from other governments in reaching Miami and reiterated his allegations of electoral fraud related to Lula's victory. While both articles present Bolsonaro's claims similarly, Latercera emphasizes his personal decision to flee, whereas La Nacion focuses more on his refusal to reveal details of his escape.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Fl\u00e1vio Bolsonaro asegura desde Miami que huy\u00f3 solo de Brasil y que se llevar\u00e1 el \u201csecreto a la tumba\u201d",
+     "title_en": "Fl\u00e1vio Bolsonaro assures from Miami that he fled Brazil alone and will take the 'secret to the grave'",
+     "url": "https://www.latercera.com/mundo/noticia/flavio-bolsonaro-asegura-desde-miami-que-huyo-solo-de-brasil-y-que-se-llevara-el-secreto-a-la-tumba/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "Flavio Bolsonaro dijo que nunca revelar\u00e1 c\u00f3mo pudo salir de Brasil tras la derrota electoral: \u201cMe lo llevar\u00e9 a la tumba\u201d",
+     "title_en": "Flavio Bolsonaro said he will never reveal how he managed to leave Brazil after the electoral defeat: 'I will take it to the grave'",
+     "url": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-dijo-que-nunca-revelara-como-pudo-salir-de-brasil-tras-la-derrota-electoral-me-lo-nid06112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-06",
+   "title": "Street Closures for Pope Leo XIV's Visit to Buenos Aires",
+   "sum": "Buenos Aires will implement progressive street closures due to the visit of Pope Leo XIV. Key areas affected include Avenida del Libertador and surrounding neighborhoods.",
+   "more": "The closures will primarily impact the Palermo and Recoleta areas as a result of the Pope's presence. Authorities provide details on special traffic measures, including contraflow lanes and restrictions on parking facilities. Different outlets focus on various aspects of the event, with some emphasizing the traffic disruptions while others highlight public safety and accessibility during the visit.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Mapa de cortes de calles por la visita del papa Le\u00f3n XIV en la Ciudad de Buenos Aires: cierres, desv\u00edos y horarios",
+     "title_en": "Map of street closures for the visit of Pope Leo XIV in Buenos Aires: closures, detours, and schedules.",
+     "url": "https://www.lanacion.com.ar/sociedad/mapa-de-cortes-de-calles-por-la-visita-del-papa-leon-xiv-en-la-ciudad-de-buenos-aires-cierres-nid06112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-06",
+   "title": "MotoGP Implements Emergency Protocols Amid Middle East Tensions",
+   "sum": "The MotoGP has established an evacuation plan, emergency protocols, and shelters in response to escalating tensions in the Middle East. The Losail International Circuit has announced general instructions for riders and teams in the event of an attack.",
+   "more": "The measures taken by MotoGP indicate a heightened awareness of regional instability and a commitment to safety. Unlike other sporting events that may downplay security risks, MotoGP is taking proactive steps to ensure the safety of participants. The communication from the Losail International Circuit emphasizes preparedness, reflecting a serious approach to potential threats.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El MotoGP tiene un plan de evacuaci\u00f3n, protocolos de emergencia y refugios ante la tensi\u00f3n en Medio Oriente",
+     "title_en": "MotoGP Has an Evacuation Plan, Emergency Protocols, and Shelters Amid Tension in the Middle East",
+     "url": "https://www.lanacion.com.ar/deportes/motociclismo/el-motogp-tiene-un-plan-de-evacuacion-protocolos-de-emergencia-y-refugios-ante-la-tension-en-medio-nid06112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-06",
+   "title": "Trump Claims Israel Wouldn't Exist Today Without His Actions in Iran",
+   "sum": "Former President Trump stated that Israel would not exist today without his intervention in Iran, following Republican electoral defeats. He emphasized that the entire Middle East would be different without his efforts to prevent Tehran from obtaining a nuclear weapon.",
+   "more": "Trump's remarks suggest a direct correlation between his foreign policy and the current geopolitical landscape in the Middle East. He acknowledged that the armed conflict in the region influenced Republican election outcomes, indicating an awareness of domestic political dynamics tied to international issues. This framing contrasts with other analyses that might attribute diverse factors to electoral results beyond foreign policy alone.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Trump afirma que Israel \u201cno existir\u00eda hoy\u201d sin su guerra en Ir\u00e1n tras derrota electoral republicana",
+     "title_en": "Trump claims Israel 'would not exist today' without his Iran war",
+     "url": "https://www.latercera.com/mundo/noticia/trump-afirma-que-israel-no-existiria-hoy-sin-su-guerra-en-iran-tras-derrota-electoral-republicana/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-06",
+   "title": "Presidential Tour in Europe: Insights and Encounters",
+   "sum": "The President has returned from his European tour, which included notable interactions and unexpected moments. Highlights included connections with Italian Prime Minister Giorgia Meloni and special guests in the delegation.",
+   "more": "The tour generated various narratives, particularly focusing on the personal connections and unscripted moments that occurred. The presence of unusual guests, including the Chancellor's wife and a lawyer linked to political matters, added a layer of intrigue to the official agenda. While some outlets emphasized the diplomatic successes, others zeroed in on the informal aspects that could attract both support and criticism back home.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "La esposa del canciller, el abogado del Segundo Piso y los vinos que Kast llev\u00f3 al Papa: las postales fuera de libreto de la gira presidencial",
+     "title_en": "The Chancellor's Wife, the Second Floor Lawyer, and the Wines Kast Took to the Pope: The Unscripted Moments of the Presidential Tour.",
+     "url": "https://www.latercera.com/politica/noticia/la-esposa-del-canciller-el-abogado-del-segundo-piso-y-los-vinos-que-kast-llevo-al-papa-las-postales-fuera-de-libreto-de-la-gira-presidencial/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-06",
+   "title": "Trump Appoints Stephen Miller as New Chief of Staff",
+   "sum": "President Trump has appointed Stephen Miller as his new chief of staff, signaling potential conflicts with Congress. Miller's reputation as a loyal partisan is expected to play a significant role in upcoming political battles.",
+   "more": "The article highlights how Miller's appointment may exacerbate partisan tensions in Washington, given his history of polarizing rhetoric and policies. Different outlets may focus on the implications for Trump's administration and the legislative process, with some emphasizing the likelihood of confrontations and others addressing the broader political landscape. Overall, the move is seen as a strategic decision that aligns with Trump's agenda to maintain a strong base.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "title_en": "With Stephen Miller pick, Trump readies for a battle",
+     "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-06",
+   "title": "Trump Signs Order to Secure Oval Office Changes",
+   "sum": "Trump has signed an order that prevents future presidents from altering the changes he made to the Oval Office. This decision follows significant renovations and construction projects initiated by Trump in Washington.",
+   "more": "The order aims to protect the aesthetic and structural changes made during his presidency, ensuring that the redesigned space remains intact for future administrations. This move has drawn attention, with various outlets discussing its implications for presidential legacy and the continuity of White House traditions. Some analysts suggest that such an order might reflect Trump's desire to leave a lasting mark on the Oval Office, while others see it as a controversial step that could limit the incoming president's ability to customize their office.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Trump signs order preventing future presidents from changing Oval Office",
+     "title_en": "Trump signs order preventing future presidents from changing Oval Office",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-06",
+   "title": "Turkey's Parliament Approves Defence Agreement with Mecca",
+   "sum": "Turkey's parliament has ratified a defence agreement related to Mecca, signifying a commitment to assist Saudi Arabia. This move prepares the way for increased Turkish involvement in the ongoing conflict with the Houthis.",
+   "more": "The agreement's approval is seen as a significant step in strengthening military cooperation between Turkey and Saudi Arabia. This decision may lead to a more active role for Turkey in regional conflicts, particularly in Yemen. Different outlets may emphasize varying aspects of this agreement, with some focusing on the strategic implications for the Middle East while others may highlight the historical ties between the two nations.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Turkiye\u2019s parliament ratifies Mecca defence agreement",
+     "title_en": "Turkey's Parliament Approves Defence Agreement with Mecca",
+     "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-06",
+   "title": "Indonesia Names Fourth Wiretapping Suspect Amid Political Intrigue",
+   "sum": "The wiretapping scandal in Indonesia is escalating, leading to increased political tension between President Prabowo Subianto and his predecessor Joko Widodo. The situation reflects deepening divisions within the political landscape.",
+   "more": "As the investigation into the wiretapping incident continues, the naming of a fourth suspect adds complexity to an already charged atmosphere. Analysts are concerned that the scandal could further polarize factions within the government. Different outlets emphasize the implications of this scandal for national politics, with some framing it as a threat to democracy, while others highlight the personal rivalries involved.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Indonesia names fourth wiretapping suspect as political intrigue deepens",
+     "title_en": "Indonesia Names Fourth Wiretapping Suspect",
+     "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "Protesters Breach Microsoft Data Center Site in Amsterdam",
+   "sum": "Protests against Microsoft data centers have escalated in Amsterdam, with several hundred demonstrators breaking into a construction site. The protests are fueled by concerns over the significant resources consumed by data centers.",
+   "more": "The protests highlight growing tensions regarding the environmental impact of data centers across Europe. While both Al Jazeera and Rt-english emphasize the scale of the protests and police response, Rt-english specifically mentions multiple arrests, indicating a more confrontational situation. Al Jazeera focuses more on the protests as part of a broader trend against data centers\u2019 resource consumption. Both outlets report on the clash between protesters and law enforcement.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Protesters break into Microsoft data centre site in Amsterdam",
+     "title_en": "Protesters break into Microsoft data centre site in Amsterdam.",
+     "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Rt-english.com",
+     "title": "Protesters storm Microsoft data center construction site in Amsterdam (VIDEOS)",
+     "title_en": "Protesters storm Microsoft data center construction site in Amsterdam (VIDEOS).",
+     "url": "https://rt-english.com/news/648533-microsoft-data-center-amsterdam-protest/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "Cyberattacks Targeting Refrigeration Systems Raise Concerns",
+   "sum": "US and European agencies have issued warnings about cyberattacks affecting refrigeration systems crucial for food and medicine preservation. These attacks may disrupt the functioning of grocery store freezers and cold storage facilities.",
+   "more": "The US advisory highlights that attackers are specifically targeting controllers that manage freezer temperatures, potentially leading to food spoilage. In Europe, ENISA has noted similar threats, stressing the implications for supermarkets and industrial control systems. Both advisory notices showcase a growing concern over the vulnerability of essential supply chains to cyber threats, although the framing emphasizes national versus regional impacts in the US and Europe.",
+   "coverage": [
+    {
+     "outlet": "Help Net Security",
+     "title": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine",
+     "title_en": "US agencies warn attackers are targeting refrigeration systems that protect food and medicine.",
+     "url": "https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Securityaffairs.com",
+     "title": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe",
+     "title_en": "ENISA Warns of Cyberattacks Targeting Refrigeration Systems Across Europe.",
+     "url": "https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "Healthcare Intelligence Group Issues Cybersecurity Warning",
+   "sum": "An organization focused on healthcare intelligence sharing is advising its members to enhance cybersecurity measures. This warning follows cyberattacks on cold storage systems, notably affecting a blood bank in France.",
+   "more": "The warning highlights the increasing threat of cyberattacks targeting healthcare infrastructure. Members are urged to take immediate action to secure their systems and protect sensitive healthcare data. This incident underscores the vulnerability of critical healthcare services to cyber threats.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+     "title_en": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-06",
+   "title": "Reflections on Aging at 65",
+   "sum": "At 65, I am confronting the reality that I have more years behind me than ahead. This realization is prompting me to reflect on my life and the possibilities that still lie ahead.",
+   "more": "The experience of turning 65 has sparked deep self-reflection about the passage of time and the acceptance of aging. I find myself making peace with the past while also contemplating how to make the most of my remaining years. This ongoing journey has altered my approach to life, adding a new layer of appreciation for the moments I still have.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "I'm 65 and realizing I have more years behind me than ahead. It's changing how I live.",
+     "title_en": "I'm 65 and realizing I have more years behind me than ahead. It's changing how I live.",
+     "url": "https://www.businessinsider.com/turning-65-rethink-past-what-comes-next-self-reflection-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-06",
+   "title": "Paraguay's President Santiago Pena Ousted and Placed Under House Arrest Amid Bank Crisis",
+   "sum": "Paraguay's Senate has unanimously voted to oust President Santiago Pena due to the collapse of a significant bank linked to his administration. This crisis has left millions of customers' accounts frozen, affecting public pension and healthcare funds.",
+   "more": "Both DW and CNA report on the ousting of President Santiago Pena, noting the unanimous Senate vote and the implications of the bank collapse on citizens' finances. DW emphasizes the extent of the financial crisis and its impact on public services, while CNA highlights the past connections of Pena to the failed bank. The framing in both articles consistently points to the severity of the situation and the resulting political fallout in Paraguay.",
+   "coverage": [
+    {
+     "outlet": "DW (English)",
+     "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+     "title_en": "Paraguay: President Santiago Pena under house arrest over bank crisis.",
+     "url": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Paraguay president ousted and placed under house arrest, successor sworn in",
+     "title_en": "Paraguay president ousted and placed under house arrest, successor sworn in.",
+     "url": "https://www.channelnewsasia.com/world/paraguay-president-ousted-and-placed-under-house-arrest-successor-sworn-in-6532536",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-06",
+   "title": "Paraguay's Senate Rejects Extension Request from President Pe\u00f1a",
+   "sum": "The Senate of Paraguay has denied President Santiago Pe\u00f1a's request for a 72-hour extension to prepare his defense in an upcoming impeachment trial. This decision allows the impeachment proceedings to move forward without his appearance.",
+   "more": "Pe\u00f1a had asked for additional time to prepare his defense against the impeachment charges, but the Senate's refusal means that his absence will not delay the process. Different outlets emphasize the urgency of the impeachment trial, highlighting the Senate's resolve to proceed despite the president's request. The rejection of the extension reflects a growing impatience within the legislative body regarding Pe\u00f1a's situation.",
+   "coverage": [
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "Presidente del Congreso de Paraguay reacciona a la \"pr\u00f3rroga\" solicitada por Pe\u00f1a",
+     "title_en": "President of the Congress of Paraguay reacts to the 'extension' requested by Pe\u00f1a.",
+     "url": "https://actualidad-rt.com/actualidad/636386-presidente-congreso-paraguay-reacciona-prorroga-pena",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Diariobitcoin.com",
+     "title": "Senado de Paraguay rechaza la pr\u00f3rroga solicitada por Santiago Pe\u00f1a y juicio pol\u00edtico avanza sin su comparecencia",
+     "title_en": "Paraguay's Senate rejects 72-hour extension requested by Santiago Pe\u00f1a, impeachment proceeds without his appearance.",
+     "url": "https://www.diariobitcoin.com/bancos-y-pagos-verticales/senado-de-paraguay-rechaza-la-prorroga-pedida-por-santiago-pena-y-el-juicio-politico-avanza-sin-su-comparecencia/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-06",
+   "title": "Impact of Data Centers and AI on Midterm Elections",
+   "sum": "Recent exit polls indicate that a significant portion of voters considered artificial intelligence and data centers influential in their voting decisions during the midterm elections. Additionally, there was considerable opposition to data centers that influenced campaign strategies.",
+   "more": "NBC News exit polls revealed that 56% of voters believed AI and data centers played a crucial role in their voting choice. Simultaneously, the midterm campaigns saw substantial negative sentiment towards data centers, with significant investments in advertising that addressed concerns over their environmental impact. Many successful candidates made pledges to regulate these energy-intensive facilities, indicating a shift in public opinion regarding data centers. The framing of data centers as controversial entities was prominent in various races across the United States.",
+   "coverage": [
+    {
+     "outlet": "Naturalnews.com",
+     "title": "Exit Polls: AI Data Centers Factored Heavily in Midterm Vote",
+     "title_en": "Exit Polls: AI Data Centers Factored Heavily in Midterm Vote",
+     "url": "https://www.naturalnews.com/2026-11-06-exit-polls-data-centers-factored-heavily-midterm.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Data centers took a beating in the midterm elections",
+     "title_en": "Data centers took a beating in the midterm elections",
+     "url": "https://abcnews.com/Technology/wireStory/data-centers-beating-midterm-elections-reckoning-ahead-tech-137902293",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-06",
+   "title": "The Blue Wave and Local Politics",
+   "sum": "This article discusses the impact of local elections on civil liberties and the rule of law. It also highlights the significance of upcoming challenges facing urban communities.",
+   "more": "The New York Review of Books article features David Cole reflecting on civil liberties during Trump's presidency, emphasizing the importance of local action. In contrast, the Weekly Wrap from Nextcity.org focuses on urban issues and the recent election of Los Angeles Mayor Nithya Raman. Both pieces recognize the relevance of grassroots movements, though they approach it from different angles\u2014one concentrating on legal implications and the other on municipal leadership and community struggles.",
+   "coverage": [
+    {
+     "outlet": "The New York Review of Books",
+     "title": "The Blue Wave\u2014I",
+     "title_en": "The Blue Wave\u2014I. David Cole \u2022 Sue Halpern \u2022 Mark O\u2019Connell \u2022 Quinn Slobodian",
+     "url": "https://www.nybooks.com/online/2026/11/06/the-blue-wave-i/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Nextcity.org",
+     "title": "The Weekly Wrap: A Blue Wave*",
+     "title_en": "The Weekly Wrap: A Blue Wave*",
+     "url": "https://nextcity.org/urbanist-news/the-weekly-wrap-a-blue-wave",
+     "bias": "Lean Left",
      "src": "ai"
     }
    ]

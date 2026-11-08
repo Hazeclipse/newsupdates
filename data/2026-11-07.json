@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-07",
+ "updated": "Nov 08, 16:51 UTC",
+ "stories": [
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-07",
+   "title": "Democrats Seek to Expand Investigations into ICE Shootings",
+   "sum": "Democrats are planning to broaden their investigations into deadly incidents involving Immigration and Customs Enforcement (ICE) agents. The recent killings during an ICE surge in Minneapolis have prompted a renewed focus on these issues following the Democrats' electoral victories.",
+   "more": "The deaths of Renee Good and Alex Pretti are seen as a significant turning point in the national discussion surrounding immigration enforcement. Following their deaths, Democrats are expected to ramp up inquiries into ICE's operations and accountability. Different media outlets may emphasize the political implications of the Democrats' wins and how they shape this renewed scrutiny, with some focusing more on systemic issues within ICE than others.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Democrats plan to widen their probes of fatal ICE shootings",
+     "title_en": "Democrats plan to widen their probes of fatal ICE shootings",
+     "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-11-07",
+   "title": "Nvidia CEO's Daughter Cancels Visit to Korea",
+   "sum": "Madison Huang, a senior director at Nvidia and the daughter of CEO Jensen Huang, has canceled her planned visit to Korea. Sources indicate this decision was made abruptly.",
+   "more": "The cancellation of the visit has not been elaborated upon, leaving some questions regarding the reasons behind the abrupt change in plans. Different outlets may highlight various angles, such as the potential impact on corporate relations or the speculation about Nvidia's future operations in the region. However, no specific reasoning has been provided in the sources available.",
+   "coverage": [
+    {
+     "outlet": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+     "title": "Nvidia CEO's daughter cancels planned visit to Korea: sources - The Korea Times",
+     "title_en": "Nvidia CEO's Daughter Cancels Planned Visit to Korea: Sources",
+     "url": "https://www.koreatimes.co.kr/business/companies/20261107/nvidia-ceos-daughter-cancels-planned-visit-to-korea-sources",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "africa",
+   "date": "2026-11-07",
+   "title": "Transporters Seek Answers on Missing Cargo Tracking Seals",
+   "sum": "Transporters are questioning the whereabouts of 13,000 cargo tracking seals that were issued by KRA. The missing seals have raised concerns within the transportation sector.",
+   "more": "The transporters are calling for an investigation into the issue, emphasizing the importance of accountability in the handling of these seals. The KRA has faced scrutiny over the management of cargo tracking, leading to demands for transparency. Different outlets may have varying degrees of urgency in reporting the transporters' concerns and the potential implications for trade.",
+   "coverage": [
+    {
+     "outlet": "Nation.africa",
+     "title": "Where did KRA\u2019s 13,000 cargo tracking seals go? Transporters demand answers",
+     "title_en": "Where did KRA\u2019s 13,000 cargo tracking seals go?",
+     "url": "https://nation.africa/kenya/business/where-did-kra-s-13-000-cargo-tracking-seals-go-transporters-demand-answers-5662128",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-07",
+   "title": "Israel's President Herzog to Address Government Formation Challenges",
+   "sum": "President Herzog is set to announce a candidate to form a government amid challenges following a shift in legislative support. The situation remains tense as different political factions vie for power.",
+   "more": "The announcement on the candidate's selection will come after a majority of Israeli lawmakers have endorsed Eisenkot over Netanyahu. This marks a significant moment as factions such as Eisenkot's bloc and Arab-led parties aim to oust Netanyahu from power. The failure to successfully form a government could ultimately empower Netanyahu to retain his position. Various outlets highlight the struggle between differing political alliances within Israel's fractious political landscape.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "President Herzog faces key choice as Israel struggles to form government",
+     "title_en": "President Herzog faces key choice as Israel struggles to form government.",
+     "url": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-07",
+   "title": "New Zealand Prime Minister Says Election Results Are Uncertain",
+   "sum": "New Zealand Prime Minister Christopher Luxon states that the election is 'too close to call.' He believes he has a potential pathway to form the next government.",
+   "more": "The uncertainty surrounding the election results has prompted discussions about possible coalitions and alliances. Various parties are likely weighing their options depending on the final tally. This situation suggests a potentially complex political landscape ahead as parties navigate their strategies to secure power.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "New Zealand\u2019s prime minister says election is \u2018too close to call\u2019",
+     "title_en": "New Zealand\u2019s prime minister says election is \u2018too close to call\u2019",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-07",
+   "title": "Pressure on Palestinian Citizens of Israel After Election Wins",
+   "sum": "Palestinian citizens of Israel are experiencing increased pressure following the success of Arab parties in recent elections. This has been described as a 'loyalty test' imposed on them.",
+   "more": "The success of Arab parties has raised concerns among Palestinian citizens about their status and treatment within Israel. Many feel that the political gains of Arab parties are provoking scrutiny and challenges to their loyalty to the state. This situation highlights the tensions between Arab and Jewish communities within Israel, and the framing may differ among outlets regarding the implications of these electoral results on societal dynamics.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Palestinian citizens of Israel put to \u2018loyalty test\u2019 after election wins",
+     "title_en": "Palestinian citizens of Israel put to \u2018loyalty test\u2019 after election wins",
+     "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-07",
+   "title": "Former President of Paraguay Detained Following Removal Amid Banking Scandal",
+   "sum": "Santiago Pe\u00f1a, the former president of Paraguay, has been placed under house arrest following his removal by Congress over a banking crisis. His detention is linked to an investigation into the collapse of a bank.",
+   "more": "After Congress stripped him of his presidential duties, Pe\u00f1a faced significant political pressure culminating in his arrest. Different media outlets highlight various aspects of the situation, with some emphasizing Pe\u00f1a's alliance with Donald Trump and the political ramifications of his removal. Notably, some reports mention the involvement of the attorney general in his detention, while others focus on the broader implications for Paraguay's political landscape.",
+   "coverage": [
+    {
+     "outlet": "Lavozdegalicia.es",
+     "title": "Detenido el presidente de Paraguay tras su cese por el caso Ueno",
+     "title_en": "President of Paraguay detained after his removal due to the Ueno case.",
+     "url": "https://www.lavozdegalicia.es/noticia/internacional/2026/11/07/detenido-presidente-paraguay-tras-cese-ueno/00031794035790897845643.htm",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "Ante una crisis bancaria, el presidente de Paraguay fue destituido por el Congreso",
+     "title_en": "In the face of a banking crisis, the president of Paraguay was removed by Congress.",
+     "url": "https://www.abc.es/internacional/ante-crisis-bancaria-presidente-paraguay-destituido-congreso-20261105234950-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "El expresidente de Paraguay Santiago Pe\u00f1a, en arresto domiciliario tras su detenci\u00f3n por la Polic\u00eda",
+     "title_en": "Former president of Paraguay Santiago Pe\u00f1a placed under house arrest following his police detention.",
+     "url": "https://www.europapress.es/internacional/noticia-expresidente-paraguay-santiago-pena-arresto-domiciliario-detencion-policia-20261107012426.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-07",
+   "title": "Paraguayan President Impeached Amid Banking Crisis",
+   "sum": "The impeachment of Paraguay's president follows a major banking crisis that affected access to accounts for nearly half the population. Santiago Pe\u00f1a has since been placed under house arrest on suspicion of breach of trust.",
+   "more": "Following the banking crisis, Pedro Alliana took over as president after Santiago Pe\u00f1a was impeached. The Senate's decision to remove Pe\u00f1a was quick, and he now faces serious legal allegations. The framing around Pe\u00f1a's actions suggests a focus on accountability amid government failings, while coverage of Alliana emphasizes the potential for change in leadership.",
+   "coverage": [
+    {
+     "outlet": "RTE",
+     "title": "Paraguay bank collapse sees president impeached, arrested",
+     "title_en": "Paraguay bank collapse sees president impeached, arrested",
+     "url": "https://www.rte.ie/news/world/2026/1107/1598335-paraguay-bank-collapse-sees-president-impeached-arrested/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Ousted Paraguayan president placed under house arrest",
+     "title_en": "Ousted Paraguayan president placed under house arrest",
+     "url": "https://www.cbc.ca/news/world/paraguay-ousted-president-arrest-warrant-9.7413118",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-07",
+   "title": "U.S. Justice Department Moves to Dismiss Lawsuit on California Ballots",
+   "sum": "The U.S. Justice Department has requested to dismiss its lawsuit that sought to prevent California from counting approximately 20,000 ballots allegedly cast by noncitizens. This decision follows recent developments in the political landscape and judicial commentary.",
+   "more": "The lawsuit dismissal comes amidst significant Republican losses in the recent midterm elections, suggesting a potential political backdrop to the decision. Additionally, California officials have maintained that the ballots in question are valid, leading to differing perspectives on the issue. The framing across various outlets emphasizes the DOJ's withdrawal and its implications for election integrity in California.",
+   "coverage": [
+    {
+     "outlet": "CBS News",
+     "title": "DOJ dropping suit asking California to set aside alleged noncitizen ballots",
+     "title_en": "DOJ dropping suit asking California to set aside alleged noncitizen ballots",
+     "url": "https://www.cbsnews.com/news/justice-department-drops-lawsuit-california-ballots-alleged-noncitizens/",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "HuffPost",
+     "title": "U.S. Justice Department Drops Bid To Force California To Set Aside Disputed Ballots",
+     "title_en": "U.S. Justice Department Drops Bid To Force California To Set Aside Disputed Ballots",
+     "url": "https://www.huffpost.com/entry/election-2026-california-noncitizen-voting_n_6aee9ae6e4b0d00572fe0dc1",
+     "bias": "Left",
+     "src": "table"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "US Justice Department drops bid to force California to set aside disputed ballots",
+     "title_en": "US Justice Department drops bid to force California to set aside disputed ballots",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots/articleshow/135623966.cms",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-07",
+   "title": "Trump's Influence on the Republican Party Faces Scrutiny After Midterm Losses",
+   "sum": "Republicans are confronting significant challenges and internal conflicts following disappointing results in the midterm elections. The party is divided over its future direction and the influence of Donald Trump.",
+   "more": "Florida Governor Ron DeSantis referred to the elections as an 'extinction-level event' for the GOP, while Texas Senator Ted Cruz described it as a 'Watergate-level repudiation.' Former Vice President Mike Pence's comments further highlight the discontent within the party. The Times of India notes that the party is struggling to balance traditional conservative values with Trump's influence, indicating a deeper ideological divide.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Trump's grip on his party is in question as Republicans reel from the midterm wipeout",
+     "title_en": "Trump's grip on his party is in question as Republicans reel from the midterm wipeout",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-grip-party-republicans-reel-124922943.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "Trump's grip on his party is in question as Republicans reel from the midterm wipeout",
+     "title_en": "Trump's grip on his party is in question as Republicans reel from the midterm wipeout",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-grip-on-his-party-is-in-question-as-republicans-reel-from-the-midterm-wipeout/articleshow/135637559.cms",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
