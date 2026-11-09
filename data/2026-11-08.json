@@ -1,0 +1,563 @@
+{
+ "date": "2026-11-08",
+ "updated": "Nov 09, 21:12 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-08",
+   "title": "Nvidia Investigates CEO Jensen Huang's Relationship with Suspected Chinese Spy",
+   "sum": "Nvidia is investigating CEO Jensen Huang over his relationship with Megaspeed executive Alice Huang, who is believed to have ties to Chinese espionage. Jensen Huang has also acknowledged being unfaithful to his wife.",
+   "more": "While The Verge focuses on the investigation into Jensen Huang\u2019s relationship with Alice Huang and her possible ties to Chinese espionage, the BBC highlights Huang's acknowledgment of personal infidelity and the impact on his family. Yahoo Entertainment also underscores his admission of an affair, framing it within the context of national security concerns regarding his alleged romance with a suspected spy. Across these outlets, the narrative emphasizes both the personal and broader implications of the relationship for Nvidia and its CEO.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
+     "title_en": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "title_en": "Nvidia launches investigation into CEO's affair with suspected Chinese spy.",
+     "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Nvidia's Huang admits to affair after allegations of romance with alleged Chinese spy",
+     "title_en": "Nvidia's Huang admits to affair after allegations of romance with alleged Chinese spy.",
+     "url": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-08",
+   "title": "Advancements in AI: The Emergence of World Models",
+   "sum": "World models are transforming AI by enabling simulations of real-world physics for better navigation by robots and autonomous vehicles. This technology marks a significant shift from traditional text-based AI learning.",
+   "more": "AI's transition from text to 3D space indicates a pivotal change in how autonomous systems will understand their environments. The development of these world models is crucial for improving the functionality and safety of robots and self-driving cars. While some outlets may emphasize the technological advancements, others might focus on the potential societal implications of widespread AI usage in navigation.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
+     "title_en": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know.",
+     "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-08",
+   "title": "NYT Cooking Introduces AI-Powered Recipe Modifier",
+   "sum": "The New York Times has launched a beta feature in its Cooking app that utilizes AI to assist users in modifying recipes and swapping ingredients. The tool is reported to perform well in meeting users' needs.",
+   "more": "The new feature aims to provide a more personalized cooking experience for users by allowing them to adjust recipes seamlessly. Early reviews indicate that the tool effectively matches expectations, enhancing the utility of the app. Some users may find the modifications helpful for dietary restrictions or ingredient availability, demonstrating the app's versatility in catering to different cooking scenarios.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
+     "title_en": "I Used NYT Cooking\u2019s New AI-Powered Recipe Modifier, and It\u2019s Actually Pretty Good",
+     "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-08",
+   "title": "Apple MacBook Pro M5 on Sale Amid M6 Launch",
+   "sum": "Apple has released an updated 14-inch MacBook Pro featuring the new M6 chip. However, the sale of the M5 model raises questions about the necessity of upgrading.",
+   "more": "The article suggests that consumers may find the M5 model more cost-effective given the current sale. It raises doubt about whether the new features in the M6 chip justify the transition from the M5. There's an implication that the previous model still meets consumer needs adequately, which may influence purchasing decisions.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+     "title_en": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+     "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-08",
+   "title": "Missing Teenager Rescued Through Among Us Outreach",
+   "sum": "A teenager missing for over 17 months was rescued in Oregon after reaching out for help in the game Among Us. The authorities responded after she contacted another player.",
+   "more": "Both Eurogamer and IGN reported on the incident, highlighting the unique way the teenager sought help through a video game. Eurogamer emphasized the duration of the missing person's case, while IGN focused on the action taken by the player she contacted. The reports underscore the importance of community and communication in potentially dangerous situations.",
+   "coverage": [
+    {
+     "outlet": "Eurogamer.net",
+     "title": "Missing teenager rescued after reaching out to another player in Among Us",
+     "title_en": "Missing teenager rescued after reaching out to another player in Among Us",
+     "url": "https://www.eurogamer.net/among-us-missing-teen-rescued-utah-oregon",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "IGN",
+     "title": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
+     "title_en": "Missing Teen Saved From Alleged Kidnapper After Seeking Help in Among Us",
+     "url": "https://www.ign.com/articles/missing-teen-saved-from-alleged-kidnapper-after-seeking-help-in-among-us",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-08",
+   "title": "Minister Warns of Ongoing Abuse in Media Industry Following Brand Case",
+   "sum": "Lisa Nandy expressed concerns about the prevalence of abuse within the media sector. She indicated that numerous individuals have confided in her about their experiences.",
+   "more": "The remarks were made during an interview with Laura Kuenssberg, where Nandy highlighted the importance of addressing these issues. This conversation follows the high-profile case involving Brand, which has prompted discussions about accountability in the media. While some outlets may emphasize Nandy's call for immediate action, others might focus on the broader implications for the media industry as a whole.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
+     "title_en": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
+     "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-08",
+   "title": "Iran Executes Three Men Linked to January Protests",
+   "sum": "Iran has executed three men accused of participating in protests against the government that occurred earlier this year. The individuals were reportedly involved in 'armed unrest.'",
+   "more": "The executions have drawn criticism from various human rights organizations, which highlight the government's ongoing crackdown on dissenting voices. The framing of the events varies, with some outlets emphasizing the government's stance on maintaining order, while others focus on the implications for human rights and civil liberties. Concerns about the fairness of the trials have also been raised in discussions surrounding these executions.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Iran executes three men for 'armed unrest' after January protests",
+     "title_en": "Iran executes three men for 'armed unrest' after January protests",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-08",
+   "title": "Dana White to Meet Trump Over White House Press Secretary Position",
+   "sum": "UFC president Dana White is scheduled to meet with President Donald Trump regarding an offer for the position of White House press secretary. Trump announced this offer on his social media platform.",
+   "more": "The announcement came from Trump on Truth Social, highlighting the informal nature of the offer. White's upcoming meeting is framed by both outlets as a significant moment, reflecting Trump's approach to staffing and informal political connections. NPR emphasizes the personal relationship between White and Trump, while Fox News focuses more on the timeline and the nature of the announcement.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+     "title_en": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer",
+     "title_en": "Dana White says he'll meet Trump amid claim of White House press secretary job offer.",
+     "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-dana-white-says-hell-meet-trump-amid-claim-white-house-press-secretary-job-offer",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-08",
+   "title": "Uncertain Outcome in New Zealand Election as Negotiations Loom",
+   "sum": "The recent New Zealand election has concluded without a clear winner, prompting leaders to enter negotiations. Prime Minister Christopher Luxon will oversee a caretaker government during this period.",
+   "more": "Luxon expressed a desire for a pause in political discourse, stating that there should be a break from politics for everyone involved. This reflects a sentiment shared by many after the election's results. Various news outlets may emphasize different aspects of this political uncertainty, but the overarching theme remains the lack of a decisive outcome.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+     "title_en": "No clear winner in New Zealand election, as leaders prepare for weeks of talks.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-08",
+   "title": "Gen Z Voters Shift to Democrats in Midterms",
+   "sum": "In the recent midterm elections, young voters under 30 largely supported Democrats, marking a strong rejection of President Trump and the Republican Party. Despite Republicans gaining some ground with younger voters in 2024, the trend in midterms favored Democrats.",
+   "more": "The engagement of Gen Z voters played a significant role in shaping the election outcomes, as their votes heavily leaned towards Democratic candidates. This demographic's discontent with the current administration was reflected in their voting choices. Different news outlets may highlight various aspects of this shift, such as the implications for future elections or the factors motivating young voters.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "How Gen Z voters helped fuel a blue wave for Democrats",
+     "title_en": "How Gen Z voters helped fuel a blue wave for Democrats",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6032829/gen-z-voters-midterm-elections",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-08",
+   "title": "Reactions in the Region Following Santiago Pe\u00f1a's Downfall",
+   "sum": "Countries in the region are responding to Santiago Pe\u00f1a's fall from power and are offering support to the new government. Brazil, Chile, Mexico, and the United States congratulated Pedro Alliana after his assumption of office.",
+   "more": "The reactions highlight a sense of solidarity among these nations as they navigate the political shift in Paraguay. While some countries offered immediate congratulations, the overall response reflects a cautious optimism for the new administration. There may be differing perspectives on the implications of this change, particularly in terms of foreign relations and regional stability.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "La regi\u00f3n reacciona a la ca\u00edda de Santiago Pe\u00f1a y env\u00eda se\u00f1ales de apoyo al nuevo gobierno",
+     "title_en": "The region reacts to Santiago Pe\u00f1a's downfall and sends signals of support to the new government.",
+     "url": "https://www.lanacion.com.ar/el-mundo/la-region-reacciona-a-la-caida-de-santiago-pena-y-envia-senales-de-apoyo-al-nuevo-gobierno-nid07112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-08",
+   "title": "Former Military Chief Gadi Eisenkot Aims to Succeed Netanyahu in Israel",
+   "sum": "Gadi Eisenkot, the former military chief, is seeking to succeed Benjamin Netanyahu in Israel following the elections on October 27, where no bloc achieved parliamentary majority. He has been tasked with forming a new government within 28 days, with a potential 14-day extension.",
+   "more": "The political landscape in Israel remains divided after the recent elections, posing a significant challenge for Eisenkot in gathering necessary support. The lack of a clear majority has led to uncertainty regarding the formation of a stable government. Different outlets may emphasize the implications of this political stalemate and the strategies Eisenkot might employ to unite various factions.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Zoom a Gadi Eisenkot, el exjefe militar que busca suceder a Benjamin Netanyahu en Israel",
+     "title_en": "Gadi Eisenkot, the former military chief, aims to succeed Benjamin Netanyahu in Israel.",
+     "url": "https://www.latercera.com/mundo/noticia/zoom-a-gadi-eisenkot-el-exjefe-militar-que-busca-suceder-a-benjamin-netanyahu-en-israel/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-08",
+   "title": "The Economic Consequences of Trump's waning power for Chile and the world",
+   "sum": "The implications of the Democratic wave that succeeded in the midterm elections in the United States are still being processed by financial markets. Factors such as reduced tension in the Middle East, declining oil prices, and the global depreciation of the dollar are all contributing to these economic outcomes.",
+   "more": "The article highlights how these changes may affect Chile specifically, as well as the broader international economic context. It suggests that a shift in U.S. political dynamics can influence market behaviors and global financial interactions. Different publications may offer varying perspectives on the long-term consequences of these developments, indicating regional concerns or potential benefits.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Las secuelas econ\u00f3micas de la p\u00e9rdida de poder de Trump para Chile y el mundo",
+     "title_en": "The Economic Consequences of Trump's waning power for Chile and the world",
+     "url": "https://www.latercera.com/pulso/noticia/las-secuelas-economicas-de-la-perdida-de-poder-de-trump-para-chile-y-el-mundo/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-08",
+   "title": "Minister Warns of Ongoing Abuse in Media Industry Following Brand Case",
+   "sum": "Lisa Nandy expressed concerns about the continued prevalence of abuse in the media industry. She noted that many individuals have shared their experiences with her.",
+   "more": "The discussion follows recent revelations in the media landscape, highlighting the need for greater awareness and reform. Nandy's comments suggest that the issue is more widespread than previously acknowledged. Different media outlets may focus on varying aspects of the conversation, including the implications for accountability and the need for systemic changes.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
+     "title_en": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
+     "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-08",
+   "title": "Investigation Launched After Fatal Train Crash in Egypt",
+   "sum": "Footage from the scene shows derailed carriages following a deadly train crash in Egypt. President Abdel Fattah al-Sisi has announced that an investigation is in progress to determine the causes and responsibilities.",
+   "more": "The crash has prompted widespread concern over railway safety in Egypt, with calls for accountability. President al-Sisi's commitment to investigating negligence reflects ongoing issues within the transportation sector. Different outlets may emphasize safety reforms or criticism of the current railway management in their coverage.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+     "title_en": "Footage shows derailed carriages after fatal train crash in Egypt.",
+     "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-08",
+   "title": "Briton Dies in Krakow Shootings and Royals Honor the Fallen",
+   "sum": "A Briton has died following shootings in Krakow, a topic prominently featured in the news. Additionally, the Royal Family was present at the Festival of Remembrance.",
+   "more": "The Royal Family's attendance at the Festival of Remembrance has been highlighted by several outlets, showcasing their commitment to honoring those who have fallen. The coverage of the shooting incident varies, with some focusing more on the implications for safety and others on the personal stories of those affected. The juxtaposition of these two events may suggest differing societal concerns, with one centered on violence and the other on commemoration.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
+     "title_en": "Briton dies in Krakow shootings",
+     "url": "https://www.bbc.co.uk/news/articles/cr9dz7jqel02o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-08",
+   "title": "White House Maintains Immigration Crackdown Post Midterms",
+   "sum": "The White House has pledged to continue its immigration enforcement efforts despite a recent defeat in the midterm elections. The Department of Homeland Security confirms that there will be no easing of current round-up operations.",
+   "more": "The commitment from the White House comes in the wake of electoral challenges, indicating a steadfast approach to immigration policy. This decision may reflect an effort to reassure certain voter bases concerned about immigration issues. Some may criticize this stance as ignoring public opinion shifts demonstrated in the midterms, while others might support a firm immigration policy. Overall, this policy reaffirmation indicates a continuation of the current administration's priorities in the face of electoral setbacks.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "White House vows to keep up immigration crackdown after midterms defeat",
+     "title_en": "White House vows to keep up immigration crackdown after midterms defeat",
+     "url": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-08",
+   "title": "Eisenkot Receives Mandate to Form Israel's Next Government",
+   "sum": "Israel's former military chief, Gadi Eisenkot, has been tasked with forming a government following an inconclusive election. He received support from 67 lawmakers, surpassing the 46 endorsing current Prime Minister Benjamin Netanyahu.",
+   "more": "Al Jazeera highlights the divided opposition as a significant challenge for Eisenkot in his efforts to form a government. In contrast, Haaretz emphasizes the formal grant of the mandate by President Isaac Herzog as a pivotal moment in the political process. Both outlets recognize Eisenkot's substantial backing compared to Netanyahu, indicating a shift in political dynamics. The emphasis on Eisenkot's military background may frame him as a strong leader amidst the political turbulence.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Will Eisenkot be able to form Israel\u2019s next gov\u2019t amid divided opposition?",
+     "title_en": "Will Eisenkot be able to form Israel\u2019s next gov\u2019t amid divided opposition?",
+     "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "Gadi Eisenkot receives first chance to form Israel's next government by President Herzog",
+     "title_en": "Gadi Eisenkot receives first chance to form Israel's next government by President Herzog",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/gadi-eisenkot-officially-gets-first-chance-to-form-israels-next-government/000001a1-bba1-d903-a3b3-bbab998f0000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-08",
+   "title": "The Impact of Beauty on Morality",
+   "sum": "Critic Elaine Scarry has advocated for the importance of beauty in both academic study and ethical development. She suggests that beauty has the potential to foster justice.",
+   "more": "Scarry's work spans over thirty years, emphasizing that beauty should not be dismissed as frivolous but rather explored for its deeper implications. She posits that engagement with beauty can lead individuals to become more compassionate and just. While some may see beauty as simply aesthetic, Scarry frames it as a transformative power in human experience.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "Can Beauty Make Us Good?",
+     "title_en": "Can Beauty Make Us Good?",
+     "url": "https://www.theatlantic.com/podcasts/2026/11/can-beauty-make-us-good/689302/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-08",
+   "title": "The Unique Timing of Dinner in the United States",
+   "sum": "Cultural and scheduling differences contribute to the earlier dinner times observed in the United States compared to other countries. This practice reflects distinct societal norms and daily routines.",
+   "more": "The article explores how various cultural practices and work schedules influence meal times, particularly dinner. It highlights that in the U.S., dinner is often served much earlier in the evening, contrasting with countries where dining occurs later. Additionally, it discusses how lifestyle choices, such as family dynamics and social activities, also play a role in the timing of meals. Other countries have different customs that result in later dinners, showcasing a diverse array of eating habits worldwide.",
+   "coverage": [
+    {
+     "outlet": "Mental Floss",
+     "title": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
+     "title_en": "Why Americans Eat Dinner So Much Earlier Than the Rest of the World",
+     "url": "https://www.mentalfloss.com/culture/why-americans-eat-dinner-earlier-than-rest-of-world",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-08",
+   "title": "Mass Protests Against Israel in Amsterdam",
+   "sum": "Hundreds of thousands took to the streets in Amsterdam to protest against Israel. Demonstrators are calling for stricter trade restrictions and an end to arms sales to Israel.",
+   "more": "The protests in Amsterdam have drawn varying reports regarding the number of participants, with Al Jazeera citing hundreds of thousands, while Breitbart mentions tens of thousands. Both outlets highlight the protesters' focus on ongoing violence against Palestinians, although the exact framing and emphasis on specific messages such as 'Stop the Genocide' differ between sources. Additionally, while the protests in Dublin focus on data centres and do not relate to the protests in Amsterdam, they demonstrate a significant public mobilization around different issues in multiple cities.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Hundreds of thousands join Amsterdam\u2019s \u2018Red Line\u2019 protest against Israel",
+     "title_en": "Hundreds of thousands join Amsterdam\u2019s \u2018Red Line\u2019 protest against Israel.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Breitbart News",
+     "title": "Tens of Thousands Protest in Amsterdam Against Israel",
+     "title_en": "Tens of Thousands Protest in Amsterdam Against Israel.",
+     "url": "https://www.breitbart.com/europe/2026/11/08/tens-of-thousands-protest-in-amsterdam-against-israel/",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Thousands attend Dublin protest against data centres",
+     "title_en": "Thousands attend Dublin protest against data centres.",
+     "url": "https://www.rte.ie/news/dublin/2026/1107/1598353-data-centres-protest/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-08",
+   "title": "Iran Executes Three Men for Involvement in January Protests",
+   "sum": "Iran has executed three men who were reportedly involved in anti-government protests earlier this year. The judiciary claims they carried out operations linked to foreign powers during the unrest.",
+   "more": "While both BBC News and The Punch report on the executions, they differ slightly in their framing. The BBC emphasizes the broader context of 'armed unrest', whereas The Punch highlights allegations of collaboration with foreign entities like Israel and the United States. This difference indicates varying perspectives on the motivations behind the protests and the characters of those executed. Despite these nuances, both outlets confirm that the executions were carried out following a judicial process.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Iran executes three men for 'armed unrest' after January protests",
+     "title_en": "Iran executes three men for 'armed unrest' after January protests.",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "The Punch",
+     "title": "Iran executes three men linked to anti-government protests",
+     "title_en": "Iran executes three men linked to anti-government protests.",
+     "url": "https://punchng.com/iran-executes-three-men-linked-to-anti-government-protests/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-08",
+   "title": "Billboards in Philadelphia Promote Counter-Campaign Against Boycott of Jewish Businesses",
+   "sum": "New billboards have been erected in Philadelphia to counter a proposed boycott of Jewish-owned restaurants. Advocacy groups are mobilizing against the planned actions targeting these businesses.",
+   "more": "NBC News highlights the emergence of new billboards aimed at encouraging a 'boycott the boycott' approach towards Jewish-owned establishments. In contrast, WPVI-TV focuses on the organized effort by advocacy groups to resist the bike boycott targeting these businesses. Both articles emphasize the community's response but frame the situation through different lenses of activism.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "New billboards urge people to \u2018boycott the boycott\u2019 of Jewish-owned businesses",
+     "title_en": "New billboards urge people to \u2018boycott the boycott\u2019 of Jewish-owned businesses.",
+     "url": "https://www.nbcnews.com/news/us-news/billboards-urge-boycott-boycott-jewish-owned-businesses-rcna608119",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "WPVI-TV",
+     "title": "Philly planned protest targets Jewish-owned businesses...",
+     "title_en": "Philly planned protest targets Jewish-owned businesses.",
+     "url": "https://6abc.com/post/advocacy-groups-voice-concerns-planned-protest-targeting-jewish-owned-businesses/20023440/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-08",
+   "title": "Protesters Break Into Microsoft Data Center Construction Site in Amsterdam",
+   "sum": "Protesters in Amsterdam broke into a Microsoft data center construction site, leading to the detention of 150-200 individuals by Dutch police. This incident reflects the growing backlash against data centers in Europe.",
+   "more": "The protests occurred shortly after the US midterm elections, which saw a surge of Democratic promises to regulate data centers more strictly. While Cointelegraph focuses on the arrest numbers, CNA highlights the broader context of political changes influencing public sentiments towards data centers. Different outlets emphasize either the local actions in Amsterdam or the implications of escalating European opposition to data centers driven by US political shifts.",
+   "coverage": [
+    {
+     "outlet": "Cointelegraph",
+     "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+     "title_en": "Protesters break into Microsoft data center construction site: Report",
+     "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Protesters break into Microsoft data centre site in Amsterdam as Europe\u2019s backlash spreads",
+     "title_en": "Protesters break into Microsoft data centre site in Amsterdam as Europe\u2019s backlash spreads",
+     "url": "https://www.channelnewsasia.com/world/data-centre-protesters-microsoft-amsterdam-europe-6531886",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-08",
+   "title": "MAGA Supporters Question Trump's Future After Midterm Losses",
+   "sum": "Following the recent midterm elections, supporters of former President Trump are reassessing his impact on the Republican Party after significant losses. Many are expressing frustration with party leadership and questioning the future direction of the MAGA movement.",
+   "more": "In Dallas, following the elections, MAGA supporters left an event feeling disillusioned as they had anticipated a victory. The sentiment among supporters indicates a growing concern about Trump's influence on the party's electoral performance. Different outlets frame the situation with varying emphasis on Trump's accountability, with some focusing more on frustration within the ranks, while others highlight a broader sense of uncertainty for the MAGA movement.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "'Trump has cost us': MAGA loyalists question his future after midterm losses",
+     "title_en": "'Trump has cost us': MAGA loyalists question his future after midterm losses",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-cost-us-midterm-losses-110625474.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "'Trump has cost us': After midterm losses, MAGA asks if it's over",
+     "title_en": "'Trump has cost us': After midterm losses, MAGA asks if it's over",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-has-cost-us-after-midterm-losses-maga-asks-if-its-over/articleshow/135657808.cms",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-08",
+   "title": "Republican Party's Position After Midterms",
+   "sum": "The Republican Party faced a loss in the midterms, but it is not considered historic. The midterms have traditionally been a time for accountability for the party in power.",
+   "more": "Al Jazeera emphasizes that while the GOP's loss is significant, it falls within the expected pattern of midterm elections. In contrast, Fox News' Trey Gowdy reflects on the nature of the loss as a crucial lesson for Republicans, questioning how they could transition from winning to facing such defeats in a short time. The framing suggests a need for introspection on the part of the GOP, with Fox News highlighting a sense of urgency for learning from electoral outcomes. Overall, Al Jazeera presents a more analytical take, while Fox News focuses on the implications for the Republicans' future strategy.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "After the midterms, where does the Republican Party stand?",
+     "title_en": "After the midterms, where does the Republican Party stand?",
+     "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "TREY GOWDY: The midterms were a painful lesson that Republicans can't skip learning",
+     "title_en": "TREY GOWDY: The midterms were a painful lesson that Republicans can't skip learning.",
+     "url": "https://www.foxnews.com/opinion/trey-gowdy-midterms-painful-lesson-republicans-cant-skip-learning",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  }
+ ]
+}

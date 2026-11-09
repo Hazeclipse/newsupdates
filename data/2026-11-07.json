@@ -1,6 +1,6 @@
 {
  "date": "2026-11-07",
- "updated": "Nov 08, 16:51 UTC",
+ "updated": "Nov 09, 21:12 UTC",
  "stories": [
   {
    "cat": "politics",
@@ -227,6 +227,287 @@
      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-grip-on-his-party-is-in-question-as-republicans-reel-from-the-midterm-wipeout/articleshow/135637559.cms",
      "bias": "Lean Right",
      "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-07",
+   "title": "AI Assistant Enhances Weeknight Cooking Experience",
+   "sum": "The NYT Cooking AI assistant provided helpful guidance for making chicken but caused issues with baking a cake. The author's reliance on the assistant highlights the challenges and benefits of using AI in everyday cooking.",
+   "more": "Despite the initial success with chicken, the AI's suggestions for the cake were less effective, showcasing the limitations of technology in culinary tasks. This dual experience illustrates both the potential and the pitfalls of integrating AI into home cooking. Different articles may highlight either the convenience or the shortcomings of AI assistance in cooking, depending on the focus of the piece.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+     "title_en": "NYT Cooking's AI assistant saved my weeknight chicken, but almost ruined my cake.",
+     "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-07",
+   "title": "Briton Killed in 'Far-Right' Shooting in Krakow",
+   "sum": "A shooting incident in Krakow, Poland, resulted in the deaths of six individuals, including a British national. The assailant reportedly opened fire randomly on people in the Main Market Square.",
+   "more": "The police have characterized the shooter as having far-right motivations. Eyewitnesses described a chaotic scene as the attacker drove into the busy square before opening fire. Different news outlets may emphasize the implications of the shooter's ideologies, with some focusing more on the impact on local safety and others on the political context surrounding the incident.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Briton among six killed in 'far-right' shooting in Krakow",
+     "title_en": "Briton among six killed in 'far-right' shooting in Krakow",
+     "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-07",
+   "title": "Two Men Arrested After 17-Year-Old Injured by Sword",
+   "sum": "Police have arrested two men following an incident where a 17-year-old boy was injured. The injury is reported to have been caused by a sword.",
+   "more": "The incident occurred on Friday, prompting a swift response from law enforcement. Details regarding the circumstances of the injury and the identities of those arrested have not been disclosed. Different outlets may emphasize varying aspects, such as the severity of the injuries or the potential motivations behind the attack.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Two men arrested after boy, 17, injured by sword",
+     "title_en": "Two men arrested after boy, 17, injured by sword.",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-07",
+   "title": "Israeli President Appoints Opposition Leader Gadi Eisenkot to Form Government",
+   "sum": "Gadi Eisenkot, the main rival to Prime Minister Benjamin Netanyahu, has been tasked by Israel's president to form a new government following a lack of majority support for both candidates. This decision marks a significant shift in Israel's political landscape.",
+   "more": "The appointment of Eisenkot as the new leader to form a government represents a setback for Netanyahu, who has dominated Israeli politics for years. While Eisenkot received endorsements from a majority of Knesset members, there are still challenges ahead due to existing coalition divisions involving Arab parties and conscription issues. Different outlets emphasize the implications of this political shift, with NPR focusing on the setbacks for Netanyahu and Fox News highlighting the looming coalition challenges Eisenkot faces.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "title_en": "Israel's president taps opposition candidate, not Netanyahu, to form a government.",
+     "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Israeli president taps Netanyahu rival to form government as coalition battle looms",
+     "title_en": "Israeli president taps Netanyahu rival to form government as coalition battle looms.",
+     "url": "https://www.foxnews.com/world/israeli-president-picks-netanyahu-rival-form-government-coalition-battle-looms",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-07",
+   "title": "Shooting in Krakow Leaves Six Dead and Many Injured",
+   "sum": "A gunman opened fire in Krakow, Poland, resulting in six fatalities and 15 injuries. Local police are actively investigating the incident.",
+   "more": "The shooting occurred in Main Square, a popular area for tourists, highlighting concerns about public safety in bustling locales. Reports mention that the gunman was engaged in a firefight with police, where he was ultimately shot and wounded. Polish Prime Minister Donald Tusk is involved in the ongoing local police investigation. Coverage by different outlets emphasizes the random nature of the attack and its impact on the community.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+     "title_en": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15.",
+     "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Associated Press",
+     "title": "Shooting in Polish city of Krakow leaves people dead and injured",
+     "title_en": "Shooting in Polish city of Krakow leaves people dead and injured.",
+     "url": "https://apnews.com/article/poland-shooting-krakow-market-dead-076b972f107df14a1f71e12a74d4d8e5",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-07",
+   "title": "DeSantis Preparing for 2024 Presidential Run",
+   "sum": "Florida Governor Ron DeSantis is reportedly gearing up for a new campaign for the White House. Despite shifting Latino voter sentiments towards opposition, he believes his state can withstand a Democratic wave.",
+   "more": "The report from The Washington Post indicates that DeSantis plans to leave office in January, paving the way for Byron Donalds. His confidence in Florida's political climate seems to be juxtaposed with recent electoral trends, particularly regarding Latino voters. Different media outlets may emphasize varying aspects of DeSantis's strategy, such as his resilience in the face of changing demographics or his political legacy.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "\u00bfVuelve DeSantis? El gobernador de Florida preparar\u00eda su nueva carrera a la Casa Blanca",
+     "title_en": "Is DeSantis Coming Back? The Governor of Florida Would Prepare His New Run for the White House",
+     "url": "https://www.lanacion.com.ar/estados-unidos/florida/vuelve-desantis-el-gobernador-de-florida-prepararia-su-nueva-carrera-a-la-casa-blanca-nid07112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-07",
+   "title": "Eisenkot Tasked with Forming New Government in Israel",
+   "sum": "Israeli President Isaac Herzog has tasked opposition leader Gadi Eisenkot with forming a new government after the recent elections. Eisenkot has a total of 28 days, extendable by an additional 14 days, to propose a coalition.",
+   "more": "Despite the election results from October 27 not yielding a majority for any party, Eisenkot's invitation to Netanyahu's party to join the coalition reflects an attempt to bridge political divides. If he fails to assemble a coalition within the allotted time, Herzog may give the task to another member of the Knesset. The situation underscores the challenges faced in Israeli politics, where coalition-building is often complex and contentious.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Herzog encarga al opositor de Netanyahu, Gadi Eisenkot, la formaci\u00f3n de un nuevo gobierno en Israel",
+     "title_en": "Herzog entrusts Netanyahu's opponent, Gadi Eisenkot, with forming a new government in Israel",
+     "url": "https://www.latercera.com/mundo/noticia/herzog-encarga-al-opositor-de-netanyahu-gadi-eisenkot-la-formacion-de-un-nuevo-gobierno-en-israel/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-07",
+   "title": "Call to Prevent Homelessness Among Veterans This Christmas",
+   "sum": "Burnham emphasizes the need to support veterans and prevent them from sleeping rough during the holiday season. The Prime Minister plans to personally address councils on Armistice Day to encourage action.",
+   "more": "The announcement highlights the ongoing concerns around homelessness among veterans, particularly during Christmas. There may be different responses from various councils depending on their resources and strategies. While some may be proactive in ensuring support for veterans, others could struggle to implement the necessary plans effectively.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+     "title_en": "Veterans shouldn't sleep rough this Christmas, Burnham says.",
+     "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-07",
+   "title": "Eisenkot Appointed to Form Next Israeli Government",
+   "sum": "Israel\u2019s president has tasked opposition leader Gadi Eisenkot with forming the next government, opting for him over current Prime Minister Benjamin Netanyahu. Eisenkot has 28 days to secure a majority in the Knesset.",
+   "more": "Eisenkot's appointment comes as Netanyahu's position has been increasingly challenged. If Eisenkot struggles to form a government, President Herzog may consider a unity government involving Netanyahu. Meanwhile, Arye Dery, the leader of the Shas party, has resigned from the Knesset, which may impact coalition dynamics. The political landscape is highly fluid as deadlines approach and negotiations continue.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s president picks Eisenkot over Netanyahu to form next government",
+     "title_en": "Israel\u2019s president picks Eisenkot over Netanyahu to form next government",
+     "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "28 days to replace Netanyahu: Can Eisenkot form Israel's next government?",
+     "title_en": "28 days to replace Netanyahu: Can Eisenkot form Israel's next government?",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/what-happens-next-the-timeline-of-eisenkots-race-to-61/000001a1-bc6d-dd01-a1e5-feff48f20000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-07",
+   "title": "Over 140,000 Protest Rising Costs in France",
+   "sum": "Massive protests against rising costs have erupted across France, with over 140,000 people participating. Authorities responded with tear gas in cities like Paris and Lyon, as the interior minister prepared law enforcement for potential unrest.",
+   "more": "The protests were sparked by growing discontent over increasing living costs, and there were significant gatherings in various cities. While Al Jazeera focuses on the government's readiness to control riots and looting, other outlets may highlight the protesters' demands and challenges faced by everyday citizens. The use of tear gas indicates tensions between law enforcement and protesters. This situation reflects broader economic frustrations affecting many in the country.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "More than 140,000 rally as new protests against rising costs sweep France",
+     "title_en": "More than 140,000 rally as new protests against rising costs sweep France",
+     "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-07",
+   "title": "Dermatologist Suggests Reducing Face Washing for Skin Health",
+   "sum": "Many dermatologists believe that excessive washing of the face may be harmful to skin health. They argue that less frequent cleaning might actually benefit the skin.",
+   "more": "The conversation around skincare emphasizes a more balanced approach to cleansing, suggesting that over-washing can strip the skin of its natural oils. Some professionals advocate for minimal cleansing routines to maintain skin hydration and health. This perspective contrasts with traditional views that recommend frequent washing, highlighting a shift in skincare advice.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Skip the face wash. A dermatologist says your skin might thank you.",
+     "title_en": "Skip the face wash. A dermatologist says your skin might thank you.",
+     "url": "https://www.businessinsider.com/how-often-should-you-wash-your-face-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-07",
+   "title": "Exploring Unitree's Factory: Insights on China's Robot Industry",
+   "sum": "A visit to Unitree's factory reveals that China's robot factories are not as automated as commonly believed. The prevailing sentiment suggests that while Chinese robots are prevalent, the technology for manufacturing robots may be Western.",
+   "more": "The article emphasizes the misconception that China's robot production is fully automated, highlighting the reliance on human labor in these factories. It contrasts the Chinese production of robots with the Western technology responsible for creating these robots. The author expresses a more optimistic view towards Western advancements in robotics, suggesting a potential competitive edge. Different outlets may vary in their portrayal of the state of automation in Chinese factories and the implications for the future of robotics.",
+   "coverage": [
+    {
+     "outlet": "Josef.cn",
+     "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+     "title_en": "I Toured Unitree's Factory. I'm More Bullish on the West.",
+     "url": "https://josef.cn/blog/unitree",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-07",
+   "title": "Art and Science Intersect in Wildlife Photography",
+   "sum": "The article discusses the fusion of art, philosophy, and science in wildlife photography. It highlights the connection between living beings influenced by their evolutionary history.",
+   "more": "The piece emphasizes the aesthetic qualities of wildlife photography while also touching on deeper philosophical and scientific implications. It suggests that photography can reveal significant insights into the relationship between different species. The framing primarily focuses on the interplay between visual artistry and scientific understanding without delving into specific examples or criticisms of the approach.",
+   "coverage": [
+    {
+     "outlet": "Popular Science",
+     "title": "Art, philosophy, and science blend in beautiful wildlife photography",
+     "title_en": "Art, philosophy, and science blend in beautiful wildlife photography",
+     "url": "https://www.popsci.com/environment/united-nature-book-excerpt/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-07",
+   "title": "DeSantis Denies Claims of 2028 Presidential Bid Preparation",
+   "sum": "Florida Governor Ron DeSantis has rejected a report from The Washington Post suggesting he is preparing for a 2028 presidential bid. He accused the newspaper of fabricating the story.",
+   "more": "In a statement, DeSantis emphasized that he had not contacted anyone regarding a presidential run, labeling the report as a 'pathetic attempt to garner clicks.' Fox News echoed his sentiments, highlighting his rebuke of the publication's claims. Both outlets framed the story around DeSantis's strong condemnation of the article, focusing on his defense against what he calls misinformation. The reaction demonstrates a consistent positioning among conservative outlets in defense of DeSantis.",
+   "coverage": [
+    {
+     "outlet": "Legalinsurrection.com",
+     "title": "DeSantis Slaps Down WaPo Report on Possible 2028 Presidential Bid As Speculation Swirls",
+     "title_en": "DeSantis Slaps Down WaPo Report on Possible 2028 Presidential Bid As Speculation Swirls",
+     "url": "https://legalinsurrection.com/2026/11/desantis-slaps-down-wapo-report-on-possible-2028-presidential-bid-as-speculation-swirls/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+     "title_en": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+     "url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+     "bias": "Lean Right",
+     "src": "table"
     }
    ]
   }
