@@ -1,6 +1,6 @@
 {
  "date": "2026-11-08",
- "updated": "Nov 09, 21:12 UTC",
+ "updated": "Nov 10, 18:23 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -556,6 +556,179 @@
      "url": "https://www.foxnews.com/opinion/trey-gowdy-midterms-painful-lesson-republicans-cant-skip-learning",
      "bias": "Lean Right",
      "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-08",
+   "title": "Russell Brand Sentenced to Prison for Rape and Sexual Assault",
+   "sum": "Comedian Russell Brand has been sentenced to 10 years and six months in prison following his conviction for rape and sexual assault. The sentence was handed down by a London court judge.",
+   "more": "Brand was found guilty of one count of rape and three counts of sexual assault. The framing across various outlets emphasizes the duration of the sentence, highlighting the serious nature of the charges. Some reports focus on the impact of the verdict on Brand's career and public persona, while others concentrate on the judicial process and the specifics of the court's comments during sentencing.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+     "title_en": "Russell Brand to learn sentence after being found guilty of rape and sexual assault.",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assaults",
+     "title_en": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assaults.",
+     "url": "https://www.yahoo.com/news/world/article/russell-brand-sentenced-to-more-than-10-years-in-prison-for-rape-and-sexual-assaults-145248183.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Russell Brand sentenced to 10 years 6 months in prison for rape, sexual assault",
+     "title_en": "Russell Brand sentenced to 10 years 6 months in prison for rape, sexual assault.",
+     "url": "https://abcnews.com/GMA/Culture/russell-brand-faces-sentencing-after-guilty-verdict-rape/story?id=137914316",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Deadline",
+     "title": "Russell Brand Sentenced To 10 Years In Prison For Rape & Sexual Assault",
+     "title_en": "Russell Brand Sentenced To 10 Years In Prison For Rape & Sexual Assault.",
+     "url": "http://deadline.com/2026/11/russell-brand-sentenced-years-in-prison-rape-sexual-assault-1237217095/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-08",
+   "title": "Pope Arrives in Argentina Amid Tension over Austerity Measures",
+   "sum": "Pope Le\u00f3n XIV has begun a four-day visit to Argentina, which is marked by criticism of the government's austerity measures. The Church has expressed concerns as poverty rates have risen significantly.",
+   "more": "The Pope's visit comes at a time of social unrest, with poverty rates reaching 32.3% in the first semester. The government, led by President Milei, has implemented austerity measures that have drawn criticism from various sectors, including the Church. While the visit is historic and significant, with expected massive attendance at masses in multiple cities, the underlying tension regarding economic policy remains a focal point. Some outlets highlight the mobilization of the public in anticipation of the Pope's visit, while others emphasize the political implications of his message.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "El Papa llega a Argentina en un clima de tensi\u00f3n por el medidas de austeridad de Milei",
+     "title_en": "The Pope arrives in Argentina in a climate of tension over Milei's austerity measures.",
+     "url": "https://www.latercera.com/mundo/noticia/el-papa-llega-a-argentina-en-un-clima-de-tension-por-el-medidas-de-austeridad-de-milei/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "El papa Le\u00f3n XIV llega a la Argentina, una visita hist\u00f3rica que moviliza al pa\u00eds",
+     "title_en": "Pope Le\u00f3n XIV arrives in Argentina, a historic visit that mobilizes the country.",
+     "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-llega-a-la-argentina-una-visita-historica-que-moviliza-al-pais-nid07112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-08",
+   "title": "Eisenkot Invites Netanyahu's Party to Form a Government in Israel",
+   "sum": "Eisenkot has 28 days, with an additional 14 days extendable, to form a coalition government in Israel. If he is unable to do so, President Isaac Herzog may assign the task to another member of parliament.",
+   "more": "The situation presents a critical moment for Israeli politics, as the formation of a government is uncertain. Different media outlets may emphasize various aspects, such as the implications of coalition dynamics or the potential consequences of failing to meet the deadline. The inclusion of President Herzog's role in the process could also frame the discussion around leadership and decision-making in the current political climate.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Eisenkot invita a partido de Netanyahu a formar un gobierno en Israel",
+     "title_en": "Eisenkot Invites Netanyahu's Party to Form a Government in Israel",
+     "url": "https://www.latercera.com/mundo/noticia/eisenkot-invita-al-likud-y-al-partido-sionista-religioso-a-formar-un-gobierno-en-israel/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-08",
+   "title": "Eisenkot Tasked with Forming New Israeli Government, Netanyahu Overlooked",
+   "sum": "Gadi Eisenkot has been chosen by Israel's president to form the next government, bypassing Benjamin Netanyahu. Eisenkot has a limited timeframe to accomplish this before potential new elections are called.",
+   "more": "While Al Jazeera notes Eisenkot's openness to Netanyahu joining a new government, Haaretz emphasizes the urgency of the situation, stating that Eisenkot has until February 26 to succeed or risk further elections. Additionally, there are indications that President Herzog may advocate for a unity government involving Netanyahu if Eisenkot faces challenges. The portrayal in different outlets highlights varying perspectives on the collaboration between Eisenkot and Netanyahu.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Eisenkot open to Netanyahu joining Israel\u2019s next government",
+     "title_en": "Eisenkot open to Netanyahu joining Israel\u2019s next government.",
+     "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "28 days to replace Netanyahu: Can Eisenkot form Israel's next government?",
+     "title_en": "28 days to replace Netanyahu: Can Eisenkot form Israel's next government?",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-08/ty-article/.premium/what-happens-next-the-timeline-of-eisenkots-race-to-61/000001a1-bc6d-dd01-a1e5-feff48f20000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-08",
+   "title": "Chancellor Merz Nominates Ilse Aigner as Germany's First Female President",
+   "sum": "Ilse Aigner has been nominated by Chancellor Merz to become Germany's first woman president. She currently serves as the speaker of the Bavarian state parliament and is a member of the Christian Social Union in Bavaria (CSU) party.",
+   "more": "The nomination of Ilse Aigner is a significant milestone in German politics, highlighting gender representation at high levels of government. Chancellor Merz's decision may reflect a broader trend towards increasing diversity in political leadership. Various media outlets may emphasize different aspects of this nomination, such as its impact on women's representation or the political implications for the CSU party.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Chancellor Merz to nominate Aigner as Germany\u2019s first woman president",
+     "title_en": "Chancellor Merz to Nominate Aigner as Germany\u2019s First Woman President",
+     "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-08",
+   "title": "Protests Against AI Data Centers Erupt Across Europe",
+   "sum": "Activists in Europe have been organizing protests against data centers related to artificial intelligence. Demonstrations include a significant occupation in the Netherlands by Free Palestine activists.",
+   "more": "The protests reflect a growing backlash against AI and its associated infrastructure, with citizens expressing their concerns over societal and environmental impacts. In Dublin, approximately 2,000 people marched, while around 1,300 gathered elsewhere. Different outlets highlight various aspects of the protests, with some focusing on specific activist groups, like the Free Palestine activists in the Netherlands, while others emphasize the broader European context of the protests.",
+   "coverage": [
+    {
+     "outlet": "Wattsupwiththat.com",
+     "title": "Free Palestine Activists Occupy a Dutch Data Center Protest Against AI",
+     "title_en": "Free Palestine Activists Occupy a Dutch Data Center Protest Against AI",
+     "url": "https://wattsupwiththat.com/2026/11/07/free-palestine-activists-occupy-a-dutch-data-center-protest-against-ai/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Insurance Journal",
+     "title": "AI Backlash Spreads Across Europe With Data Center Protests",
+     "title_en": "AI Backlash Spreads Across Europe With Data Center Protests",
+     "url": "https://www.insurancejournal.com/news/international/2026/11/09/892108.htm",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-08",
+   "title": "Nvidia Investigates CEO Jensen Huang After Honeypot Scandal",
+   "sum": "Nvidia is conducting an investigation into its CEO Jensen Huang following a honeypot scandal. The company insists that Huang will remain in his position and claims that no sensitive information was breached.",
+   "more": "Despite the controversy surrounding the honeypot scandal, Nvidia's leadership maintains confidence in Huang's role. The investigation aims to address concerns raised by the incident. Different outlets have varying emphases on the potential implications for Huang's leadership and the company's reputation, but all acknowledge the seriousness of the situation.",
+   "coverage": [
+    {
+     "outlet": "Kotaku",
+     "title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Honeypot Scandal",
+     "title_en": "Nvidia Launches Investigation Into CEO Jensen Huang Following Honeypot Scandal",
+     "url": "https://kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894",
+     "bias": "Lean Left",
+     "src": "ai"
     }
    ]
   }

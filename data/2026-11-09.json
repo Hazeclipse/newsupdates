@@ -1,0 +1,451 @@
+{
+ "date": "2026-11-09",
+ "updated": "Nov 10, 18:23 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-09",
+   "title": "Robotic Arms Powered by Algae",
+   "sum": "Flexible robots are able to move thanks to the photosynthetic properties of algae. This innovative approach highlights the potential of using biological systems in robotic designs.",
+   "more": "The article from Wired emphasizes the unique mechanism by which these robotic arms function, showcasing the integration of biology and technology. By harnessing the natural abilities of algae, the robots achieve movement that could lead to new applications in various fields. There is a focus on the sustainability aspect of using organic materials for powering robotic systems, which contrasts with traditional electrical mechanisms. No other outlets are mentioned, so no differing perspectives are available.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "These Robotic Arms Are Powered by Algae. Watch How They Move",
+     "title_en": "These Robotic Arms Are Powered by Algae.",
+     "url": "https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-09",
+   "title": "Jersey Becomes a Hub for the Cannabis Industry",
+   "sum": "The British island of Jersey has emerged as an unexpected center for the booming cannabis industry in Europe. Its unique self-governing status has allowed it to capitalize on the multibillion-dollar market.",
+   "more": "The article highlights how Jersey's regulatory framework and social environment have attracted cannabis businesses looking to establish a foothold in Europe. Many companies have chosen to operate there due to favorable conditions, though the island's relationship with the cannabis industry has grown complicated. Some outlets may frame this development as either a positive economic opportunity or a concerning moral dilemma, reflecting differing perspectives on cannabis legalization.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Welcome to Weed Island",
+     "title_en": "Welcome to Weed Island",
+     "url": "https://www.wired.com/story/welcome-to-weed-island-jersey/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-09",
+   "title": "Krakow Shooting Suspect Dies in Hospital After Attack",
+   "sum": "The suspected perpetrator of a shooting in Krakow has died in the hospital after being shot and apprehended by police. The incident resulted in at least six fatalities and numerous injuries.",
+   "more": "The suspect, a 24-year-old man, was reported to have opened fire in a crowded area of central Krakow before being restrained by law enforcement. Reports indicate that six individuals lost their lives, while 15 were injured. While the BBC focuses on the aftermath and death of the suspect, Al Jazeera emphasizes the ongoing mourning for the victims. There is a consistent acknowledgment of the tragedy's impact on the community across outlets.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Krakow shooting suspect has died in hospital, police say",
+     "title_en": "Krakow shooting suspect has died in hospital, police say",
+     "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Poland mass shooting assailant dies in hospital, police say",
+     "title_en": "Poland mass shooting assailant dies in hospital, police say",
+     "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-09",
+   "title": "Jonathan Kanter's New Fight Against Big Tech",
+   "sum": "Former Antitrust Division head Jonathan Kanter is now combating illegal monopolies in the private sector using AI technology. His approach marks a significant shift from his previous government role.",
+   "more": "While some view Kanter's transition to private sector advocacy as a positive development for antitrust efforts, others express concern about the influence of AI in such battles. Several outlets highlight his innovative use of technology as a means to enhance competition. However, the framing varies: some emphasize the potential for AI to revolutionize antitrust enforcement, while others caution about its implications and ethics in the realm of competition law.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Jonathan Kanter is using AI to take on Big Tech",
+     "title_en": "Jonathan Kanter is using AI to take on Big Tech",
+     "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-09",
+   "title": "Passenger Feared Train Attacker Was Suicide Bomber, Court Hears",
+   "sum": "A passenger on a London-bound train expressed concern that the attacker might be a suicide bomber. Milan Campion described the assailant as someone who 'wasn't sound of mind'.",
+   "more": "The court proceedings revealed details of the attack that took place on the train, highlighting the fear experienced by passengers during the incident. Campion's testimony emphasized the chaotic situation and the terror that can arise in such confrontations. Different news outlets may focus on varying aspects of the attack, such as the psychological impact on passengers versus the details of the assailant's behavior.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Passenger feared Huntingdon train attacker was suicide bomber, court hears",
+     "title_en": "Passenger Feared Train Attacker Was Suicide Bomber, Court Hears",
+     "url": "https://www.bbc.co.uk/news/articles/crz656pl2399o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-09",
+   "title": "Democrats Celebrate Election Gains Amid Challenges",
+   "sum": "Following a significant victory in the recent elections, Democrats face internal divisions and external challenges. Key issues include regulating ICE and addressing concerns around AI and data centers.",
+   "more": "In the aftermath of the Democratic 'blue wave,' there are promises to limit the power of ICE, though questions remain about their actual capacity to implement these changes. Simultaneously, the party is grappling with differing opinions on how to approach AI regulation, particularly in light of resistance from the Trump administration. This internal discord over priorities may hinder their ability to unify and act decisively on these issues. While some media outlets emphasize the achievements in immigration advocacy, others focus on the complexities surrounding technology policy.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Democrats won big on issues like immigration. But ICE still has the money",
+     "title_en": "Democrats won big on issues like immigration. But ICE still has the money.",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Democrats won big on Election Day. But can they agree on AI?",
+     "title_en": "Democrats won big on Election Day. But can they agree on AI?",
+     "url": "https://www.nbcnews.com/tech/tech-news/democrats-won-big-election-day-can-agree-ai-rcna607414",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-09",
+   "title": "Nvidia Investigates CEO's Alleged Relationship with Chinese Spy",
+   "sum": "Nvidia has initiated an investigation regarding CEO Jensen Huang's possible ties to a Chinese spy. The investigation follows reports from The New York Times detailing allegations of a Chinese intelligence operation targeting Huang.",
+   "more": "Nvidia's stock price declined in response to the news of the investigation into its CEO. Both NPR and NBC News highlighted the gravity of the situation, particularly focusing on the implications of a potential breach of security within the company. While NPR emphasized the investigation's origin from The New York Times, NBC News presented the market's reaction as a significant concern for shareholders.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+     "title_en": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+     "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Nvidia stock falls after company opens probe into CEO\u2019s relationship with Chinese spy",
+     "title_en": "Nvidia stock falls after company opens probe into CEO\u2019s relationship with Chinese spy",
+     "url": "https://www.nbcnews.com/business/markets/nvidia-stock-falls-probe-ceos-relationship-chinese-spy-rcna608290",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-09",
+   "title": "Bank Collapse in Paraguay Leads to Political Upheaval",
+   "sum": "The collapse of a bank in Paraguay has resulted in millions being unable to access their funds and has led to the downfall of the president. This situation has unveiled intricate connections between political and financial sectors.",
+   "more": "The collapse has had severe repercussions not just for individual citizens but also for the broader political landscape of the country. Various media outlets may emphasize different aspects of the story, such as the political ramifications versus the financial impact on ordinary people's lives. Furthermore, the exposure of political and financial ties raises questions about accountability and governance in Paraguay.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "title_en": "How a bank collapse left millions in limbo and toppled Paraguay's president",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-09",
+   "title": "France Blames Iran for Cyberattacks on Supermarkets",
+   "sum": "French authorities have accused Iran of orchestrating cyberattacks on supermarket refrigeration systems. The attacks reportedly impacted around 700 establishments in October.",
+   "more": "The claims were made by French Foreign Minister Jean-No\u00ebl Barrot, who attributed the cyberattacks to the Islamic Revolutionary Guard Corps. In response, Paris summoned the Iranian ambassador and indicated the potential for European-level sanctions. La Nacion's coverage emphasizes the judicial response under Emmanuel Macron\u2019s government, highlighting a commitment to impose sanctions across Europe, indicating a unified stance among European nations on this issue.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Francia se\u00f1ala a Ir\u00e1n como responsable de los ciberataques contra los frigor\u00edficos de los supermercados",
+     "title_en": "France points to Iran as responsible for cyberattacks on supermarket refrigeration systems.",
+     "url": "https://www.latercera.com/mundo/noticia/francia-senala-a-iran-como-responsable-de-los-ciberataques-contra-los-frigorificos-de-los-supermercados/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "Francia acusa a Ir\u00e1n por los ciberataques masivos a las heladeras de sus supermercados",
+     "title_en": "France accuses Iran of massive cyberattacks on its supermarkets' refrigeration.",
+     "url": "https://www.lanacion.com.ar/el-mundo/francia-acusa-a-iran-por-los-ciberataques-masivos-a-las-heladeras-de-sus-supermercados-nid09112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-09",
+   "title": "UK Minister Warns of More Controversial Figures Like Russell Brand",
+   "sum": "A UK minister cautions that there are more individuals similar to Russell Brand. Meanwhile, the government is considering reductions to electric vehicle targets.",
+   "more": "The comments about Russell Brand indicate concerns about other public figures who may attract similar controversy. The mention of cuts to electric vehicle targets suggests a shift in government policy, which may impact environmental goals. Different news outlets might emphasize the urgency of these changes or their potential consequences, highlighting public sentiment regarding environmental issues. This framing could affect how readers perceive the government's priorities and accountability.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+     "title_en": "There are more like Brand",
+     "url": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-11-09",
+   "title": "ENHYPEN to Make Three Comebacks in One Year",
+   "sum": "K-pop boy group ENHYPEN is set to maintain its momentum with three comebacks in a single year. The group is continuing its activities through the end of the year.",
+   "more": "The announcement highlights ENHYPEN's commitment to sustaining their popularity despite changes within the group. Various media outlets emphasize the group's determination and strategic approach to engaging fans. There is a focus on how these comebacks will cater to their growing audience and reinforce their presence in the K-pop industry.",
+   "coverage": [
+    {
+     "outlet": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+     "title": "ENHYPEN to make 3 comebacks in 1 year, keeping momentum through year-end - The Korea Times",
+     "title_en": "ENHYPEN to make 3 comebacks in 1 year, keeping momentum through year-end",
+     "url": "https://www.koreatimes.co.kr/entertainment/20261109/enhypen-to-make-3-comebacks-in-1-year-keeping-momentum-through-year-end",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-09",
+   "title": "Nvidia Investigates Possible Foreign Spying on CEO Huang Amid Affair Admission",
+   "sum": "Nvidia is looking into the possibility that its CEO, Jensen Huang, was the target of foreign spying. This follows his admission of an affair.",
+   "more": "The investigation suggests concerns about corporate espionage in the tech industry, particularly given the competitive landscape surrounding Nvidia. Huang's acknowledgment of a personal affair has also drawn media attention, intertwining his personal life with professional scrutiny. The framing around the investigation varies, with some outlets focusing on the implications for corporate security while others emphasize the personal ramifications for Huang.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair",
+     "title_en": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair",
+     "url": "https://www.thedailystar.net/business/news/nvidia-probes-whether-ceo-huang-was-target-foreign-spying-he-admits-affair-4318896",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-09",
+   "title": "France Increases Minimum Wage Amid Protests",
+   "sum": "The French government is hastening a minimum wage increase to address ongoing protests. Labor unions criticize the raise as inadequate while the government aims to ease tensions before elections.",
+   "more": "The move comes as France experiences significant unrest, prompting the government to take action to calm the situation. Unions argue that the increase will not sufficiently address the concerns of workers. With elections approaching, the government's decision may also be seen as a strategic effort to win support ahead of the polls.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France accelerates minimum wage hike in bid to quell protest",
+     "title_en": "France accelerates minimum wage hike in bid to quell protest",
+     "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-09",
+   "title": "No Evidence of Foreign Election Meddling in Israel, Claims Shin Bet",
+   "sum": "An Israeli intelligence agency reports findings that contradict claims made by Netanyahu and Zini regarding foreign interference in elections. According to law enforcement officials, these allegations lack substantiation.",
+   "more": "The Shin Bet's investigation concluded that there is no evidence to support the allegations of external electoral interference. Both Netanyahu and Zini had suggested that foreign entities were attempting to influence the electoral process, but this report undermines their claims. Haaretz, which cited law enforcement officials, emphasized the lack of evidence, suggesting that the allegations may be politically motivated. The framing by different outlets may differ, with some potentially viewing the report as an indication of political maneuvering rather than a mere investigative finding.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s Shin Bet finds no evidence of foreign election meddling: Report",
+     "title_en": "Israel\u2019s Shin Bet finds no evidence of foreign election meddling: Report",
+     "url": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-09",
+   "title": "France Blames Iran for Cyberattack on Supermarket Refrigerators",
+   "sum": "France has formally accused Iran of orchestrating a cyberattack affecting supermarket refrigerators nationwide. The attack reportedly disrupted temperatures in hundreds of supermarkets.",
+   "more": "French Foreign Minister Jean-No\u00ebl Barrot stated that Iran's Revolutionary Guards were responsible for the cyber intrusion. He also indicated that there would be consequences for Iran in response to this action. The coverage highlights the severity of the incident, emphasizing the direct accusation against Iran and the potential diplomatic fallout. Different outlets may frame the incident in terms of political ramifications versus a straightforward technical breach.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France accuses Iran of cyberattack on European fridges",
+     "title_en": "France accuses Iran of cyberattack on European fridges",
+     "url": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "France blames Iran for cyberattack that hacked supermarket refrigerators across the country",
+     "title_en": "France blames Iran for cyberattack that hacked supermarket refrigerators across the country",
+     "url": "https://www.cbc.ca/news/world/france-iran-cyberattack-accusation-9.7415031",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "La France accuse l\u2019Iran d\u2019\u00eatre \u00ab\u00a0responsable\u00a0\u00bb de la cyberattaque contre les frigos connect\u00e9s",
+     "title_en": "France accuses Iran of being 'responsible' for the cyberattack on connected fridges",
+     "url": "https://www.huffingtonpost.fr/international/article/la-france-accuse-l-iran-d-etre-responsable-de-la-cyberattaque-contre-les-frigos-connectes_354521.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-09",
+   "title": "U.S. Agencies Warn of Threats to Refrigeration Systems",
+   "sum": "U.S. government agencies have issued warnings about attacks on industrial refrigeration and cold-chain systems. These attacks could lead to hazardous conditions and damage to inventory.",
+   "more": "The warning indicates a broader trend of cyber threats impacting critical infrastructure. SecurityScorecard's report highlights how these vulnerabilities have been exploited to create a spam botnet and proxy network. While some sources emphasize the potential for dangerous incidents, others focus on the operational consequences for businesses relying on cold-chain logistics.",
+   "coverage": [
+    {
+     "outlet": "Internet",
+     "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+     "title_en": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+     "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Help Net Security",
+     "title": "Hackers abuse refrigeration controllers to send spam and route proxy traffic",
+     "title_en": "Hackers Abuse Refrigeration Controllers to Send Spam and Route Proxy Traffic",
+     "url": "https://www.helpnetsecurity.com/2026/11/09/copeland-xweb-refrigeration-controllers-spam-botnet/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-09",
+   "title": "Apple to Charge for Expanded Access to Certain AI Features",
+   "sum": "Apple has reiterated that some AI features will have usage limits and may require additional payment for expanded access in the future. This is linked to the company's server-side Private Cloud Compute system.",
+   "more": "The announcement highlights Apple's approach to monetizing its AI capabilities while managing usage within its server infrastructure. Different media outlets might emphasize either the potential for new revenue streams for Apple or the implications for users encountering limitations on their AI feature usage. Overall, there is a consensus about the change in policy regarding AI features and usage fees.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Continues to Say Some AI Features Will Have Fees for Extra Usage",
+     "title_en": "Apple Continues to Say Some AI Features Will Have Fees for Extra Usage",
+     "url": "https://www.macrumors.com/2026/11/09/apple-intelligence-extra-usage-fees-planned/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-09",
+   "title": "Rubio to Engage G7 Allies on Key Global Issues in France",
+   "sum": "Secretary of State Marco Rubio is set to meet with his G7 counterparts to discuss pressing global matters including Iran, Ukraine, and artificial intelligence. The meetings will take place this week in France.",
+   "more": "The discussions highlight the urgency of collaboration among the G7 nations on critical global challenges. Each member state may bring its own perspective and priorities to the table, influencing the dialogue around these issues. The framing around these topics may vary, with some countries focusing more on diplomatic solutions while others may emphasize security and technological advancements.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+     "title_en": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+     "url": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-09",
+   "title": "Philadelphia Protests Lead to Boycott of Jewish-Owned Restaurants",
+   "sum": "Tensions escalated in Philadelphia as a bike ride protest targeted Jewish-owned restaurants and businesses. Supporters of these establishments countered the boycott by showing up in large numbers.",
+   "more": "The protests, organized by anti-Israel activists, prompted significant backlash from supporters of Jewish restaurants, who rallied to show their support. Pennsylvania Governor Josh Shapiro condemned the protests, emphasizing the state's stance against such actions. Though the outlets largely report on the events similarly, some may emphasize the community's support differently, highlighting either the protests' impact or the supportive counter-actions taken by diners.",
+   "coverage": [
+    {
+     "outlet": "TODAY",
+     "title": "Philadelphia Bike Ride Boycotts Jewish-Owned Restaurants",
+     "title_en": "Philadelphia Bike Ride Boycotts Jewish-Owned Restaurants",
+     "url": "https://www.today.com/video/philadelphia-bike-ride-boycotts-jewish-owned-restaurants-273121349729",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Israelnationalnews.com",
+     "title": "Response to the boycott: Philadelphia supports Jewish restaurants",
+     "title_en": "Response to the boycott: Philadelphia supports Jewish restaurants",
+     "url": "https://www.israelnationalnews.com/news/435878",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Legalinsurrection.com",
+     "title": "Philly Diners Defy Boycott of Jewish-Owned Restaurants",
+     "title_en": "Philly Diners Defy Boycott of Jewish-Owned Restaurants",
+     "url": "https://legalinsurrection.com/2026/11/philly-diners-defy-boycott-of-jewish-owned-restaurants/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-09",
+   "title": "Congress Returns for Lame-Duck Session Amid Impeachment Discussions",
+   "sum": "Congress reconvenes for a busy lame-duck session, tasked with passing critical legislation to prevent a government shutdown. Key issues include the farm bill, FISA reform, and the National Defense Authorization Act.",
+   "more": "The pressure to complete these legislative tasks is heightened by the looming impeachment discussions surrounding a figure named Hegseth. While the focus is on imminent legislation, the impeachment proceedings may overshadow other important discussions in Congress. Different outlets may highlight the urgency of the government shutdown differently, with some prioritizing the implications of impeachment over routine legislative responsibilities.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Congress returns for crowded lame-duck session as Hegseth impeachment looms",
+     "title_en": "Congress returns for crowded lame-duck session as Hegseth impeachment looms.",
+     "url": "https://abcnews.com/Politics/congress-returns-crowded-lame-duck-session-hegseth-impeachment/story?id=137918357",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-09",
+   "title": "Democrats Consider Southern States as Potential Battlegrounds for 2028 Elections",
+   "sum": "Democrats are seeing potential in traditionally Republican Southern states for the upcoming 2028 presidential elections. This shift is prompting discussions about increasing investment in these areas.",
+   "more": "Longtime red states in the South are being viewed as possible battlegrounds due to recent gains made by Democrats. Some party members are advocating for a strategic focus on these regions, suggesting that changing demographics and political sentiments could benefit their campaign efforts. There appears to be a growing belief that investments in these areas could lead to a more competitive landscape. While the sentiment is optimistic among Democrats, it remains to be seen how this will translate into tangible results in future elections.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "'The South is in play': Longtime red states emerge as potential battleground for Dems",
+     "title_en": "'The South is in play': Longtime red states emerge as potential battleground for Dems",
+     "url": "https://abcnews.com/Politics/south-play-longtime-red-states-emerge-potential-battleground/story?id=137961581",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
