@@ -1,6 +1,6 @@
 {
  "date": "2026-11-09",
- "updated": "Nov 10, 18:23 UTC",
+ "updated": "Nov 11, 18:13 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -444,6 +444,342 @@
      "url": "https://abcnews.com/Politics/south-play-longtime-red-states-emerge-potential-battleground/story?id=137961581",
      "bias": "Lean Left",
      "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-09",
+   "title": "Trump Comments on Nvidia CEO Jensen Huang's Allegations",
+   "sum": "President Trump addressed the media regarding Nvidia CEO Jensen Huang's affair with a suspected Chinese spy during a White House press briefing. Huang recently admitted to being unfaithful to his wife, and the situation has raised concerns amid a national security investigation.",
+   "more": "The framing differs between the two articles, with The Verge focusing on Trump's specific comments and responses during the press briefing, while Business Insider highlights the reactions and opinions from various business and tech leaders concerning Nvidia's ongoing investigation into Huang. The situation is being closely monitored, as it intersects with issues of national security and corporate governance. There is a growing discourse on the implications of Huang's actions for Nvidia and the broader tech industry.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Here\u2019s what Trump said he knew about Jensen Huang",
+     "title_en": "Here's what Trump said he knew about Jensen Huang.",
+     "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang",
+     "title_en": "Here's what smart people are saying about Nvidia's investigation of CEO Jensen Huang.",
+     "url": "https://www.businessinsider.com/nvidia-investigation-jensen-huang-affair-smart-people-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-09",
+   "title": "Anthropic Unveils Enhanced Fable 5.2 and Mythos 5.2 AI Models",
+   "sum": "Anthropic has launched its latest AI models, Fable 5.2 and Mythos 5.2, designed for professional use with smarter capabilities. These models feature notable improvements in coding, reasoning, and vision.",
+   "more": "According to CNET, the new models may be considered overkill for average users, emphasizing their appeal to professionals instead. MacRumors highlights the clearer communication of outputs in the latest versions compared to their predecessors. While both outlets acknowledge the advancements in the models, CNET places greater emphasis on their specificity for professional users, whereas MacRumors focuses on the enhancements in functionality.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models",
+     "title_en": "Anthropic Introduces New Fable 5.2 and Mythos 5.2 AI Models",
+     "url": "https://www.cnet.com/tech/anthropic-introduces-new-fable-5-2-and-mythos-5-2-ai-models/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "title_en": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2",
+     "url": "https://www.macrumors.com/2026/11/09/anthropic-launches-claude-fable-5-2/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-09",
+   "title": "Lindsay Clancy's Motion to Dismiss Murder Case Denied by Judge",
+   "sum": "A judge has denied a motion to dismiss the murder case against Lindsay Clancy, allowing prosecutors to continue with the case. This ruling opens the possibility for a retrial or the dismissal of charges.",
+   "more": "Both BBC News and ABC News report on the judge's decision to deny the motion, emphasizing its implications for the ongoing legal proceedings against Clancy. The framing in both outlets is similar, focusing on the legal ramifications and the potential for a retrial. However, BBC News adds the detail that charges could potentially be reduced, providing a broader scope of possibilities that may arise from this ruling.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
+     "title_en": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Judge denies Lindsay Clancy's motion to dismiss case",
+     "title_en": "Judge denies Lindsay Clancy's motion to dismiss case",
+     "url": "https://abcnews.com/US/judge-denies-lindsay-clancys-motion-dismiss-case/story?id=137987186",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-09",
+   "title": "Russell Brand Sentenced to Over 10 Years for Rape and Sexual Assault",
+   "sum": "Russell Brand has received a sentence of 10 years and six months in prison for rape and sexual assaults. The sentence was handed down by a judge at Southwark Crown Court in London.",
+   "more": "Brand was convicted on one count of rape and three counts of sexual assault. The judge highlighted the seriousness of the offenses during the sentencing. There are differing emphases in how outlets present the details of the charges and trial outcomes, with some focusing more on the legal aspects while others highlight the personal impact on the victims.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assaults",
+     "title_en": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assaults.",
+     "url": "https://www.yahoo.com/news/world/article/russell-brand-sentenced-to-more-than-10-years-in-prison-for-rape-and-sexual-assaults-145248183.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Russell Brand sentenced to 10 years 6 months in prison for rape, sexual assault",
+     "title_en": "Russell Brand sentenced to 10 years 6 months in prison for rape, sexual assault.",
+     "url": "https://abcnews.com/GMA/Culture/russell-brand-faces-sentencing-after-guilty-verdict-rape/story?id=137914316",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-09",
+   "title": "Supreme Court Allows Continuation of Border Wall Construction in Texas",
+   "sum": "The Supreme Court has permitted the continuation of border wall construction in west Texas amid ongoing legal challenges. This decision supports the Trump administration's request for emergency relief.",
+   "more": "NPR highlights the legal aspect, noting that the Trump administration filed an emergency request to allow construction to proceed while a lawsuit is in process. CNN focuses on the implications of the decision, framing it as a victory for Trump and emphasizing the construction activity in Big Bend National Park. Both articles address the ongoing legal challenges but differ in their emphasis on the political context surrounding the decision.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Supreme Court says border wall construction can continue in west Texas",
+     "title_en": "Supreme Court says border wall construction can continue in west Texas.",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Supreme Court allows Big Bend border wall plans in win for Trump",
+     "title_en": "Supreme Court allows Big Bend border wall plans in win for Trump.",
+     "url": "https://www.cnn.com/2026/11/09/politics/supreme-court-border-wall-big-bend-texas",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-09",
+   "title": "Thomas Massie Reintroduces Impeachment Articles Against Defense Secretary Pete Hegseth",
+   "sum": "Rep. Thomas Massie has filed articles of impeachment against Defense Secretary Pete Hegseth, citing violations of the War Powers Resolution. The accusations include engaging in military actions against Iran.",
+   "more": "The impeachment articles were described as addressing 'high crimes and misdemeanors', specifically focusing on the conflict with Iran. Different outlets highlight the legal implications of the actions taken by Hegseth and the context of military decisions made under President Trump. Both NPR and NBC News emphasize the bipartisan nature of the impeachment process but frame Massie's actions within the broader debate on presidential war powers.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+     "title_en": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth.",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "GOP Rep. Thomas Massie files impeachment articles against Pete Hegseth",
+     "title_en": "GOP Rep. Thomas Massie files impeachment articles against Pete Hegseth.",
+     "url": "https://www.nbcnews.com/politics/trump-administration/thomas-massie-pete-hegseth-impeachment-house-defense-rcna597989",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-09",
+   "title": "Trump's Assertion on U.S. Aid to Israel Raises Concerns",
+   "sum": "President Trump claims that the U.S. is cutting aid to Israel, causing worry among Israelis. However, experts suggest that the U.S. may be reallocating aid from the State Department to the Pentagon, reducing congressional oversight.",
+   "more": "The reporting from NPR emphasizes the potential changes in aid distribution rather than actual cuts. Both articles highlight that this shift could align with Israeli Prime Minister Netanyahu's lobbying efforts for less oversight on the aid process. Additionally, the framing indicates a broader narrative of concern among Israeli citizens regarding the implications of these changes. The differences in framing among the NPR articles are minimal, focusing primarily on the implications of aid distribution.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "What Trump meant when he said the U.S. is cutting aid to Israel",
+     "title_en": "What Trump meant when he said the U.S. is cutting aid to Israel.",
+     "url": "https://www.npr.org/2026/11/09/nx-s1-6029320/us-trump-israel-military-aid",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-09",
+   "title": "Relief Abroad as Argentina's Country Risk Drops Below 900 Points",
+   "sum": "Argentina's country risk has fallen below 900 points, leading to a 3% rebound in Argentine stocks traded on Wall Street. This spike occurred during a national holiday with no trading on the Buenos Aires Stock Exchange.",
+   "more": "Despite the lack of operations in Buenos Aires, the Argentine Depositary Receipts (ADRs) have mirrored the recovery of U.S. indices. The JP Morgan indicator decreased to 880 points, indicating a positive trend in international markets for Argentine assets. The framing from different sources may vary in emphasis, but the overall sentiment seems to reflect optimism for Argentina\u2019s economic outlook on foreign markets.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Alivio en el exterior: el riesgo pa\u00eds perfora los 900 puntos y las acciones argentinas rebotan 3% en Wall Street",
+     "title_en": "Relief Abroad: country risk drops below 900 points and Argentine stocks rebound 3% on Wall Street.",
+     "url": "https://www.lanacion.com.ar/economia/alivio-en-el-exterior-el-riesgo-pais-perfora-los-900-puntos-y-las-acciones-argentinas-rebotan-3-en-nid09112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-09",
+   "title": "The Pope Discusses Unemployment and Social Justice",
+   "sum": "The Pope addressed the 'drama' of unemployment, advocating for social justice and the role of unions and social movements. He spoke at the UCA in front of business leaders and unionists.",
+   "more": "Le\u00f3n XIV highlighted the importance of state intervention for the common good and referenced two encyclicals by Pope Francis that have significant political and social implications. His comments reflect a focus on the challenges faced in the workforce and the need for collective action. Different outlets may frame his emphasis on state involvement in varying ways, with some portraying it as a call for stronger social policies, while others might see it as leveraging political power in labor discussions.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Papa habl\u00f3 del \u201cdrama\u201d del desempleo, reivindic\u00f3 la justicia social y apoy\u00f3 el rol de los gremios y movimientos sociales",
+     "title_en": "The Pope Discusses Unemployment and Social Justice",
+     "url": "https://www.lanacion.com.ar/politica/el-papa-hablo-del-drama-del-desempleo-reivindico-la-justicia-social-y-apoyo-el-rol-de-los-gremios-y-nid09112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-09",
+   "title": "Netanyahu Offers to Lead Unity Government for Israel",
+   "sum": "Israeli Prime Minister Benjamin Netanyahu reiterates his willingness to lead a unity government. He emphasizes that forming a government with Hamas supporters is not viable for combatting Iran and its affiliates.",
+   "more": "Netanyahu's comments reflect his ongoing stance against including factions he deems radical. He has positioned himself as a leader capable of fighting against external threats while seeking internal cohesion. The framing here emphasizes his rejection of cooperation with Hamas, showcasing a hardline approach to governance.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Netanyahu se ofrece de nuevo para liderar un \u201cgobierno de unidad\u201d para Israel",
+     "title_en": "Netanyahu offers again to lead a 'unity government' for Israel",
+     "url": "https://www.latercera.com/mundo/noticia/netanyahu-se-ofrece-de-nuevo-para-liderar-un-gobierno-de-unidad-para-israel/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-09",
+   "title": "Petition for Inquiry into UK's Role in Gaza Gains Over 100,000 Signatures",
+   "sum": "A petition calling for an inquiry into the UK's involvement in what is termed the Gaza genocide has surpassed 100,000 signatures. This achievement mandates the British parliament to address the issue in a debate.",
+   "more": "The petition reflects a significant public sentiment regarding the UK's role in the ongoing situation in Gaza. The framing of the issue as a 'genocide' highlights the seriousness with which the petitioners view the conflict. Different outlets may emphasize various aspects of the debate process or the implications of the petition on UK policy towards Gaza.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
+     "title_en": "More than 100,000 sign petition for inquiry into UK role in Gaza genocide",
+     "url": "https://www.aljazeera.com/news/2026/11/9/more-than-100000-sign-petition-for-inquiry-into-uk-role-in-gaza-genocide",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-09",
+   "title": "France Accuses Iran of Cyberattacks on Supermarket Fridges",
+   "sum": "France has accused Iran's Islamic Revolutionary Guard Corps of orchestrating cyberattacks targeting supermarket fridges and freezers. The French government is contemplating tough sanctions in response to these actions.",
+   "more": "French Foreign Minister Jean-Noel Barrot emphasized that the attacks were 'unprecedented in both its scale and its level of aggressiveness'. The French government is taking serious measures, including summoning Iran\u2019s ambassador, as part of its response strategy. Different outlets provide similar information, but Al Jazeera highlights the government's focus on seeking tougher sanctions, while TechRadar emphasizes the unprecedented nature of the attacks.",
+   "coverage": [
+    {
+     "outlet": "Slashdot.org",
+     "title": "France Accuses Iran of Supermarket Fridge Hacking",
+     "title_en": "France Accuses Iran of Supermarket Fridge Hacking",
+     "url": "https://it.slashdot.org/story/26/11/09/2032202/france-accuses-iran-of-supermarket-fridge-hacking",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France summons Iran\u2019s ambassador over supermarket fridge \u2018sabotage\u2019",
+     "title_en": "France Summons Iran\u2019s Ambassador Over Supermarket Fridge \u2018Sabotage\u2019",
+     "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "TechRadar",
+     "title": "France accuses Iran of 'unprecedented' supermarket freezer hacking",
+     "title_en": "France Accuses Iran of 'Unprecedented' Supermarket Freezer Hacking",
+     "url": "https://www.techradar.com/pro/security/france-accuses-iran-of-supermarket-freezer-hacking-slams-the-first-cyber-offensive-campaign-carried-out-purely-for-the-purpose-of-sabotage-on-national-territory",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-09",
+   "title": "Valencia Housing Camp Announces Gradual Reduction Due to Holiday Season",
+   "sum": "The housing camp in Valencia has announced a gradual de-escalation of their protest ahead of the Christmas season. This involves reducing the occupied space and removing empty tents.",
+   "more": "The protest has been ongoing for over a month in the Plaza del Ayuntamiento. The decision to downsize the camp is aimed at allowing local commerce to function more normally during the holiday period. Different outlets emphasize the intention behind the de-escalation, with some framing it as a necessary step for local businesses, while others focus on the changes in the protest's logistics to accommodate the festive season.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "La acampada por la vivienda de Valencia anuncia una \"desescalada progresiva\" por la campa\u00f1a navide\u00f1a",
+     "title_en": "Valencia housing camp announces a 'progressive de-escalation' due to the holiday campaign.",
+     "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/09/6af195befc6c834a288b457a.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "La acampada de Valencia comienza la desescalada con la retirada de tiendas vac\u00edas",
+     "title_en": "Valencia's housing camp begins de-escalation with the removal of empty tents.",
+     "url": "https://www.abc.es/espana/comunidad-valenciana/acampada-valencia-comienza-desescalada-retirada-tiendas-vacias-20261109110017-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Libertaddigital.com",
+     "title": "La acampada por la vivienda de Valencia reducir\u00e1 su espacio ocupado ante la llegada de la campa\u00f1a navide\u00f1a",
+     "title_en": "Valencia housing camp will reduce its occupied space ahead of the Christmas campaign.",
+     "url": "https://www.libertaddigital.com/valencia/2026-11-10/la-acampada-por-la-vivienda-de-valencia-reducira-su-espacio-ocupado-ante-la-llegada-de-la-campana-navidena-7488964/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-09",
+   "title": "Republicans Prepare to Select Leadership After Election Losses",
+   "sum": "Republicans in the US Congress are set to elect their leadership following recent electoral defeats. Key contenders include Reps. Jim Jordan and Steve Scalise for the House leadership role.",
+   "more": "The elections will take place on Tuesday and reflect the party's search for direction following a disappointing performance in the elections. While Jordan and Scalise are competing for House leadership, John Thune is likely to continue as the Republican leader in the Senate. There is a conservative movement advocating to delay Thune's leadership, but it remains uncertain how much impact this will have on the elections. The framing between Al Jazeera and NBC News aligns on the focus of leadership challenges but highlights different aspects of party dynamics and electoral outcomes.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Which Republicans are running for minority leadership roles in Congress?",
+     "title_en": "Which Republicans are running for minority leadership roles in Congress?",
+     "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Republicans, reeling from an election drubbing, will choose their leadership in Congress",
+     "title_en": "Republicans, reeling from an election drubbing, will choose their leadership in Congress.",
+     "url": "https://www.nbcnews.com/politics/congress/republicans-reeling-election-choose-leadership-congress-rcna608300",
+     "bias": "Lean Left",
+     "src": "table"
     }
    ]
   }

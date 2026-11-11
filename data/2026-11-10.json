@@ -1,0 +1,401 @@
+{
+ "date": "2026-11-10",
+ "updated": "Nov 11, 18:13 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-10",
+   "title": "Adobe Expands Commitment to Agentic AI in Creative Tools",
+   "sum": "Adobe is enhancing its focus on AI technologies that function as creative assistants. The updates aim to automate workflows and streamline design processes.",
+   "more": "At Adobe's Max conference, the company revealed its plans to integrate AI agents into its applications, emphasizing their potential to handle repetitive tasks. Both The Verge and CNET report on this strategy, highlighting the increasing capabilities of tools like Firefly and Creative Cloud to assist in creative work. The framing differs slightly, with The Verge focusing more on the broader implications of AI as design assistants, while CNET emphasizes the additional functionalities being incorporated into existing applications.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Adobe is going all in on agentic AI",
+     "title_en": "Adobe is going all in on agentic AI.",
+     "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "Adobe Is Giving Its AI Agents Even More to Do",
+     "title_en": "Adobe Is Giving Its AI Agents Even More to Do.",
+     "url": "https://www.cnet.com/tech/adobe-is-giving-its-ai-agents-even-more-to-do/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-10",
+   "title": "New Linux-Based OS Kora Targets AI Enthusiasts",
+   "sum": "Kora, developed by the cofounder of Cyanogen, is a desktop operating system catering to power users who run local AI models. It aims to provide a next-generation alternative to Windows and macOS.",
+   "more": "Wired highlights Kora as specifically designed for individuals deeply engaged in AI, leveraging the flexibility of Linux. The focus on local AI model performance positions it as a niche product for tech-savvy users. Other media outlets may emphasize different features, such as user experience or compatibility with existing software frameworks, but the core identity of Kora as an alternative OS for AI-heavy tasks remains consistent across reporting.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+     "title_en": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+     "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-10",
+   "title": "Ring's Indoor Drone Camera Returns with AI Features",
+   "sum": "Ring has reintroduced its indoor drone camera, now enhanced with artificial intelligence. The drone is designed to fly around homes to monitor for potential threats.",
+   "more": "In addition to the indoor model, Ring has also unveiled a Rover Cam for businesses, which incorporates technology from Amazon's former Astro robot. The emphasis on AI capabilities signifies a shift towards more intelligent home security solutions. Different outlets may highlight the various use cases for personal versus commercial surveillance options.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Ring\u2019s Indoor Drone Camera Is Back\u2014and Now Powered by AI",
+     "title_en": "Ring\u2019s Indoor Drone Camera Is Back\u2014and Now Powered by AI",
+     "url": "https://www.wired.com/story/ring-robotics-drone-cam-rover-cam/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-10",
+   "title": "Nithya Raman Elected Mayor of Los Angeles: Critiques ICE Raids",
+   "sum": "Nithya Raman, the newly elected mayor of Los Angeles, has condemned immigration raids conducted by ICE. She spoke out against these actions in a campaign spot ahead of the 2026 primaries.",
+   "more": "Raman's comments highlight her commitment to protecting immigrant communities in Los Angeles. Her victory over Karen Bass is framed as a shift towards more progressive leadership. The narrative surrounding her election emphasizes concerns over immigration enforcement in areas close to schools and workplaces, suggesting a broader discussion on immigration policies in the city.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Nithya Raman, alcaldesa electa de Los \u00c1ngeles: \u201cNuestra ciudad est\u00e1 siendo aterrorizada por el ICE\u201d",
+     "title_en": "Nithya Raman, Elected Mayor of Los Angeles: 'Our City is Being Terrorized by ICE'",
+     "url": "https://www.lanacion.com.ar/estados-unidos/california/nithya-raman-alcaldesa-electa-de-los-angeles-nuestra-ciudad-esta-siendo-aterrorizada-por-el-ice-nid10112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-10",
+   "title": "Jorge Macri comments on VIP tent controversy during Pope's mass",
+   "sum": "The head of the Buenos Aires government, Jorge Macri, addressed the controversy surrounding the 'VIP tent' at the Pope's mass, acknowledging potential excesses in the preferential area. He criticized the portrayal of the situation as a 'huge luxury.'",
+   "more": "Macri's remarks indicate an acknowledgment of the public's concerns regarding the privileges afforded to some attendees. However, he seems to downplay the situation by suggesting that the criticism is exaggerated. The discussion highlights differing perspectives on exclusivity and accessibility during significant public events like a papal mass.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Jorge Macri habl\u00f3 de la pol\u00e9mica por la \u201ccarpa VIP\u201d en la misa del Papa: \u201cLas medialunas y los budines estuvieron de m\u00e1s\u201d",
+     "title_en": "Jorge Macri spoke about the controversy over the 'VIP tent' at the Pope's mass: 'The croissants and cakes were too much.'",
+     "url": "https://www.lanacion.com.ar/politica/jorge-macri-hablo-de-la-polemica-por-la-carpa-vip-en-la-misa-del-papa-las-medialunas-y-los-budines-nid10112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-10",
+   "title": "Protesters Arrested During Biden's Visit to Dublin",
+   "sum": "Former US President Joe Biden made an unexpected visit to Dublin, where his son Hunter received a Gold Medal. The visit was marked by the arrest of several protesters.",
+   "more": "Biden's trip to Dublin was to honor his son Hunter for his contributions to public discourse. There was notable tension during the visit, leading to protests that resulted in arrests. Different media outlets may emphasize the significance of the protests in relation to Biden's political legacy, with some framing the event as a reflection of public dissent against political figures.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Protesters arrested after former US President Biden makes surprise Dublin visit",
+     "title_en": "Protesters arrested after former US President Biden makes surprise Dublin visit",
+     "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-10",
+   "title": "Meghan's First Public Appearance Since Father's Arrest",
+   "sum": "The Duchess of Sussex, Meghan Markle, recently made her first public appearance following her father's arrest. She withdrew from participating in a speech alongside Prince Harry at an event focused on children's online safety.",
+   "more": "While the BBC highlights her withdrawal from the event, it does not elaborate on the reasons for her father's arrest or the potential emotional impact on Meghan. The framing primarily centers around her public engagement and duties. Other outlets may cover the father's arrest more provocatively, focusing on its implications for Meghan's public image and role.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Meghan makes first public appearance since father's arrest",
+     "title_en": "Meghan makes first public appearance since father's arrest",
+     "url": "https://www.bbc.co.uk/news/articles/cq3989418n78o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-10",
+   "title": "Trinidad and Tobago Anti-Homosexuality Laws Overturned",
+   "sum": "The anti-homosexuality laws in Trinidad and Tobago have been overturned, concluding a lengthy legal battle. This landmark decision comes after 11 years of efforts led by dual citizen Jason Jones.",
+   "more": "The ruling is seen as a significant victory for LGBTQ+ rights in the country and may impact similar laws in the region. Coverage highlights the personal stakes for Jason Jones and points to the broader implications for human rights in the Caribbean. However, some local reactions indicate resistance to the change, citing cultural and religious beliefs.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+     "title_en": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+     "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-10",
+   "title": "French Resistance Heroine Solange Alexandre Passes Away at 104",
+   "sum": "Solange Alexandre, a notable figure of the French wartime resistance, has died at the age of 104. She was known for organizing sabotage operations and aiding Allied airmen during the German occupation.",
+   "more": "Throughout her life, Alexandre played a significant role in the fight against German forces, leading a group of 30 men in various resistance activities. Her bravery and leadership have been recognized as pivotal during a crucial period in history. While BBC News highlights her operational leadership and humanitarian efforts, other outlets may emphasize her personal stories or the broader impact of women in the resistance movement.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+     "title_en": "French wartime resistance heroine Solange Alexandre dies aged 104",
+     "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-10",
+   "title": "Israeli President Urges Inquiry Amid Political Stalemate",
+   "sum": "Israeli President Isaac Herzog has called for an investigation into the attacks that occurred on October 7 during a Knesset session. This comes as the country faces political gridlock following recent elections.",
+   "more": "Herzog's warning against a repeat election highlights the tense political atmosphere in Israel, where the Knesset has been struggling to form a stable government. The call for an inquiry reflects concerns about the security lapses leading to the attacks and the implications for national safety. Different media outlets may frame Herzog's comments in various ways, either emphasizing the need for accountability or the political implications of the inquiry.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israeli president warns against repeat election in new Knesset session",
+     "title_en": "Israeli president warns against repeat election in new Knesset session",
+     "url": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-10",
+   "title": "Poland's Political Rivals Unite in 'March of Silence' for Shooting Victims",
+   "sum": "Poland's political leaders participated in a public demonstration to honor shooting victims. The event took place in Krakow and drew a large crowd.",
+   "more": "President Karol Nawrocki and Prime Minister Donald Tusk were among the thousands who attended the 'March of Silence'. The gathering reflects a moment of unity among political rivals in response to a tragedy. The event aims to raise awareness and express solidarity with those affected by the violence.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Poland\u2019s political rivals join \u2018March of Silence\u2019 for shooting victims",
+     "title_en": "Poland\u2019s political rivals join \u2018March of Silence\u2019 for shooting victims",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/polands-political-rivals-join-march-of-silence-for-shooting-victims",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-10",
+   "title": "U.S.-Mediated Talks on Russia-Ukraine War Commence in Abu Dhabi",
+   "sum": "U.S.-mediated talks aimed at resolving the Russia-Ukraine conflict have started in Abu Dhabi. This two-day meeting is the first since February and will focus on security guarantees.",
+   "more": "While NPR highlights the aspect of security guarantees as a central focus of the discussions, CBC News points out the significant distance between Russia and Ukraine on key elements of any potential deal. This indicates that despite the talks beginning, major obstacles remain for achieving resolution. Both outlets emphasize the importance of this meeting as the war approaches its five-year mark.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+     "title_en": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi.",
+     "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "U.S.-mediated talks between Russia and Ukraine begin in Abu Dhabi",
+     "title_en": "U.S.-mediated talks between Russia and Ukraine begin in Abu Dhabi.",
+     "url": "https://www.cbc.ca/news/world/talks-between-russia-and-ukraine-begin-in-abu-dhabi-9.7416014",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-10",
+   "title": "France Accuses Iran of Cyberattack on Supermarket Refrigeration Systems",
+   "sum": "France has attributed a recent cyberattack on refrigeration controllers at nearly 700 retail locations to Iran's Islamic Revolutionary Guard Corps. The French government has indicated there will be consequences for Iran's actions.",
+   "more": "French Foreign Minister Jean-No\u00ebl Barrot made the announcement, emphasizing the seriousness of the situation and the repercussions that Iran may face. Different news outlets highlight Iran's involvement but vary in their emphasis on potential diplomatic consequences. While some reports focus primarily on the technical aspects of the attack, others underline the geopolitical implications of the incident.",
+   "coverage": [
+    {
+     "outlet": "Internet",
+     "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+     "title_en": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+     "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "France blames Iran for cyberattack that hacked supermarket refrigerators across the country",
+     "title_en": "France blames Iran for cyberattack that hacked supermarket refrigerators across the country",
+     "url": "https://www.cbc.ca/news/world/france-iran-cyberattack-accusation-9.7415031",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-10",
+   "title": "France Blames Iran for Supermarket Cyberattack",
+   "sum": "The French government has accused Iran's Islamic Revolutionary Guard Corps of being responsible for a cyberattack on supermarkets. France is seeking to implement tough sanctions to prevent further cyber threats in Europe.",
+   "more": "The framing of the incidents showcases a clear position from France regarding cybersecurity and international relations. Al Jazeera emphasizes the diplomatic response with the summoning of Iran's ambassador and the call for sanctions, while The Register refers to the incident as a distinct offensive campaign aimed purely at sabotage. This nuance reflects an underlying concern for national security and the implications of cyber warfare in Europe.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "France summons Iran\u2019s ambassador over supermarket fridge \u2018sabotage\u2019",
+     "title_en": "France summons Iran\u2019s ambassador over supermarket fridge \u2018sabotage\u2019",
+     "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Theregister.com",
+     "title": "France blames Iran for supermarket hack meltdowns",
+     "title_en": "France blames Iran for supermarket hack meltdowns",
+     "url": "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-10",
+   "title": "General Strike Prepared for November 11 in Spain",
+   "sum": "A general strike is set to take place across various Spanish cities on November 11, aiming to mobilize workers and express discontent with current conditions. Key issues driving the protests include wage improvements and housing crisis solutions.",
+   "more": "Different cities highlight specific local impacts of the strike. In C\u00f3rdoba, the focus is on mobilizing workers from the province, while Madrid's protests will include significant traffic disruptions and minimum services in public transportation and hospitals. Barcelona is also preparing for mobility challenges due to the anticipated demonstrations, as major streets are expected to be closed throughout the day. The framing of the events emphasizes the collective effort across regional protests, each addressing common themes of worker rights and economic concerns.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "Huelga general del 11N en C\u00f3rdoba: horario, recorrido y motivos de la manifestaci\u00f3n de este mi\u00e9rcoles",
+     "title_en": "General strike on November 11 in C\u00f3rdoba: schedule, route, and reasons for Wednesday's demonstration.",
+     "url": "https://www.abc.es/espana/andalucia/cordoba/huelga-general-11n-cordoba-horario-recorrido-motivos-20261110145952-nts.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elconfidencial.com",
+     "title": "Huelga General el 11 de noviembre en Madrid: horario y recorrido de la manifestaci\u00f3n, servicios m\u00ednimos en transporte y hospitales y cortes de tr\u00e1fico",
+     "title_en": "General strike on November 11 in Madrid: schedule and route of the demonstration, minimum services in transport and hospitals, and traffic disruptions.",
+     "url": "https://www.elconfidencial.com/espana/madrid/2026-11-10/huelga-general-madrid-servicios-minimos-1qrt_4461914/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elperiodico.com",
+     "title": "Huelga general en Barcelona el 11 de noviembre: calles cortadas y horarios de las manifestaciones",
+     "title_en": "General strike in Barcelona on November 11: street closures and schedules of the demonstrations.",
+     "url": "https://www.elperiodico.com/es/barcelona/20261110/huelga-general-barcelona-11-noviembre-calles-cortadas-horarios-136287179",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-10",
+   "title": "Protesters Arrested During Biden's Surprise Visit to Dublin",
+   "sum": "Former US President Joe Biden was in Dublin to attend a ceremony for his son Hunter. During his visit, two protesters were arrested outside Trinity College.",
+   "more": "The BBC reported that two arrests were made in connection with the protest, highlighting the presence of demonstrators during the event. RTE's coverage similarly noted the arrests but did not elaborate on the nature of the protests. Both outlets focused on the notable occasion of Biden's presence in Dublin, coinciding with the award ceremony for his son.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Protesters arrested after former US President Biden makes surprise Dublin visit",
+     "title_en": "Protesters arrested after former US President Biden makes surprise Dublin visit.",
+     "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Two arrested after Joe Biden makes surprise Dublin visit",
+     "title_en": "Two arrested after Joe Biden makes surprise Dublin visit.",
+     "url": "https://www.rte.ie/news/dublin/2026/1110/1598715-joe-biden-hunter-biden-dublin/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-10",
+   "title": "House Republicans to Elect New Leader Following Midterm Losses",
+   "sum": "House Republicans are set to vote for a new leader after suffering significant defeats in the midterm elections. Mike Johnson has announced his decision to step down as the top Republican in the chamber.",
+   "more": "The decision to elect a new leader comes as the GOP seeks to regroup and strategize following their electoral setbacks. This vote is crucial for the party's direction moving forward and may influence their tactics in upcoming legislative sessions. Different outlets may highlight varying aspects of the leadership transition, such as the implications for party unity or potential candidates vying for the position.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+     "title_en": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6030988/gop-leadership-election-steve-scalise-jim-jordan",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-10",
+   "title": "Democratic Party Gains Power Amid Midterm Elections",
+   "sum": "The Democratic Party secured significant victories in recent midterm elections, gaining power nationwide. Party leaders are now tasked with determining their next steps in governance.",
+   "more": "With voters entrusting Democrats with power, there is heightened anticipation for a change in direction from previous leadership. The party's leadership is reportedly in discussions to establish a clear agenda that aligns with voter expectations. Different media outlets may emphasize either the challenges or opportunities presented by this shift in power.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "The Democratic Party gained power across the country in the midterms. Now what?",
+     "title_en": "The Democratic Party gained power across the country in the midterms. Now what?",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6035008/democratic-party-blue-wave-midterm-congress",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-10",
+   "title": "Gas Prices Fall Below $4 a Gallon",
+   "sum": "U.S. gasoline prices have decreased below $4 a gallon for the first time since July, providing consumers with some relief. However, prices are still notably high compared to seasonal averages.",
+   "more": "This decline in gas prices has been welcomed by consumers after months of rising costs. Despite the drop, the prices continue to be higher than what is typically expected for this time of year. Various reports might frame the drop as a significant improvement or simply a minimal respite in an ongoing trend of elevated prices.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Gas prices drop below $4 a gallon after months of pain at the pump",
+     "title_en": "Gas prices drop below $4 a gallon after months of pain at the pump",
+     "url": "https://finance.yahoo.com/energy/articles/us-gasoline-prices-drop-below-083950459.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
