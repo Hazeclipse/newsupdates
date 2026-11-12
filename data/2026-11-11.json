@@ -1,0 +1,492 @@
+{
+ "date": "2026-11-11",
+ "updated": "Nov 12, 18:40 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-11",
+   "title": "China\u2019s Nvidia Honeypot Strategy Exposed",
+   "sum": "Jensen Huang, the CEO of Nvidia, fell victim to a sexpionage scheme, a tactic commonly used in intelligence operations. This incident highlights the vulnerability of even the most powerful figures in the tech industry.",
+   "more": "The article reflects on the broader implications of such tactics in espionage and how they can ensnare prominent individuals. While the specific details of the incident are discussed, it raises questions about security measures in the tech sector. Different outlets may focus on Huang's reputation and the potential fallout for Nvidia, with varying degrees of emphasis on the geopolitical context surrounding China\u2019s espionage activities.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "China\u2019s Nvidia Honeypot Isn\u2019t Surprising. Jensen Huang Fell for It Anyway",
+     "title_en": "China\u2019s Nvidia Honeypot Isn\u2019t Surprising",
+     "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-11",
+   "title": "Congressional Reports and Election Upsets: Investigations and Results",
+   "sum": "A Republican committee criticized the federal government for not adequately addressing the actions of Jeffrey Epstein after a detailed investigation. Meanwhile, Democrats achieved surprising victories in House elections previously considered safe for Republicans.",
+   "more": "The report released by the Republican chair of the House Oversight Committee highlighted decades of negligence by the federal government in holding Epstein accountable, indicating a systemic failure. In contrast, the election results show a shift in political dynamics, with Democrats winning seats in areas that were thought to be strongholds for Republicans. This suggests not only a potential change in voter sentiment but also strategies that may have been underestimated by Republican leaders. The juxtaposition of these two narratives reflects contrasting themes of accountability and electoral vulnerability.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+     "title_en": "Federal government failed to hold Epstein accountable, Republican committee says",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Democrats pulled off House upsets in places Republicans thought were safe",
+     "title_en": "Democrats pulled off House upsets in places Republicans thought were safe",
+     "url": "https://www.yahoo.com/news/politics/articles/house-seats-democrats-didnt-expect-050649423.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-11",
+   "title": "Missing 11-Month-Old Boy Found Buried Alive After 24 Hours",
+   "sum": "Koah Sharpe, an 11-month-old boy, was discovered buried alive after being missing for a day. Authorities report that he was found clinging to life near his father's home.",
+   "more": "Both ABC News and BBC News report on the tragic case of the missing infant, noting the child's critical condition upon discovery. ABC emphasizes the timeline of events and the father's involvement, while BBC focuses on the child's current status in the hospital. The framing differs slightly in the level of detail regarding the child's immediate health following his rescue.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Missing 11-month-old boy taken by father found buried alive after 24 hours: Sheriff",
+     "title_en": "Missing 11-month-old boy taken by father found buried alive after 24 hours: Sheriff",
+     "url": "https://abcnews.com/US/missing-11-month-boy-father-found-buried-alive/story?id=138029746",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+     "title_en": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+     "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-11",
+   "title": "Adobe Unveils New AI Features at Max Conference",
+   "sum": "Adobe introduced new experimental AI technologies at its annual Max conference that allow users to interact with photos and engage in conversations with characters within them. These innovations aim to enhance creative experiences by transforming static images into immersive 3D environments.",
+   "more": "The focus of Adobe's showcase this year is on leveraging AI to create more engaging digital experiences. These advancements demonstrate the company's commitment to pushing the boundaries of visual storytelling. While some reports emphasize the practical applications for creatives, others highlight the novelty of such technology in consumer-grade tools. The differences in framing reflect varying perceptions of AI's role in creative processes.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
+     "title_en": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
+     "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-11",
+   "title": "Kennedy Family Members Challenge Construction of Trump's Monumental Arch",
+   "sum": "Members of the Kennedy family are seeking to impede the construction of President Trump's arch, arguing its proximity to a significant burial site. They have filed a lawsuit to formally block the project.",
+   "more": "The Kennedys contend that the arch would cast a shadow over the site where many of their notable relatives are buried. This legal action reflects their desire to protect the sanctity of the burial ground in Arlington National Cemetery. Reports from different outlets emphasize the familial ties of the plaintiffs, with NBC News highlighting the number of family members involved, while NPR focuses on the historical context of President John F. Kennedy's legacy.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Kennedy family members seek to block construction of Trump\u2019s arch",
+     "title_en": "Kennedy family members seek to block construction of Trump's arch.",
+     "url": "https://www.nbcnews.com/politics/trump-administration/kennedy-family-members-block-construction-trump-arch-rcna608683",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "Kennedys sue to block Trump's arch",
+     "title_en": "Kennedys sue to block Trump's arch.",
+     "url": "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-11",
+   "title": "House GOP Report Blames Federal Government for Epstein Accountability Failures",
+   "sum": "A House Oversight Committee report criticizes the federal government for its handling of Epstein's case. The report follows a 15-month investigation into the actions of Jeffrey Epstein and his associates.",
+   "more": "The report was released by the Republican chair of the committee and highlights a decades-long failure to hold Epstein accountable for his actions. It indicates systemic issues within federal oversight when it comes to dealing with high-profile offenders. Both articles from NPR convey similar messages regarding the findings of the committee's investigation.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+     "title_en": "Federal government failed to hold Epstein accountable, Republican committee says.",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-11",
+   "title": "Rep. Kevin Kiley Discusses Challenges in the Two-Party System",
+   "sum": "Independent Rep. Kevin Kiley, a former Republican, reflects on his recent electoral defeat and the broader implications for the GOP. He addresses the desire for 'checks and balances' among voters.",
+   "more": "Kiley attributes his loss to several factors within the GOP and highlights the difficulties posed by the two-party system in achieving effective governance. He advocates for reforms that would improve Congress and better represent the electorate's needs. His views suggest a call for more diverse political representation rather than adhering solely to a two-party framework.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Independent Rep. Kevin Kiley says voters want 'checks and balances' in government",
+     "title_en": "Independent Rep. Kevin Kiley says voters want 'checks and balances' in government.",
+     "url": "https://www.npr.org/2026/11/11/nx-s1-6034566/kevin-kiley-election-loss-republicans-what-went-wrong",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-11",
+   "title": "Vaca Muerta's Significant Benefit for the Country",
+   "sum": "Vaca Muerta represents a major advantage for the country, attributed to genuine management and investment from private companies. The state's facilitation of a conducive business environment is essential for ensuring long-term benefits.",
+   "more": "The article emphasizes that the advantages of Vaca Muerta are not merely fortuitous but rather the result of strategic actions by private enterprises. It underscores the importance of a supportive governmental framework to sustain these developments for decades to come. This framing highlights both the role of private investment and the necessary governmental support in making Vaca Muerta a success.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Vaca Muerta y el enorme beneficio que significa para el pa\u00eds",
+     "title_en": "Vaca Muerta and the enormous benefit it means for the country",
+     "url": "https://www.lanacion.com.ar/opinion/vaca-muerta-y-el-enorme-beneficio-que-significa-para-el-pais-nid11112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-11",
+   "title": "Letters to the Editor: Thank You, Lion XIV!",
+   "sum": "A reader expresses gratitude towards Lion XIV, highlighting a strong message. The letter emphasizes appreciation for the leadership shown.",
+   "more": "The sentiment in the letter reflects a deep admiration for Lion XIV, potentially suggesting a connection to a particular event or action taken by the figure. This appreciation may be interpreted differently depending on the reader's perspective and allegiances, highlighting the polarized views surrounding leadership figures in various contexts.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Cartas de lectores: \u00a1Gracias, Le\u00f3n XIV!, fuerte mensaje, sayo",
+     "title_en": "Letters to the Editor: Thank You, Lion XIV!",
+     "url": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-gracias-leon-xiv-fuerte-mensaje-sayo-nid11112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-11",
+   "title": "Shelters for Uncertainty",
+   "sum": "The article discusses places of refuge amidst uncertainty. It highlights the importance of these sanctuaries for those in need of safety and comfort.",
+   "more": "The piece emphasizes various locations that provide support and shelter during tumultuous times. Different perspectives may arise regarding the effectiveness and accessibility of these refuges. While some sources might celebrate these shelters as vital resources, others may criticize their availability and adequacy. Ultimately, the discourse highlights a shared urgency for protective spaces in challenging contexts.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Refugios para la incertidumbre",
+     "title_en": "Shelters for Uncertainty",
+     "url": "https://www.lanacion.com.ar/opinion/refugios-para-la-incertidumbre-nid11112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-11",
+   "title": "US House Blocks Impeachment Bid Against Defence Secretary Pete Hegseth",
+   "sum": "The US House has temporarily blocked an impeachment bid against Defence Secretary Pete Hegseth. Although Trump supports him, Democrats may attempt to impeach Hegseth again next year.",
+   "more": "The outcome has been celebrated by Trump, who called Hegseth a 'Great American Patriot.' This development highlights ongoing partisan tensions, as Democrats are likely to seek other avenues for impeachment in the future. Different outlets may present varying focuses, with some emphasizing Trump's endorsement and others the implications for future congressional actions.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "title_en": "US House Blocks Impeachment Bid Against Defence Secretary Pete Hegseth",
+     "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-11",
+   "title": "Netanyahu Struggles to Maintain Relevance Amid Growing Opposition",
+   "sum": "Israeli Prime Minister Netanyahu faces increasing pressure as the opposition gains ground following the events of October 7. As a newly organized Knesset prepares to meet, Netanyahu is working to thwart the formation of an opposition government.",
+   "more": "The political landscape in Israel is shifting as different factions within the Knesset realign themselves following recent events. Netanyahu's attempt to maintain control reflects the heightened tensions and uncertainties within the Israeli political sphere. Some reports emphasize the urgency of the situation, highlighting the potential for a significant change in governance, while others focus on Netanyahu's strategies to cling to power amid growing opposition. This divergence in framing illustrates the complexity of the current political climate in Israel.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu fights to stay relevant as Israel\u2019s opposition closes in",
+     "title_en": "Netanyahu fights to stay relevant as Israel\u2019s opposition closes in",
+     "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-11",
+   "title": "End of Free Mobile: Changes Coming for Subscribers",
+   "sum": "Free Mobile will cease to exist on December 1, 2026, as it merges into Free, another subsidiary of the Iliad group. While subscription plans and prices remain unchanged, subscribers' personal data will be transferred between companies.",
+   "more": "Both articles indicate that Free Mobile is set to disappear, although they express the news with slightly different emphases. The Journal du geek notes the transition will happen starting December 1, 2026, while Presse-citron describes the announcement as 'official, or almost.' Both articles reassure subscribers that their plans and billing will remain untouched, though Presse-citron hints at significant behind-the-scenes changes.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "Fin de Free Mobile\u00a0: ce qui va se passer pour votre forfait d\u00e8s le 1er d\u00e9cembre pour les 15,8 millions d\u2019abonn\u00e9s",
+     "title_en": "End of Free Mobile: What Will Happen to Your Plan from December 1 for the 15.8 Million Subscribers",
+     "url": "https://www.journaldugeek.com/2026/11/11/fin-de-free-mobile-ce-qui-va-se-passer-pour-votre-forfait-des-le-1er-decembre-pour-les-158-millions-dabonnes/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Presse-citron",
+     "title": "Fin de Free Mobile\u00a0: ce qui va se passer pour votre forfait d\u00e8s le 1er d\u00e9cembre",
+     "title_en": "End of Free Mobile: What Will Happen to Your Plan from December 1",
+     "url": "https://www.presse-citron.net/fin-de-free-mobile-ce-qui-va-se-passer-pour-votre-forfait-des-le-1er-decembre/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-11",
+   "title": "Harry Kane's Fairytale Journey with England",
+   "sum": "Harry Kane has transformed from a 21-year-old who scored in his debut to being on the verge of breaking the national appearance record. His career with the England national team is seen as extraordinary.",
+   "more": "The article explores Kane\u2019s evolution as both a player and a leader within the team. It highlights significant milestones in his career, showcasing his impact on and off the field. Different sources might emphasize various aspects of his leadership qualities and the role he plays in motivating younger players.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+     "title_en": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Spain Experiences First General Strike in 14 Years",
+   "sum": "Spain has initiated its first general strike in 14 years, causing significant disruption to public transport and various industries. The strike is primarily driven by demands for housing reform just ahead of the upcoming elections on November 29.",
+   "more": "The strike has sparked widespread protests, particularly in major cities, highlighting the urgency of the housing affordability crisis. Reports indicate that thousands are taking to the streets, driven by concerns over the rising cost of living. While outlets like Al Jazeera emphasize the electoral context, BBC News focuses on the scale of the protests and their timing in relation to the elections. RTE particularly highlights the formation of picket lines as a central element of the workers' protests.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Spain\u2019s first general strike in 14 years begins",
+     "title_en": "Spain\u2019s first general strike in 14 years begins",
+     "url": "https://www.aljazeera.com/news/2026/11/11/spains-first-general-strike-in-14-years-begins",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "title_en": "Spain sees widespread disruption in first general strike for 14 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Workers in Spain stage first general strike since 2012",
+     "title_en": "Workers in Spain stage first general strike since 2012",
+     "url": "https://www.rte.ie/news/world/2026/1111/1598839-spain-general-strike/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Protests Disrupt TV Broadcast in Catalonia",
+   "sum": "A group of protesters disrupted the broadcast of a program hosted by Gemma Nierga on La 2Cat in Catalonia. Nierga expressed regret over the inability to inform the public and encouraged viewers to follow updates through official channels.",
+   "more": "The protesters, some of whom were masked, entered the public television studios in Poblenou, Barcelona, during the airing of 'Caf\u00e8 d'idees.' The incident highlights tensions surrounding the general strike happening at the time. Different outlets emphasize varying aspects, with Libertaddigital noting the masked nature of the protesters, while Europapress focuses on the show's name and the context of the general strike.",
+   "coverage": [
+    {
+     "outlet": "Formulatv.com",
+     "title": "Un grupo de manifestantes impide la emisi\u00f3n del programa de Gemma Nierga en La 2Cat",
+     "title_en": "A group of protesters disrupts the broadcast of Gemma Nierga's program on La 2Cat",
+     "url": "https://www.formulatv.com/videos/grupo-manifestantes-impide-emision-programa-gemma-30069/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Libertaddigital.com",
+     "title": "Un piquete de encapuchados impide la emisi\u00f3n del canal en catal\u00e1n de TVE y corta a Gemma Nierga",
+     "title_en": "A group of masked protesters interrupts the broadcast of the Catalan TV channel and cuts off Gemma Nierga",
+     "url": "https://www.libertaddigital.com/cataluna/2026-11-11/un-piquete-de-encapuchados-impide-la-emision-del-canal-en-catalan-de-tve-y-corta-a-gemma-nierga-7489654/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Un grupo de manifestantes impide la emisi\u00f3n del programa 'El caf\u00e9 de ideas' en RTVE Catalu\u00f1a por la huelga general",
+     "title_en": "A group of protesters disrupts the broadcast of 'El caf\u00e9 de ideas' on RTVE Catalonia due to the general strike",
+     "url": "https://www.europapress.es/sociedad/noticia-grupo-manifestantes-impide-emision-programa-cafe-ideas-rtve-cataluna-huelga-general-20261111105556.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Nationwide General Strike in Spain Amid Housing Crisis",
+   "sum": "Spain experiences its first general strike in 14 years, with protests highlighting the housing crisis and rising living costs. The strike sees a varied turnout across the country.",
+   "more": "The BBC notes that dozens have been detained during the protests, reflecting a tense atmosphere during the mobilization. In contrast, Actualidad-rt.com emphasizes the collective demands for better wages and access to adequate housing, underlining the strike's broader social implications. Both sources agree on the significance of this historical strike, but they frame the events differently, with BBC focusing more on arrests and Actualidad-rt.com on the economic demands.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "En im\u00e1genes: decenas de detenidos en la primera huelga general en Espa\u00f1a en 14 a\u00f1os",
+     "title_en": "In pictures: dozens arrested in Spain's first general strike in 14 years",
+     "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "La marea que recorre toda Espa\u00f1a en la primera huelga general en 14 a\u00f1os, en IM\u00c1GENES",
+     "title_en": "The wave sweeping across Spain in the first general strike in 14 years, in images",
+     "url": "https://actualidad-rt.com/actualidad/637297-marea-recorre-espana-primera-huelga",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Chaos in Barcelona and Increased Security in Madrid Amid General Strike",
+   "sum": "Widespread disruptions occurred in Barcelona due to actions by striking groups during the general strike on November 11. Meanwhile, businesses in central Madrid are enhancing security measures to protect against potential vandalism.",
+   "more": "In Barcelona, significant traffic disruption was reported on key highways, such as the AP-7 and A-2, affecting mobility across many routes in Catalonia. The emphasis was on the severe impact on access points, suggesting a local focus on preventing striking actions. Conversely, in Madrid, the response to the strike included heightened precautions by retailers, with some shops boarding up windows to deter vandalism. This framing highlights a contrast between the chaotic scenes in Barcelona and the defensive measures adopted in Madrid.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "Ma\u00f1ana de caos en Barcelona por la acci\u00f3n de los piquetes en la huelga general del 11-N",
+     "title_en": "Morning of chaos in Barcelona due to strike actions on November 11",
+     "url": "https://www.elmundo.es/cataluna/2026/11/11/6af4460fe9cf4aea658b45b2.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Libertaddigital.com",
+     "title": "Vuelve el p\u00e1nico en Madrid: los comercios del centro se blindan ante los piquetes de la huelga general",
+     "title_en": "Panic returns to Madrid: central businesses fortify against strike-related vandalism",
+     "url": "https://www.libertaddigital.com/madrid/2026-11-10/vuelve-el-panico-en-madrid-los-comercios-del-centro-se-blindan-ante-los-piquetes-de-la-huelga-7489463/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-11",
+   "title": "Nvidia CEO Jensen Huang's Affair Raises National Security Concerns",
+   "sum": "Jensen Huang, CEO of Nvidia, is facing scrutiny due to an extramarital affair with Chinese businesswoman Alice Huang, who is suspected of espionage. This revelation may have serious implications for U.S. national security.",
+   "more": "The affair has prompted investigations in the U.S. regarding potential security risks, particularly concerning sensitive AI technology. Different outlets emphasize the potential consequences for American technologies and the geopolitical implications of the affair. While some sources focus on the personal aspects of Huang's life, others stress the national security angle and the impact on U.S.-China relations.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Nvidia CEO's extramarital affair could cause collateral damage in Washington",
+     "title_en": "Nvidia CEO's extramarital affair could cause collateral damage in Washington",
+     "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa24a952-28d0-4138-af27-834f868f0a5a",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+     "title_en": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+     "url": "https://abcnews.com/Technology/wireStory/nvidia-ceo-jensen-huangs-extramarital-affair-cause-collateral-138036394",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+     "title_en": "How Nvidia CEO Jensen Huang's extramarital affair could cause collateral damage in Washington",
+     "url": "https://economictimes.indiatimes.com/news/international/business/how-nvidia-ceo-jensen-huangs-extramarital-affair-could-cause-collateral-damage-in-washington/articleshow/135727016.cms",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-11",
+   "title": "Red Counties with Data Centers Shifted Away from Republicans in Midterms",
+   "sum": "An analysis indicates that red counties with current or proposed data centers moved away from the Republican Party in the recent midterm elections. This trend has been attributed to local concerns over control and property rights.",
+   "more": "Both Breitbart News and Fox News highlight that red counties hosting data centers experienced a shift away from Republican support during the midterms. However, Fox News emphasizes the backlash from communities regarding local control and property rights, attributing it to a warning from Amy Kremer of Humans First. The framing in both articles suggests a growing concern among constituents towards the influence of data centers on local governance and political alignment.",
+   "coverage": [
+    {
+     "outlet": "Breitbart News",
+     "title": "Analysis: Red Counties with Current or Proposed Data Centers Shifted Away from Republicans in Midterms",
+     "title_en": "Red Counties with Current or Proposed Data Centers Shifted Away from Republicans in Midterms.",
+     "url": "https://www.breitbart.com/tech/2026/11/11/report-red-counties-with-current-or-proposed-data-centers-shifted-away-from-republicans-in-midterms/",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Red counties with data center projects swung away from GOP in midterms, analysis finds",
+     "title_en": "Red Counties with Data Center Projects Swung Away from GOP in Midterms, Analysis Finds.",
+     "url": "https://www.foxnews.com/politics/red-counties-data-center-projects-swung-away-gop-midterms-analysis-finds",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-11",
+   "title": "Democratic Gains Fueled by African American Voter Turnout",
+   "sum": "The Democratic Party saw significant electoral success across various regions of the United States. This was largely attributed to a remarkable increase in voter turnout among African Americans.",
+   "more": "The outcome suggests a potential shift in political power within the House of Representatives and Senate. Writers from different outlets are emphasizing the magnitude of this voter turnout, with some framing it as a pivotal moment in U.S. electoral history. Others note how changes at the state level, particularly in Texas, could lead to substantial political transformations. The narrative highlights the importance of grassroots mobilization in achieving these electoral victories.",
+   "coverage": [
+    {
+     "outlet": "Globalresearch.ca",
+     "title": "Black Votes and the Blue Wave",
+     "title_en": "Black Votes and the Blue Wave",
+     "url": "https://www.globalresearch.ca/black-votes-blue-wave/5945616",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The New York Review of Books",
+     "title": "The Blue Wave\u2014III",
+     "title_en": "The Blue Wave\u2014III",
+     "url": "https://www.nybooks.com/online/2026/11/10/the-blue-wave-iii/",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

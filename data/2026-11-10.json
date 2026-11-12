@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "updated": "Nov 11, 18:13 UTC",
+ "updated": "Nov 12, 18:40 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -393,6 +393,237 @@
      "title_en": "Gas prices drop below $4 a gallon after months of pain at the pump",
      "url": "https://finance.yahoo.com/energy/articles/us-gasoline-prices-drop-below-083950459.html",
      "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-10",
+   "title": "Google Launches Gemini 4 Carbon AI Model",
+   "sum": "Google has officially released its latest AI model, Gemini 4 Carbon, to the public following an initial launch for selected cybersecurity defenders. The company asserts that this version is its most powerful yet.",
+   "more": "Different outlets highlight various aspects of the rollout. The Verge emphasizes the 'swarm' feature designed to enhance the model's capabilities, whereas CNET focuses on the accessibility for AI Ultra subscribers to now experience the model. The framing from The Verge suggests a strong competitive stance against other AI models, while CNET is more centered on user availability and accessibility.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
+     "title_en": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature.",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "Google Expands Gemini 4 Carbon Availability",
+     "title_en": "Google Expands Gemini 4 Carbon Availability.",
+     "url": "https://www.cnet.com/tech/services-and-software/google-expands-gemini-4-carbon-availability/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-10",
+   "title": "Pete Hegseth's Impeachment Battle",
+   "sum": "Defense Secretary Pete Hegseth faces impeachment efforts initiated by a Republican lawmaker. The situation reflects the political turmoil within the Trump administration.",
+   "more": "Different outlets present varying emphases on Hegseth's political situation. The Atlantic focuses on the reasons behind the impeachment efforts, highlighting eight specific charges. Vox notes Hegseth's temporary escape from impeachment, framing it as a narrow escape for the secretary. Rolling Stone emphasizes the administration's defensive stance in the face of the ongoing impeachment push.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "Why Pete Hegseth Faces Impeachment",
+     "title_en": "Why Pete Hegseth Faces Impeachment",
+     "url": "https://www.theatlantic.com/national-security/2026/11/pete-hegseth-thomas-massie-impeachment/689353/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Vox",
+     "title": "Hegseth escapes impeachment \u2014 for now",
+     "title_en": "Hegseth escapes impeachment \u2014 for now",
+     "url": "https://www.vox.com/the-logoff-newsletter-trump/510266/hegseth-massie-impeachment-procedural-house-vote",
+     "bias": "Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Rolling Stone",
+     "title": "Pete Hegseth Digs in for Battle Against Impeachment Blitz",
+     "title_en": "Pete Hegseth Digs in for Battle Against Impeachment Blitz",
+     "url": "http://www.rollingstone.com/politics/politics-news/pete-hegseth-digs-in-battle-impeachment-1235655241/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-10",
+   "title": "Thomas Markle Detained for Allegedly Tampering with Monitoring Device",
+   "sum": "Thomas Markle, the father of Meghan Markle, has been detained for allegedly removing his ankle monitor. He was previously placed under house detention after being charged with possession of child sex abuse material.",
+   "more": "The Department of Justice has confirmed that Thomas Markle Sr. was arrested in Florida on a charge of possessing child pornography. Reports indicate that he was under house arrest before this latest incident. The language used by different outlets varies, with some focusing on the specifics of the tampering incident, while others emphasize the severity of the charges against him.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+     "title_en": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say.",
+     "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "DOJ says Thomas Markle Sr. cut off ankle monitor following arrest",
+     "title_en": "DOJ says Thomas Markle Sr. cut off ankle monitor following arrest.",
+     "url": "https://abcnews.com/GMA/News/thomas-markle-sr-accused-doj-cutting-off-ankle/story?id=138024523",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-10",
+   "title": "House GOP Report Critiques Epstein Investigation",
+   "sum": "The House Oversight Committee has issued a report criticizing the federal government\u2019s handling of Jeffrey Epstein's case. The report specifically targets the Justice Department for its lack of accountability.",
+   "more": "The report by the House Oversight Committee details failures by the Justice Department in addressing the Epstein case over the years. It urges further investigation into the circumstances surrounding Epstein's offenses. The NBC News coverage emphasizes the call for federal investigators to revisit the case, while NPR highlights the overall accountability issues. Fox News focuses on the newly released evidence and reiterates the government's repeated failures towards Epstein's victims.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "House GOP report critical of Epstein investigation",
+     "title_en": "House GOP report critical of Epstein investigation",
+     "url": "https://www.npr.org/2026/11/10/nx-s1-6035872/house-gop-report-critical-of-epstein-investigation",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "House GOP report on Jeffrey Epstein rips Justice Department, urges further investigation",
+     "title_en": "House GOP report on Jeffrey Epstein rips Justice Department, urges further investigation",
+     "url": "https://www.nbcnews.com/politics/congress/house-republican-report-epstein-justice-department-investigation-trump-rcna608548",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "House Oversight Drops Epstein Report",
+     "title_en": "House Oversight Drops Epstein Report",
+     "url": "https://radio.foxnews.com/2026/11/11/house-oversight-drops-epstein-report/",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-10",
+   "title": "House to Vote on Hegseth Impeachment; SCOTUS Allows Border Wall Work",
+   "sum": "The House is preparing to vote on the impeachment of Hegseth, though his removal from office may prove difficult. Meanwhile, the Supreme Court has permitted the continuation of border wall construction.",
+   "more": "The article emphasizes the challenges that may face the impeachment vote, suggesting potential difficulties in the process. Additionally, it highlights the Supreme Court's decision to allow border wall work to proceed, which reflects the court's stance on federal authority in such matters. Different outlets may frame the impeachment as either a significant political event or as a challenging undertaking with unclear outcomes. In contrast, the border wall ruling is presented as a straightforward legal decision.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "House set to vote to impeach Hegseth. And, SCOTUS allows border wall work to proceed",
+     "title_en": "House set to vote to impeach Hegseth.",
+     "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-10",
+   "title": "Netanyahu and Eisenkot Advocate for New Government Following Election Stalemate",
+   "sum": "Israeli leaders Netanyahu and Eisenkot are advocating for the formation of a new government after recent election deadlock. Their push comes amidst political uncertainty in the country.",
+   "more": "The article discusses the ongoing political crisis in Israel and highlights efforts by Netanyahu and Eisenkot to break the impasse. Various stakeholders express differing views on the strategies being employed to establish a functional government. The framing in Al Jazeera emphasizes the challenges facing the leadership in addressing the deadlock effectively.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+     "title_en": "Netanyahu and Eisenkot push for new government after election deadlock",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-10",
+   "title": "Cameroon Schedules Legislative and Local Elections",
+   "sum": "Cameroon has announced a new date for its legislative and local elections, which have been delayed twice. President Paul Biya has set the elections for February 7.",
+   "more": "This decision comes amidst ongoing political tension in the country. President Biya, who is the world's oldest leader, has been in power for several decades, which has led to criticism and calls for reforms. While some outlets emphasize the significance of these elections for democratic processes, others focus on the challenges and controversies surrounding them.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Cameroon sets date for twice-delayed legislative and local elections",
+     "title_en": "Cameroon sets date for twice-delayed legislative and local elections.",
+     "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-10",
+   "title": "France Prepares Sanctions Against Iran Following Supermarket Cyberattack",
+   "sum": "France is set to impose sanctions on Iran in response to a significant cyberattack that targeted hundreds of supermarkets. The French government aims to deter future attacks with these measures.",
+   "more": "The cyberattack, which occurred in October, has been attributed to the Shahid Kaveh unit of Iran's Revolutionary Guards by French officials. Minister Jean-No\u00ebl Barrot described it as a significant threat to national interests. There's a clear consensus among French outlets on the attribution of the attack to Iran, but the specifics of the sanctions and potential responses may vary in framing across different sources.",
+   "coverage": [
+    {
+     "outlet": "Presse-citron",
+     "title": "Piratage des frigos de supermarch\u00e9s\u00a0: la France pr\u00e9pare des sanctions contre l\u2019Iran pour \u00ab\u00a0dissuader toute nouvelle attaque\u00a0\u00bb",
+     "title_en": "Hacking of Supermarket Fridges: France Prepares Sanctions Against Iran to 'Deter Any New Attacks'",
+     "url": "https://www.presse-citron.net/piratage-des-frigos-de-supermarches-la-france-prepare-des-sanctions-contre-liran-pour-dissuader-toute-nouvelle-attaque/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Mediapart",
+     "title": "Cyberattaque contre des frigos de supermarch\u00e9s: Paris accuse l\u2019Iran et menace de riposter",
+     "title_en": "Cyberattack on Supermarket Fridges: Paris Accuses Iran and Threatens to Respond",
+     "url": "https://www.mediapart.fr/journal/international/111126/cyberattaque-contre-des-frigos-de-supermarches-paris-accuse-l-iran-et-menace-de-riposter",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-10",
+   "title": "Newly Elected Members of Congress Begin Orientation in Washington",
+   "sum": "More than 100 newcomers to Congress are in Washington for their freshmen orientation. Representative-elect LaKesha Womack expressed her excitement about arriving in the capital after an unexpected victory in her election.",
+   "more": "LaKesha Womack, who defeated a prominent Republican with a limited campaign budget, is among those newly elected. Various news outlets highlight her triumph as surprising and significant for her party. Focus on the orientation process underscores the newcomers' enthusiasm and aspirations as they prepare to engage in legislative work. The coverage generally emphasizes the challenges and opportunities that lie ahead for these elected officials.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Dreams, desks and selfies: Newly elected members of Congress learn their way around",
+     "title_en": "Dreams, desks and selfies: Newly elected members of Congress learn their way around.",
+     "url": "https://www.yahoo.com/news/politics/articles/dreams-desks-selfies-newly-elected-185710725.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Dreams, desks and selfies: Newly elected members of Congress learn their way around",
+     "title_en": "Dreams, desks and selfies: Newly elected members of Congress learn their way around.",
+     "url": "https://abcnews.com/Politics/wireStory/dreams-desks-selfies-newly-elected-members-congress-learn-138022026",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Standard",
+     "title": "Dreams, desks and selfies: New US lawmakers learn their way around",
+     "title_en": "Dreams, desks and selfies: New US lawmakers learn their way around.",
+     "url": "https://www.business-standard.com/world-news/dreams-desks-and-selfies-new-us-lawmakers-learn-their-way-around-126111100020_1.html",
+     "bias": "Lean Left",
      "src": "ai"
     }
    ]
