@@ -1,6 +1,6 @@
 {
  "date": "2026-11-11",
- "updated": "Nov 12, 18:40 UTC",
+ "updated": "Nov 13, 18:16 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -484,6 +484,369 @@
      "title_en": "The Blue Wave\u2014III",
      "url": "https://www.nybooks.com/online/2026/11/10/the-blue-wave-iii/",
      "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-11",
+   "title": "Republican Senator Demands Nvidia CEO Jensen Huang's Resignation",
+   "sum": "Republican Senator Kevin Cramer is calling for the resignation of Nvidia CEO Jensen Huang over alleged connections to a Chinese spy. Concerns have been raised regarding potential extortion risks related to Huang's ties.",
+   "more": "The demand for Huang's resignation stems from worries about national security related to Nvidia's sensitive technology. Congressman Cramer has specifically highlighted these risks while emphasizing the need for accountability. Different outlets focus on various angles, with Gizmodo emphasizing the threat of a subpoena, while Business Insider underscores the extortion concerns.",
+   "coverage": [
+    {
+     "outlet": "Gizmodo.com",
+     "title": "Republican Senator Calls on Nvidia CEO Jensen Huang to Resign",
+     "title_en": "Republican Senator Calls on Nvidia CEO Jensen Huang to Resign",
+     "url": "https://gizmodo.com/republican-senator-calls-on-nvidia-ceo-jensen-huang-to-resign-2000838502",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "Senate Banking Republican calls on Nvidia CEO to resign",
+     "title_en": "Senate Banking Republican calls on Nvidia CEO to resign",
+     "url": "https://www.businessinsider.com/senate-banking-republican-nvidia-ceo-jensen-huang-resign-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-11",
+   "title": "Democrat Scott Colom Wins Mississippi Senate Seat",
+   "sum": "Scott Colom has made history by defeating Republican Sen. Cindy Hyde-Smith in the Mississippi Senate race. His victory marks the first time in 150 years that Mississippi has elected a Black senator.",
+   "more": "The closely contested race saw Colom win with 49.2% of the vote, reflecting a significant political shift in Mississippi. As the results are finalized, Colom's lead has further increased to over 3,000 votes, with ongoing certification efforts. The election outcome highlights the changing demographics and political landscape in the state. Multiple outlets emphasize Colom's historic significance as Mississippi\u2019s first Black senator since the Reconstruction era, with varying focus on the implications of this win for the Democratic Party.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Democrat Scott Colom flips Mississippi Senate seat in a historic upset",
+     "title_en": "Democrat Scott Colom flips Mississippi Senate seat in a historic upset.",
+     "url": "https://www.yahoo.com/news/politics/article/mississippi-senate-results-scott-colom-narrowly-defeats-cindy-hyde-smith-flipping-another-seat-for-democrats-in-midterm-elections-232119638.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Atlantic",
+     "title": "Scott Colom Is Mississippi\u2019s First Black Senator in 150 Years",
+     "title_en": "Scott Colom Is Mississippi\u2019s First Black Senator in 150 Years.",
+     "url": "https://www.theatlantic.com/ideas/2026/11/scott-colom-us-senate-democrats/689395/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-11",
+   "title": "House Democrats Prepare Impeachment Case Against Defense Secretary",
+   "sum": "House Democrats are strategically building their impeachment case against Defense Secretary Pete Hegseth. The aim is to create a compelling argument that will resonate with Republicans as well.",
+   "more": "The article outlines the Democratic strategy to ensure that the impeachment case is well-supported and persuasive. It indicates that there's a focus on making the case appealing to members of the opposing party. This approach highlights the political dynamics at play in the impeachment process. Various outlets may frame the urgency and effectiveness of the Democrats' strategy differently.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Pete Hegseth Is About to Get His Ass Kicked",
+     "title_en": "Pete Hegseth Is About to Get His Ass Kicked",
+     "url": "https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-11",
+   "title": "Scott Colom Wins Mississippi Senate Race",
+   "sum": "Democrat Scott Colom has claimed victory in the Mississippi Senate race against Republican Sen. Cindy Hyde-Smith. This win marks a significant shift in the state's political landscape.",
+   "more": "NBC News highlights that Colom's victory breaks the Republican Party's longstanding hold on Mississippi's Senate seat, framing it as a major political shift. However, NPR focuses on the straightforward outcome of the election without emphasizing broader implications. The race was closely watched, reflecting intricate dynamics within both parties in the state.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Democrat Scott Colom wins Mississippi Senate race",
+     "title_en": "Democrat Scott Colom wins Mississippi Senate race.",
+     "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Democrat Scott Colom wins Mississippi Senate race, breaking the GOP\u2019s grip on the state",
+     "title_en": "Democrat Scott Colom wins Mississippi Senate race, breaking the GOP\u2019s grip on the state.",
+     "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-11",
+   "title": "House Ends Impeachment Effort Against Hegseth; Three Arrested for Alleged Plotting in U.K.",
+   "sum": "The House has effectively put an end to the impeachment efforts against Defense Secretary Pete Hegseth for the time being. Additionally, three men have been arrested by federal prosecutors for their alleged involvement in a plot backed by Iran.",
+   "more": "The decision to halt the impeachment effort highlights ongoing political dynamics within the House that could affect future proceedings. Meanwhile, the arrests of the three men add to concerns about foreign influences on domestic security, specifically linked to Iran. Different news outlets may emphasize varying aspects of these stories, with some focusing more on the details of the impeachment process and others on the implications of the arrests.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+     "title_en": "House effectively ends Hegseth impeachment.",
+     "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-11",
+   "title": "Controversy in Peru Over Keiko Fujimori's Travel During Papal Visit",
+   "sum": "Keiko Fujimori faces criticism for planning to leave Peru for China and Japan during Pope Leon XIV's visit. Political opponents have linked her travel to past comments about her father, Alberto Fujimori.",
+   "more": "Keiko Fujimori defended her travel plans, asserting that she would never intentionally disrespect the Pope, emphasizing her commitment to her faith. In contrast, critics argue that her absence during such a significant religious event raises questions about her priorities. The narrative around her travel differs slightly between the outlets, with some focusing more on the implications for her leadership and others highlighting her religious affiliation.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Pol\u00e9mica en Per\u00fa: cuestionan a Keiko Fujimori porque se ir\u00e1 del pa\u00eds durante la visita del papa Le\u00f3n XIV",
+     "title_en": "Controversy in Peru: Critics Question Keiko Fujimori's Departure During Pope Leon XIV's Visit",
+     "url": "https://www.lanacion.com.ar/el-mundo/polemica-en-peru-cuestionan-a-keiko-fujimori-porque-se-ira-del-pais-durante-la-visita-del-papa-leon-nid11112026/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Latercera.com",
+     "title": "Le\u00f3n XIV llega a Per\u00fa en medio de cr\u00edticas a Keiko Fujimori por su viaje a China durante visita del Papa",
+     "title_en": "Pope Leon XIV Arrives in Peru Amid Criticism of Keiko Fujimori for Traveling to China During His Visit",
+     "url": "https://www.latercera.com/mundo/noticia/leon-xiv-llega-a-peru-en-medio-de-criticas-a-keiko-fujimori-por-su-viaje-a-china-durante-visita-del-papa/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-11",
+   "title": "Optimism Amidst Financial Concerns in Government Economic Outlook",
+   "sum": "Fernando Sedano from Morgan Stanley believes the worst has passed for the government, despite an outdated financial program. He expresses optimism about the government's direction while highlighting debt maturity and activity heterogeneity as key issues.",
+   "more": "Various outlets may frame Sedano's commentary differently by focusing on either his optimism or the challenges he identified. Some may emphasize the positive outlook for the government, while others might stress the importance of addressing the financial program's obsolescence. Overall, the discussions illustrate a tension between hopeful economic recovery and pressing financial concerns.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Para Fernando Sedano, de Morgan Stanley, \u201clo peor ya pas\u00f3\u201d, pero el \u201cprograma financiero qued\u00f3 un poco obsoleto\u201d",
+     "title_en": "For Fernando Sedano, from Morgan Stanley, 'the worst is over,' but the 'financial program has become a little obsolete.'",
+     "url": "https://www.lanacion.com.ar/economia/para-fernando-sedano-de-morgan-stanley-lo-peor-ya-paso-pero-el-programa-financiero-quedo-un-poco-nid11112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-11",
+   "title": "Anticipation for Pope Le\u00f3n XIV's Return to Peru",
+   "sum": "Pope Le\u00f3n XIV's upcoming visit to Peru is met with excitement as Archbishop Lizardo Estrada Herrera shares his insights. He reflects on the impact of the Papal visit on both the clergy and the nation.",
+   "more": "The interview highlights the emotional significance of the Pope's return, with Archbishop Estrada emphasizing the joy and expectations surrounding the event. He also notes the changes Peru has undergone since the Pope's last visit, hinting at a transformative experience for both the Pontiff and the country. Different outlets may highlight varying aspects of the Papal visit, but the overarching sentiment remains one of hope and celebration.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "\u201cEl Per\u00fa se une\u201d: la expectativa por el regreso de Le\u00f3n XIV a la tierra que considera su casa",
+     "title_en": "Peru Unites: The Anticipation for Le\u00f3n XIV's Return to the Land He Considers Home",
+     "url": "https://www.lanacion.com.ar/el-mundo/el-peru-se-une-la-expectativa-por-el-regreso-de-leon-xiv-a-la-tierra-que-considera-su-casa-nid11112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-11",
+   "title": "Iran's Ghalibaf Claims Hormuz Strait Will Not Return to Pre-War Status",
+   "sum": "Iran's parliament speaker announced that the Hormuz Strait will 'never return' to its pre-war condition. He indicated that Tehran is awaiting an official response from the US regarding its seven conditions.",
+   "more": "This statement from Iran highlights the ongoing tensions and the strategic importance of the Hormuz Strait, which is a crucial chokepoint for global oil shipments. The differences in framing among outlets may reflect their perspectives on Iran's negotiation stance and the geopolitical implications. While some may emphasize Iran's assertiveness in asserting its conditions, others could focus on the uncertainty surrounding US-Iran relations and potential diplomatic solutions.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Hormuz Strait will \u2018never return\u2019 to pre-war status, Iran\u2019s Ghalibaf says",
+     "title_en": "Hormuz Strait will \u2018never return\u2019 to pre-war status, Iran\u2019s Ghalibaf says",
+     "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-11",
+   "title": "Debate Over Grooming Laws",
+   "sum": "Campaigners are urging for clearer definitions in grooming laws. The current ambiguity surrounding these laws has sparked discussions.",
+   "more": "Various advocates feel that the lack of specificity in grooming legislation poses risks and may hinder effective enforcement. Some suggest that clearer definitions could help protect vulnerable populations more effectively. However, there are differing opinions on what those definitions should entail, leading to differing interpretations of the laws' implications.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "What are the state of our grooming laws?",
+     "title_en": "What are the state of our grooming laws?",
+     "url": "https://www.bbc.co.uk/news/articles/cxp80njvj26yo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Indonesia's Vice President Resigns Amid Political Turmoil",
+   "sum": "The resignation of Indonesia's vice president highlights tensions within the ruling alliance. Gibran Rakabuming Raka's departure raises questions about his eligibility and political future.",
+   "more": "The resignation comes as a significant development for Prabowo, indicating a potential fracture with President Joko Widodo. The situation is compounded by legal scrutiny regarding Rakabuming Raka's overseas education credentials. Sources like Al Jazeera emphasize the dispute over eligibility as a key issue, while ABC News frames the resignation as a possible threat to the political alliance between Widodo and Prabowo.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+     "title_en": "Indonesia's vice president resigns amid signs ruling alliance is fraying.",
+     "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Indonesia vice president resigns amid dispute over eligibility",
+     "title_en": "Indonesia vice president resigns amid dispute over eligibility.",
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Indonesia's vice-president quits amid pressure over his academic credentials",
+     "title_en": "Indonesia's vice-president quits amid pressure over his academic credentials.",
+     "url": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Violence Erupts in Barcelona Following General Strike",
+   "sum": "Barcelona experienced unrest as protesters demonstrated against a general strike. Clashes involved fireworks and arson directed at police and property.",
+   "more": "The coverage emphasizes the violence that erupted, with Al Jazeera focusing specifically on Barcelona, while Breitbart News highlights the incidents in both Barcelona and Madrid, noting injuries to police and arrests. RTE frames the protests as part of a larger movement for housing affordability and purchasing power, indicating the strike's political significance amidst upcoming elections. Despite varying emphases, all outlets report on the widespread turmoil and protests across Spain.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Barcelona erupts in violence after general strike",
+     "title_en": "Barcelona erupts in violence after general strike.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Breitbart News",
+     "title": "Watch: Violent Riots in Barcelona and Madrid After Day of General Strike",
+     "title_en": "Watch: Violent Riots in Barcelona and Madrid After Day of General Strike.",
+     "url": "https://www.breitbart.com/europe/2026/11/12/watch-violent-riots-in-barcelona-and-madrid-after-day-of-general-strike/",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Clashes erupt in Spain as workers stage nationwide strike",
+     "title_en": "Clashes erupt in Spain as workers stage nationwide strike.",
+     "url": "https://www.rte.ie/news/europe/2026/1111/1598839-spain-general-strike/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-11",
+   "title": "Political Parties Demand Resignation Over Police Actions During Strike",
+   "sum": "The political parties Frente Amplio and Podemos are calling for the resignation of Marlaska due to police actions during a recent strike. They emphasize the fundamental right to strike and criticize the treatment of workers.",
+   "more": "In addition to the calls for resignation, unions are planning legal actions in response to police behavior, including a lawsuit by CCOO Madrid for the use of pepper spray against peaceful demonstrators. The unions report participation rates in the strike ranging from 75% to 41%. The framing differs slightly between outlets, with some focusing more on the legal ramifications of police actions, while others highlight the political demands for accountability.",
+   "coverage": [
+    {
+     "outlet": "20minutos.es",
+     "title": "Frente Amplio y Podemos reclaman a S\u00e1nchez el cese de Marlaska por las cargas policiales durante la huelga",
+     "title_en": "Frente Amplio and Podemos demand S\u00e1nchez to dismiss Marlaska for police actions during the strike.",
+     "url": "https://www.20minutos.es/nacional/frente-amplio-podemos-reclaman-sanchez-cese-marlaska-por-las-cargas-policiales-durante-huelga_7059953_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Eldiario.es",
+     "title": "Los sindicatos planean acciones judiciales por las cargas policiales contra piquetes",
+     "title_en": "Unions plan legal actions for police actions against pickets.",
+     "url": "https://www.eldiario.es/politica/sindicatos-planean-acciones-judiciales-cargas-policiales-piquetes_1_13654290.html",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-11",
+   "title": "Scott Colom Wins Mississippi Senate Race in Historic Upset",
+   "sum": "Democrat Scott Colom has achieved a narrow victory over Republican Sen. Cindy Hyde-Smith, marking a significant change in Mississippi's political landscape. This win contributes to the Democrats' efforts to gain ground in traditionally conservative states.",
+   "more": "Colom received 49.2% of the votes in a closely contested election, which was notably called by the Associated Press. NBC News highlighted a narrative of breaking the GOP's long-standing dominance in the state, while BBC News noted this victory as surprising, given the historic preference for Republican candidates in Mississippi. The framing across outlets emphasizes both the unexpected nature of the win and its implications for Democratic momentum.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Democrat Scott Colom flips Mississippi Senate seat in a historic upset",
+     "title_en": "Democrat Scott Colom flips Mississippi Senate seat in a historic upset.",
+     "url": "https://www.yahoo.com/news/politics/article/mississippi-senate-results-scott-colom-narrowly-defeats-cindy-hyde-smith-flipping-another-seat-for-democrats-in-midterm-elections-232119638.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Democrat Scott Colom wins Mississippi Senate race, breaking the GOP\u2019s grip on the state",
+     "title_en": "Democrat Scott Colom wins Mississippi Senate race, breaking the GOP\u2019s grip on the state.",
+     "url": "https://www.nbcnews.com/politics/2026-election/scott-colom-mississippi-senate-election-win-democrat-hyde-smith-rcna605729",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+     "title_en": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party.",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-11",
+   "title": "Political Campaigns Invest Heavily in AI-Generated Ads for 2026 Midterms",
+   "sum": "Political campaigns have allocated $187 million to promote AI-generated advertisements for the upcoming 2026 midterm elections. This expenditure marks a dramatic increase compared to previous election cycles.",
+   "more": "The spending on AI-generated ads in the 2026 midterms is more than 3,000 times higher than the amount spent during the 2024 election cycle. A significant majority, approximately 90%, of these ads were produced by Republican-affiliated groups. Experts in misinformation and elections continue to scrutinize the effectiveness and impact of AI content on influencing voter behavior. The contrast between traditional campaigning methods and AI-generated content highlights ongoing debates about the integrity of information dissemination in politics.",
+   "coverage": [
+    {
+     "outlet": "Poynter",
+     "title": "Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms. Did they work?",
+     "title_en": "Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms. Did they work?",
+     "url": "https://www.poynter.org/fact-checking/2026/ai-generated-political-ads-2026-midterm-elections/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Niemanlab.org",
+     "title": "Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms",
+     "title_en": "Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms.",
+     "url": "https://www.niemanlab.org/reading/political-campaigns-spent-187-million-promoting-ai-generated-ads-in-the-2026-midterms/",
+     "bias": "Center",
      "src": "ai"
     }
    ]

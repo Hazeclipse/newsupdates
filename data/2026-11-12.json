@@ -1,0 +1,383 @@
+{
+ "date": "2026-11-12",
+ "updated": "Nov 13, 18:16 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-12",
+   "title": "Jensen Huang Resigns as Nvidia CEO Amid Scandals",
+   "sum": "Jensen Huang, the cofounder and chief executive of Nvidia, has resigned following an investigation into his affair with an alleged Chinese intelligence asset and reports of multiple affairs. Colette Kress is set to take over as interim CEO.",
+   "more": "Different outlets emphasize varying aspects of Huang's resignation. Wired focuses on the investigation related to a Chinese intelligence asset, while CNET highlights multiple affairs. Slashdot.org notes Huang's lengthy tenure of 33 years at Nvidia and mentions the leadership transition to Colette Kress. Kotaku emphasizes the broader context of multiple scandals surrounding Huang's departure.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Jensen Huang Resigns as Nvidia CEO",
+     "title_en": "Jensen Huang Resigns as Nvidia CEO",
+     "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "Nvidia CEO Jensen Huang Resigns",
+     "title_en": "Nvidia CEO Jensen Huang Resigns",
+     "url": "https://www.cnet.com/tech/services-and-software/nvidia-ceo-jensen-huang-resigns/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Slashdot.org",
+     "title": "Jensen Huang Resigns As Nvidia CEO",
+     "title_en": "Jensen Huang Resigns As Nvidia CEO",
+     "url": "https://slashdot.org/story/26/11/12/1548253/jensen-huang-resigns-as-nvidia-ceo",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "Jensen Huang Resigns From Nvidia",
+     "title_en": "Jensen Huang Resigns From Nvidia",
+     "url": "https://kotaku.com/jensen-huang-resigns-from-nvidia-2000756256",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-12",
+   "title": "Synchron Halts Brain Implant Trials Due to Performance Issues",
+   "sum": "Synchron has paused its clinical trials for its brain implant following performance failures. The company plans to upgrade the hardware and develop a new device.",
+   "more": "The decision to halt the trials comes after the latest iteration of their brain-computer interface did not perform as expected. Synchron has indicated that it is focusing on improving the technology before resuming clinical testing. The company's efforts to innovate in the brain-computer interface space highlight the challenges faced in this emerging field.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+     "title_en": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+     "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-12",
+   "title": "Apple's HomeView Introduces New Authentication Technology",
+   "sum": "Apple is launching HomeView, a smart home device utilizing a novel 'person recognition' technology instead of its established FaceID. This move represents a shift in the company's approach to authentication.",
+   "more": "While FaceID has been a reliable method for user verification in Apple products, the new technology employed in HomeView is untested in real-world scenarios. The decision to use this advanced recognition system suggests Apple's confidence in its capabilities, though it raises questions about security and privacy. As HomeView enters the market, consumer reactions and performance assessments will be critical to evaluate the efficacy of the new approach compared to traditional FaceID.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Apple\u2019s HomeView Tries Face Authentication Without FaceID",
+     "title_en": "Apple\u2019s HomeView Tries Face Authentication Without FaceID",
+     "url": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-12",
+   "title": "Synchron Halts Clinical Trials of Brain Implant Over Performance Issues",
+   "sum": "Synchron has paused its clinical trials for a brain-computer interface device due to performance failures. The company is planning to upgrade the implant's hardware and develop a new version.",
+   "more": "Wired reported that the decision was made after the latest device did not meet performance expectations. Synchron's focus will now shift to enhancing the hardware of the existing implant. The company's move has been characterized as a necessary step to improve the technology before resuming trials.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+     "title_en": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+     "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-12",
+   "title": "Online T-Shirts Celebrating Mass Shootings Available for Purchase",
+   "sum": "A new report reveals that a digital community is selling T-shirts that glorify mass shootings, particularly those inspired by the Columbine attack. This clothing mimics the outfits worn by the shooters.",
+   "more": "The report highlights the troubling trend of online merchandise that romanticizes violence and mass shootings, attracting individuals fascinated by these tragic events. Different outlets may emphasize varying aspects of the community's obsession, with some focusing on the psychological implications while others discuss the legal and ethical issues surrounding such products. The availability of these items raises concerns about societal attitudes toward violence and the influence of online platforms in promoting harmful ideologies.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+     "title_en": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
+     "url": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-12",
+   "title": "Political Tensions Rise Between Milei and Patricia Bullrich",
+   "sum": "A provocative post by President Milei has heightened tensions between the Casa Rosada and Patricia Bullrich. Officials believe there will be a 'call to order' for the leader of the libertarian senators' bloc.",
+   "more": "The post referenced individuals 'willing to sink the ship,' causing concern among members of the ruling party. The situation suggests that Milei is directly addressing Bullrich and her supporters, potentially escalating the political conflict. Different outlets may emphasize the implications of this tension for future legislative actions and party dynamics, indicating a fracture among allies in the government.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Un sugestivo posteo de Milei volvi\u00f3 a subir la tensi\u00f3n entre la Casa Rosada y Patricia Bullrich",
+     "title_en": "A provocative post by Milei raises tensions with Patricia Bullrich",
+     "url": "https://www.lanacion.com.ar/politica/un-sugestivo-posteo-de-milei-volvio-a-subir-la-tension-entre-la-casa-rosada-y-patricia-bullrich-nid12112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-12",
+   "title": "Burnham's Stance on EU Relations Sparks Debate Within Parties",
+   "sum": "Prime Minister Burnham's advocacy for closer ties with the EU is leading to discussions among MPs regarding their party leaders' strategies. This week is set to emphasize the UK's relationship with the European bloc.",
+   "more": "The debate within both Burnham's party and opposition parties reflects the varying priorities and strategies regarding the EU. Some MPs are reassessing their positions as they consider the broader implications of the UK's relationship with Europe. The framing around Burnham's position suggests a potential shift in party policies, as leaders may react to the growing influence of pro-EU sentiments within their ranks.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Burnham's push for closer EU ties causes ripples in his party and others",
+     "title_en": "Burnham's push for closer EU ties causes ripples in his party and others.",
+     "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-12",
+   "title": "MP Clarifies Nature of Threat to US Base",
+   "sum": "A Suffolk MP reports that the government has indicated the threat was directed at a US base rather than a nearby town. He also mentioned that officials informed him the threat was not imminent.",
+   "more": "The MP's comments suggest a distinction between the perceived threat to military facilities and civilian areas. This clarification may address public concerns about safety in the town. Different media outlets may focus on either the nature of the threat or the governmental reassurances provided.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Threat was to US base not town, says MP",
+     "title_en": "Threat was to US base not town, says MP",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gnqdkjp29o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-12",
+   "title": "Increase in Exploitation of Children by Gangs",
+   "sum": "A mother discusses her son's experience being exploited by gangs, comparing it to a 'paper round'. Recent findings by BBC indicate that the exploitation of younger children has surged by 85% over the last five years.",
+   "more": "The article highlights the chilling trend of gangs specifically targeting younger children for exploitation. It underscores the emotional impact on families affected by such exploitation. BBC's investigation reveals alarming statistics and concerns regarding the broader implications for children's safety in communities. Different outlets may frame the issue with varying emphases on either the victims' stories or the systemic failures that allow these criminal activities to persist.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Drugs running was like 'a paper round' for exploited son, mum says",
+     "title_en": "Drugs running was like 'a paper round' for exploited son, mum says",
+     "url": "https://www.bbc.co.uk/news/articles/cvgl78y523lzo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-12",
+   "title": "Historic Election: Scott Colom Becomes First Black Senator in Mississippi Since 1874",
+   "sum": "Scott Colom's victory marks a significant milestone as he becomes the first black senator in Mississippi in nearly 150 years. His win reflects a major shift in the political landscape of a state that has not represented black senators since 1874.",
+   "more": "The BBC highlights Colom's election as a breakthrough for representation in a state with a complicated racial history. Other outlets may focus on the implications of his victory for future elections in the South, while some may emphasize the societal changes that have contributed to this milestone. This victory could generate discussions around racial equity and the evolving demographics in Mississippi.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
+     "title_en": "Before Scott Colom, these two men were the last black US senators in Mississippi.",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-12",
+   "title": "Indonesia Vice President Resigns Over Eligibility Dispute",
+   "sum": "Gibran Rakabuming Raka, the Vice President of Indonesia, has resigned due to questions regarding his eligibility tied to his overseas education. This development follows a court ruling that raised concerns about his qualifications.",
+   "more": "The resignation has raised political questions in Indonesia, particularly regarding the implications for future elections and party dynamics. Different outlets may focus on either the legal ramifications of the court ruling or the political landscape shifting due to this high-profile resignation. The framing varies, with some emphasizing Gibran's lineage as the son of former President Joko Widodo, while others focus on the legal standards for eligibility in Indonesian politics.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Indonesia vice president resigns amid dispute over eligibility",
+     "title_en": "Indonesia Vice President Resigns Amid Dispute Over Eligibility",
+     "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-12",
+   "title": "Spain Passes Housing Reforms Following Nationwide Strike",
+   "sum": "The Spanish parliament has approved new housing reforms aimed at limiting evictions. The implementation of these reforms will be influenced by the results of the upcoming snap elections.",
+   "more": "The recent nationwide strike highlighted public discontent over rising housing costs, prompting legislative action. While the reforms are a step towards addressing housing issues, their effectiveness remains uncertain based on the political landscape post-elections. This situation underscores the tension between immediate relief measures and the long-term stability of housing policies in Spain.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Spain approves housing reforms after nationwide strike over costs",
+     "title_en": "Spain approves housing reforms after nationwide strike over costs.",
+     "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-12",
+   "title": "Netanyahu's Legacy and the Evolution of Israeli Democracy",
+   "sum": "Netanyahu's political survival has led to a tumultuous opening session in the Israeli parliament, marked by insults and acrimony. This situation reflects the impact of personality politics on Israeli democracy.",
+   "more": "The article highlights how Netanyahu's personal approach to politics has influenced the current state of governance in Israel. It also notes the tense atmosphere within the parliament as various factions struggle for power. Al Jazeera's framing emphasizes the chaotic nature of the political landscape, suggesting that Netanyahu's legacy is one of division and conflict.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu\u2019s legacy: Personality politics reshapes Israeli democracy",
+     "title_en": "Netanyahu's legacy: Personality politics reshapes Israeli democracy.",
+     "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-12",
+   "title": "Questions Surrounding Leadership in Cameroon",
+   "sum": "Concerns have emerged regarding the true power dynamics in Cameroon, especially in light of President Biya's frequent absences. This situation prompts speculation about the future political landscape of the country.",
+   "more": "Different outlets may emphasize varying aspects of the leadership crisis, particularly the implications of Biya's health and potential successors. Some may focus on the political instability that could ensue due to these absences, while others might highlight the reactions from the populace. Additionally, the framing of Biya's leadership style and historical context may differ among sources, influencing the perception of his authority.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Cameroon: Who is really calling the shots?",
+     "title_en": "Cameroon: Who is really calling the shots?",
+     "url": "https://www.aljazeera.com/news/2026/11/12/cameroon-who-is-really-calling-the-shots",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-12",
+   "title": "US Envoys Meet Putin in Moscow After Ukraine Talks",
+   "sum": "US envoys have arrived at the Kremlin to meet with President Putin following discussions in Abu Dhabi about the ongoing war in Ukraine. This meeting comes amid intensified Russian strikes on Kyiv as winter approaches.",
+   "more": "Both US and Ukrainian representatives indicated that the discussions in Abu Dhabi did not result in any breakthroughs. The framing from Yahoo Entertainment highlights the urgency of the situation as winter nears, while Al Jazeera emphasizes the lack of progress in prior talks. Both outlets acknowledge the meeting's significance but differ in their focus on the background context of escalating violence or diplomatic stagnation.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "U.S. envoys arrive at Kremlin for Putin meeting after Ukraine talks",
+     "title_en": "US envoys arrive at Kremlin for Putin meeting after Ukraine talks.",
+     "url": "https://www.yahoo.com/news/politics/articles/us-mediated-talks-russia-ukraine-025843578.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+     "title_en": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin.",
+     "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-12",
+   "title": "Activist Pleads Guilty to Criminal Damage",
+   "sum": "Daniel Thomas, known as Danny Tommo, has pleaded guilty to criminal damage. The case was heard at Portsmouth Crown Court.",
+   "more": "The article focuses on the charges against Daniel Thomas related to actions on a boat. While the framing is straightforward in reporting the guilty plea, further context about the motivations behind his actions or the reaction from the public and legal community is not provided. Other outlets may highlight the implications of his activism or public response to the verdict, creating different narratives about the significance of his actions.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Daniel Thomas admits boat criminal damage in channel",
+     "title_en": "Daniel Thomas admits boat criminal damage in channel.",
+     "url": "https://www.bbc.co.uk/news/articles/c6x20x380z12o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-12",
+   "title": "Sony to Remove 'Ratchet & Clank: Ranger Rumble' from App Store",
+   "sum": "Sony is set to withdraw 'Ratchet & Clank: Ranger Rumble,' a mobile spin-off of the popular gaming franchise, from the App Store before its global launch. This free-to-play multiplayer shooter was designed for iOS and Android platforms.",
+   "more": "'Ratchet & Clank: Ranger Rumble' was anticipated before its forthcoming release, yet the decision to remove it highlights challenges in mobile gaming adaptations. Various outlets report on the potential implications for fans of the franchise and the mobile gaming market. Some emphasize disappointment from players who were looking forward to the game, while others focus on the trend of mobile game cancellations.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "'Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+     "title_en": "'Ratchet & Clank: Ranger Rumble' to Leave App Store This Month",
+     "url": "https://www.macrumors.com/2026/11/12/ratchet-clank-ranger-rumble-to-leave-app-store/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-12",
+   "title": "Democratic Breakthroughs and Political Strategies",
+   "sum": "Recent analyses focus on the Democrats' advancements in the South and the implications for the party's future. Additionally, insights from a Democratic candidate propose a shift towards more conventional political strategies.",
+   "more": "Keeanga-Yamahtta Taylor discusses the Democrats' notable success in the Southern states, questioning if this shift will alter the party's approach to electoral strategies. On the other hand, Jake Auchincloss expresses a desire for politics to become less contentious and more predictable. While The New Yorker emphasizes the significance of overcoming white grievance politics, The Atlantic highlights a more pragmatic vision for the party's future without the chaos often associated with modern politics.",
+   "coverage": [
+    {
+     "outlet": "The New Yorker",
+     "title": "The Candidates Who Defeated the Politics of White Grievance",
+     "title_en": "The Candidates Who Defeated the Politics of White Grievance",
+     "url": "https://www.newyorker.com/news/the-lede/the-candidates-who-defeated-the-politics-of-white-grievance",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Atlantic",
+     "title": "The Democrat Who Wants to Make Politics Boring",
+     "title_en": "The Democrat Who Wants to Make Politics Boring",
+     "url": "https://www.theatlantic.com/politics/2026/11/majority-democrats-denver-election/689358/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-12",
+   "title": "Investment Opportunities in AI Data Center Recycling",
+   "sum": "As the demand for AI data centers increases, the need for raw materials is also rising. This trend has drawn the attention of investors towards companies that specialize in recycling critical components.",
+   "more": "The article highlights how hyperscale companies are rapidly expanding their AI data centers, which in turn drives the raw materials market. Investors see potential in recyclers as these companies can provide a sustainable source of materials needed for tech advancements. The framing suggests a growing intersection between technology and sustainability, emphasizing the importance of recycling in the AI boom.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "AI data centers need more raw materials. One investor is betting on recyclers.",
+     "title_en": "AI data centers need more raw materials. One investor is betting on recyclers.",
+     "url": "https://www.businessinsider.com/ai-data-centers-recycling-investment-opportunity-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
