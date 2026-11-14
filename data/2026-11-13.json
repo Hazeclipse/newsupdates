@@ -1,0 +1,344 @@
+{
+ "date": "2026-11-13",
+ "updated": "Nov 14, 16:49 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-13",
+   "title": "Microsoft 365 Outage Affects Millions Globally",
+   "sum": "Microsoft is experiencing a widespread outage impacting its Outlook and 365 services, which began on November 12. Recovery efforts are underway, but many users are still facing difficulties.",
+   "more": "The Verge reports that while the service is gradually recovering, some features remain in a degraded state, affecting millions worldwide. MacRumors also highlights the ongoing issues users face with email and various Microsoft services such as Teams and Copilot. Both outlets emphasize that recovery is in progress, but the complete restoration of services is still pending.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Microsoft\u2019s massive Outlook outage continues",
+     "title_en": "Microsoft\u2019s massive Outlook outage continues",
+     "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Major Microsoft 365 Outage Continues",
+     "title_en": "Major Microsoft 365 Outage Continues",
+     "url": "https://www.macrumors.com/2026/11/13/major-microsoft-365-outage-continues/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-13",
+   "title": "Former Inmate Predicts Difficult Time for Brand in Prison",
+   "sum": "A former inmate predicts that Brand will experience a challenging situation in Wandsworth prison. Brand has been sentenced to 10 years and six months for rape and sexual assault.",
+   "more": "The article from BBC News shares insights from an ex-prisoner about the harsh conditions Brand might face while incarcerated. The former inmate comments on the unique challenges that high-profile individuals encounter in a prison environment. Additionally, there may be contrasting opinions regarding the treatment of celebrities in prison, but this article focuses on the perspective of someone who has firsthand experience.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
+     "title_en": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate.",
+     "url": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-13",
+   "title": "Chris Van Hollen Announces Challenge to Chuck Schumer for Senate Majority Leader",
+   "sum": "Senator Chris Van Hollen from Maryland has declared his intention to challenge Senator Chuck Schumer for the position of Senate majority leader. Van Hollen emphasizes a desire for change following the midterm elections.",
+   "more": "Several news outlets report on Van Hollen's challenge, highlighting support from influential figures like Senator Bernie Sanders who backs Van Hollen's campaign. The framing in different articles varies, with some focusing on Van Hollen's call for change from the status quo, while others emphasize the context of a Democratic election sweep and specific criticisms of Schumer's ties to AIPAC. This framing indicates differing perspectives on the motivations behind the challenge.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+     "title_en": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader.",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader",
+     "title_en": "Sen. Chris Van Hollen says he will challenge Sen. Chuck Schumer for majority leader.",
+     "url": "https://www.nbcnews.com/politics/congress/sen-chris-van-hollen-says-will-challenge-sen-chuck-schumer-majority-le-rcna609100",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Sen. Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post",
+     "title_en": "Sen. Bernie Sanders supports Chris Van Hollen's bid to challenge Schumer for Senate Democratic leader post.",
+     "url": "https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-13",
+   "title": "Trump Shifts Vance's Focus from Iran to Domestic Corruption",
+   "sum": "President Trump has redirected Vice President JD Vance from negotiating an Iran deal to combating corruption in Democratic-led states. He claims that significant funds are being stolen from government programs in these areas.",
+   "more": "Both NPR and Fox News report on President Trump's shift in focus for Vice President Vance. NPR emphasizes the abandonment of the Iran deal, while Fox News highlights Trump's claims about corruption specifically in cities and states governed by Democrats. However, both outlets agree on the underlying theme of addressing corruption as a priority. The varying focuses on Iran versus domestic issues exemplify different framing in the coverage.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Trump redirects Vance from Iran to focus on combatting fraud in Democratic-led states",
+     "title_en": "Trump redirects Vance from Iran to focus on combatting fraud in Democratic-led states.",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6039160/trump-redirects-vance-from-iran-to-focus-on-combatting-fraud-in-democratic-led-states",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump asks Vance to focus on \u2018corruption and crime\u2019 in Dem-run cities, states",
+     "title_en": "Trump asks Vance to focus on 'corruption and crime' in Dem-run cities, states.",
+     "url": "https://www.foxnews.com/politics/trump-asks-vance-focus-corruption-crime-dem-run-cities-states",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-13",
+   "title": "Nvidia CEO Steps Down",
+   "sum": "Nvidia's CEO Jensen Huang has stepped down from his position, with the company's chief financial officer taking over as interim CEO. Additionally, Senator Chris Van Hollen has announced his intention to run for majority leader, challenging Chuck Schumer.",
+   "more": "The leadership change at Nvidia marks a significant shift for the company, which has been a leader in the tech industry. The announcement about Van Hollen's candidacy adds to the political dynamics in the Senate, highlighting the competition for leadership roles. Different outlets may emphasize aspects of these changes, such as the implications for Nvidia's future strategy or the political ramifications of Van Hollen's challenge.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+     "title_en": "Nvidia CEO Jensen Huang steps down, CFO appointed interim",
+     "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-13",
+   "title": "Alberto N\u00fa\u00f1ez Feij\u00f3o Advocates for Stronger Relations with Argentina",
+   "sum": "Spanish candidate Alberto N\u00fa\u00f1ez Feij\u00f3o emphasized the need for Spain to reestablish a serious and stable relationship with Argentina. He welcomed Javier Milei and pledged to shift bilateral policy.",
+   "more": "Feij\u00f3o's remarks suggest a significant pivot in Spain's foreign relations if he is elected. His welcoming attitude towards Milei contrasts with the current policies of S\u00e1nchez, highlighting a potential shift in diplomatic engagement. This stance may resonate with voters who prioritize foreign relations, but it could also draw criticism from those who support the current administration's approach.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Alberto N\u00fa\u00f1ez Feij\u00f3o: \u201cEs imprescindible para Espa\u00f1a reestablecer una relaci\u00f3n seria y estable con Argentina\u201d",
+     "title_en": "Alberto N\u00fa\u00f1ez Feij\u00f3o: 'It is essential for Spain to reestablish a serious and stable relationship with Argentina.'",
+     "url": "https://www.lanacion.com.ar/politica/alberto-nunez-feijoo-es-imprescindible-para-espana-reestablecer-una-relacion-seria-y-estable-con-nid13112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-13",
+   "title": "Government Reopens Road Privatization with 27 New Routes",
+   "sum": "The government has initiated a fourth phase of the Federal Concessions Network involving 27 national routes, but the specific locations are yet to be determined. The responsibility for outlining the corridors has been handed over to the Transportation Secretariat.",
+   "more": "The article highlights the ongoing efforts of the government to privatize roadways, emphasizing the uncertain nature of the locations for the new routes. It also points out a lack of clarity regarding the specifics, leaving it to the Transportation Secretariat to define the details. This could impact various stakeholders involved in transportation and infrastructure. The framing may differ across outlets, focusing on either the potential benefits or concerns regarding privatization.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Gobierno reabre la privatizaci\u00f3n vial con 27 nuevas rutas, pero no se sabe d\u00f3nde ser\u00e1n",
+     "title_en": "Government Reopens Road Privatization with 27 New Routes",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-reabre-la-privatizacion-vial-con-27-nuevas-rutas-pero-no-se-sabe-donde-seran-nid13112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-13",
+   "title": "Legal Challenge Against Asylum Base Plans in Piddington",
+   "sum": "Piddington is set to bring a legal challenge regarding plans to establish an asylum base in the area. The proposed site could accommodate up to 1,256 men.",
+   "more": "The article mentions the significant number of individuals that could be housed at the site, indicating potential local concerns over the impact on the community. While specific legal arguments are not detailed, the challenge reflects broader tensions surrounding asylum accommodation strategies. Other outlets may highlight differing local opinions or political implications of such developments.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Piddington to bring legal challenge over asylum base plans",
+     "title_en": "Piddington to bring legal challenge over asylum base plans",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-13",
+   "title": "Collision Between Truck and Bus in Assam, India Results in 23 Deaths",
+   "sum": "A tragic collision between a truck and a bus in Assam, India has led to the deaths of at least 23 individuals. The incident underscores the ongoing concerns regarding road safety in the region.",
+   "more": "The report highlights the severity of the accident and the immediate impact on families affected by the tragedy. Eyewitness accounts may reveal varying perspectives on the circumstances leading to the crash. Some sources might emphasize the need for improved safety measures, while others may focus on the human toll of such accidents. Overall, the story stresses the urgency of addressing road safety issues in Assam.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Truck and bus collision in India's Assam kills at least 23 people",
+     "title_en": "Truck and bus collision in India's Assam kills at least 23 people",
+     "url": "https://www.thedailystar.net/business/global-economy/south-asia/news/truck-and-bus-collision-indias-assam-kills-least-23-people-4322961",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-13",
+   "title": "Putin Emerges as the True Victor in Poland's Constitutional Conflict",
+   "sum": "The struggle over the Constitutional Tribunal in Poland is undermining citizens' faith in their government. This situation is perceived to benefit Russia and its influence in the region.",
+   "more": "The article emphasizes how the ongoing constitutional turmoil is playing into the hands of Putin, as it distracts and divides Poland. It suggests that the erosion of trust among Poles may lead to increased vulnerability to external influences, particularly from Russia. This framing highlights the geopolitical implications of the internal conflict in Poland, contrasting it with the views of other outlets that may focus more on domestic political impacts.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "The real winner in Poland\u2019s constitutional battle is Putin",
+     "title_en": "The real winner in Poland\u2019s constitutional battle is Putin",
+     "url": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-13",
+   "title": "Pass Navigo Finally Available on Google Wallet",
+   "sum": "The Pass Navigo is now accessible through Google Wallet, addressing a long-standing issue. \u00cele-de-France Mobilit\u00e9s has made this feature available after much anticipation.",
+   "more": "Both outlets note the long wait for this feature and its significance for users. Journal du geek highlights the correction of a longstanding flaw, while Presse-citron emphasizes the obsolescence of the dedicated application. There is a sense of relief expressed in both articles about the new integration.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "Le Pass Navigo arrive enfin sur Google Wallet, avec la nouveaut\u00e9 que tout le monde attendait",
+     "title_en": "The Pass Navigo Finally Arrives on Google Wallet, with the New Feature Everyone Was Waiting For.",
+     "url": "https://www.journaldugeek.com/2026/11/13/le-pass-navigo-arrive-enfin-sur-google-wallet-avec-la-nouveaute-que-tout-le-monde-attendait/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Presse-citron",
+     "title": "Le Pass Navigo arrive enfin sur Google Wallet, il \u00e9tait temps",
+     "title_en": "The Pass Navigo Arrives on Google Wallet at Last, It's About Time.",
+     "url": "https://www.presse-citron.net/le-pass-navigo-arrive-enfin-sur-google-wallet-il-etait-temps/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-13",
+   "title": "Police Clash with Protesters During Abascal's Event in Toledo",
+   "sum": "Police intervened against a group of protesters in Toledo who were confronting Santiago Abascal before his public appearance. The National Police charged at the demonstrators trying to disrupt the event.",
+   "more": "Different news outlets emphasize various aspects of the incident. El Mundo highlights the confrontation as a response to protester heckling, while ABC focuses on the protesters' intent to sabotage the rally, noting the presence of Palestinian flags among them. This framing could reflect differing views on the nature of the protests and their objectives.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "La Polic\u00eda carga contra manifestantes que increpaban a Abascal en un acto en Toledo",
+     "title_en": "Police clash with protesters heckling Abascal at an event in Toledo.",
+     "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/13/6af72fcfe4d4d8bc518b4594.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "La Polic\u00eda carga contra radicales que intentaban boicotear el mitin de Abascal en Toledo",
+     "title_en": "Police charge against radicals trying to boycott Abascal's rally in Toledo.",
+     "url": "https://www.abc.es/espana/castilla-la-mancha/toledo/policia-carga-radicales-intentaban-boicotear-mitin-abascal-20261113124928-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-13",
+   "title": "Chris Van Hollen to Challenge Chuck Schumer for Senate Majority Leader",
+   "sum": "Democratic Senator Chris Van Hollen of Maryland has announced his intention to run for Senate Majority Leader, challenging the incumbent Chuck Schumer. This decision follows the Democratic party's significant victories in the recent midterm elections.",
+   "more": "Van Hollen has framed his candidacy as a response to voter demand for change, suggesting that the midterm elections represented a clear message to the party. The framing varies slightly among outlets, with some emphasizing the challenge to Schumer's leadership and others highlighting the broader implications of Van Hollen's progressive stance. Notably, while some articles focus on the electoral dynamics within the party, others mention Van Hollen's progressive credentials as a key factor in his challenge.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+     "title_en": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader.",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Van Hollen takes on Schumer for majority leader after Democrats flip Senate",
+     "title_en": "Van Hollen takes on Schumer for majority leader after Democrats flip Senate.",
+     "url": "https://www.yahoo.com/news/politics/articles/sen-chris-van-hollen-maryland-020344480.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Chris Van Hollen to run for US Senate majority leader",
+     "title_en": "Chris Van Hollen to run for US Senate majority leader.",
+     "url": "https://www.aljazeera.com/news/2026/11/13/chris-van-hollen-to-run-for-us-senate-majority-leader",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Maryland's Van Hollen to challenge Schumer for Senate leadership post",
+     "title_en": "Maryland's Van Hollen to challenge Schumer for Senate leadership post.",
+     "url": "https://www.cbc.ca/news/world/van-hollen-senate-leadership-challenge-schumer-9.7420238",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Lefty Dem Chris Van Hollen challenging Schumer for Senate Majority leader, arguing voters \u2018called for change\u2019",
+     "title_en": "Lefty Dem Chris Van Hollen challenging Schumer for Senate Majority leader, arguing voters \u2018called for change\u2019.",
+     "url": "https://nypost.com/2026/11/12/us-news/chris-van-hollen-challenging-schumer-for-senate-majority-leader/",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-13",
+   "title": "Texas Attorney General Ken Paxton Finalizes Divorce",
+   "sum": "Texas Attorney General Ken Paxton has finalized his divorce from his wife Angela Paxton, ending their 38-year marriage. This follows his recent loss in the U.S. Senate race.",
+   "more": "Reports from different outlets confirm the finalization of Ken Paxton's divorce, highlighting the end of a long-term marriage tied to his political setbacks. Both outlets mentioned the divorce's conclusion but varied in their emphasis on the duration of the marriage and Paxton's political situation. The New York Post specifically pointed out the timeline of events surrounding his Senate loss.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Texas Attorney General Ken Paxton has finalized his divorce",
+     "title_en": "Texas Attorney General Ken Paxton Finalizes Divorce",
+     "url": "https://abcnews.com/Politics/wireStory/texas-attorney-general-ken-paxton-finalized-divorce-lawyer-138095312",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Ken Paxton has finalized his divorce, lawyer says, ending long marriage",
+     "title_en": "Ken Paxton Has Finalized His Divorce, Lawyer Says, Ending Long Marriage",
+     "url": "https://nypost.com/2026/11/13/us-news/texas-ag-ken-paxton-has-finalized-his-divorce-lawyer-says-ending-long-marriage/",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  }
+ ]
+}

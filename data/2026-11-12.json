@@ -1,6 +1,6 @@
 {
  "date": "2026-11-12",
- "updated": "Nov 13, 18:16 UTC",
+ "updated": "Nov 14, 16:49 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -375,6 +375,319 @@
      "title_en": "AI data centers need more raw materials. One investor is betting on recyclers.",
      "url": "https://www.businessinsider.com/ai-data-centers-recycling-investment-opportunity-2026-11#article",
      "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-12",
+   "title": "Top Early Black Friday TV Deals Available",
+   "sum": "Significant discounts on televisions are being offered ahead of Black Friday. Consumers can find up to 50 percent off on various popular brands.",
+   "more": "The article highlights the best early deals on TVs, presenting a selection of models that have been rigorously tested by WIRED. Brands such as TCL, Samsung, and Hisense are featured prominently in these promotions. The focus is on the savings available as shoppers prepare for the holiday season, and it emphasizes limited-time offers that could help buyers make informed decisions.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "The 10 Best Early Black Friday TV Deals (2026)",
+     "title_en": "The 10 Best Early Black Friday TV Deals (2026)",
+     "url": "https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-12",
+   "title": "Shooting Incident in Washington D.C.'s Logan Circle Leaves One Dead and Four Injured",
+   "sum": "A shooting in the Logan Circle neighborhood of Washington D.C. resulted in one death and four injuries early Thursday morning. The suspected shooter was reportedly barricaded inside a building during the incident.",
+   "more": "Law enforcement responded to reports of an active shooting in a gym around 8 a.m. ET. While multiple outlets reported the incident, details such as the shooter's motivations or the identities of the victims were not disclosed. The police have classified the scene as an active investigation as they work to apprehend the suspect. D.C. councilmember Brooke Pinto shared updates on the situation via social media.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "1 dead, 4 wounded in a shooting in Washington, D.C.'s Logan Circle",
+     "title_en": "1 dead, 4 wounded in a shooting in Washington, D.C.'s Logan Circle",
+     "url": "https://www.yahoo.com/news/us/article/1-dead-4-wounded-in-shooting-in-washington-dcs-logan-circle-shooter-barricaded-himself-in-building-police-say-154319642.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Deadly shooting in Washington DC",
+     "title_en": "Deadly shooting in Washington DC",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-12",
+   "title": "Weekly Quiz: Who Will Join Wayne Rooney in the Jungle?",
+   "sum": "The article presents a weekly quiz focused on current events. It encourages readers to test their knowledge of the past week's notable occurrences.",
+   "more": "The quiz format aims to engage audiences and provides a way for them to reflect on recent news. It highlights some major events and public figures, including Wayne Rooney, who will be featured on a reality show. Different outlets may frame the quiz in varying degrees of formality or entertainment value. However, the core intent remains consistent across platforms, focusing on audience interaction.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+     "title_en": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+     "url": "https://www.bbc.co.uk/news/articles/cmkgk0w34lkpo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-12",
+   "title": "Nvidia CEO Jensen Huang Resigns Amid Spy Allegations",
+   "sum": "Jensen Huang, co-founder and CEO of Nvidia, has resigned amid allegations of personal misconduct linked to an alleged affair with a Chinese spy. The controversy has impacted Nvidia's stock performance significantly.",
+   "more": "NPR reported on Huang's resignation, highlighting the alleged affair with a suspected Chinese spy as a pivotal factor in his decision to step down. Fox News also covered the story, emphasizing the impact on Nvidia\u2019s stock price, which fell 8% shortly before the announcement. While both outlets mention the affair and espionage angle, Fox News adds additional context regarding Huang's personal life, indicating multiple affairs as part of the narrative. This divergence in focus underscores a difference in framing, with NPR concentrating more on the ramifications for Nvidia and Fox News highlighting the personal scandal.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+     "title_en": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal.",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "NVIDIA CEO Jensen Huang Resigns Amid Multiple Affairs",
+     "title_en": "NVIDIA CEO Jensen Huang Resigns Amid Multiple Affairs.",
+     "url": "https://radio.foxnews.com/2026/11/12/nvidia-ceo-jensen-huang-resigns-amid-multiple-affairs/",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-12",
+   "title": "Nvidia CEO Resigns Amid Extramarital Affair and Espionage Allegations",
+   "sum": "Jensen Huang, the CEO of Nvidia, has resigned after acknowledging an extramarital affair with a woman identified by the U.S. as a Chinese spy. The case involves the use of a tactic known as a honey trap.",
+   "more": "The resignation of Huang highlights the intersection of personal misconduct and national security concerns. The term 'honey trap' often refers to espionage tactics that exploit romantic or sexual relationships to gather sensitive information. Different news outlets may emphasize various aspects of the story, with some focusing more on the implications for corporate security and others on the personal scandal. Overall, the narrative underscores the vulnerabilities even prominent leaders face in the realm of espionage.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+     "title_en": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-12",
+   "title": "Differences Between Amnesty, Immigration Reform, and Mar\u00eda Elvira Salazar's 'Dignity Law' in the U.S.",
+   "sum": "Republican Congresswoman Mar\u00eda Elvira Salazar proposes a renewable legal status of seven years, without citizenship, along with increased border control and mandatory work verification. The proposal seeks to clarify distinctions between various immigration policies.",
+   "more": "The article highlights the contrast between amnesty and reform, emphasizing Salazar's focus on a structured legal pathway that lacks the provision for citizenship. It underlines the importance of establishing stricter border controls and ensuring compliance through work verification as part of her plan. Different news outlets may emphasize varying elements, such as the implications of not offering a pathway to citizenship or the potential impact on immigrant communities.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Diferencias entre amnist\u00eda, reforma migratoria y qu\u00e9 propone la \u201cLey Dignidad\u201d de Mar\u00eda Elvira Salazar en EE.UU.",
+     "title_en": "Differences Between Amnesty, Immigration Reform, and What Mar\u00eda Elvira Salazar's 'Dignity Law' Proposes in the U.S.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/diferencias-entre-amnistia-reforma-migratoria-y-que-propone-la-ley-dignidad-de-maria-elvira-salazar-nid12112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-12",
+   "title": "Mississippi Elects First Black Senator in Over 140 Years",
+   "sum": "Democrat Scott Colom has defeated Republican Cindy Hyde-Smith in a closely contested race. This victory brings the opposition's total to 55 seats in the Senate.",
+   "more": "The election marks a significant milestone in Mississippi's political history, reflecting changes in voter demographics and attitudes. Colom's victory has been framed by some as a breakthrough for representation in a state with a complicated racial history. On the other hand, Hyde-Smith's loss highlights challenges faced by Republican candidates in a shifting political landscape.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Mississippi eligi\u00f3 a su primer senador negro en m\u00e1s de 140 a\u00f1os",
+     "title_en": "Mississippi Elects Its First Black Senator in Over 140 Years",
+     "url": "https://www.lanacion.com.ar/estados-unidos/mississippi-eligio-a-su-primer-senador-negro-en-mas-de-140-anos-nid12112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-12",
+   "title": "England Wins Wheelchair Rugby League World Cup for Third Time",
+   "sum": "England has won the Wheelchair Rugby League World Cup, defeating France 50-38. This marks England's third championship victory in this event.",
+   "more": "The final match was held in Wollongong, Australia, and the win allows England to retain their title. BBC News highlighted the live broadcast of the match leading up to the final, emphasizing the significance of the event. ABC News noted a spectacular try that contributed to England's victory and also mentioned Australia's performance in the third-place play-off. Overall, the framing across the outlets focuses on England's historic win and the nature of the competition.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "BBC to show England-France wheelchair World Cup final",
+     "title_en": "BBC to show England-France wheelchair World Cup final",
+     "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c8dx16rnrpkxo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Spectacular try helps England to Wheelchair Rugby League World Cup glory",
+     "title_en": "Spectacular try helps England to Wheelchair Rugby League World Cup glory",
+     "url": "https://www.abc.net.au/news/2026-11-13/england-beats-france-in-wheelchair-rugby-league-final/107384352",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-12",
+   "title": "Greta Thunberg Reacts to Climate Movement Protesters",
+   "sum": "Greta Thunberg has been criticized for appearing to mock protesters in the Fridays for Future climate movement. This reaction has sparked allegations that she has shifted her focus from climate activism to anti-war efforts.",
+   "more": "Thunberg's response to a documentary went viral and influenced public perception. Some netizens interpreted her laughter as a sign of abandonment of the climate cause. In contrast, others view her comments as a reflection of her evolving priorities, particularly her emphasis on issues related to Gaza. Different outlets highlight either the criticism of her reaction or suggest a more nuanced understanding of her activism.",
+   "coverage": [
+    {
+     "outlet": "Boredpanda.com",
+     "title": "Greta Thunberg Laughs Out Loud As She Appears To Mock Protesters Participating In Climate Movement She Started",
+     "title_en": "Greta Thunberg Laughs Out Loud As She Appears To Mock Protesters Participating In Climate Movement She Started",
+     "url": "https://www.boredpanda.com/greta-thunberg-laughs-at-climate-protesters/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Dailymail.com",
+     "title": "Greta Thunberg laughs at protesters still participating in Fridays For Future - the climate movement she started before focusing on Gaza: 'They're still doing that?!'",
+     "title_en": "Greta Thunberg laughs at protesters still participating in Fridays For Future - the climate movement she started before focusing on Gaza: 'They're still doing that?!'",
+     "url": "https://www.dailymail.com/news/article-16286901/Greta-Thunberg-laughs-protesters-participating-Fridays-Future-climate-movement-started-focusing-Gaza-Theyre-doing-that.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-12",
+   "title": "Judge Orders Total Cessation of Activities for Neo-Nazi Group",
+   "sum": "A judge has ordered the complete cessation of activities for the neo-Nazi group N\u00facleo Nacional, including the closure of its offices and the blocking of its social media content. This follows the arrest of 14 members accused of criminal organization, hate crimes, and illegal possession.",
+   "more": "Various outlets report on the judge's actions against N\u00facleo Nacional, highlighting the closure of the group's offices and social media channels. Elespanol.com notes that those under investigation include far-right figures such as Isabel Peralta and Alberto Pugilato. The framing across these articles focuses on the legal implications of the group's activities and the collective arrests that prompted judicial action.",
+   "coverage": [
+    {
+     "outlet": "Eldiario.es",
+     "title": "La jueza ordena el cese total de actividad de N\u00facleo Nacional y el cierre de sus sedes",
+     "title_en": "Judge Orders Total Cessation of Activities for N\u00facleo Nacional and Closure of Its Offices.",
+     "url": "https://www.eldiario.es/politica/jueza-ordena-cese-total-actividad-nucleo-nacional-cierre-sedes_1_13659527.html",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elespanol.com",
+     "title": "La juez ordena el cese de toda la actividad del grupo ultra N\u00facleo Nacional, bloquea sus redes sociales y clausura sus sedes",
+     "title_en": "Judge Orders Cessation of All Activities of Ultra Group N\u00facleo Nacional, Blocks Their Social Media and Closes Their Offices.",
+     "url": "https://www.elespanol.com/espana/tribunales/20261112/juez-ordena-cese-toda-actividad-grupo-ultra-nucleo-nacional-bloquea-redes-sociales-clausura-sedes/1003744456335_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-12",
+   "title": "Xbox's 25-Year Journey of Reinvention",
+   "sum": "Microsoft's Xbox has been striving to innovate within the gaming console market for 25 years. The brand initially launched its first console in 2001, challenging established competitors Sony and Nintendo.",
+   "more": "As the gaming landscape has evolved, Xbox is once again seeking to redefine its role in an industry that is highly competitive. Microsoft has consistently aimed to shake up the game console market, indicating a commitment to ongoing transformation. Different outlets may emphasize varying aspects of Xbox's reinvention, such as its technological advancements or changes in consumer engagement strategies.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "25 years later, Xbox is trying to reinvent itself again",
+     "title_en": "25 years later, Xbox is trying to reinvent itself again",
+     "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-12",
+   "title": "Analysis of the Impact of the 2026 Midterm Elections",
+   "sum": "The 2026 midterm elections have reshaped American politics, emphasizing a national approach. Democratic achievements were influenced by voter dissatisfaction with former President Donald Trump's policies.",
+   "more": "Scot Nakagawa notes that while elections may change personnel, the underlying political infrastructure remains intact. The analysis from LSE highlights that these midterms demonstrated a clear shift towards national issues in American politics. Furthermore, the Democratic turnout reflects a collective frustration with policies and governance, even in the absence of Trump on the ballot. Different outlets emphasize various aspects of how voter sentiment has altered the political landscape significantly.",
+   "coverage": [
+    {
+     "outlet": "Truthout",
+     "title": "The Midterms Have Changed the Game. Now What?",
+     "title_en": "The Midterms Have Changed the Game. Now What?",
+     "url": "https://truthout.org/audio/the-midterms-have-changed-the-game-now-what/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Lse.ac.uk",
+     "title": "The 2026 midterms have confirmed that all American politics are now national",
+     "title_en": "The 2026 midterms have confirmed that all American politics are now national.",
+     "url": "https://blogs.lse.ac.uk/usappblog/2026/11/13/2026-midterms-nationalized-politics/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-12",
+   "title": "Trump Advises JD Vance to Focus on Domestic Issues Over Iran",
+   "sum": "Former President Trump has urged JD Vance to divert his attention from the Iran conflict to addressing domestic corruption and crime. This shift aligns with Vance's previously cautious stance on U.S. military intervention abroad.",
+   "more": "Both Military.com and Abcnews.com report on Trump's advice to Vance, highlighting his disapproval of military actions abroad in favor of addressing issues at home. While the Military.com piece emphasizes Vance's lukewarm support for the military intervention, Abcnews.com focuses more on the political implications of Trump's directive regarding areas controlled by Democrats. There is a consistent framing across both outlets about Trump's preference for domestic issues over foreign military engagements.",
+   "coverage": [
+    {
+     "outlet": "Military.com",
+     "title": "Trump Bluntly Tells JD Vance to Shift Focus From Iran to Targeting \u2018Corruption and Crime\u2019 at Home",
+     "title_en": "Trump Bluntly Tells JD Vance to Shift Focus From Iran to Targeting \u2018Corruption and Crime\u2019 at Home",
+     "url": "https://military.com/trump-bluntly-tells-jd-vance-to-shift-focus-from-iran-to-targeting-corruption-and-crime-at-home",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home",
+     "title_en": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home",
+     "url": "https://abcnews.com/US/wireStory/trump-bluntly-tells-jd-vance-shift-focus-iran-138089310",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-12",
+   "title": "Cindy Holscher Elected Governor of Kansas Amid Democratic Surge",
+   "sum": "Democrat Cindy Holscher has won the election for governor in Kansas, a state traditionally dominated by Republicans. This victory contributes to a significant trend of Democratic successes in the recent midterms.",
+   "more": "The New York Post highlights this victory as part of the broader context of Democrats securing a majority of governorships in the U.S. for the first time in two decades, emphasizing its importance within the party's wider gains. Similarly, the Dailymail.com frames Holscher's win as a continuation of a 'blue wave' across the country, contrasting it with Kansas' historical Republican stronghold. Both sources underscore the significance of this election result, but the New York Post focuses more on the overall Democratic shift, while Dailymail.com emphasizes the challenge Holscher faced from the Republican candidate.",
+   "coverage": [
+    {
+     "outlet": "New York Post",
+     "title": "Dem Cindy Holscher elected as Kansas\u2019 next governor in latest blue wave midterms win",
+     "title_en": "Dem Cindy Holscher elected as Kansas\u2019 next governor in latest blue wave midterms win.",
+     "url": "https://nypost.com/2026/11/12/us-news/dem-cindy-holscher-elected-as-kansas-next-governor-in-latest-blue-wave-midterms-win/",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Dailymail.com",
+     "title": "Democrat Cindy Holscher wins election for governor in deep red Kansas as blue wave spreads across country",
+     "title_en": "Democrat Cindy Holscher wins election for governor in deep red Kansas as blue wave spreads across country.",
+     "url": "https://www.dailymail.com/news/article-16289039/Democrat-Cindy-Holscher-wins-governor-Kansas.html",
+     "bias": "Right",
      "src": "ai"
     }
    ]
