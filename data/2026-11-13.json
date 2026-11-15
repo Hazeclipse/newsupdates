@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "updated": "Nov 14, 16:49 UTC",
+ "updated": "Nov 15, 17:31 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -337,6 +337,388 @@
      "url": "https://nypost.com/2026/11/13/us-news/texas-ag-ken-paxton-has-finalized-his-divorce-lawyer-says-ending-long-marriage/",
      "bias": "Lean Right",
      "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-13",
+   "title": "Jensen Huang and the Challenges of the Tech Founder Narrative",
+   "sum": "Nvidia CEO Jensen Huang faces scrutiny due to personal scandals despite his success as a tech leader. The contrast between his public persona and personal controversies highlights a shift in the perception of founder figures in the tech industry.",
+   "more": "Wired emphasizes Huang's preoccupation with storytelling and the impact of his personal life on his legacy. In contrast, The Verge focuses on his triumphant public appearances and the adoration he receives from fans, portraying a duality in his role as a visionary leader. While Wired addresses the darker aspects of his story, The Verge celebrates his successes, illustrating differing frames in the coverage of Huang.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Jensen Huang and the End of the Founder Fairy Tale",
+     "title_en": "Jensen Huang and the End of the Founder Fairy Tale",
+     "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Verge",
+     "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "title_en": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-13",
+   "title": "Jensen Huang Faces Memes Amid Controversy",
+   "sum": "Jensen Huang is facing a wave of AI memes criticizing him due to Nvidia's current challenges. As he grapples with personal and professional turmoil, the internet is reacting humorously to his situation.",
+   "more": "The Business Insider article highlights the ironic twist of Huang's AI chips being used to create memes about his downfall, striking a humorous tone. In contrast, the Yahoo Entertainment report paints a more somber picture, detailing Huang's emotional state as he steps down from his role at Nvidia amid serious allegations. While one outlet focuses on the internet's humor, the other emphasizes the gravity of his personal circumstances, illustrating the different angles on his resignation.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Jensen Huang is being skewered by AI memes, courtesy of Nvidia chips",
+     "title_en": "Jensen Huang is being skewered by AI memes, courtesy of Nvidia chips.",
+     "url": "https://www.businessinsider.com/best-ai-memes-jensen-huang-affair-scandal-nvidia-chips-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "How Jensen Huang spent his last hours as Nvidia CEO",
+     "title_en": "How Jensen Huang spent his last hours as Nvidia CEO.",
+     "url": "https://finance.yahoo.com/technology/ai/articles/m-piece-sh-jensen-huang-005649526.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-13",
+   "title": "Review of the TCL QM7L Mini-LED TV",
+   "sum": "The TCL QM7L Mini-LED TV offers vibrant colors and deep blacks, making it suitable for a variety of viewing experiences. However, buyers should consider the size of the wide pedestal to ensure it fits their setup.",
+   "more": "The review highlights the TV's impressive performance features at a $1,500 price point. It emphasizes the quality of the visuals, noting how effectively the TV can handle different content types. Despite the positives, there is a caution regarding the pedestal size, suggesting that installation space should be accounted for to avoid compatibility issues.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "TCL QM7L Mini-LED TV Review (2026)",
+     "title_en": "TCL QM7L Mini-LED TV Review (2026)",
+     "url": "https://www.wired.com/review/tcl-qm7l/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-13",
+   "title": "Eight Sentenced to Jail Over Nurmagomedov-Dvalishvili Brawl",
+   "sum": "Eight individuals have received prison sentences for their involvement in a mass brawl between MMA fighters Usman Nurmagomedov and Merab Dvalishvili. The incident occurred at a hotel in Abu Dhabi during a wrestling event.",
+   "more": "BBC News emphasizes the mass brawl's involvement and details the prison sentences given. Al Jazeera English highlights that the altercation occurred before a wrestling event, providing context about the timing of the incident. Both outlets confirm the hotel setting but do not elaborate on the specific reasons behind the brawl.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
+     "title_en": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl.",
+     "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+     "title_en": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl.",
+     "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-13",
+   "title": "Record Deportations and Arrests Reported by Trump Administration",
+   "sum": "The Trump Administration claims significant achievements with record deportations and arrests in 2026. The Democratic Party is poised to investigate the methods employed.",
+   "more": "Jezebel presents a critical perspective on the Trump Administration's announcement, describing it as sadistic and a misinterpretation of public sentiment. In contrast, Al Jazeera strictly reports on the statistics, detailing that ICE conducted 483,200 deportations in that year while highlighting forthcoming investigations by Democrats into the tactics used. This framing highlights a clear division between critical commentary and straightforward reporting of the figures and reactions.",
+   "coverage": [
+    {
+     "outlet": "Jezebel",
+     "title": "The Trump Admin Pats its Own Back Over \u2018Record\u2019 Deportations and Arrests",
+     "title_en": "The Trump Admin Pats its Own Back Over \u2018Record\u2019 Deportations and Arrests. Barf Bag: Apart from being outwardly sadistic, this is all... a very deliberate misreading of the room.",
+     "url": "https://www.jezebel.com/the-trump-admin-pats-its-own-back-over-record-deportations-and-arrests",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "US reports record number of deportations and arrests in 2026",
+     "title_en": "US reports record number of deportations and arrests in 2026. ICE carried out 483,200 deportations in 2026. Democrats prepare to investigate tactics used.",
+     "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-13",
+   "title": "Firms Assist Migrants in Fraudulent Visa Applications",
+   "sum": "Investigations by the BBC reveal companies aiding migrants in falsely presenting themselves as artists and tech experts to secure 'Global Talent' visas. This elaborate scheme aims to facilitate expedited settlement for affluent individuals.",
+   "more": "The investigation highlights serious concerns regarding the integrity of the Global Talent visa system. Companies are reportedly coaching migrants on how to misrepresent their skills and backgrounds, effectively exploiting loopholes. Different media outlets may emphasize varying aspects of the fraud, such as the implications for immigration policy or the methods used by the firms involved.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+     "title_en": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds.",
+     "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-13",
+   "title": "Trump's Strategy with Iran: Maintain the Status Quo",
+   "sum": "Trump aims to preserve the current situation regarding Iran, believing that this is what Gulf Arab allies desire. This approach comes as the conflict has reached a stalemate and the midterm elections prompt a shift from military threats to economic pressure.",
+   "more": "NPR highlights the shift in Trump's approach towards Iran, noting the decision to focus on economic pressure rather than military action. The framing suggests that maintaining the status quo is seen as beneficial for U.S. relations with Gulf allies amidst ongoing tensions. There is an emphasis on the influence of the upcoming midterm elections on the decision-making process regarding foreign policy.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "title_en": "What's Trump's strategy now with Iran?",
+     "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-13",
+   "title": "Government Dollar Deposits at BCRA Hit Low but Reserve Purchases Continue",
+   "sum": "Government dollar deposits at the Central Bank of Argentina (BCRA) have reached a low point, falling to $59 million after payments to the IMF. Despite this, the monetary entity continues to purchase reserves.",
+   "more": "The article highlights the significant decrease in official dollar holdings at the BCRA, raising concerns about financial stability. Different outlets may vary in their emphasis on the implications of these low reserves, with some focusing on the sustainability of the BCRA's reserve purchase strategy. Observers might interpret these moves as either a sign of confidence in the monetary policy or a signal of underlying economic challenges.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Los dep\u00f3sitos en d\u00f3lares del Gobierno en el BCRA tocaron un piso, pero la entidad sigue comprando reservas",
+     "title_en": "Government dollar deposits at BCRA hit a low, but the entity continues to buy reserves",
+     "url": "https://www.lanacion.com.ar/economia/los-depositos-en-dolares-del-gobierno-en-el-bcra-tocaron-un-piso-pero-la-entidad-sigue-comprando-nid13112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-13",
+   "title": "Lobbyist Novelli Requests Judge's Recusal in $LIBRA Case",
+   "sum": "Lobbyist Novelli has requested the recusal of Judge \u00c1ngela Ledesma, who voted in favor of the plaintiffs and against the government. Her vote was crucial in a recent resolution that may lead to the reopening of the case.",
+   "more": "The request for recusal highlights the tensions in the ongoing $LIBRA case, as Ledesma's decision has significant implications for the judicial proceedings. Novelli's move suggests that he may be seeking to alter the course of the case in favor of the government. Different media outlets may frame this situation either as a strategic legal maneuver or as an attempt to exert undue influence over the judiciary.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Causa $LIBRA: el lobista Novelli pidi\u00f3 que la jueza que vot\u00f3 en favor de los querellantes y contra el Gobierno se aparte de la causa",
+     "title_en": "Lobbyist Novelli Requests Judge's Recusal in $LIBRA Case",
+     "url": "https://www.lanacion.com.ar/politica/causa-libra-el-lobista-novelli-pidio-que-la-jueza-que-voto-en-favor-de-los-querellantes-y-contra-el-nid13112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-13",
+   "title": "Agricultural Entities Criticize 16% Increase in Grain Transport Rates",
+   "sum": "Three agricultural entities have criticized a 16% increase in grain transport rates set by the Kicillof government. The organizations Carbap, Coninagro, and the Centro de Acopiadores rejected a ruling from the Buenos Aires Ministry of Transport that exceeded the 15% requested by transporters.",
+   "more": "The criticism from these entities highlights concerns over government intervention in pricing. They argue that the increase is arbitrary and does not consider the input from transporters. This situation depicts a clash between government regulations and the agricultural sector's interests. Different outlets may frame this issue based on their political stance towards the Kicillof administration.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "\u201cArbitrario\u201d: tres entidades del agro cuestionaron una suba del 16% que fij\u00f3 el gobierno de Kicillof para el transporte de granos",
+     "title_en": "Arbitrary: Three Agricultural Entities Question a 16% Increase Set by the Kicillof Government for Grain Transport",
+     "url": "https://www.lanacion.com.ar/economia/campo/arbitrario-tres-entidades-del-agro-cuestionaron-una-suba-del-16-que-fijo-el-gobierno-de-kicillof-nid13112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-13",
+   "title": "Eight Sentenced to Jail Over Nurmagomedov-Dvalishvili Brawl",
+   "sum": "Eight individuals have been sentenced to prison for their involvement in a mass brawl that occurred between MMA fighters Usman Nurmagomedov and Merab Dvalishvili. The incident took place at a hotel in Abu Dhabi on Wednesday.",
+   "more": "The sentencing reflects the seriousness of the incident involving prominent MMA fighters, escalating legal consequences for violent altercations in sports settings. Different outlets may emphasize the backgrounds of the fighters or focus on the implications for their careers post-incident. The broader cultural context of MMA in relation to public behavior and legal repercussions is also a potential area for varying interpretations among media sources.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl",
+     "title_en": "Eight Sentenced to Jail Over Nurmagomedov-Dvalishvili Brawl",
+     "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-13",
+   "title": "Eisenkot Criticizes Netanyahu's Campaign Against Palestinian Israelis",
+   "sum": "Eisenkot has condemned Netanyahu's efforts to marginalize Palestinian citizens of Israel as racist and inflammatory. He emphasizes the importance of representing all citizens, regardless of their political support.",
+   "more": "Both Al Jazeera and Haaretz present Eisenkot's comments as a direct critique of Netanyahu's campaign tactics towards Palestinian Israelis. Al Jazeera highlights the characterization of these tactics as 'an anti-state act', while Haaretz focuses on Eisenkot's assertion that Netanyahu is the prime minister of all citizens, calling for an end to the defamation of Palestinian Israelis. The framing in both outlets underscores a shared concern about the inclusiveness of Israel's leadership under Netanyahu.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Eisenkot slams Netanyahu\u2019s \u2018racist\u2019 campaign against Palestinian Israelis",
+     "title_en": "Eisenkot slams Netanyahu\u2019s \u2018racist\u2019 campaign against Palestinian Israelis",
+     "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "Eisenkot accuses Netanyahu of 'racist and violent' campaign against Arab citizens",
+     "title_en": "Eisenkot accuses Netanyahu of 'racist and violent' campaign against Arab citizens",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-13/ty-article/.premium/eisenkot-accuses-netanyahu-of-racist-campaign-against-arab-citizens/000001a1-d50f-d59b-a1f3-dd9f56250000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-13",
+   "title": "France Secures Narrow Victory Over South Africa",
+   "sum": "France ended their five-match losing streak against South Africa with a close 21-19 win at Stade de France in Paris. The match was described as thrilling.",
+   "more": "The article highlights the tension and excitement of the match, emphasizing France's ability to maintain their composure under pressure. While the victory is framed as a significant achievement for the French team, it also reflects their recent struggles against South Africa. Different outlets might focus on either the dramatic aspects of the game or the implications of France's performance for future matches.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France hold nerve to edge past South Africa in thriller",
+     "title_en": "France hold nerve to edge past South Africa in thriller",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-13",
+   "title": "Mauricio Pochettino Leaves USMNT to Coach Manchester United",
+   "sum": "Mauricio Pochettino has been appointed as the new manager of Manchester United after departing from his role as head coach of the U.S. men's national soccer team. He previously led the U.S. team to the round of 16 at the last World Cup.",
+   "more": "Pochettino's move has sparked discussions regarding the impact on the U.S. men's national team as they transition to a new head coach. Some outlets highlight the significance of his successful stint with the U.S. before moving to one of the most high-profile clubs in the world. The framing differs, with some emphasizing the challenges that lie ahead for the national team, while others celebrate Pochettino's capability to elevate Manchester United's performance.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+     "title_en": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-13",
+   "title": "This Week In Security: Patch Tuesday and Various Exploits",
+   "sum": "Microsoft has released its latest batch of security patches during this month's Patch Tuesday. Reports indicate significant vulnerabilities, including an SSH exploit and a breach related to GitBook.",
+   "more": "The article highlights the ongoing issues in cybersecurity, with a particular focus on specific vulnerabilities discovered. It also references a troubling trend of increasingly complex and numerous cybersecurity threats. While all sources acknowledge the release of Microsoft patches, some emphasize different aspects of the vulnerabilities and their potential impacts on users.",
+   "coverage": [
+    {
+     "outlet": "Hackaday",
+     "title": "This Week In Security: Four-Digit Patch Tuesday, SSH Exploited, GitBook Breach, Android GhostMap",
+     "title_en": "This Week In Security: Four-Digit Patch Tuesday, SSH Exploited, GitBook Breach, Android GhostMap",
+     "url": "https://hackaday.com/2026/11/13/this-week-in-security-four-digit-patch-tuesday-ssh-exploited-gitbook-breach-android-ghostmap/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-13",
+   "title": "Mamdani Moves to Disband NYPD Protest-Control Unit",
+   "sum": "New York Mayor Zohran Mamdani is reportedly preparing to dissolve a specific NYPD unit tasked with managing protests and counterterrorism. This action aligns with a key campaign promise aimed at addressing community concerns.",
+   "more": "The decision to disband the unit reflects the mayor's efforts to respond to the demands of his base and is seen as a significant step in a broader agenda. Critics may view this move as a potential risk to public safety, while supporters argue it is necessary for more community-oriented policing. Different outlets highlight varying aspects of the situation, such as Mamdani's political ideology and the potential implications for future protests.",
+   "coverage": [
+    {
+     "outlet": "Rt-english.com",
+     "title": "Mamdani moves to disband NYPD protest-control unit \u2013 Politico",
+     "title_en": "Mamdani moves to disband NYPD protest-control unit",
+     "url": "https://rt-english.com/news/648770-mamdani-police-protest-unit-disbands/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Legalinsurrection.com",
+     "title": "Mamdani Preparing to Disband NYPD Unit Handling Protests, Terrorism",
+     "title_en": "Mamdani Preparing to Disband NYPD Unit Handling Protests, Terrorism",
+     "url": "https://legalinsurrection.com/2026/11/mamdani-preparing-to-disband-nypd-unit-handling-protests-terrorism/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-13",
+   "title": "France Deploys 70,000 Agents for Upcoming Weekend Protests",
+   "sum": "France is set to deploy 70,000 police agents for over 50 planned protests this weekend. Authorities anticipate between 30,000 and 60,000 demonstrators in Paris alone.",
+   "more": "Both sources report on the large police presence in France, emphasizing the scale of the upcoming protests. While Latercera.com focuses on the individual city of Paris, Europapress.es highlights the nationwide scope of the security measures. The articles convey a sense of ongoing social unrest, noting that this deployment comes at a time when public mobilization has decreased. Overall, there's a consistent framing of heightened security in response to anticipated protests.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Francia despliega 70.000 agentes ante las m\u00e1s de 50 manifestaciones previstas para el fin de semana",
+     "title_en": "France Deploys 70,000 Agents Ahead of Over 50 Planned Protests This Weekend",
+     "url": "https://www.latercera.com/mundo/noticia/francia-despliega-70000-agentes-ante-las-mas-de-50-manifestaciones-previstas-para-el-fin-de-semana/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Francia repite dispositivo de 70.000 agentes ante las m\u00e1s de 50 manifestaciones previstas este fin de semana",
+     "title_en": "France Repeats Deployment of 70,000 Agents for More Than 50 Planned Protests This Weekend",
+     "url": "https://www.europapress.es/internacional/noticia-francia-repite-dispositivo-70000-agentes-mas-50-manifestaciones-previstas-fin-semana-20261113131535.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-13",
+   "title": "Fergie Chambers Denies Financing Palestinian Terrorist Groups",
+   "sum": "James Cox Chambers Jr., also known as Fergie Chambers, has denied allegations of funding Palestinian terrorist organizations. He has refused extradition to the United States during a hearing in Spain.",
+   "more": "Chambers' defense team claims that the extradition request from the U.S. contains formal defects, alleging a political persecution against him. During these proceedings, Chambers asserted his innocence regarding the terrorism financing allegations. Various media outlets frame the situation differently, with some emphasizing the political implications of the case while others focus on the legal aspects of the extradition request.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "El heredero del Cox Enterprises, Fergie Chambers, niega haber financiado a grupos terroristas palestinos",
+     "title_en": "Fergie Chambers denies financing Palestinian terrorist groups.",
+     "url": "https://www.abc.es/espana/heredero-cox-enterprises-fergie-chambers-niega-haber-20261113140748-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Eldiario.es",
+     "title": "'Fergie' Chambers niega haber financiado organizaciones terroristas palestinas y denuncia una persecuci\u00f3n pol\u00edtica de EEUU",
+     "title_en": "'Fergie' Chambers denies funding Palestinian terrorist organizations and claims U.S. political persecution.",
+     "url": "https://www.eldiario.es/politica/fergie-chambers-niega-haber-financiado-organizaciones-terroristas-palestinas-denuncia-persecucion-politica-eeuu_1_13661102.html",
+     "bias": "Left",
+     "src": "ai"
     }
    ]
   }

@@ -1,0 +1,374 @@
+{
+ "date": "2026-11-14",
+ "updated": "Nov 15, 17:31 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-14",
+   "title": "AI CEOs: Trust Issues Highlighted by OpenAI Board Member",
+   "sum": "Helen Toner, the executive director of the Center for Security and Emerging Technology, discusses the ongoing trust issues surrounding AI CEOs following the recent firing of Sam Altman. This conversation is part of a series exploring the real-world implications of AI.",
+   "more": "The discussion emphasizes the concerns raised within the AI community about the accountability and decision-making of AI leadership. Toner critiques the lack of transparency and the potential risks involved in placing too much trust in AI executives. Different outlets may highlight varying perspectives on the reliability of AI governance and the implications of leadership changes at companies like OpenAI.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+     "title_en": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-14",
+   "title": "OpenAI Board Member Discusses Trust Issues with AI CEOs",
+   "sum": "Helen Toner, an executive director at the Center for Security and Emerging Technology, shares her thoughts on the trustworthiness of AI CEOs following the firing of Sam Altman. This conversation is part of a series exploring the implications of AI in everyday life.",
+   "more": "Toner emphasizes the ongoing concerns regarding the accountability and transparency of those leading AI companies. She discusses the broader implications for AI safety and the need for stronger oversight. The dialogue sheds light on various perceptions within the AI community about leadership ethics and responsibilities, alluding to differing opinions among experts in the field.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+     "title_en": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs.",
+     "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-14",
+   "title": "Democrat Jonathan Kreiss-Tomkins Wins Alaska Governor's Race",
+   "sum": "Democrat Jonathan Kreiss-Tomkins has won the governor's race in Alaska, succeeding a Republican incumbent. At 37, he will become the youngest governor in the state's history.",
+   "more": "Both NPR and NBC News report that Kreiss-Tomkins emphasized bipartisanship during his campaign, appealing to a state that typically votes Republican. While NPR highlights his age and historic significance as the youngest governor, NBC News focuses on the impact of flipping control of the office from Republicans. This framing suggests a significant political shift in Alaska.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
+     "title_en": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican.",
+     "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race",
+     "title_en": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor\u2019s race.",
+     "url": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-14",
+   "title": "Alaska Voters Retain Ranked Choice Voting System",
+   "sum": "Alaska voters have decided to maintain their ranked choice voting system by rejecting a repeal effort. This decision marks the second time efforts to eliminate the system have failed since its approval in 2020.",
+   "more": "Both NPR and NBC News report on the voters' decision, highlighting that a similar repeal effort was also narrowly defeated in 2024. The framing of the results in both outlets emphasizes the voters' commitment to their electoral system, with NBC News projecting the outcome. The articles reflect a consensus on the voters' preference, with little variation in how the news is presented.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+     "title_en": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Alaskans opt to stick with ranked choice voting",
+     "title_en": "Alaskans opt to stick with ranked choice voting",
+     "url": "https://www.nbcnews.com/politics/2026-election/alaskans-opt-stick-ranked-choice-voting-rcna607641",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-14",
+   "title": "Chile's President Faces Protests Amid Fuel Crisis",
+   "sum": "President Jos\u00e9 Antonio Kast of Chile is under increasing public scrutiny due to rising fuel prices. This situation has led to transport strikes and widespread protests throughout the nation.",
+   "more": "The protests reflect broader discontent with the government's handling of the economic situation. As fuel prices continue to climb, various sectors are joining the strikes, amplifying the calls for change. The situation presents a significant challenge for Kast, who is already navigating a politically charged environment.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "title_en": "Fuel crisis and protests pressure Chile's far-right president",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-14",
+   "title": "Andy Burnham Urges Welsh Labour to Reflect After Election Setback",
+   "sum": "Andy Burnham has called on Welsh Labour to heed the lessons from their recent Senedd election loss. The prime minister plans to propose a new approach at the upcoming Welsh Labour conference.",
+   "more": "The call for reflection comes in the wake of a significant electoral defeat, highlighting the need for strategic changes within the party. Burnham's remarks indicate a shift in focus for Welsh Labour as they regroup. While the announcement of a new approach signals a potentially transformative agenda, reactions may vary among party members and supporters regarding the extent of change needed.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Andy Burnham urges Welsh Labour to listen after historic Senedd election defeat",
+     "title_en": "Andy Burnham urges Welsh Labour to listen after historic Senedd election defeat",
+     "url": "https://www.bbc.co.uk/news/articles/cmgj340w6g8yo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-14",
+   "title": "US Proposed Ukraine Trading Donbas for NATO Membership, According to Zelensky",
+   "sum": "Ukrainian President Volodymyr Zelensky stated that US officials have suggested the possibility of Ukraine ceding the Donbas region in exchange for NATO membership. This proposal is part of broader discussions aimed at resolving the ongoing conflict with Russia.",
+   "more": "Zelensky highlighted that the idea was presented as a way to facilitate peace negotiations. The concept of trading territory for security alliances has been met with mixed reactions within Ukraine, reflecting deep national concerns over sovereignty. While some see it as a pragmatic approach, others regard it as a compromise that could undermine Ukraine's territorial integrity.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "title_en": "US has floated Ukraine ceding Donbas for NATO membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-14",
+   "title": "Family's Fight for Justice After Son's Tragic Death",
+   "sum": "The parents of Keaton Slater, a 12-year-old boy who was killed by a driver, have been engaged in a two-year struggle to bring the driver to justice. Their efforts highlight the challenges faced by families seeking accountability in such tragic circumstances.",
+   "more": "The article details the emotional toll on the Slater family as they navigate the legal system in their pursuit of justice. Different outlets may emphasize varying aspects of the family's journey or the legal hurdles they face, shaping how the story resonates with audiences. While some may focus on the family's emotional story, others might highlight the broader implications regarding road safety and legal accountability.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Family's two-year fight to bring killer driver back from Latvia",
+     "title_en": "Family's two-year fight to bring killer driver back from Latvia",
+     "url": "https://www.bbc.co.uk/news/articles/c6dxwxn71gx0o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "africa",
+   "date": "2026-11-14",
+   "title": "MSF Alerts on Diphtheria Treatment Shortages as Nigeria Reports Over 1,100 Deaths",
+   "sum": "Doctors Without Borders (MSF) warns of a shortage of diphtheria antitoxin leading to rationing of treatment in northern Nigeria. Reports indicate that the death toll has reached 1,126 this year.",
+   "more": "The situation in northern Nigeria is critical, with MSF reporting that 70 out of 86 patients treated in Katsina had severe infections. The organization's teams are struggling to manage the rising cases due to limited resources. While MSF's focus is on the urgent need for treatment, other media outlets may emphasize the broader implications of public health challenges in Nigeria.",
+   "coverage": [
+    {
+     "outlet": "Premium Times",
+     "title": "Diphtheria: MSF warns of treatment shortages as Nigeria records over 1,100 deaths",
+     "title_en": "Diphtheria: MSF warns of treatment shortages as Nigeria records over 1,100 deaths",
+     "url": "https://www.premiumtimesng.com/health/health-news/925124-diphtheria-msf-warns-of-treatment-shortages-as-nigeria-records-over-1100-deaths.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-14",
+   "title": "German Spies Receive Expanded Authority",
+   "sum": "Germany's parliament has passed legislation granting intelligence agencies broader powers. This decision comes in the wake of a foiled attack linked to Russia.",
+   "more": "The new powers are intended to enhance the capabilities of German spies, particularly in the context of heightened security concerns. The legislation was expedited following an incident at Leipzig-Halle airport, which authorities believe could have had ties to Russian operatives. Different media outlets may highlight the implications of these powers for civil liberties, which could lead to a debate about privacy vs. security in Germany.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "German spies granted sweeping new powers",
+     "title_en": "German spies granted sweeping new powers.",
+     "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-14",
+   "title": "Canada's Stelco to Rehire 175 Workers Following Government Intervention",
+   "sum": "Stelco, a Canadian steelmaker, is set to recall 175 workers after facing government pressure. The layoffs, initially attributed to tariffs, weak demand, and imports by its US owner, will also be compensated with back pay.",
+   "more": "The government's involvement highlights the ongoing concerns about the steel industry's stability in Canada. Stelco's decision to recall workers could indicate a possible improvement in market conditions or a response to public and political pressure. This situation reflects broader challenges in the steel sector, particularly regarding international trade policies and economic demand.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Canada\u2019s Stelco to recall 175 workers after government pressure",
+     "title_en": "Canada's Stelco to recall 175 workers after government pressure",
+     "url": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-14",
+   "title": "Netanyahu's Far-Right Legacy in Israel Remains Strong",
+   "sum": "Israeli Prime Minister Netanyahu may face political downfall, but the far-right agenda in Israel is deeply embedded. This hardline approach is seen as difficult to reverse in the future.",
+   "more": "The article discusses the enduring influence of far-right politics in Israel, suggesting that even with potential changes in leadership, the ideological shifts initiated during Netanyahu's tenure are likely to persist. Various experts highlight the challenges of dismantling this entrenched agenda, emphasizing its impact on future governance and policy. Al Jazeera frames the issue as a long-term threat to democratic values and social cohesion in Israel.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+     "title_en": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere.",
+     "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-14",
+   "title": "Ukraine's Territorial Compromise Discussed for NATO Membership, Says Zelensky",
+   "sum": "President Zelensky reported that U.S. negotiators have proposed Ukraine surrendering territory in Eastern Donbas to facilitate NATO membership. This marks a new development in the peace talks regarding Ukraine's future with NATO.",
+   "more": "Zelensky emphasized that this is the first instance where territorial concessions have been linked to the prospect of NATO membership. The discussions highlight a significant shift in negotiations, reflecting the complexities of Ukraine's geopolitical situation. While some outlets emphasize this as a controversial proposition, others note it as a strategic move for Ukraine's future security.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "U.S. floated idea of Ukraine surrendering territory for NATO membership, Zelensky says",
+     "title_en": "U.S. floated idea of Ukraine surrendering territory for NATO membership, Zelensky says",
+     "url": "https://www.yahoo.com/news/us/articles/us-floated-idea-ukraine-ceding-122531169.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "US floats NATO membership for Ukraine, Zelenskyy says",
+     "title_en": "US floats NATO membership for Ukraine, Zelenskyy says",
+     "url": "https://www.abc.net.au/news/2026-11-15/us-idea-of-ukraine-ceding-donbas-to-join-nato-zelenskyy/107386558",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-14",
+   "title": "Brazil Falls to Japan Despite Vin\u00edcius J\u00fanior's Return",
+   "sum": "Brazil lost to Japan in a controversial 3-2 match held in Singapore. Vin\u00edcius J\u00fanior's performance was not enough to secure the win for Brazil.",
+   "more": "The loss raises further doubts and criticisms about Carlo Ancelotti's coaching process. Despite Vin\u00edcius Jr. scoring two goals to equalize after a 0-2 deficit, Brazil ultimately conceded another goal at the end, losing the match. Different outlets emphasize the contentious nature of the defeat, with some focusing on Ancelotti's struggles while others highlight Vin\u00edcius's impressive comeback.",
+   "coverage": [
+    {
+     "outlet": "Record.com.mx",
+     "title": "Brasil cae ante Jap\u00f3n con todo y el regreso de la mejor versi\u00f3n de Vin\u00edcius J\u00fanior",
+     "title_en": "Brazil falls to Japan with the return of the best version of Vin\u00edcius J\u00fanior. The team led by Carlo Ancelotti lost a controversial match 3-2 at the National Stadium in Singapore",
+     "url": "https://www.record.com.mx/historia/brasil-cae-ante-japon-con-todo-y-la-mejor-version-de-vinicius-2026111413460042954",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "Brasil perdi\u00f3 ante Jap\u00f3n y el proceso de Ancelotti sigue sumando dudas y cr\u00edticas",
+     "title_en": "Brazil lost to Japan, and Ancelotti's process continues to gather doubts and criticism. In Singapore, the South American team was not saved even by the genius of Vin\u00edcius Jr.: they were down 0-2, equalized with two goals from the Real Madrid forward, but let it slip away at the end",
+     "url": "https://www.lanacion.com.ar/deportes/futbol/brasil-perdio-ante-japon-y-el-proceso-de-ancelotti-sigue-sumando-dudas-y-criticas-nid14112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-14",
+   "title": "Jonathan Kreiss-Tomkins Elected as First Democrat Governor of Alaska Since 1998",
+   "sum": "Alaska voters have elected Jonathan Kreiss-Tomkins as governor, marking the first Democrat to win this position since 1998. His victory is part of a broader trend of Democratic successes in state elections nationwide.",
+   "more": "This election signals a significant shift in Alaska's political landscape and contributes to the Democrats controlling the governor's office in 30 states. While the Yahoo Entertainment and HuffPost articles focus on the historical aspect of his election, the New York Post highlights the implications of this win for the statewide Democratic control. The framing between different outlets varies slightly, with some emphasizing the broader national context while others focus on the state-specific achievement.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+     "title_en": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+     "url": "https://www.yahoo.com/news/politics/articles/kreiss-tomkins-becomes-first-democrat-050735181.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+     "title_en": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+     "url": "https://nypost.com/2026/11/14/us-news/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska/",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "HuffPost",
+     "title": "Kreiss-Tomkins Becomes First Democrat Since 1998 Elected Governor In Alaska",
+     "title_en": "Kreiss-Tomkins Becomes First Democrat Since 1998 Elected Governor In Alaska",
+     "url": "https://www.huffpost.com/entry/ap-us-election-2026-alaska-governor_n_6af7ef37e4b0b6f4a9576a70",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-14",
+   "title": "Democrats May Transform American Life Following State-Level Victories",
+   "sum": "Democrats' significant wins in state capitals may result in pivotal changes across various policy areas. Key issues include school choice, labor laws, abortion, and healthcare.",
+   "more": "Both The Daily Caller and Wnd.com highlight the potential for Democrats to influence American life beyond federal politics due to their success at the state level. They emphasize major policy agendas that could be affected, though they may frame the implications of these changes differently based on their audiences. The articles stress the importance of these victories in shaping future legislative priorities and their broader social impact.",
+   "coverage": [
+    {
+     "outlet": "The Daily Caller",
+     "title": "Blue Tsunami Tore Through State Capitols: Here\u2019s How Dems Could Remake American Life Beyond The Beltway",
+     "title_en": "Blue Tsunami Tore Through State Capitols: Here\u2019s How Dems Could Remake American Life Beyond The Beltway",
+     "url": "https://dailycaller.com/2026/11/14/democrat-gains-state-legislatures-midterms",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Wnd.com",
+     "title": "Blue tsunami: How Dems could remake American life beyond the Beltway",
+     "title_en": "Blue tsunami: How Dems could remake American life beyond the Beltway",
+     "url": "https://www.wnd.com/2026/11/blue-tsunami-how-dems-could-remake-american-life/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-14",
+   "title": "Democrats Embrace Hope at Post-Midterms Conference",
+   "sum": "Democrats convened in Denver to discuss the outcomes of the midterm elections and emerged with a sense of optimism. The conference focused on pathways to future success, including the potential for Puerto Rican statehood.",
+   "more": "Both articles highlight the Democrats' positive reaction to their midterm performance, noting the emotional tone of hope. While the conference was largely celebratory, there were protests outside, indicating a divided sentiment regarding certain issues, such as statehood for Puerto Rico. The Times of India emphasizes the enthusiasm of political leaders at the event, while the ABC News article provides a more general overview of the conference\u2019s purpose and atmosphere.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Democrats try out a strange new emotion at post-midterms What's Next conference \u2014 hope",
+     "title_en": "Democrats try out a strange new emotion at post-midterms What's Next conference \u2014 hope.",
+     "url": "https://abcnews.com/US/wireStory/democrats-strange-new-emotion-post-midterms-conference-hope-138135230",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "Democrats try out a strange new emotion at post-midterms What's Next conference - hope",
+     "title_en": "Democrats try out a strange new emotion at post-midterms What's Next conference - hope.",
+     "url": "https://economictimes.indiatimes.com/news/international/world-news/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope/articleshow/135823751.cms",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
