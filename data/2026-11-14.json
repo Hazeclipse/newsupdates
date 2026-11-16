@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "updated": "Nov 15, 17:31 UTC",
+ "updated": "Nov 16, 20:45 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -366,6 +366,364 @@
      "title_en": "Democrats try out a strange new emotion at post-midterms What's Next conference - hope.",
      "url": "https://economictimes.indiatimes.com/news/international/world-news/democrats-try-out-a-strange-new-emotion-at-post-midterms-whats-next-conference-hope/articleshow/135823751.cms",
      "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-14",
+   "title": "Jensen Huang and the Changing Image of the Founder CEO",
+   "sum": "Nvidia CEO Jensen Huang received a warm reception at an event on January 6, 2025. This moment highlights a perceived decline in the archetype of the visionary showman founder CEO.",
+   "more": "The article discusses how the role of founder CEOs has evolved over time, with Huang's recent appearance serving as a contrast to this trend. It suggests that while Huang was once seen as a rockstar figure, the business landscape has shifted away from individual charisma to a more collective approach to leadership. Different outlets may view Huang's reception differently, with some emphasizing the nostalgic elements of his performance while others focus on broader industry changes.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "title_en": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-14",
+   "title": "LG's B6E OLED TV Enjoys 50% Discount",
+   "sum": "LG's B6E OLED TV is currently available at a 50% discount as part of a promotion at Best Buy. The deal applies to the 55-inch model through the end of today, November 15th.",
+   "more": "This price drop makes the B6E an even more budget-friendly option in the OLED market. The promotion reflects Best Buy\u2019s strategy to attract customers with significant discounts on popular electronics. While the focus on budget-friendly products resonates with consumers looking for deals, it is noteworthy that other outlets may not highlight this specific sale as strongly.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "LG\u2019s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+     "title_en": "LG\u2019s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+     "url": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-14",
+   "title": "Rachelle Hampton Analyzes 'Murmur' in Twilight",
+   "sum": "Writer Rachelle Hampton explores the use of the word 'murmur' in the Twilight series. She is also known for her podcast on everyday drama stories.",
+   "more": "Hampton, who is a co-owner at Defector Media, dives into linguistic details, reflecting on how seemingly simple words can hold deeper meanings in literature. The article highlights her unique approach to storytelling through her podcast, Normal Gossip, where she shares anonymous listener submissions. This blend of literary analysis and personal storytelling showcases her versatility in both written and audio formats.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Rachelle Hampton won\u2019t admit how long she spent charting the use of \u2018murmur\u2019 in Twilight",
+     "title_en": "Rachelle Hampton won't admit how long she spent charting the use of 'murmur' in Twilight",
+     "url": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-14",
+   "title": "How to Watch UFC 334: Gane vs. Hokit",
+   "sum": "Instructions for watching UFC 334: Gane vs. Hokit online are provided. The event features two titles on the line.",
+   "more": "The articles offer guidance on how to watch the event, emphasizing options for free live streaming. TechRadar notes the packed card at The Garden, highlighting its significance with title fights. Both outlets focus on accessibility, but TechRadar provides a more detailed overview of the event's features.",
+   "coverage": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "How to Watch UFC 334: Ciryl Gane vs. Josh Hokit Online Free",
+     "title_en": "How to Watch UFC 334: Ciryl Gane vs. Josh Hokit Online Free",
+     "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-ufc-334-gane-vs-hokit-stream-free-1235658431/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "TechRadar",
+     "title": "How to watch UFC 334: Gane vs Hokit live streams, start time, preview, full card",
+     "title_en": "How to watch UFC 334: Gane vs Hokit live streams, start time, preview, full card",
+     "url": "https://www.techradar.com/entertainment/sport/watch-ufc-334-gane-vs-hokit",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-14",
+   "title": "Democrats Face Key Challenges After Hegseth's Failed Impeachment",
+   "sum": "Democrats have gained significant opportunities with control of both the House and Senate. However, they will need to navigate priorities, timing, messaging, and discipline moving forward.",
+   "more": "The article emphasizes the importance of strategic planning for Democrats as they hold a majority. The failure of Hegseth's impeachment serves as a crucial indicator of the challenges that lie ahead. Different outlets may frame the discussion around whether Democrats can unify their approach or if internal divisions will hinder their progress.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+     "title_en": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-14",
+   "title": "Nvidia Scandal Heightens US-China AI Dominance Tensions",
+   "sum": "The Nvidia scandal has raised tensions in the AI dominance race between the US and China. The controversy emerged after CEO Jensen Huang admitted to an extramarital affair with an alleged Chinese intelligence agent, leading to his resignation.",
+   "more": "The situation has intensified fears regarding national security and espionage amidst the ongoing technological rivalry between the two countries. While Latercera focuses on the personal implications of Huang's affair, La Nacion emphasizes the broader geopolitical ramifications, highlighting the potential for increased competition and conflict. The framing from both outlets suggests a recognition of the significance of personal actions within larger political struggles.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "El impacto del esc\u00e1ndalo de Nvidia en la carrera por el dominio de la IA",
+     "title_en": "The impact of the Nvidia scandal on the race for AI dominance.",
+     "url": "https://www.latercera.com/mundo/noticia/el-impacto-del-caso-nvidia-en-la-carrera-por-el-dominio-de-la-ia/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "El esc\u00e1ndalo de Nvidia suma tensi\u00f3n a la carrera entre Estados Unidos y China por el dominio de la IA",
+     "title_en": "The Nvidia scandal adds tension to the race between the United States and China for AI dominance.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/el-escandalo-de-nvidia-suma-tension-a-la-carrera-entre-estados-unidos-y-china-por-el-dominio-de-la-nid14112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-14",
+   "title": "The Mirror Left by Le\u00f3n XIV",
+   "sum": "Le\u00f3n XIV challenged the entire political class, including Javier Milei. He pointed out the well-known failures in Argentina that its main leaders celebrate as great successes.",
+   "more": "The article suggests that Le\u00f3n XIV's presence has made the current political class uncomfortable, likely due to his candid remarks. There appears to be a contrast between his observations and the self-congratulatory nature of the political leaders. The framing emphasizes the disconnect between reality and the political narrative in Argentina.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El espejo que Le\u00f3n XIV nos dej\u00f3",
+     "title_en": "The Mirror Left by Le\u00f3n XIV",
+     "url": "https://www.lanacion.com.ar/ideas/el-espejo-que-leon-xiv-nos-dejo-nid14112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-14",
+   "title": "Cristina Monge Advocates for Transforming Social Discontent",
+   "sum": "Spanish political scientist and sociologist Cristina Monge emphasizes the need to overcome the prestige of pessimism. She suggests that social discontent can be harnessed as a transformative force to rethink and improve democracy.",
+   "more": "Monge's perspective focuses on reframing societal grievances into constructive dialogue and actions aimed at enhancing democratic processes. Her book 'Against Discontent' serves as a platform for these ideas. Various outlets may highlight different aspects of her proposals, such as the urgency for change or the necessity for collective action, which can shape public perception differently.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Cristina Monge: \u201c\u201cHay que acabar con el prestigio del pesimismo\u201d",
+     "title_en": "Cristina Monge: 'We need to end the prestige of pessimism'",
+     "url": "https://www.lanacion.com.ar/ideas/cristina-monge-hay-que-acabar-con-el-prestigio-del-pesimismo-nid14112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-14",
+   "title": "Uruguay Welcomes Pope Francis XIV with Political and Republican Unity",
+   "sum": "Uruguay, the least Catholic country in the region, celebrated the visit of Pope Francis XIV with a display of political and republican unity. All political factions in the country received the Supreme Pontiff.",
+   "more": "This visit marks a significant moment for a country known for its secularism. Various political leaders expressed their support and attendance at the event, highlighting a rare moment of collective unity. Framing of the reception varied slightly among different outlets, with some emphasizing secularism while others focused on the political significance of the visit.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Uruguay celebr\u00f3 a Le\u00f3n XIV con unidad pol\u00edtica y republicana",
+     "title_en": "Uruguay Celebrated Pope Francis XIV with Political and Republican Unity",
+     "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/uruguay-celebro-a-leon-xiv-con-unidad-politica-y-republicana-nid15112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-14",
+   "title": "An Unpublished Letter Reveals Cort\u00e1zar's Liberal Ideas",
+   "sum": "A previously unseen letter from the author Julio Cort\u00e1zar to a presidential candidate in 1943 indicates his early political positions. These views appear to diverge from the writer's later beliefs.",
+   "more": "The letter sheds light on Cort\u00e1zar's political ideology during a formative period in his life, suggesting a liberal stance that he would later distance himself from. This discovery contributes to the understanding of his evolution as a thinker and writer. Different outlets may emphasize varying aspects of how this correspondence highlights the contrast between his youthful views and those he adopted later in life.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Una carta in\u00e9dita muestra a un Cort\u00e1zar con ideas liberales",
+     "title_en": "An Unpublished Letter Reveals Cort\u00e1zar's Liberal Ideas",
+     "url": "https://www.lanacion.com.ar/ideas/una-carta-inedita-muestra-a-un-cortazar-con-ideas-liberales-nid14112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "africa",
+   "date": "2026-11-14",
+   "title": "UN Secretary-General Urges Action Against Polluters at Final Climate Summit",
+   "sum": "The UN Secretary-General emphasized the importance of holding polluters accountable during his final climate summit. His remarks aim to encourage global action on climate change and environmental responsibility.",
+   "more": "The focus of the summit was on the need for tangible actions to combat climate change while also addressing the financial responsibilities of those contributing to environmental degradation. The Secretary-General's call could herald a shift towards stricter regulations and accountability for corporate polluters. Different news outlets may frame the urgency of these calls based on regional environmental challenges and public sentiment towards climate action.",
+   "coverage": [
+    {
+     "outlet": "Premium Times",
+     "title": "UN secretary-general marks last climate summit with call to make polluters pay",
+     "title_en": "UN secretary-general marks last climate summit with call to make polluters pay",
+     "url": "https://www.premiumtimesng.com/business/business-news/925196-un-secretary-general-marks-last-climate-summit-with-call-to-make-polluters-pay.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-14",
+   "title": "Netanyahu Advocates for Unity Government Amid Ongoing Political Talks in Israel",
+   "sum": "Israeli Prime Minister Netanyahu asserts that only a unity government can ensure the security of Israel. Meanwhile, Eisenkot, tasked with forming a government, disregards this appeal as mere 'tricks' as discussions and a vote for a Knesset speaker approach.",
+   "more": "The political landscape in Israel is tense as Netanyahu and Eisenkot face significant challenges in forming a government. Scheduled talks between Yashar and Likud on Sunday highlight the difficulties stemming from their major differences. Al Jazeera outlets convey a sense of urgency in the political situation, focusing on the fragmentation within the Israeli political system as parties come to the negotiating table.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu says only a unity government can guarantee Israel\u2019s security",
+     "title_en": "Netanyahu says only a unity government can guarantee Israel\u2019s security.",
+     "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-14",
+   "title": "Education's Disconnect from History and the Current Polish Crisis",
+   "sum": "The articles discuss two distinct topics: the impact of historical lessons on American education and the ongoing political crisis in Poland. They highlight different cultural perspectives on history and the key figures involved in Poland's current situation.",
+   "more": "The first article critiques American public education for neglecting historical lessons and contrasts it with other cultures that utilize their past to inform the present. In opposition, the second article provides insight into the Polish political landscape, recalling the author's past experiences in Warsaw and connections to influential politicians. While the first article focuses on cultural education, the second addresses a specific national crisis without any apparent overlap in themes or framing. Overall, the articles reveal contrasting discussions around the importance of history in different contexts.",
+   "coverage": [
+    {
+     "outlet": "Americanthinker.com",
+     "title": "The Present Is Where History Lands",
+     "title_en": "The Present Is Where History Lands",
+     "url": "https://www.americanthinker.com/articles/2026/11/the-present-is-where-history-lands/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Globalresearch.ca",
+     "title": "The Crisis in Poland",
+     "title_en": "The Crisis in Poland",
+     "url": "https://www.globalresearch.ca/crisis-poland/5945872",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-14",
+   "title": "Massive Cyberattack on La Poste Subsidiary Exposes Data of 22 Million People",
+   "sum": "Maileva, a subsidiary of La Poste, was hit by a cyberattack in September, compromising the names, first names, and postal addresses of 22 million individuals. A judicial investigation is currently underway.",
+   "more": "The incident is described as one of the largest data breaches in France, as reported by Le HuffPost. Both articles highlight the severity of the breach but differ slightly in terminology, with 20 Minutes referring to it as a 'cyberattack' and Le HuffPost emphasizing it as a 'massive' one. While both sources mention the ongoing judicial investigation, they focus on different aspects of the event's impact on data security.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Maileva (groupe La Poste) touch\u00e9 par une cyberattaque\u00a0: 22\u00a0millions de personnes concern\u00e9es",
+     "title_en": "Maileva (La Poste Group) hit by a cyberattack: 22 million people affected.",
+     "url": "https://www.20minutes.fr/societe/4262898-20261114-maileva-groupe-poste-touche-cyberattaque-22-millions-personnes-concernees",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Une filiale de La Poste victime d\u2019une cyberattaque massive, les donn\u00e9es de 22\u00a0millions de personnes vol\u00e9es",
+     "title_en": "A subsidiary of La Poste victim of a massive cyberattack, data of 22 million people stolen.",
+     "url": "https://www.huffingtonpost.fr/france/article/une-filiale-de-la-poste-victime-d-une-cyberattaque-massive-les-donnees-de-22-millions-de-personnes-volees_358217.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-14",
+   "title": "Large Protests Erupt Over Housing and Cost of Living in Europe",
+   "sum": "Tens of thousands of people have participated in protests in both Portugal and France, highlighting ongoing concerns over rising housing costs and living conditions. These demonstrations mark significant moments in social movements within each country.",
+   "more": "In Portugal, the latest protests represent the largest gatherings against escalating housing expenses since the movement began a few weeks ago, indicating growing public discontent. In France, however, the recent turnout of 106,000 protesters is noted as the lowest participation in recent weeks despite ongoing demonstrations for a fifth consecutive weekend. The framing from Al Jazeera focuses on the scale and timing of the protests in Portugal as a heightened response, while DW emphasizes the declining numbers in the French protests, revealing contrasting narratives regarding public engagement in each country.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Tens of thousands march in latest Portugal housing protests",
+     "title_en": "Tens of thousands march in latest Portugal housing protests.",
+     "url": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Tens of thousands continue to protest across France",
+     "title_en": "Tens of thousands continue to protest across France.",
+     "url": "https://www.dw.com/en/tens-of-thousands-continue-to-protest-across-france/a-79950503",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-14",
+   "title": "New Protests Erupt in France Amid Rising Violence and Cost of Living Issues",
+   "sum": "Tens of thousands of people have joined ongoing protests in France for the fifth consecutive Saturday, driven by social issues and a recent wave of violence in educational institutions. While the number of participants was lower than in previous weeks, incidents were reported in cities like Nantes and Lyon.",
+   "more": "Different news outlets emphasize varying aspects of the protests. El Mundo highlights the connection of the demonstrations to violence in schools, pointing to social unrest as a significant backdrop. In contrast, DW focuses on the cost of living and public services as the primary catalysts for the protests, noting a decrease in demonstrators compared to earlier weeks.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "Nuevas protestas sociales en Francia con el trasfondo de la violencia en los institutos",
+     "title_en": "New social protests in France against the backdrop of violence in schools",
+     "url": "https://www.elmundo.es/internacional/2026/11/14/6af8570ae85ecec9608b459c.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Nuevas protestas en Francia por el costo de la vida y los servicios p\u00fablicos",
+     "title_en": "New protests in France over the cost of living and public services",
+     "url": "https://www.dw.com/es/nuevas-protestas-en-francia-por-el-costo-de-la-vida-y-los-servicios-p%C3%BAblicos/a-79949791",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-14",
+   "title": "Democrat Wins Alaska Governor's Race for the First Time in Nearly 30 Years",
+   "sum": "A Democrat has won the governorship of Alaska, marking the first victory for the party in nearly three decades. Jonathan Kreiss-Tomkins secured over 50% of first-preference votes, defeating the incumbent Republican.",
+   "more": "The win indicates a significant shift in political control in Alaska, as it joins the ranks of states where Democrats have recently gained power from Republicans. The Dailymail highlights the implications of this victory, noting that it allows Democrats to control the governor's office in 30 states. Meanwhile, The Irish Times focuses on Kreiss-Tomkins' percentage of the vote and the direct competition with Republican Mike Dunleavy. Both outlets emphasize the historical significance of this election outcome for the Democratic Party.",
+   "coverage": [
+    {
+     "outlet": "Dailymail.com",
+     "title": "Democrat wins Alaska governor's race for the first time in nearly 30 years as Yale dropout, 37, defeats former talk show host",
+     "title_en": "Democrat wins Alaska governor's race for the first time in nearly 30 years as Yale dropout, 37, defeats former talk show host.",
+     "url": "https://www.dailymail.com/news/article-16292045/Jonathan-Kreiss-Tomkins-Democrat-Alaska-Governor.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Irish Times",
+     "title": "Democrat wins Alaska governor seat for first time in almost 30 years",
+     "title_en": "Democrat wins Alaska governor seat for first time in almost 30 years.",
+     "url": "https://www.irishtimes.com/world/us/2026/11/14/democrat-wins-alaska-governor-seat-for-first-time-in-almost-30-years/",
+     "bias": "Lean Left",
      "src": "ai"
     }
    ]

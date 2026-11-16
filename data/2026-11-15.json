@@ -1,0 +1,362 @@
+{
+ "date": "2026-11-15",
+ "updated": "Nov 16, 20:45 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-15",
+   "title": "US Flights Face Cancellations and Delays Following Nationwide Grounding",
+   "sum": "Thousands of flights in the US are still experiencing cancellations and delays due to a nationwide grounding of planes. The transport secretary indicated that normal air-traffic operations may not resume until Monday.",
+   "more": "While the BBC focuses on the overall impact of the flight grounding on air travel in the US, Yahoo Entertainment provides practical advice for travelers affected by the cancellations and delays. It mentions that those whose flights were canceled or delayed may be eligible for financial recourse, including potential refunds. This perspective highlights the concerns of stranded travelers and suggests actionable steps to mitigate their losses.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+     "title_en": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide.",
+     "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "What to do if your flight was canceled or delayed by the FAA's national ground stop",
+     "title_en": "What to do if your flight was canceled or delayed by the FAA's national ground stop.",
+     "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/faa-ground-stop-what-to-do-if-your-flight-was-delayed-or-canceled-on-friday-024615873.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-15",
+   "title": "Jordan Sentences Three Men to Death for Church Mass Shooting",
+   "sum": "Three men have been sentenced to death in Jordan for their involvement in a mass shooting at a church. The attack, which took place during a funeral, resulted in nine fatalities and 34 injuries.",
+   "more": "Both BBC News and Al Jazeera English report on the sentencing of the three men, highlighting the severe consequences following the tragic church attack in Karak. The BBC emphasizes the context of the shooting, pointing out the nature of the event as a funeral at a Greek Orthodox church. Al Jazeera states the incident's deadly outcome without delving into specific details about the church or the victims. Overall, both outlets convey the judicial action taken in response to this violent event.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "title_en": "Three men sentenced to death in Jordan over fatal church mass shooting",
+     "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Jordan sentences three men to death over deadly church attack in Karak",
+     "title_en": "Jordan sentences three men to death over deadly church attack in Karak",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-15",
+   "title": "Russell Brand Accuser Advocates for Change in UK Consent Law",
+   "sum": "Mia Latter, known in the Russell Brand investigation as 'Alice,' has chosen to waive her anonymity to advocate for changes in U.K. consent law. She claims that Brand was aware of her age during an alleged incident.",
+   "more": "In her public statements, Latter details her experience and emphasizes the need for legal reforms. Meanwhile, various outlets highlight the gravity of the allegations against Brand, who is facing serious legal consequences. The framing differs in that Thoughtcatalog focuses on the legislative implications, while Deadline emphasizes the personal impact of the accusations.",
+   "coverage": [
+    {
+     "outlet": "Thoughtcatalog.com",
+     "title": "Russell Brand Accuser \u201cAlice\u201d Waives Anonymity to Push for a Change to UK Consent Law",
+     "title_en": "Russell Brand Accuser 'Alice' Waives Anonymity to Push for a Change to UK Consent Law",
+     "url": "https://thoughtcatalog.com/sari-moon/2026/11/russell-brand-accuser-alice-waives-anonymity-to-push-for-a-change-to-uk-consent-law/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Deadline",
+     "title": "Russell Brand Accuser Waives Anonymity, Alleging She Was Raped By Star At Age Of 16",
+     "title_en": "Russell Brand Accuser Waives Anonymity, Alleging She Was Raped By Star At Age Of 16",
+     "url": "http://deadline.com/2026/11/russell-brand-mia-latter-waives-anonymity-allege-rape-1237224442/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-15",
+   "title": "Discussion on Age of Consent Reform After Allegations Against Comedian",
+   "sum": "The topic of adjusting the age of consent is set to be discussed following serious allegations against a comedian. A woman claims she was raped by the comedian at the age of 16 and advocates for making relationships between 16- and 17-year-olds and adults illegal.",
+   "more": "A government minister indicated that the allegations would prompt discussions on the legal parameters surrounding the age of consent in the UK. The case has gained significant media attention, largely due to the severity of the claims against the well-known comedian. Opinions vary on how the age of consent should be structured, with some advocating for stricter regulations to protect minors, while others raise concerns about the implications for young people\u2019s rights.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Staggered age of consent to be 'discussed' after Brand allegations, minister says",
+     "title_en": "Staggered age of consent to be 'discussed' after Brand allegations, minister says",
+     "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-15",
+   "title": "Judge Blocks Trump's Golf Course Redevelopment Plans",
+   "sum": "A federal judge has issued a temporary delay on the redevelopment of a historic golf course in Washington, D.C. This ruling prevents any immediate work from commencing on the project.",
+   "more": "The decision impacts Trump\u2019s plans to renovate the East Potomac Park golf course, as it cannot be closed to the public at this time. The ruling has been framed as a setback for the Trump administration by both NPR and NBC News, highlighting the legal challenges faced by the president. Both outlets convey the message that the judge's ruling is a significant obstacle in Trump's redevelopment efforts.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+     "title_en": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment.",
+     "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Judge temporarily blocks Trump\u2019s plan to redevelop East Potomac golf course in D.C.",
+     "title_en": "Judge temporarily blocks Trump\u2019s plan to redevelop East Potomac golf course in D.C.",
+     "url": "https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-plan-redevelop-east-potomac-golf-cours-rcna609366",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-15",
+   "title": "Discussion on Age of Consent Following Allegations Against Comedian",
+   "sum": "The age of consent laws are set to be discussed in light of allegations against a comedian. A woman who claims she was raped at 16 is advocating for stricter laws regarding relationships between young people aged 16-17 and adults.",
+   "more": "The minister indicated that the government is open to revisiting the age of consent amid ongoing public discourse. The allegations have sparked a broader conversation about the legal protections for young individuals. Different media outlets emphasize varying aspects of the minister's commitment to discuss these laws, but all agree on the need for reform.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Staggered age of consent to be 'discussed' after Brand allegations, minister says",
+     "title_en": "Staggered age of consent to be 'discussed' after Brand allegations, minister says",
+     "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-15",
+   "title": "Iran Drone Attack Targets US Military Base in Bahrain",
+   "sum": "Iran has launched a drone attack on a US military base in Bahrain, marking the second such incident in three days. This escalation occurs amid ongoing tensions between the US and Iran over the Strait of Hormuz.",
+   "more": "The drone attack signifies a further deterioration in US-Iran relations as both countries face off in the strategically crucial Strait of Hormuz. While the BBC presents the attack as part of a broader conflict, it highlights the immediate implications for US military presence in the region. Other outlets may focus on the geopolitical consequences of the attack, including potential retaliatory actions by the US. This incident underlines the volatility of the situation, particularly with recent escalatory actions from both sides.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Iran targets US military base in Bahrain with drone attack",
+     "title_en": "Iran targets US military base in Bahrain with drone attack",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-15",
+   "title": "Netanyahu Appeals for Unity Government Amid Political Challenges",
+   "sum": "Benjamin Netanyahu has made a public appeal to opposition leader Gadi Eisenkot to join him in forming a unity government. This request comes as Netanyahu faces challenges following the loss of his parliamentary majority.",
+   "more": "While Naftali Bennett is reportedly more open to the idea of collaborating with Likud, his allies remain firmly against it. Negotiations between Eisenkot's party and Netanyahu\u2019s are currently viewed as reflecting each leader's individual political strategies rather than a genuine effort for collaboration. Netanyahu's push for unity is perceived as frantic, driven by the need to stabilize his leadership after losing ground in the Knesset, yet he is seen as seeking to impose his conditions on any proposed coalition.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu sends plea to Eisenkot for unity government",
+     "title_en": "Netanyahu sends plea to Eisenkot for unity government.",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "Inside Eisenkot's race to form a government",
+     "title_en": "Inside Eisenkot's race to form a government.",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-15/ty-article/.premium/inside-eisenkots-race-to-form-a-government/000001a1-e072-ddc9-abb7-edf24ae60000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-15",
+   "title": "Thousands Rally in Czech Republic Against State Media Funding Changes",
+   "sum": "Thousands of people in the Czech Republic have gathered to protest against proposed changes to the funding of state media. Critics argue that these changes would increase government control over state media.",
+   "more": "The protests reflect deep concerns about media independence and governmental influence in the Czech Republic. Many participants believe that altering the funding structure could undermine the impartiality of state media outlets. While some voices in government support the changes for financial efficiency, the predominant framing among protesters emphasizes the risk of censorship and loss of journalistic integrity.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands rally in Czech Republic against state media funding changes",
+     "title_en": "Thousands rally in Czech Republic against state media funding changes",
+     "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-15",
+   "title": "Men March in Switzerland Against Violence Towards Women",
+   "sum": "Hundreds of men have marched in Switzerland to protest against violence targeting women. Organizers emphasize the need for men to take a stand, especially in light of a Swiss study indicating that half of men aged 18 to 24 have a restrictive view of masculinity.",
+   "more": "The protest highlights the role of men in addressing issues of violence and gender stereotypes. The organizers assert that changing perceptions of masculinity is crucial in combating violence against women. Different outlets may emphasize varying aspects of the study's findings, including its implications for young men's attitudes and societal norms.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Hundreds of men march in Switzerland to protest violence against women",
+     "title_en": "Hundreds of men march in Switzerland to protest violence against women",
+     "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-15",
+   "title": "Clarifying the Blackout Rumors for November 17",
+   "sum": "Experts debunk claims of a catastrophe expected on November 17, emphasizing it will only be a test of the Emergency Alert System. The rumors surrounding this date are largely unfounded.",
+   "more": "The article highlights that while there will be an Emergency Alert System test, there is no evidence of an impending disaster as some rumors suggest. This message is consistent across various outlets, reinforcing that misinformation is leading to unnecessary panic. Experts urge the public to remain calm and trust official sources for accurate information rather than speculative rumors.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "No, the World Won\u2019t Shut Down on Nov. 17. What the Blackout Rumors Get Wrong",
+     "title_en": "No, the World Won\u2019t Shut Down on Nov. 17.",
+     "url": "https://www.cnet.com/news/social-media/blackout-rumors-nov-17-emergency-alert-system-prepare-supplies/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-15",
+   "title": "AI Projected to Create Nearly 2 Million Jobs by 2030",
+   "sum": "According to Gartner, artificial intelligence (AI) is expected to create almost 2 million new jobs by 2030, surpassing the number of positions it may eliminate. There are already ongoing layoffs linked to new technology and changes in required skills.",
+   "more": "The article highlights that while there are concerns about job losses due to AI, the overall outlook is optimistic regarding job creation. Gartner suggests that the net effect of AI will be positive in terms of employment. However, it also acknowledges that the transition will come with challenges, as workers may need to adapt to new skill sets in response to technological advancements.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "What job apocalypse? AI could add almost 2 million new jobs on net by 2030.",
+     "title_en": "What job apocalypse? AI could add almost 2 million new jobs on net by 2030.",
+     "url": "https://www.businessinsider.com/ai-effects-job-market-new-jobs-losses-2026-11#article",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-15",
+   "title": "Massive Protests in Czech Republic Against Changes to Media Funding",
+   "sum": "Thousands of people gathered in the Czech Republic to protest proposed changes in state media funding. Critics argue that these changes will lead to increased government control over the media.",
+   "more": "The protests saw hundreds of thousands of participants dissatisfied with a proposal that would shift funding from license fees to state budget payments. This shift is seen as a move that could undermine the independence of Czech TV and Czech Radio. Al Jazeera highlights concerns about government control, while TheJournal.ie emphasizes the scale of the protests as a significant public response to the funding overhaul.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands rally in Czech Republic against state media funding changes",
+     "title_en": "Thousands rally in Czech Republic against state media funding changes.",
+     "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "TheJournal.ie",
+     "title": "Hundreds of thousands protest in Czechia over public-media funding overhaul",
+     "title_en": "Hundreds of thousands protest in Czechia over public-media funding overhaul.",
+     "url": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-15",
+   "title": "Protests Erupt Over Housing and Media Issues in Europe",
+   "sum": "Large-scale protests have emerged in Portugal and Czechia, addressing critical issues such as surging rental prices and proposed public media reforms. Both movements reflect growing public frustration with government policies.",
+   "more": "In Portugal, thousands protested against rising rental prices, calling for immediate action to address the housing crisis, indicating widespread dissatisfaction with current living conditions. Meanwhile, in Czechia, hundreds of thousands rallied against plans to abolish broadcasting fees, reflecting concerns over government control of the media. The framing of the protests differs in that one is focused on economic issues related to housing while the other addresses issues of media freedom and governance.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands in Portugal protest against surging rental prices",
+     "title_en": "Thousands in Portugal protest against surging rental prices",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Czechia: Thousands protest against public media reform",
+     "title_en": "Czechia: Thousands protest against public media reform",
+     "url": "https://www.dw.com/en/czechia-thousands-protest-against-public-media-reform/a-79953057",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-15",
+   "title": "Massive Demonstration in Prague for Public Media Independence",
+   "sum": "Up to 450,000 people gathered in Prague to support public media and protest against Prime Minister Andrej Babis's government. This mobilization represents the largest protest recorded against his administration.",
+   "more": "The demonstration was organized by the group 'A Million Moments for Democracy.' Participants voiced their objections to the government's plan to replace the license fee for public media with state funding. While several sources agree on the estimated number of attendees, some use slightly varying figures, which highlights the scale of public discontent regarding media independence in the Czech Republic.",
+   "coverage": [
+    {
+     "outlet": "Actualidad-rt.com",
+     "title": "Hasta 450.000 personas marchan en Praga en defensa de los medios p\u00fablicos",
+     "title_en": "Up to 450,000 march in Prague in defense of public media.",
+     "url": "https://actualidad-rt.com/actualidad/637942-450000-personas-marchan-praga-defensa-medios-publicos",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Cientos de miles de personas se manifiestan en Praga por la independencia de los medios p\u00fablicos",
+     "title_en": "Hundreds of thousands demonstrate in Prague for public media independence.",
+     "url": "https://www.europapress.es/internacional/noticia-cientos-miles-personas-manifiestan-praga-independencia-medios-publicos-20261115182350.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-15",
+   "title": "Concerns Over Assisted Suicide Policies Following Democratic Wins",
+   "sum": "Following the 2026 midterms, Democrats have gained trifectas in six states, raising concerns about assisted suicide policies. There is fear that this may lead to increased assisted suicide cases across the nation.",
+   "more": "Both articles from The Daily Caller and Freerepublic.com express similar concerns regarding the implications of new Democratic trifectas on assisted suicide policies. They highlight the potential for changes in legislation that may facilitate assisted suicide, especially regarding healthcare professionals' roles. The Freerepublic.com article specifically mentions a statistic from Hawaii regarding deaths related to lethal drug ingestion, emphasizing the seriousness of the issue. Overall, the framing by both sources reflects apprehension towards the impact of Democratic control on these policies.",
+   "coverage": [
+    {
+     "outlet": "The Daily Caller",
+     "title": "More Americans Could Die Through Assisted Suicide If New Democratic Trifectas Push Policy Across Nation",
+     "title_en": "More Americans Could Die Through Assisted Suicide If New Democratic Trifectas Push Policy Across Nation.",
+     "url": "https://dailycaller.com/2026/11/14/democrat-trifectas-state-governments-could-push-medical-assisted-suicide-laws-american-deaths",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Freerepublic.com",
+     "title": "More Americans Could Die Through Assisted Suicide If New Democratic Trifectas Push Policy Across Nation",
+     "title_en": "More Americans Could Die Through Assisted Suicide If New Democratic Trifectas Push Policy Across Nation.",
+     "url": "https://freerepublic.com/focus/f-bloggers/4403139/posts",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
