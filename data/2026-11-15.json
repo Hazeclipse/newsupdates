@@ -1,6 +1,6 @@
 {
  "date": "2026-11-15",
- "updated": "Nov 16, 20:45 UTC",
+ "updated": "Nov 17, 19:30 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -355,6 +355,86 @@
      "url": "https://freerepublic.com/focus/f-bloggers/4403139/posts",
      "bias": "Right",
      "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-15",
+   "title": "Netanyahu's Push for Unity Government in Israel",
+   "sum": "Israeli Prime Minister Benjamin Netanyahu is reaching out to opposition leader Gadi Eisenkot in an effort to form a unity government. This initiative comes after Netanyahu's party lost its majority.",
+   "more": "The situation highlights deep political divisions in Israel, as Netanyahu has previously engaged in aggressive rhetoric against his rivals. His appeal to Eisenkot appears to be a strategic move to regain power on his own terms. Al Jazeera emphasizes the necessity for negotiations between Likud and Yashar to overcome significant differences, while Haaretz questions the motives behind Netanyahu's outreach given his prior actions against opposition leaders.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Can Netanyahu and Eisenkot form a \u2018unity\u2019 government in Israel?",
+     "title_en": "Can Netanyahu and Eisenkot form a \u2018unity\u2019 government in Israel?",
+     "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "What's behind Netanyahu's frantic push for a 'unity' government?",
+     "title_en": "What's behind Netanyahu's frantic push for a 'unity' government?",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-15/ty-article/.premium/whats-behind-netanyahus-frantic-push-for-a-unity-government/000001a1-e027-d59b-a1f3-f8b72d260000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-15",
+   "title": "Midterm Elections Shift Power in State Legislatures",
+   "sum": "The midterm elections saw a decline in Republican dominance in state legislatures as Democrats gained control in several states. This shift has led to discussions on healthcare access and limitations on school vouchers.",
+   "more": "NPR highlights the impact of the midterm elections on the power dynamics in state legislatures, noting several states where Democrats took control from Republicans. The framing emphasizes the agenda items that are likely to emerge from this shift, including healthcare issues and educational policies. There may be differing perspectives from other outlets that focus on the implications for GOP strategy or other political ramifications.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+     "title_en": "Midterm voters ended the long-running GOP dominance in state legislatures.",
+     "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-15",
+   "title": "Van Hollen Seeks to Unseat Schumer as Senate Leader",
+   "sum": "Senator Chris Van Hollen has announced he has 15 votes and a plan to challenge Chuck Schumer for his position as Senate leader. He made this statement after addressing media at a Democratic conference in Denver.",
+   "more": "Van Hollen's comments indicate a growing push within the Democratic Party to reconsider leadership roles following the midterm elections. His claim of support suggests potential fractures in party unity, with some members signaling readiness for change. Coverage from different outlets may reflect varying degrees of optimism or skepticism regarding Van Hollen's challenge, highlighting internal party dynamics as critical in this political maneuvering.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Van Hollen says he has 15 votes and a path to unseat Schumer as Senate leader",
+     "title_en": "Van Hollen says he has 15 votes and a path to unseat Schumer as Senate leader",
+     "url": "https://www.yahoo.com/news/politics/articles/chris-van-hollen-says-path-184649305.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-15",
+   "title": "New York Democratic Socialists Call on Ocasio-Cortez to Run for President",
+   "sum": "Delegates at the NYC-DSA convention have passed a resolution urging Congresswoman Alexandria Ocasio-Cortez to run in the 2028 presidential race. This reflects the growing support within the party for her leadership.",
+   "more": "The resolution showcases a significant movement within the New York Democratic Socialists, emphasizing their belief in Ocasio-Cortez's potential candidacy. While some view this as a rallying point for progressive values, others may question the viability of her run against established political figures. The call to action highlights a shift in grassroots activism towards championing younger, more progressive candidates. Overall, the support indicates a desire for a new direction in the Democratic Party's future leadership.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+     "title_en": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+     "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president",
+     "bias": "Lean Left",
+     "src": "table"
     }
    ]
   }

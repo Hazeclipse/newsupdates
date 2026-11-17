@@ -1,0 +1,771 @@
+{
+ "date": "2026-11-16",
+ "updated": "Nov 17, 19:30 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-16",
+   "title": "Jensen Huang's Resignation: Impact on Nvidia and the AI Industry",
+   "sum": "Nvidia's CEO Jensen Huang has resigned, raising questions about the company's future and the AI industry. His departure signals potential significant changes within Nvidia and its operations.",
+   "more": "Different outlets highlight various implications of Huang's resignation. Wired emphasizes the impact on Nvidia and the AI landscape, indicating a major shift for both. Yahoo highlights Huang's financial standings post-resignation, mentioning his remaining stake in Nvidia despite his departure. Together, these perspectives illustrate the uncertainty and potential turmoil following his exit from the company.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Jensen Huang Is Gone. Now What?",
+     "title_en": "Jensen Huang Is Gone. Now What?",
+     "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Can Jensen Huang sell his $132 billion Nvidia stake?",
+     "title_en": "Can Jensen Huang sell his $132 billion Nvidia stake?",
+     "url": "https://finance.yahoo.com/markets/article/jensen-huang-leaves-nvidia-with-a-132-billion-stake--heres-when-he-can-sell-and-why-investors-may-not-know-when-he-does-chart-of-the-day-130732443.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-16",
+   "title": "US Data Centers Consume More Electricity Than Michigan",
+   "sum": "Research from Harvard reveals that just 400 data centers in the US use more electricity than the entire state of Michigan. This power consumption does not account for facilities that utilize off-grid gas plants.",
+   "more": "The findings highlight the significant energy demands of data centers, raising concerns about their impact on local and national energy grids. Some outlets may emphasize the environmental implications of this energy use, while others might focus on the technological aspects driving this demand. Comparisons to entire states illustrate the vast scale of energy consumption concentrated in these facilities. Overall, the report sheds light on a pressing issue within the tech industry regarding sustainability and energy efficiency.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+     "title_en": "Just 400 US Data Centers Use More Electricity Than Michigan",
+     "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-16",
+   "title": "Apple Launches Study to Enhance AI Health Tools",
+   "sum": "Apple has initiated a study aimed at understanding user interactions with conversational AI health tools. This research is conducted in collaboration with OpenEv.",
+   "more": "The Apple Health AI Usage Study will focus on the effectiveness of AI responses in health-related scenarios. This initiative reflects Apple's continued investment in health technology and its desire to refine user experience. Different outlets may highlight varying aspects, such as the technological implications or user-centered focus of the study.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
+     "title_en": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
+     "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-16",
+   "title": "OpenAI Introduces Tool to Combat Deepfakes in Child Abuse Investigations",
+   "sum": "OpenAI has developed a new tool aimed at assisting investigators in identifying child sexual abuse material amidst the clutter of deepfakes. The announcement was made during a press briefing in Washington, DC.",
+   "more": "The classifier is designed to improve the detection of harmful content, enabling quicker responses from investigators. Different sources may emphasize varying aspects of the technology, such as its potential effectiveness or the ethical implications of using AI in such sensitive areas. However, the consensus remains that addressing the issue of deepfakes is crucial for child protection efforts.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+     "title_en": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines.",
+     "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-16",
+   "title": "Apple Tests Daily Usage Limits for Siri AI Features in Beta Update",
+   "sum": "Apple has introduced beta versions of iOS 27.3, iPadOS 27.3, and macOS 27.3, which include new daily usage limits for certain Siri AI interactions. This move is part of the company's efforts to refine user experience and manage AI resource usage.",
+   "more": "According to reports from sources like MacRumors, the updates specifically focus on more complex Siri interactions while basic commands remain unaffected. Different tech outlets may emphasize the potential impact of these limits on user engagement with Siri features. While some may highlight concerns about user restrictions, others might focus on the benefits of improved efficiency in AI interactions.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+     "title_en": "Apple is testing daily usage limits for more complex Siri AI interactions",
+     "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-16",
+   "title": "Lindsay Clancy to Face Retrial for Children\u2019s Deaths",
+   "sum": "Lindsay Clancy is set for a retrial in March 2027 for the deaths of her three children. The first trial ended in a mistrial after the jury was unable to reach a verdict.",
+   "more": "The retrial comes after a weekslong trial that concluded with a jury deadlock over the summer. This has raised significant public interest and divided opinions on Clancy's case. Some outlets emphasize the legal implications of the retrial, while others focus on the emotional and familial impacts of the situation. The Massachusetts judge's decision to set the new trial date has been noted across multiple sources, illustrating the case's ongoing legal complexity.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "US woman Lindsay Clancy to face retrial next year for deaths of her three children",
+     "title_en": "US woman Lindsay Clancy to face retrial next year for deaths of her three children.",
+     "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+     "title_en": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing.",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Lindsay Clancy to face retrial in March over killing of her children",
+     "title_en": "Lindsay Clancy to face retrial in March over killing of her children.",
+     "url": "https://www.yahoo.com/news/articles/lindsay-clancy-returns-court-potential-110533622.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-16",
+   "title": "GTA 6 Hacker Pleads Guilty to Cybercrimes",
+   "sum": "A hacker responsible for the leak of GTA 6 footage in 2022 has pleaded guilty to multiple offenses. The leak was significant as it was the first public glimpse of the game before its official reveal.",
+   "more": "Arion Kurtaj, a 21-year-old, admitted to hacking Rockstar Games among other cybercrimes committed during his teenage years. Various outlets report on his release from a secure hospital prior to the plea. Notably, while Kotaku emphasizes the timing of the leak ahead of the game's official announcement, Eurogamer.net highlights Kurtaj's initial reveal of a character named Lucia, marking the impact of the leak on the gaming community.",
+   "coverage": [
+    {
+     "outlet": "Kotaku",
+     "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
+     "title_en": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
+     "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+     "title_en": "GTA 6 hacker pleads guilty after release from secure hospital",
+     "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Eurogamer.net",
+     "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+     "title_en": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+     "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-16",
+   "title": "Estonia to Shut Border Crossings with Russia After Arson Attempt",
+   "sum": "Estonia will close its border crossings with Russia following an attempted arson at a drone manufacturing facility. The Estonian government accuses Russia of orchestrating the attack, while the Kremlin has denied these claims.",
+   "more": "The attempted attack resulted in eight arrests, as authorities in Tallinn assert that Russian intelligence was behind the incident. While both outlets report on the arson attempt and the subsequent arrests, BBC focuses more on the government's actions, while Al Jazeera emphasizes the arrests and Russian involvement. The framing reflects a clear stance from Estonia regarding perceived threats from Russia.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+     "title_en": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+     "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Estonia to close border crossings with Russia after attack on drone maker",
+     "title_en": "Estonia to close border crossings with Russia after attack on drone maker",
+     "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-16",
+   "title": "Widow of Slain Haitian Leader to Run in Presidential Election",
+   "sum": "Martine Moise, the widow of former Haitian president Jovenel Moise, has registered to run in the upcoming presidential election. This election marks Haiti's first presidential vote in ten years.",
+   "more": "Martine Moise is among 33 registered candidates for the election, highlighting a significant political moment for Haiti. The coverage from both BBC News and Al Jazeera emphasizes the historical context, noting the absence of elections since Jovenel Moise's assassination in 2021. However, while BBC focuses on the registration aspect, Al Jazeera emphasizes her candidacy's significance amidst a decade-long electoral hiatus.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+     "title_en": "Wife of assassinated ex-Haitian leader registers for presidential election.",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Widow of Haiti\u2019s slain leader Moise to contest presidential vote",
+     "title_en": "Widow of Haiti\u2019s slain leader Moise to contest presidential vote.",
+     "url": "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-16",
+   "title": "Chris Van Hollen Advocates for Leadership Change",
+   "sum": "Senator Chris Van Hollen discusses his belief that he can defeat Chuck Schumer in a potential election. He outlines his vision for changes in the Senate Democratic leadership.",
+   "more": "Van Hollen presents his case for why he believes he has a competitive edge over Schumer. He emphasizes the need for new approaches within Senate leadership and offers insights into his own leadership style. The discussion highlights the differing perspectives within the Democratic Party regarding its future direction.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+     "title_en": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case.",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-16",
+   "title": "SNAP Office Acts as Food Pantry Amid National Food Aid Cuts",
+   "sum": "As significant cuts to food aid programs occur nationwide, a SNAP office in San Diego has begun operating as a food pantry. Government workers, committed to supporting their community, have taken this initiative to help those in need.",
+   "more": "The decision to convert the SNAP office into a food pantry reflects the dire situation faced by many individuals losing access to essential food assistance. Workers at the office expressed their dedication to addressing hunger in their local community. While the broader narrative highlights the struggles of government programs, this specific action in San Diego emphasizes the proactive measures being taken at the local level to mitigate the crisis.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+     "title_en": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry.",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-16",
+   "title": "Flight Disruptions Anticipated to Continue",
+   "sum": "Flight disruptions are expected to persist into Monday as the Department of Transportation received $12.5 billion for air traffic control upgrades. President Trump is advocating for additional funds.",
+   "more": "The article highlights the ongoing challenges faced by air travel, emphasizing the federal investment and the need for further financial support. It also touches on the political aspects surrounding the funding for air traffic control improvements. Different outlets may frame the urgency of the disruptions and the potential impact on travelers in varied ways.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Flight disruptions expected to last into Monday",
+     "title_en": "Flight disruptions expected to last into Monday",
+     "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-16",
+   "title": "FAA Ground Stop Disrupts Flights Amid Trump's Meeting with World Leaders",
+   "sum": "A ground stop issued by the FAA is still causing delays for thousands of flights. Additionally, President Trump is participating in a trilateral summit in Asia.",
+   "more": "Transportation Secretary Sean Duffy indicated that operations could return to normal by the end of Monday following the disruptions. The situation has prompted concern among travelers and airlines affected by the delays. Meanwhile, the focus on Trump's meetings with Xi and Putin underscores the geopolitical significance of the summit but does not elaborate on the discussions.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+     "title_en": "FAA ground stop still affecting thousands of flights.",
+     "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-16",
+   "title": "Understanding the Colectoras System for the 2027 Elections",
+   "sum": "The government is considering the colectoras voting system for the upcoming 2027 elections. This system could be included in a political reform that allows multiple lists of legislators to support the same presidential candidate on a single ballot.",
+   "more": "The colectoras system aims to enhance electoral participation by enabling various legislator lists to back a chosen presidential candidate. This proposal is part of a broader political reform initiative. While the government views this as a progressive step, some critics express concerns about its potential implications on the electoral process. Different outlets may frame the effectiveness and necessity of this system in varying lights, reflecting diverse political perspectives.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Qu\u00e9 son las colectoras, el sistema que de votaci\u00f3n que analiza el gobierno para las elecciones 2027",
+     "title_en": "What are colectoras, the voting system the government is analyzing for the 2027 elections?",
+     "url": "https://www.lanacion.com.ar/politica/que-son-las-colectoras-el-sistema-que-de-votacion-que-analiza-el-gobierno-para-las-elecciones-2027-nid16112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-16",
+   "title": "Government Eases Requirements for Foreign Companies in Investment Projects",
+   "sum": "A decree published today has relaxed the conditions for foreign companies to supply goods to major investment projects. The elimination of the requirement for majority local capital participation will allow more foreign involvement.",
+   "more": "This change is seen as a way to attract more foreign investment into local projects. The government's decision may signify a shift towards a more open economic policy. Some observers argue that this could enhance competition and bring in more resources, while others express concerns about the potential impact on local businesses.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "RIGI: el Gobierno flexibiliz\u00f3 los requisitos para que las empresas extranjeras provean a grandes proyectos de inversi\u00f3n",
+     "title_en": "RIGI: Government Eases Requirements for Foreign Companies in Investment Projects",
+     "url": "https://www.lanacion.com.ar/economia/rigi-el-gobierno-flexibilizo-los-requisitos-para-que-las-empresas-extranjeras-provean-a-grandes-nid16112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-16",
+   "title": "Diego Carbone, Libertarian Candidate for Buenos Aires Judicial Council: 'We Seek Judges Who Recognize the Value of Companies'",
+   "sum": "La Libertad Avanza presents its own list for the Buenos Aires Judicial Council for the first time, aiming to be an alternative in a competition dominated by two historical sectors. The candidate highlights the importance of judges who appreciate the value of businesses.",
+   "more": "This announcement marks a strategic shift as La Libertad Avanza attempts to gain influence within the judicial framework of Buenos Aires. Diego Carbone emphasizes the need for a judiciary that aligns more closely with business interests. Other outlets may portray this political move with varying degrees of emphasis on the implications for the existing power dynamics within the council.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Diego Carbone, candidato libertario al Consejo de la Magistratura porte\u00f1o: \u201cBuscamos jueces que reconozcan el valor de las empresas\u201d",
+     "title_en": "Diego Carbone, Libertarian Candidate for Buenos Aires Judicial Council: 'We Seek Judges Who Recognize the Value of Companies'",
+     "url": "https://www.lanacion.com.ar/politica/diego-carbone-candidato-libertario-al-consejo-de-la-magistratura-porteno-buscamos-jueces-que-nid16112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-16",
+   "title": "Government Achieves Surplus of $1.58 Trillion in October",
+   "sum": "The government recorded a surplus of $1.58 trillion in October, accumulating a positive balance of 0.4% of GDP for the year. This financial result represents a 204.9% increase compared to the same month in 2025.",
+   "more": "The increase in revenue outpaced expenditure, and the economy highlighted a real improvement in allocations for pensions, retirement funds, and the Universal Child Allowance. Different outlets may emphasize varying aspects of the surplus, such as its impact on economic stability or social programs. However, the overall framing remains focused on the substantial growth in financial results compared to the previous year.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Gobierno obtuvo un super\u00e1vit de $1,58 billones en octubre y acumula un saldo positivo de 0,4% del PBI en el a\u00f1o",
+     "title_en": "The Government obtained a surplus of $1.58 trillion in October",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-obtuvo-un-superavit-de-158-billones-en-octubre-y-acumula-un-saldo-positivo-de-04-del-pbi-nid16112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-16",
+   "title": "C\u00f3rdoba Governor Llaryora Sends Signals to National Government with 2027 Provincial Budget",
+   "sum": "Governor Llaryora has proposed a reduction in the general rate of Gross Income Tax to 26.3% in the 2027 provincial budget. The budget also includes cuts to other taxes.",
+   "more": "The budget reflects a strategic alignment with national priorities, aiming to strengthen relations with the federal government. However, different outlets may emphasize different aspects of the budget's implications for economic conditions or political strategies. There may be varying interpretations regarding the potential impact on local businesses and tax revenue.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "C\u00f3rdoba: Llaryora env\u00eda se\u00f1ales a la Rosada con el presupuesto provincial 2027",
+     "title_en": "C\u00f3rdoba: Llaryora Sends Signals to the Rosada with the 2027 Provincial Budget",
+     "url": "https://www.lanacion.com.ar/politica/cordoba-llaryora-envia-senales-a-la-rosada-con-el-presupuesto-provincial-2027-nid16112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-16",
+   "title": "Potential Changes to Age of Consent Laws in the UK",
+   "sum": "UK newspapers report on a possible reconsideration of laws regarding consent ages. Additionally, former Prime Minister Boris Johnson suggests that the UK would support Brexit if given another chance.",
+   "more": "The discussion surrounding age of consent laws has gained traction, focusing on preventing relationships between adults and younger individuals. Different media outlets present varying viewpoints, with some emphasizing the necessity for legal reforms while others raise concerns about personal freedoms. Boris Johnson's statement highlights ongoing sentiments about Brexit in the UK, indicating a divided opinion on the matter as discussions continue in political circles.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "UK papers: Consent law change 'on cards' and ex-PM Johnson says 'Britain would back Brexit again'",
+     "title_en": "Consent law change 'on cards'",
+     "url": "https://www.bbc.co.uk/news/articles/c8r4gl46ypxeo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-16",
+   "title": "EU Countries to Announce Migrant Deportation Center in Rwanda",
+   "sum": "Germany, Denmark, Austria, Greece, and the Netherlands are expected to announce the establishment of a deportation center in Rwanda for failed asylum seekers. This initiative aims to streamline the process of returning migrants.",
+   "more": "The plans highlight a collaborative approach among these EU countries to manage the ongoing challenges of migration. Different outlets may vary in their emphasis on the humanitarian implications of such a center versus the operational efficiencies it aims to achieve. Some reports might frame the project as a controversial step in EU migration policy, while others focus on its potential effectiveness in addressing asylum claims.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+     "title_en": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-16",
+   "title": "Yemeni Forces Retreat, Houthis Gain Control of Red Sea Waterway",
+   "sum": "Yemeni forces have retreated, allowing the Houthis to take control of a crucial waterway in the Red Sea. In response, Saudi-backed forces are repositioning troops to protect the interim capital of Aden.",
+   "more": "The retreat of Yemeni forces represents a significant shift in control in the region, particularly for maritime passageways. Saudi-backed forces have expressed their intent to bolster defenses in Aden, highlighting ongoing conflicts over territory. Different media outlets may emphasize the strategic implications of this change in control, particularly regarding international shipping routes.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+     "title_en": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway.",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "eastasia",
+   "date": "2026-11-16",
+   "title": "K-pop's Jennie and Tame Impala Nominated for Grammy Awards",
+   "sum": "Jennie from K-pop group BLACKPINK and the Australian band Tame Impala received nominations for the 2027 Grammy Awards. They are recognized in key categories, highlighting their influence in the music industry.",
+   "more": "The nominations mark a significant crossover between K-pop and Western music, showcasing the growing global appeal of both artists. Different outlets may emphasize the cultural impact of this collaboration, with some focusing on the popularity of K-pop in international markets. Other media might highlight how Tame Impala's unique sound complements Jennie's musical style, reflecting an evolving music landscape.",
+   "coverage": [
+    {
+     "outlet": "\ucf54\ub9ac\uc544\ud0c0\uc784\uc2a4",
+     "title": "K-pop's Jennie, Australian act Tame Impala nominated for Grammy Awards' Best Pop Duo - The Korea Times",
+     "title_en": "K-pop's Jennie, Australian act Tame Impala nominated for Grammy Awards' Best Pop Duo",
+     "url": "https://www.koreatimes.co.kr/entertainment/20261116/jennie-nominated-for-grammy-awards-record-of-the-year-for-dracula",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-16",
+   "title": "Trump Administration to Designate Nvidia and Other AI Firms as National Champions",
+   "sum": "The Trump administration is set to officially name Nvidia and several other artificial intelligence companies as 'national champions.' This move appears to be part of broader efforts to bolster the US tech sector.",
+   "more": "The designation of national champions is intended to strengthen the competitiveness of US firms in the global market. Reports indicate that Nvidia will be at the forefront of this initiative due to its significant role in AI development. Different outlets may highlight various aspects of how this designation could impact US tech policy or the competitive landscape with other nations.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
+     "title_en": "Trump administration to name Nvidia, other AI firms as US 'national champions'",
+     "url": "https://www.thedailystar.net/business/news/trump-administration-name-nvidia-other-ai-firms-us-national-champions-wsj-reports-4325141",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-16",
+   "title": "Eisenkot Pushes for Netanyahu's Ouster",
+   "sum": "Israeli opposition leader Gadi Eisenkot is making moves to remove Benjamin Netanyahu from the position of Prime Minister. The political landscape in Israel is being impacted by this leadership challenge.",
+   "more": "Eisenkot's actions indicate a significant shift within the Israeli opposition as they seek to strengthen their stance against Netanyahu's government. The article suggests a growing tension in Israeli politics, with Eisenkot emerging as a key figure in the opposition. Different outlets may highlight varying aspects of this political maneuvering, such as public reactions or potential consequences for Netanyahu's administration.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+     "title_en": "Eisenkot wants Netanyahu out",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-16",
+   "title": "Indonesian President Issues Apology to Neighbors for Haze Caused by Wildfires",
+   "sum": "Indonesian President Prabowo has apologized to Singapore and Malaysia for the haze resulting from wildfires. He emphasized his government's commitment to a 'zero-tolerance policy' for companies responsible for these fires.",
+   "more": "Prabowo's remarks reflect the ongoing regional issue of air pollution due to forest fires in Indonesia, which often affects neighboring countries. The Indonesian government has been criticized in the past for its handling of such incidents. By pledging strict actions against companies involved, Prabowo aims to mitigate diplomatic tensions. This approach signals a more proactive stance in addressing environmental concerns that cross national borders.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+     "title_en": "Indonesian President Apologizes to Singapore, Malaysia for Wildfire Haze",
+     "url": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-16",
+   "title": "GTA 6: How to Play It on November 18th at Noon, Ahead of Everyone",
+   "sum": "Players can access GTA 6 on November 18th at noon, a day earlier than the official release date. This is made possible through a simple trick that takes advantage of regional launch differences.",
+   "more": "Rockstar Games is utilizing a regional launch strategy for GTA 6, meaning some countries will get access before others. An exclusive trick within the Xbox ecosystem allows players to circumvent the standard release timing. While both articles mention the same tip for gaining early access, they emphasize different aspects of the strategy\u2014one focusing on the simplicity of the trick, while the other highlights the timing and implications of Rockstar's launch method.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "GTA 6\u00a0: comment y jouer d\u00e8s le 18 novembre \u00e0 midi, 12 heures avant tout le monde",
+     "title_en": "GTA 6: How to Play It on November 18th at Noon, Ahead of Everyone",
+     "url": "https://www.journaldugeek.com/2026/11/16/gta-6-comment-y-jouer-des-le-18-novembre-a-midi-12-heures-avant-tout-le-monde/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Numerama",
+     "title": "GTA 6\u00a0: l\u2019astuce pour y jouer d\u00e8s mercredi 18 novembre \u00e0 12h",
+     "title_en": "GTA 6: The Trick to Play It Starting Wednesday, November 18th at 12 PM",
+     "url": "https://www.numerama.com/pop-culture/2374917-gta-6-lastuce-pour-y-jouer-des-mercredi-18-novembre-a-12h.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-16",
+   "title": "Miss France 2027 Candidates Officially Revealed",
+   "sum": "The official portraits of the candidates for Miss France 2027 have been unveiled. The election is scheduled for December 12.",
+   "more": "The Miss France committee released the first official photos of all candidates on Monday, according to 20 Minutes. Le HuffPost added that there are 31 candidates competing for the title, seeking to succeed the reigning Miss France, Hinaupoko Dev\u00e8ze. Both outlets emphasize the anticipation surrounding the upcoming election, which will be broadcast on TF1.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "EN IMAGES Miss France 2027\u00a0: Les portraits officiels des candidates (enfin) d\u00e9voil\u00e9s",
+     "title_en": "IN IMAGES Miss France 2027: The official portraits of the candidates (finally) revealed.",
+     "url": "https://www.20minutes.fr/diaporama/diaporama-4263274-images-miss-france-2027-portraits-officiels-candidates-enfin-devoiles",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Miss France 2027\u00a0: d\u00e9couvrez les portraits officiels des 31\u00a0candidates au titre",
+     "title_en": "Miss France 2027: discover the official portraits of the 31 candidates for the title.",
+     "url": "https://www.huffingtonpost.fr/divertissement/article/miss-france-2027-decouvrez-les-portraits-officiels-des-31-candidates-au-titre_359340.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-16",
+   "title": "French Soldiers Deployed in Ukraine Amid Ongoing Conflict",
+   "sum": "French soldiers are operating on the ground in Ukraine, primarily tasked with training Ukrainian military personnel. Meanwhile, the Kremlin remains cautious regarding the situation in the Donbass region.",
+   "more": "The information about the French military presence has been confirmed by RFI and highlights France's involvement in supporting Ukraine amidst the conflict. Different outlets emphasize various aspects of this deployment; '20 Minutes' focuses on the broader implications for the war and Russian reactions, while 'Le HuffPost' zeroes in on the soldiers' training mission. The contrasting views on the Kremlin\u2019s stance also reflect differing narratives on the outcome of this military engagement.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Guerre en Ukraine\u00a0: Des soldats fran\u00e7ais d\u00e9ploy\u00e9s, le Kremlin temporise et Le Pen confirme ses intentions",
+     "title_en": "War in Ukraine: French Soldiers Deployed, Kremlin Hesitates and Le Pen Confirms Intentions",
+     "url": "https://www.20minutes.fr/monde/ukraine/4263289-20261116-guerre-ukraine-soldats-francais-deployes-kremlin-temporise-pen-confirme",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Guerre en Ukraine\u00a0: qui sont les soldats fran\u00e7ais qui op\u00e8rent sur le terrain",
+     "title_en": "War in Ukraine: Who Are the French Soldiers Operating on the Ground",
+     "url": "https://www.huffingtonpost.fr/international/article/guerre-en-ukraine-qui-sont-les-soldats-francais-qui-operent-sur-le-terrain_359343.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-16",
+   "title": "Estonia to Close Border Crossings with Russia Following Arson Attempt",
+   "sum": "The Estonian government will close border crossings with Russia after an attempted arson attack on a drone factory. Estonia accuses Russia of being behind the sabotage, while the Kremlin denies these allegations.",
+   "more": "The decision reflects rising tensions between Estonia and Russia, particularly concerning security in the region. Estonia's government emphasizes the need for safety and security measures in light of this incident. The varying responses from Estonia and Russia illustrate the ongoing conflict and mistrust between the two nations.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+     "title_en": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+     "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-16",
+   "title": "Xiaomi's 18 Pro Max Camera Tested with Impressive Results",
+   "sum": "The Xiaomi 18 Pro Max features a unique dual-screen design and has been tested for its camera capabilities. Initial impressions reveal strong performance in photography.",
+   "more": "The review highlights the innovative design and user-friendly camera settings, which contributed to a positive experience. Users can expect vibrant colors and good low-light performance from the camera. Other outlets may focus on different aspects such as the phone's dual-screen usability or comparison with competitors, but this review specifically emphasizes the camera's excellence.",
+   "coverage": [
+    {
+     "outlet": "CNET",
+     "title": "I Put Xiaomi\u2019s 18 Pro Max Camera to the Test and I Love the Results",
+     "title_en": "I Put Xiaomi\u2019s 18 Pro Max Camera to the Test and I Love the Results",
+     "url": "https://www.cnet.com/tech/mobile/i-put-xiaomis-18-pro-max-camera-to-the-test-and-love-the-results/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-16",
+   "title": "Mamdani Moves to Disband NYPD's Strategic Response Group",
+   "sum": "Mayor Zohran Mamdani has announced a plan to disband the NYPD's Strategic Response Group, which has faced accusations of police misconduct. A new civilian protest unit will be established in its place.",
+   "more": "The NYPD's Strategic Response Group has been criticized for its treatment of protesters, particularly during events like the Mott Haven protests. Reactions to Mamdani's decision are mixed, with some framing it as a much-needed reform while others, including NYPD unions, label it radical and potentially dangerous. The new civilian unit aims to focus on dialogue and de-escalation, contrasting with the tactics of the disbanded group. This shift is emblematic of Mamdani's broader vision for police reform in the city.",
+   "coverage": [
+    {
+     "outlet": "Gothamist",
+     "title": "Mamdani announces plan to disband NYPD\u2019s Strategic Response Group",
+     "title_en": "Mamdani announces plan to disband NYPD\u2019s Strategic Response Group.",
+     "url": "https://gothamist.com/news/mamdani-announces-plan-to-disband-nypds-strategic-response-group",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Mamdani\u2019s move to disband NYPD\u2019s Strategic Response Group blasted as radical and dangerous: \u2018Gaslighting New Yorkers\u2019",
+     "title_en": "Mamdani\u2019s move to disband NYPD\u2019s Strategic Response Group blasted as radical and dangerous: \u2018Gaslighting New Yorkers\u2019",
+     "url": "https://nypost.com/2026/11/16/us-news/mamdanis-move-to-disband-nypds-strategic-response-group-blasted-as-radical-and-dangerous-gaslighting-new-yorkers/",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Legalinsurrection.com",
+     "title": "Mamdani Disbands NYPD\u2019s Strategic Response Group, Creates Civilian Protest Unit",
+     "title_en": "Mamdani Disbands NYPD\u2019s Strategic Response Group, Creates Civilian Protest Unit.",
+     "url": "https://legalinsurrection.com/2026/11/mamdani-disbands-nypds-strategic-response-group-creates-civilian-protest-unit/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Wnd.com",
+     "title": "\u2018Prioritizes dialogue\u2019: Mamdani rolls out plan to disband NYPD\u2019s strategic response unit for counterterrorism",
+     "title_en": "'Prioritizes dialogue': Mamdani rolls out plan to disband NYPD\u2019s strategic response unit for counterterrorism.",
+     "url": "https://www.wnd.com/2026/11/prioritizes-dialogue-mamdani-rolls-plan-disband-nypds-strategic/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-16",
+   "title": "Police Evict Housing Camp in Barcelona",
+   "sum": "Barcelona's Mossos and Guardia Urbana evicted a housing camp that had been established since September 29. The campers reported that the eviction was carried out illegally and without mediation.",
+   "more": "The City Council cut off electricity to the camp, citing imminent risk as warned by the fire department. The eviction operation resulted in around 80 individuals being identified, with no formal complaints reported. Cleanup crews followed to remove tents and clear the area. Different outlets noted varying details about the legality of the eviction and the circumstances leading to it.",
+   "coverage": [
+    {
+     "outlet": "Eldiario.es",
+     "title": "Los Mossos y la Guardia Urbana desalojan la acampada por la vivienda de Barcelona",
+     "title_en": "Mossos and Guardia Urbana Evict Housing Camp in Barcelona",
+     "url": "https://www.eldiario.es/catalunya/mossos-guardia-urbana-desalojan-acampada-vivienda-barcelona_1_13666453.html",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Libertaddigital.com",
+     "title": "Los Mossos y la Guardia Urbana desalojan la acampada por la vivienda en la Plaza de Catalu\u00f1a",
+     "title_en": "Mossos and Guardia Urbana Evict Housing Camp in Plaza de Catalu\u00f1a",
+     "url": "https://www.libertaddigital.com/libremercado/2026-11-16/los-mossos-y-la-guardia-urbana-desalojan-la-acampada-por-la-vivienda-en-la-plaza-de-cataluna-7491885/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elconfidencial.com",
+     "title": "Los Mossos y la Guardia Urbana desalojan la acampada por la vivienda de Barcelona",
+     "title_en": "Mossos and Guardia Urbana Evict Housing Camp in Barcelona",
+     "url": "https://www.elconfidencial.com/espana/2026-11-16/desalojo-acampada-vivienda-barcelona-1tna-1tps_4465558/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-16",
+   "title": "Strike in Road Freight Transport Called for Christmas Eve Over Early Retirement Issues",
+   "sum": "A strike has been called by CCOO in the road freight transport sector for December 23 and 24. This action aims to protest the government's delay in approving early retirement coefficients for workers in the industry.",
+   "more": "The strike is set to take place during the busy Christmas shopping period, which could impact transport operations significantly. Different outlets emphasize the timing of the strike, noting its coincidence with the peak shopping days which may amplify its effects. While all reports focus on the government's delay regarding retirement issues, there is variation in the extent to which they highlight the urgency of this issue for workers. The overall sentiment reflects growing frustration within the transport sector regarding government inaction.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "CCOO convoca una huelga en el transporte de mercanc\u00edas por carretera en plena Nochebuena por la jubilaci\u00f3n anticipada",
+     "title_en": "CCOO Calls for a Strike in Road Freight Transport on Christmas Eve Due to Early Retirement",
+     "url": "https://www.abc.es/economia/ccoo-convoca-huelga-transporte-mercancias-carretera-plena-20261116131424-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Convocada una huelga en el transporte de mercanc\u00edas por carretera en Nochebuena por la jubilaci\u00f3n anticipada",
+     "title_en": "Strike Called in Road Freight Transport on Christmas Eve Due to Early Retirement Delay",
+     "url": "https://www.europapress.es/economia/transportes-00343/noticia-convocada-huelga-transporte-mercancias-carretera-nochebuena-jubilacion-anticipada-20261115153032.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Expansion.com",
+     "title": "Par\u00f3n del transporte de mercanc\u00edas por carretera en plena Nochebuena",
+     "title_en": "Pause in Road Freight Transport on Christmas Eve as CCOO Prepares Strike Over Early Retirement Delays",
+     "url": "https://www.expansion.com/economia/2026/11/15/paron-transporte-mercancias-carretera-plena-nochebuena.html",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-16",
+   "title": "2027 Grammy Nominations Announced",
+   "sum": "The full list of Grammy nominations for the 2027 ceremony has been released. Categories include Record of the Year, Song of the Year, and Best New Artist.",
+   "more": "Both Pitchfork and Dailymail.com reported on the announcement of the 2027 Grammy nominations. While Pitchfork emphasizes the nominated categories, Dailymail.com highlights the star-studded nature of the list. This reflects a slightly different focus on the nominations: one on the details of the categories and the other on the prominence of the artists involved.",
+   "coverage": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Grammy Nominations 2027: See the Full List Here",
+     "title_en": "Grammy Nominations 2027: See the Full List Here. Find out who\u2019s up for Record of the Year, Song of the Year, Best New Artist, and more",
+     "url": "https://pitchfork.com/story/grammy-nominations-2027-see-the-full-list-here/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Dailymail.com",
+     "title": "Grammy nominations 2027: See the full list of artists making the cut at music's biggest night",
+     "title_en": "Grammy nominations 2027: See the full list of artists making the cut at music's biggest night.",
+     "url": "https://www.dailymail.com/tvshowbiz/article-16296475/Grammy-nominations-2027-madonna-taylor-swift-artists-la.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-16",
+   "title": "Mary Peltola Close to Winning Alaska's Senate Seat",
+   "sum": "Mary Peltola is nearing a significant victory in her bid for Alaska's Senate seat, currently trailing by only about 20 votes. If successful, she would be the first Alaska native to serve in the Senate.",
+   "more": "This close race follows a notable 'blue wave' in Alaska, indicating a shift in voter sentiment. The phrase 'October surprise' suggests that unexpected developments may have influenced the election outcome. Different outlets may emphasize varying aspects of her candidacy or the historical significance of her potential win.",
+   "coverage": [
+    {
+     "outlet": "Jezebel",
+     "title": "Mary Peltola Is Now About 20 Votes Away from Turning Alaska\u2019s Senate Seat Blue",
+     "title_en": "Mary Peltola Is Now About 20 Votes Away from Turning Alaska\u2019s Senate Seat Blue",
+     "url": "https://www.jezebel.com/mary-peltola-winning-alaska-senate-seat-vote-margin-ranked-choice-dan-sullivan-first-native-woman-scandals",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
