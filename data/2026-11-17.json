@@ -1,0 +1,413 @@
+{
+ "date": "2026-11-17",
+ "updated": "Nov 18, 19:12 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-17",
+   "title": "Ex-Google Alumni Venture into Billion-Dollar Weapons Industry",
+   "sum": "Chad Steelberg and Andy Baynes, former employees of Google and Apple, are leveraging their tech backgrounds to create a profitable business in lethal munitions. The duo is applying their experience in software and design to a new market focused on weapons manufacturing.",
+   "more": "The article explores how Steelberg and Baynes plan to integrate artificial intelligence into their weapons business, showcasing a unique blend of technology and defense contracting. Their approach contrasts with traditional methods in the arms industry, emphasizing innovation and efficiency. While Wired focuses on the technological aspects and the implications of such a venture, other outlets may frame the story around ethical concerns regarding the commercialization of military technologies.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+     "title_en": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+     "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-17",
+   "title": "French CEO Remains Optimistic About AI Despite Cyber Attack",
+   "sum": "Cl\u00e9ment Delangue, CEO of Hugging Face, expresses optimism towards AI following a hacking incident involving OpenAI models. He believes that the event highlights the importance of ensuring AI remains accessible and not controlled by a select few.",
+   "more": "Delangue interprets the cyber attack as a critical reminder that the future of AI should be inclusive and democratized. He argues that allowing a small number of entities to control AI poses a significant risk. Delangue's perspective contrasts with more cautious viewpoints in the tech industry that emphasize the need for stricter regulation and oversight. His stance emphasizes trust in community-driven advancements over centralized control.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+     "title_en": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+     "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-17",
+   "title": "Celebrating WIRED's Class of 2026",
+   "sum": "WIRED honors its Class of 2026, reflecting on a tumultuous year. The Yearbook features notable individuals, inventions, and viral moments that have influenced the future.",
+   "more": "This inaugural WIRED Yearbook aims to encapsulate the essence of a challenging year while highlighting innovation and creativity. It serves as a tribute to the defining elements of the year, showing how these moments have shaped perspectives moving forward. Different outlets may emphasize various individuals or inventions based on their relevance or impact during the year.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Congratulations to WIRED\u2019s Class of 2026",
+     "title_en": "Congratulations to WIRED\u2019s Class of 2026",
+     "url": "https://www.wired.com/story/wired-yearbook-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-17",
+   "title": "Ms. Rachel Advocates for Children's Rights",
+   "sum": "Children's entertainer Ms. Rachel has focused on urging adults to support the welfare of children during her lessons this year. Her advocacy includes raising awareness about issues affecting children in various regions, such as detention centers and conflict zones.",
+   "more": "The article highlights Ms. Rachel's unique approach to addressing serious social issues while targeting an adult audience. It emphasizes her calls for action regarding the treatment of children in places like ICE detention centers and Gaza. Different outlets may frame her initiative either as a necessary social responsibility for adults or as a diversion from traditional children's programming, leading to varied audience reception.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults",
+     "title_en": "Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults.",
+     "url": "https://www.wired.com/story/wired-yearbook-2026-ms-rachel/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-17",
+   "title": "Celebrating WIRED's Class of 2026",
+   "sum": "WIRED honors its Class of 2026 by reflecting on the notable individuals, innovations, and viral moments of the past year. These elements are shaping the future and providing a sense of resilience.",
+   "more": "The inaugural WIRED Yearbook serves as a tribute to the contributions that have made the past year more tolerable and highlights their impact on future developments. This celebration encompasses a wide range of people and inventions, framing them as pivotal to current cultural and technological landscapes. The tone is both celebratory and reflective, emphasizing the significance of these moments in a rapidly changing world.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Congratulations to WIRED\u2019s Class of 2026",
+     "title_en": "Congratulations to WIRED\u2019s Class of 2026",
+     "url": "https://www.wired.com/story/wired-yearbook-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-17",
+   "title": "Argentina's Electoral Reform and Negotiations Ahead of PASO 2027",
+   "sum": "The Argentine government is working to advance an electoral reform that includes the suspension of primary elections. They currently have 31 out of the required 37 votes and are negotiating changes to the reform with provincial governors.",
+   "more": "The negotiations reflect the government's effort to consolidate support among various political entities, particularly with governors. Different outlets may focus on the implications of the proposed suspension of primaries, with some emphasizing potential impacts on voter representation and others detailing the political dynamics involved in the government's strategy. The outcome of these negotiations could significantly shape the electoral landscape leading up to PASO 2027.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "PASO 2027: qu\u00e9 se sabe de la reforma electoral y de los votos que negocia el Gobierno",
+     "title_en": "PASO 2027: What is known about the electoral reform and votes the government is negotiating.",
+     "url": "https://www.lanacion.com.ar/politica/paso-2027-que-se-sabe-de-la-reforma-electoral-y-de-los-votos-que-negocia-el-gobierno-nid17112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-17",
+   "title": "Proposed Rules Allow Removal of Failed Asylum Seekers Without Advance Notice",
+   "sum": "New regulations proposed by the Home Office would enable the removal of failed asylum seekers within a six-month timeframe without prior notification. This change has raised concerns about the treatment of individuals in the asylum process.",
+   "more": "The proposed rules aim to expedite the removal process for failed asylum seekers, eliminating the current five-day notice requirement. Critics argue that this could lead to increased vulnerability for individuals awaiting decisions on their claims. The BBC highlights the potential human rights implications of such a policy, while the broader implications for asylum seekers may vary based on the media outlet's focus on individual stories or systemic issues.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Failed asylum seekers face removal without five-day notice period",
+     "title_en": "Failed asylum seekers face removal without five-day notice period",
+     "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-17",
+   "title": "Vance to Decide on 2028 Presidential Run Next Year",
+   "sum": "The US vice-president indicated he plans to announce his decision regarding a 2028 presidential run sometime next year. He emphasized his commitment to whatever choice he makes.",
+   "more": "In his interview with Fox News, Vance mentioned the importance of his decision-making process and expressed a strong commitment to fully engage with the choice he ultimately makes. While the article does not provide insights into his potential platform or political direction, his remarks suggest he is considering his options seriously. The framing across various media might differ in focus, with some highlighting his readiness for the race and others concentrating on the implications of his decision for the broader political landscape.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+     "title_en": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-17",
+   "title": "Young People Share Job Market Struggles with BBC",
+   "sum": "A government-backed review is exploring ways to assist young people in accessing job opportunities. BBC News engages with young individuals to understand their perspectives on this issue.",
+   "more": "The article highlights the challenges faced by NEETs (Not in Education, Employment, or Training) as they express their doubts and concerns about entering the job market. Responses vary among youth, with some feeling optimistic about the proposed measures while others remain skeptical about their effectiveness. The framing across different outlets may focus on either the urgency of the situation or the potential solutions being proposed. Overall, the discourse emphasizes the need for supportive structures to aid young people in their transition into employment.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+     "title_en": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+     "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-17",
+   "title": "Japan Scrambles Jets Following Alleged Russian Airspace Incursion",
+   "sum": "Japan deployed fighter jets in response to an alleged incursion by Russian military aircraft into its airspace. Taiwan and South Korea also reacted to Russian military movements near their own airspaces.",
+   "more": "The actions taken by Japan reflect growing concerns over regional security amidst increasing military activities by Russia. Taiwan and South Korea's responses suggest a wider regional apprehension about airspace incursions. These developments may indicate heightened tensions in East Asia due to military posturing by Russia.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+     "title_en": "Japan sends up jets after alleged Russian incursion of its airspace",
+     "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-17",
+   "title": "UK Imposes Sanctions on Firms Linked to Israeli West Bank Settlements",
+   "sum": "The UK has sanctioned companies related to Israeli settlements in the West Bank. This action represents the first sanctions since the UK adopted a stricter stance on Israeli activities in the region.",
+   "more": "The sanctions target firms that are believed to support the expansion of these settlements, which are considered illegal under international law. This decision indicates a significant shift in the UK's foreign policy regarding Israel and Palestine. Different news outlets may emphasize the political implications of these sanctions differently, with some framing it as a necessary measure for international law compliance, while others might focus on the potential repercussions in UK-Israel relations.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "UK sanctions firms over Israeli West Bank settlements",
+     "title_en": "UK sanctions firms over Israeli West Bank settlements",
+     "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-17",
+   "title": "Pregnant Teacher Claims Assault by BNP Leader",
+   "sum": "A teacher from Netrokona has accused a leader of the BNP party of assaulting her while she is five months pregnant. She alleges that he kicked her in the abdomen during the incident.",
+   "more": "The incident has raised significant concerns regarding violence against women in political contexts. Reports suggest that the teacher is seeking justice and has called for accountability. Reaction from political circles has varied, with some condemning the alleged act, while others have downplayed its significance.",
+   "coverage": [
+    {
+     "outlet": "The Daily Star",
+     "title": "'I am five months pregnant': Netrokona teacher alleges BNP leader kicked her in abdomen",
+     "title_en": "I am five months pregnant: Netrokona teacher alleges BNP leader kicked her in abdomen",
+     "url": "https://www.thedailystar.net/news/news/i-am-five-months-pregnant-netrokona-teacher-alleges-bnp-leader-kicked-her-abdomen-4325436",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-17",
+   "title": "Student Movement Enters Serbia's New Parliament",
+   "sum": "The student movement known as the Student List has successfully gained seats in Serbia's new parliament. Their entry marks a significant moment as the parliament convenes for its first session.",
+   "more": "The election-winning student lawmakers were welcomed by hundreds of supporters at the parliament meeting. This event signifies a shift in political representation in Serbia, with a growing emphasis on youth involvement in governance. Various news outlets highlighted the enthusiasm of the young supporters, while also noting the challenges the student movement may face in addressing broader political issues.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Election-winning student movement enters Serbia\u2019s new parliament",
+     "title_en": "Election-winning student movement enters Serbia\u2019s new parliament",
+     "url": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-17",
+   "title": "Religious Ruling Sparks Concerns Over Political Violence in Israel",
+   "sum": "A recent religious ruling has revived memories of the assassination of Yitzhak Rabin in Israel. The ruling has intensified hostility towards Palestinian participation in the government, raising fears of potential far-right political violence.",
+   "more": "The article highlights how the renewed religious ruling resonates within the context of past political violence in Israel, particularly the assassination of Rabin. It underscores the growing tension surrounding Palestinian political involvement, suggesting that such hostility may provoke radical response from far-right factions. Different outlets may emphasize various aspects of this issue, with some focusing on the historical parallels, while others spotlight the immediate implications for political stability in Israel.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Religious ruling revives memories in Israel of Rabin assassination",
+     "title_en": "Religious ruling revives memories in Israel of Rabin assassination",
+     "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-17",
+   "title": "Challenges for Netanyahu's Leadership",
+   "sum": "Israeli Prime Minister Netanyahu faces significant challenges that could jeopardize his hold on power. Historical resilience may not suffice in the current political climate.",
+   "more": "As Netanyahu has previously navigated difficult situations to maintain his leadership, this time may present unique difficulties that he has not faced before. The article suggests that political dynamics are shifting, which could impact his ability to retain his position. Overall, the framing indicates skepticism about his chances of survival in the political arena.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Will Netanyahu lose this time?",
+     "title_en": "Will Netanyahu lose this time?",
+     "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-17",
+   "title": "Ex-Google Employees Seek to Build Weapons Business with AI Insights",
+   "sum": "Chad Steelberg and Andy Baynes, former employees at Google and Apple, are leveraging their experience in software and technology to create a billion-dollar business in lethal weapons. They are focusing on using AI to inform their business strategies.",
+   "more": "This venture represents a significant shift from their previous work in consumer technology to defense manufacturing. The article highlights the innovative methods they plan to employ, integrating artificial intelligence into the weapons industry. While Wired presents the narrative of tech experts moving into a new domain, other sources might emphasize the ethical implications of this shift, framing it as a controversial but necessary evolution in defense technology.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+     "title_en": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+     "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-17",
+   "title": "CEO of Hugging Face Remains Optimistic About AI After Cyber Attack",
+   "sum": "Cl\u00e9ment Delangue, the CEO of Hugging Face, expresses optimism about AI despite a recent cyber attack involving OpenAI models. He believes that humanity must ensure AI is not dominated by a select few.",
+   "more": "Delangue's perspective highlights a broader concern regarding the centralization of AI technology. The attack served as a wake-up call about the vulnerabilities associated with AI development and deployment. By advocating for open-source solutions, he emphasizes the importance of collective governance over AI tools. This framing contrasts with more cautious viewpoints that stress the need for stricter regulations and oversight in the AI sector.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+     "title_en": "Rogue Agents Hacked His Company. Why Is Cl\u00e9ment Delangue So Optimistic About AI?",
+     "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-17",
+   "title": "Celebrating the WIRED Class of 2026",
+   "sum": "WIRED highlights the notable individuals, inventions, and viral moments of the past year. This inaugural Yearbook aims to acknowledge those who contributed to navigating challenges and shaping the future.",
+   "more": "The focus on the year's crazy events shows an appreciation for resilience and innovation. WIRED\u2019s Yearbook serves not just as a retrospective but as a forecast for what is to come. Different outlets may emphasize various aspects of the year's events, but the overall sentiment remains one of appreciation for progress amidst chaos.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Congratulations to WIRED\u2019s Class of 2026",
+     "title_en": "Congratulations to WIRED\u2019s Class of 2026",
+     "url": "https://www.wired.com/story/wired-yearbook-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-17",
+   "title": "Kyiv Bridges Damaged in Russian Attack",
+   "sum": "Two significant bridges in Kyiv were reportedly struck in a Russian attack, as per statements from the mayor. This incident follows a significant drone offensive launched by Ukraine against Russia.",
+   "more": "The attacks on the bridges indicate an escalation in the ongoing conflict. Ukrainian officials have highlighted the drone attack as their largest to date, which may have provoked the Russian response. This context reflects the continuing tension and military actions on both sides as the war persists.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+     "title_en": "Two major Kyiv bridges hit in Russian attack, mayor says",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-17",
+   "title": "Protests Erupt in Philippines Ahead of Trump's Visit",
+   "sum": "Protests are escalating in the Philippines due to President Trump's upcoming visit and a planned artificial intelligence hub. Local residents express their dissatisfaction with the Trump administration's project.",
+   "more": "The protests are largely a response to the controversial AI hub, which has drawn criticism from various groups. While both Yahoo and CBS report on the protests, CBS emphasizes the AI hub as a focal point of discontent, while Yahoo frames it within the broader context of Trump's Asian tour and diplomatic meetings. This difference highlights varying perspectives on the issues at play surrounding Trump's visit.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Protests flare in Philippines over Trump's visit and planned AI hub",
+     "title_en": "Protests flare in Philippines over Trump's visit and planned AI hub.",
+     "url": "https://www.yahoo.com/news/politics/articles/leaders-protesters-greet-trump-philippines-103139607.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Protests against AI hub in Philippines flare ahead of Trump's visit",
+     "title_en": "Protests against AI hub in Philippines flare ahead of Trump's visit.",
+     "url": "https://www.cbsnews.com/news/protests-philippines-trump-visit-ai-hub/",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-17",
+   "title": "Mozambique Opposition Leader on Trial Over 2024 Protests",
+   "sum": "Mozambique's opposition leader Venancio Mondlane is standing trial for his alleged role in the deadly protests following the 2024 elections. He faces multiple charges, including instigating terrorism.",
+   "more": "Both Al Jazeera and BBC News report on the serious nature of the charges against Mondlane, emphasizing the death toll from the protests. However, Al Jazeera highlights the specific charge of instigating 'terrorism', while BBC News more generally references the unrest following the elections. The emphasis on Mondlane's leadership role and the consequences of the protests indicates a shared concern for the impact of political dissent in Mozambique.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Mozambique\u2019s opposition leader stands trial over deadly 2024 protests",
+     "title_en": "Mozambique\u2019s opposition leader stands trial over deadly 2024 protests.",
+     "url": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+     "title_en": "Mozambique opposition leader faces trial over deadly 2024 election unrest.",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-17",
+   "title": "Parodist Takes a Stand Against Lauren Boebert's Threat",
+   "sum": "Toby Morton, a parodist, received a threat letter from Rep. Lauren Boebert's office regarding his parody campaign website. The situation has come to a humorous conclusion for Morton.",
+   "more": "In 2021, Morton's parody website, TheLaurenBoebert.com, provoked a legally questionable reaction from Boebert's office, showcasing tensions between political figures and satire. Despite the initial threat, it seems Morton has emerged with the upper hand, highlighting the absurdity of the situation. Various outlets report on this incident, emphasizing the implications of such threats on freedom of expression and parody in political contexts.",
+   "coverage": [
+    {
+     "outlet": "Techdirt",
+     "title": "Parodist Threatened By Lauren Boebert Gets The Last Laugh",
+     "title_en": "Parodist Threatened By Lauren Boebert Gets The Last Laugh",
+     "url": "http://www.techdirt.com/2026/11/17/parodist-threatened-by-lauren-boebert-gets-the-last-laugh/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
