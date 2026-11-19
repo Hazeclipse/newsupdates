@@ -1,6 +1,6 @@
 {
  "date": "2026-11-17",
- "updated": "Nov 18, 19:12 UTC",
+ "updated": "Nov 19, 19:15 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -405,6 +405,224 @@
      "title_en": "Parodist Threatened By Lauren Boebert Gets The Last Laugh",
      "url": "http://www.techdirt.com/2026/11/17/parodist-threatened-by-lauren-boebert-gets-the-last-laugh/",
      "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-17",
+   "title": "Satya Nadella Embraces AGI Perspective",
+   "sum": "Microsoft CEO Satya Nadella expresses his belief in the significant impact of artificial general intelligence (AGI) on the economy and politics. He is enthusiastic about the transformative potential of AI technologies.",
+   "more": "Both articles underscore Nadella's perspective on AGI and its potential to reshape economic and political structures. The framing is consistent across sources, emphasizing his belief in the profound effects of AI. Nadella's use of the term 'AGI-pilled' suggests a strong conviction in the importance of AGI. There is no substantial difference in the reporting between the two outlets.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Satya Nadella says he\u2019s AGI-pilled now",
+     "title_en": "Satya Nadella says he\u2019s AGI-pilled now.",
+     "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Slashdot.org",
+     "title": "Satya Nadella Says He's AGI-Pilled Now",
+     "title_en": "Satya Nadella Says He's AGI-Pilled Now.",
+     "url": "https://slashdot.org/story/26/11/18/026229/satya-nadella-says-hes-agi-pilled-now",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-17",
+   "title": "Trump Arrives in Asia for Meetings with World Leaders",
+   "sum": "US President Donald Trump has arrived in Asia for discussions with Russian President Vladimir Putin and Chinese President Xi Jinping. He expressed openness to a potential one-on-one meeting with Putin.",
+   "more": "The arrival of Trump in China was marked by a special greeting from Xi Jinping on the tarmac, a reciprocal gesture that emphasizes the diplomatic relationship between the two leaders. NPR highlighted this moment as a significant honor and a continuation of the burgeoning relationship established during Xi's previous visit to the United States. The framing in both outlets focuses on the importance of the meetings with major world leaders, while NPR places greater emphasis on the personal diplomatic gestures exchanged between Trump and Xi.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+     "title_en": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+     "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+     "title_en": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-17",
+   "title": "Henry Nowak's Killer Seeks Appeal of Conviction",
+   "sum": "Vicrum Digwa, convicted for fatally stabbing Henry Nowak in Southampton in 2015, has applied to appeal his conviction. He is also requesting a review of his sentence.",
+   "more": "The case has attracted attention due to the violent nature of the crime and the circumstances surrounding the conviction. There has been some public debate regarding the fairness of the original trial and whether new evidence may warrant a reconsideration of the case. Different outlets emphasize various aspects of the appeal, such as the legal arguments being made and public reactions to the initial verdict.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Henry Nowak killer applies to appeal conviction",
+     "title_en": "Henry Nowak killer applies to appeal conviction",
+     "url": "https://www.bbc.co.uk/news/articles/cm93080xj8xgo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-17",
+   "title": "Investigation Reveals Escalating Misconduct by Metropolitan Police Detective",
+   "sum": "A BBC Panorama investigation has exposed the escalating misconduct of Metropolitan Police detective Warren Arter. The report highlights multiple missed opportunities by the police to intervene in his predatory behavior.",
+   "more": "The findings indicate a pattern of negligence within the Metropolitan Police regarding the actions of Detective Arter, suggesting systemic issues in handling allegations of misconduct. Various stakeholders have expressed alarm over the failure to act despite several warning signs. Critics argue that this case exemplifies a broader problem of accountability within law enforcement agencies.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Watch: How predatory Met detective's behaviour became increasingly extreme",
+     "title_en": "Watch: How predatory Met detective's behaviour became increasingly extreme.",
+     "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-17",
+   "title": "Free Subway Rides with DNI: Requirements and Activation Steps",
+   "sum": "Free travel for seniors residing in CABA is now available. This article outlines how to manage the pass and the requirements to qualify for the benefit.",
+   "more": "The article provides a step-by-step guide for seniors to activate their free subway rides using their DNI. It also details the specific conditions that must be met to receive this benefit. Other outlets may emphasize different aspects of the application process or the social implications of this initiative.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Subte gratis con el DNI: los requisitos del nuevo beneficio y c\u00f3mo activarlo, paso a paso",
+     "title_en": "Free Subway Rides with DNI: Requirements and Activation Steps",
+     "url": "https://www.lanacion.com.ar/sociedad/subte-gratis-con-el-dni-los-requisitos-del-nuevo-beneficio-y-como-activarlo-paso-a-paso-nid17112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-17",
+   "title": "Sociologist and Professor Christian Ferrer Passes Away at 66",
+   "sum": "Christian Ferrer, a notable sociologist, professor, and essayist, has died at the age of 66. His passing has caused shockwaves in the cultural community and has led to an outpouring of grief on social media.",
+   "more": "Ferrer\u2019s death is mourned by many, particularly his students, who took to social media to express their sorrow and share tributes. The cultural impact of Ferrer's work is evident in the widespread reactions, highlighting his influence in academic and social circles. Different outlets may emphasize various aspects of his legacy, but all acknowledge the significance of his contributions to sociology and education.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "A los 66 a\u00f1os, muri\u00f3 el soci\u00f3logo, profesor y ensayista Christian Ferrer",
+     "title_en": "At 66, Sociologist, Professor and Essayist Christian Ferrer has Died",
+     "url": "https://www.lanacion.com.ar/cultura/a-los-66-anos-murio-el-sociologo-profesor-y-ensayista-christian-ferrer-nid17112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-17",
+   "title": "Anses Calendar: When Will AUH Payments Be Made in November 2026 for DNI Ending in 4",
+   "sum": "This article provides information on the payment schedule for the Universal Child Allowance (AUH) for beneficiaries whose IDs end in 4. It specifically outlines the payment date for November 2026.",
+   "more": "The article focuses on the specific payment date for those with DNI numbers ending in the number 4. It aims to help beneficiaries plan their finances according to the Anses calendar. Different outlets may highlight similar payment schedules but vary in the level of detail regarding other DNI endings or additional allowances.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Calendario Anses: cu\u00e1ndo cobro la AUH en noviembre 2026 si mi DNI termina en 4",
+     "title_en": "Anses Calendar: When Will AUH Payments Be Made in November 2026 for DNI Ending in 4",
+     "url": "https://www.lanacion.com.ar/economia/calendario-anses-cuando-cobro-la-auh-en-noviembre-2026-si-mi-dni-termina-en-4-nid17112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-17",
+   "title": "Millions of Dollars at Stake: Provinces Ranked for Data Center Investments",
+   "sum": "Several provinces are assessed for their potential to attract investments in data centers. Installed capacity could double in five years with investments reaching up to $80 million in infrastructure.",
+   "more": "The article from La Nacion highlights the provinces that are best positioned to receive funding for data center development. It notes a significant potential for capacity growth, which is expected to attract considerable financial input. Different outlets may emphasize varying aspects of this potential, such as specific provinces that stand out or the expected impact of these investments on local economies.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Millones de d\u00f3lares en juego: cu\u00e1les son las provincias mejor rankeadas para recibir inversiones en data centers",
+     "title_en": "Millions of Dollars at Stake: Provinces Ranked for Data Center Investments",
+     "url": "https://www.lanacion.com.ar/economia/millones-de-dolares-en-juego-cuales-son-las-provincias-mejor-rankeadas-para-recibir-inversiones-en-nid17112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-17",
+   "title": "Israel Elects Matan Kahana as New Speaker of Parliament",
+   "sum": "Matan Kahana, an ally of Gadi Eisenkot, has been elected as the new speaker of the Israeli parliament. Eisenkot's faction has committed to reversing certain divisive domestic policies implemented by Netanyahu's government.",
+   "more": "The election of Kahana signals a shift in parliamentary leadership that may influence future legislative directions. Eisenkot\u2019s bloc appears to be positioning itself against the current administration's agenda. Some coverage emphasizes the potential for significant policy changes, while others focus on the implications for Netanyahu's coalition.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+     "title_en": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+     "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-17",
+   "title": "Haitians Protest and Celebrate El Salvador's Anti-Gang Troop Deployment",
+   "sum": "Haitians have organized protests both in support of and in celebration of El Salvador's military deployment against gangs. El Salvador's security minister stated that the troops will leave after kidnapped technicians are rescued.",
+   "more": "The demonstrations in Haiti reflect a complex sentiment toward El Salvador's actions, with some rallying in celebration of the military presence while others protest. While one article emphasizes the support for El Salvador's decision, the other focuses on the celebratory aspect of the troop deployment. This indicates differing perspectives on external interventions in local security issues.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment",
+     "title_en": "Haitians protest in support of El Salvador\u2019s anti-gang troop deployment.",
+     "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-17",
+   "title": "Protests Erupt in Southeast Asia Against Trump's ASEAN Summit Visit",
+   "sum": "Protests against U.S. President Donald Trump's visit for the ASEAN summit have emerged in Vietnam and the Philippines. Demonstrators in both countries have expressed their discontent through various actions.",
+   "more": "In Vietnam, protesters burned effigies of Trump and displayed signs denouncing imperialism. Meanwhile, in the Philippines, authorities reported that over 200 individuals were detained during protests linked to Trump's visit and the U.S. initiative known as Pax Silica. The protests in these two nations reflect a broader discontent with U.S. foreign policy in the region, though the focus and intensity of the protests vary. While Vietnamese activists emphasize anti-imperialist sentiments, Filipino demonstrations appear more focused on immediate police responses and detentions.",
+   "coverage": [
+    {
+     "outlet": "El Financiero",
+     "title": "\u2018\u00a1Vete a casa!\u2019: Protestan en Vietnam contra visita de Trump por cumbre de la ASEAN",
+     "title_en": "'Go Home!': Protesters in Vietnam Against Trump's Visit for ASEAN Summit.",
+     "url": "https://www.elfinanciero.com.mx/mundo/2026/11/17/miles-de-personas-protestan-en-manila-contra-la-visita-de-trump-para-la-cumbre-de-asean-vete-a-casa/",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Detenidas en Filipinas 200 personas durante las protestas por la visita de Trump con motivo de la cumbre de la ASEAN",
+     "title_en": "200 People Detained in the Philippines During Protests Against Trump's Visit for ASEAN Summit.",
+     "url": "https://www.europapress.es/internacional/noticia-detenidas-filipinas-200-personas-protestas-visita-trump-motivo-cumbre-asean-20261117124339.html",
+     "bias": "Center",
      "src": "ai"
     }
    ]

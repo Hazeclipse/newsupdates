@@ -1,0 +1,429 @@
+{
+ "date": "2026-11-18",
+ "updated": "Nov 19, 19:15 UTC",
+ "stories": [
+  {
+   "cat": "crime",
+   "date": "2026-11-18",
+   "title": "Samsung Launches One UI 9.5 Beta for Galaxy S26",
+   "sum": "Samsung has released the One UI 9.5 beta for the Galaxy S26 lineup. This new beta includes various features and improvements.",
+   "more": "The release of One UI 9.5 beta is available to eligible Galaxy S26 device owners in the US, who can access it through the Samsung Members app. Some highlighted features include App Lock and Enhanced Pro modes. While Android Central focuses on the new features, Droid Life emphasizes the accessibility and compatibility of the beta version with Android 17. Both outlets agree on the significance of the launch for Galaxy S26 users.",
+   "coverage": [
+    {
+     "outlet": "Android Central",
+     "title": "Samsung One UI 9.5 beta released for Galaxy S26: Here's what's new",
+     "title_en": "Samsung One UI 9.5 beta released for Galaxy S26: Here's what's new.",
+     "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-one-ui-9-5-beta-released-new",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Droid Life",
+     "title": "Samsung Opens One UI 9.5 Beta for Galaxy S26 Lineup",
+     "title_en": "Samsung Opens One UI 9.5 Beta for Galaxy S26 Lineup.",
+     "url": "https://www.droid-life.com/2026/11/18/samsung-one-ui-9-5-beta-galaxy-s26-lineup/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-18",
+   "title": "Trump Arrives in China for Meetings with Xi and Putin",
+   "sum": "President Trump has arrived in China, where he is set to meet with Chinese President Xi Jinping and Russian President Vladimir Putin. Xi honored Trump with a greeting on the tarmac upon his arrival.",
+   "more": "Both NPR and NBC News emphasize the significance of the meetings scheduled between Trump and the leaders of China and Russia. NPR highlights the mutual recognition of protocols between Trump and Xi, while NBC focuses on the broader context of the Asia-Pacific economies gathering in Shenzhen. The framing by NPR leans towards the ceremonial aspects of the arrival, while NBC underscores the geopolitical stakes involved in the upcoming discussions.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+     "title_en": "Trump lands in China with key meetings with Xi and Putin on the agenda.",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Trump heads to Asia ahead of high-stakes meeting with Xi and Putin",
+     "title_en": "Trump heads to Asia ahead of high-stakes meeting with Xi and Putin.",
+     "url": "https://www.nbcnews.com/world/asia/trump-heads-asia-meeting-xi-putin-china-russia-rcna608953",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-18",
+   "title": "Hakeem Jeffries Nominated for Speaker of the House",
+   "sum": "Democrats have officially nominated Hakeem Jeffries for speaker of the House, potentially making him the first Black lawmaker to hold the position. His nomination has been overwhelmingly supported by House Democrats.",
+   "more": "Both NPR and NBC News report on Hakeem Jeffries' nomination for speaker of the House, highlighting his historic candidacy if elected. NPR emphasizes the significance of the support he received from House Democrats, while NBC News focuses on the timeline for his potential election coinciding with the start of the new Congress in January. The framing in both articles underscores the importance of this moment in U.S. history, particularly with regard to representation.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+     "title_en": "Democrats formally nominate Hakeem Jeffries for speaker of the House.",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker",
+     "title_en": "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker.",
+     "url": "https://www.nbcnews.com/politics/congress/democrats-formally-nominate-rep-hakeem-jeffries-paving-way-first-black-rcna609619",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-18",
+   "title": "House Democrat Urges Trump Allies to Preserve Records Amid Investigations",
+   "sum": "Democratic Rep. Robert Garcia, set to chair the House Oversight Committee, has advised Trump associates to save their records in light of forthcoming investigations. Thirteen individuals, including key figures related to Donald Trump, received these warnings.",
+   "more": "Garcia's warning highlights the seriousness with which the House Oversight Committee intends to pursue its investigations. The letters have been sent to notable allies of Trump, indicating a focused approach on prominent figures within his circle. While NBC reports on a dozen recipients, NPR specifically identifies thirteen, suggesting a slight discrepancy in the count. Both outlets emphasize the proactive stance taken by the Democratic chair, underscoring the implications of ongoing inquiries.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "House Democrat warns a dozen Trump allies to save their records, calling it \u2018just the beginning\u2019",
+     "title_en": "House Democrat warns a dozen Trump allies to save their records, calling it \u2018just the beginning\u2019",
+     "url": "https://www.nbcnews.com/politics/congress/democrat-investigations-warn-trump-allies-vance-donald-jr-eric-rcna609904",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NPR",
+     "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+     "title_en": "House Democrat warns 13 Trump allies to save their records for upcoming investigations",
+     "url": "https://www.npr.org/2026/11/18/g-s1-154147/robert-garcia-house-democrats-investigations-trump-administration",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-18",
+   "title": "Rubio Clarifies U.S. Outages Not Due to Malign Actor",
+   "sum": "Secretary of State Marco Rubio stated that there is 'zero' information suggesting that recent U.S. outages are caused by a malicious entity. He made these remarks while traveling with President Trump ahead of important meetings with global leaders.",
+   "more": "Rubio's comments aimed to reassure the public amidst concerns about the stability of U.S. systems. The discussions with Chinese President Xi Jinping and Russian President Vladimir Putin highlight the geopolitical context in which these statements were made. Different outlets may frame Rubio's remarks either as a reassurance or as an indication of existing concerns about cybersecurity threats. However, the central emphasis remains on dispelling fears regarding the cause of outages.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
+     "title_en": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-18",
+   "title": "Morning News Brief",
+   "sum": "President Trump is in China for meetings with the country's leader and Russia's Putin. Additionally, Nvidia is holding its first earnings call since the resignation of its CEO amid growing concerns over tech outages nationwide.",
+   "more": "The news focuses on significant international meetings involving President Trump, highlighting the geopolitical context of the interactions between the U.S., China, and Russia. The economic aspect is also notable with Nvidia's situation following its CEO's departure, which may impact investor confidence. Outages in technology services have raised alarms across the country, suggesting a broader concern in the tech landscape. Various outlets may emphasize different aspects, such as the political implications or the economic fallout from the tech issues.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Morning news brief",
+     "title_en": "Morning news brief.",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6042284/morning-news-brief",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-18",
+   "title": "Major Review into Youth Inactivity Makes Headlines",
+   "sum": "A significant review into youth inactivity is drawing attention in various publications. There are discussions about potential implications for those over 25 years old.",
+   "more": "Different outlets are focusing on various aspects of the review, with some highlighting the impact on young adults while others emphasize broader societal issues. The phrase 'Clean for Colleen' appears to suggest personal lifestyles being discussed in relation to these reviews. Overall, the media seems to indicate a growing concern about youth engagement and activity levels.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "The Papers: 'Over-25s next in line' and 'Clean for Colleen'",
+     "title_en": "'Over-25s next in line'",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2ekyd43j5o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-18",
+   "title": "SFR Launches New Box 10 with Wi-Fi 7 for 36.99 Euros per Month",
+   "sum": "SFR has introduced its new Box 10 on November 17, 2026, which replaces the Box 8 in the SFR Fibre Power offer priced at 36.99 euros per month. The new box features Wi-Fi 7 and other enhancements.",
+   "more": "The Box 10 maintains a 2 Gbit/s fiber limit and offers dual-band Wi-Fi capabilities. This launch occurs just over a year after SFR's release of the premium Box 10+ model. While both articles highlight the new features, Journal du geek emphasizes the price point, while Frandroid focuses on the technological specifications.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "SFR casse les codes\u00a0: le Wi-Fi 7 \u00e0 moins de 37\u00a0\u20ac par mois avec la nouvelle Box 10\u00a0!",
+     "title_en": "SFR Breaks the Codes: Wi-Fi 7 for Less than 37 Euros per Month with the New Box 10!",
+     "url": "https://www.journaldugeek.com/2026/11/18/sfr-casse-les-codes-le-wi-fi-7-a-moins-de-37-e-par-mois-avec-la-nouvelle-box-10/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Frandroid",
+     "title": "Braille, e-ink et Wi-Fi 7 : SFR d\u00e9voile sa nouvelle Box 10",
+     "title_en": "Braille, E-Ink, and Wi-Fi 7: SFR Unveils Its New Box 10",
+     "url": "https://www.frandroid.com/marques/3326253_braille-e-ink-et-wi-fi-7-sfr-devoile-sa-nouvelle-box-10",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-18",
+   "title": "Parents Sentenced for the Death and Abuse of Four-Year-Old Girl in France",
+   "sum": "Inass Touloub's parents have been sentenced to prison for the torture and murder of their daughter in 1987. The child's remains were discovered alongside a road, and her identity was not confirmed until 2018.",
+   "more": "The case has garnered attention due to the prolonged period before Inass's identity was revealed. The sentencing highlights issues related to child protection and justice in historical abuse cases. Different outlets may focus on the emotional impact of the sentencing on the victim's surviving family, while others may emphasize the investigative challenges faced by authorities over the decades.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+     "title_en": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+     "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-18",
+   "title": "Man Charged with Destroying $60 Million U.S. Military Plane in Ireland",
+   "sum": "A man is accused of using an axe to destroy a U.S. military plane, rendering it inoperable. Authorities have charged him with the destruction of government property.",
+   "more": "Daithi O'Corrain, 48, allegedly breached security at Shannon Airport and was charged with the destruction of a U.S. government asset connected to the incident. While CBS News focuses on the legal aspects of the charges, The Daily Caller highlights O'Corrain's identity as a 'peace activist' and mentions the use of chemicals in the incident. This framing suggests a political motivation behind the act, contrasting with the straightforward reporting by Yahoo Entertainment.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Man with axe accused of destroying $60 million U.S. military plane in Ireland",
+     "title_en": "Man with axe accused of destroying $60 million U.S. military plane in Ireland.",
+     "url": "https://uk.news.yahoo.com/man-accused-destroying-us-military-000615511.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "Man with ax destroys $60M U.S. military plane, prosecutors say",
+     "title_en": "Man with ax destroys $60M U.S. military plane, prosecutors say.",
+     "url": "https://www.cbsnews.com/news/us-military-plane-irish-airport/",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "The Daily Caller",
+     "title": "\u2018Peace Activist\u2019 Allegedly Hacks Apart $60 Million American Military Plane In Ireland",
+     "title_en": "'Peace Activist' Allegedly Hacks Apart $60 Million American Military Plane In Ireland.",
+     "url": "https://dailycaller.com/2026/11/18/ireland-daithi-ocorrain-doj-military-aircraft/",
+     "bias": "Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-18",
+   "title": "United States Acknowledges Significant Errors in Translation for Fergie Chambers Extradition",
+   "sum": "The U.S. has admitted to substantial errors in the translation of documents related to the extradition request for pro-Palestinian activist Fergie Chambers. The defense claims that these translation errors introduced terms that portrayed the activist as violent.",
+   "more": "The U.S. Department of Justice attributed the translation errors to a private company it subcontracted for this work, stating that there was no bad faith involved. However, the mistranslation exacerbated the allegations against Chambers and was utilized by the prosecution to support their case for extradition. The framing of this issue varies between outlets, with some placing more emphasis on the accountability of the subcontractor, while others focus on the implications of the errors for Chambers' case.",
+   "coverage": [
+    {
+     "outlet": "EL PA\u00cdS",
+     "title": "Estados Unidos admite errores \u201csustanciales\u201d en la traducci\u00f3n de la documentaci\u00f3n para reclamar al millonario propalestino Chambers",
+     "title_en": "United States admits 'substantial' errors in translation of documentation to request extradition of pro-Palestinian Chambers.",
+     "url": "https://elpais.com/espana/2026-11-18/estados-unidos-admite-errores-sustanciales-en-la-traduccion-de-la-documentacion-para-reclamar-al-millonario-propalestino-chambers.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Eldiario.es",
+     "title": "EEUU reconoce \"errores sustanciales\" en la traducci\u00f3n de documentos clave para pedir la extradici\u00f3n de Fergie Chambers",
+     "title_en": "US acknowledges 'substantial errors' in key document translations for extradition of Fergie Chambers.",
+     "url": "https://www.eldiario.es/politica/eeuu-reconoce-errores-sustanciales-traduccion-documentos-clave-pedir-extradicion-fergie-chambers_1_13672796.html",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-18",
+   "title": "Mary Peltola's Victory in Alaska's US Senate Election",
+   "sum": "Democrat Mary Peltola won the US Senate seat in Alaska, defeating Republican incumbent Dan Sullivan. This victory increases the Democrats' Senate seats to 56, providing a strategic advantage ahead of the 2028 elections.",
+   "more": "Peltola's campaign victory was marked by a margin of 50 percent of first-place votes against Sullivan's 46 percent. Her win is seen as a significant political comeback and comes despite allegations regarding campaign tactics involving candidate recruitment. While outlets like CBC News highlighted the controversy over the recruitment, other sources such as Al Jazeera focused on the broader implications for the Democratic Party. Overall, Peltola's success is a boost for Democrats in a state that has leaned Republican in the past.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Why Democrat Mary Peltola\u2019s US Senate win in Alaska matters",
+     "title_en": "Why Democrat Mary Peltola\u2019s US Senate win in Alaska matters",
+     "url": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "CBC News",
+     "title": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
+     "title_en": "Mary Peltola wins U.S. Senate seat in Alaska for Democrats",
+     "url": "https://www.cbc.ca/news/world/democrat-peltola-wins-alaska-senate-seat-9.7426095",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNA",
+     "title": "Democrat Mary Peltola flips Alaska Senate seat",
+     "title_en": "Democrat Mary Peltola flips Alaska Senate seat",
+     "url": "https://www.channelnewsasia.com/world/us-midterms-mary-peltola-alaska-win-senate-majority-6561306",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Newser",
+     "title": "Democrat Mary Peltola Flips US Senate Seat in Alaska",
+     "title_en": "Democrat Mary Peltola Flips US Senate Seat in Alaska",
+     "url": "https://www.newser.com/story/400216/democrat-mary-peltola-flips-us-senate-seat-in-alaska.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNBC",
+     "title": "Democrat Mary Peltola wins Alaska Senate election",
+     "title_en": "Democrat Mary Peltola wins Alaska Senate election",
+     "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-18",
+   "title": "Mary Peltola Wins Alaska Senate Race",
+   "sum": "Democrat Mary Peltola secured a victory in the Alaska US Senate race, defeating incumbent Republican Dan Sullivan. Her win contributed to a Democratic majority in the Senate.",
+   "more": "Peltola's win was notable as it followed weeks after the midterm elections, marking a significant shift in the political landscape. Different outlets highlight various aspects of the race, with some framing it as a pivotal moment for Democrats, given their overall success in flipping several GOP-held seats. Other reports emphasize the controversy around the votes siphoned by Sullivan, suggesting it played a critical role in the outcome. The context of the race is underscored by the broader implications for party control in the Senate.",
+   "coverage": [
+    {
+     "outlet": "Thegatewaypundit.com",
+     "title": "BREAKING: Democrat Mary Peltola Wins Alaska Senate Race After Decoy Dan Sullivan Siphons Thousands of Votes",
+     "title_en": "BREAKING: Democrat Mary Peltola Wins Alaska Senate Race After Decoy Dan Sullivan Siphons Thousands of Votes",
+     "url": "https://www.thegatewaypundit.com/2026/11/democrat-mary-peltola-wins-alaska-senate-race-after/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Biztoc.com",
+     "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
+     "title_en": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
+     "url": "https://biztoc.com/x/a11240b3eeaf0434",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+     "title_en": "Democrat Mary Peltola flips Alaska Senate seat, defeating GOP Sen. Dan Sullivan",
+     "url": "https://www.nbcnews.com/politics/2026-election/mary-peltola-democrat-wins-alaska-senate-dan-sullivan-gop-rcna603307",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-18",
+   "title": "Hakeem Jeffries Nominated as First Black U.S. House Speaker",
+   "sum": "Hakeem Jeffries has been nominated by Democrats to be the speaker of the U.S. House of Representatives, making him the first Black American to potentially hold this position. This nomination follows an internal vote among Democratic members.",
+   "more": "Both articles highlight Hakeem Jeffries' historic nomination as the first Black lawmaker to lead the U.S. House of Representatives. CBC News emphasizes the skepticism he faced, whereas The Irish Times focuses on his role as a New York representative and the significance of his leadership. There is a shared tone of anticipation regarding his potential leadership role in Congress, reflecting the importance of diversity in political representation.",
+   "coverage": [
+    {
+     "outlet": "CBC News",
+     "title": "Hakeem Jeffries poised to become 1st Black U.S. House Speaker, after internal vote by Democrats",
+     "title_en": "Hakeem Jeffries poised to become 1st Black U.S. House Speaker, after internal vote by Democrats",
+     "url": "https://www.cbc.ca/news/world/us-democrats-house-leader-jeffries-9.7426505",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Irish Times",
+     "title": "Hakeem Jeffries nominated as US House speaker by Democrats",
+     "title_en": "Hakeem Jeffries nominated as US House speaker by Democrats",
+     "url": "https://www.irishtimes.com/world/us/2026/11/18/hakeem-jeffries-nominated-as-us-house-speaker-by-democrats/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-18",
+   "title": "Democrats Expand Senate Majority with Mary Peltola's Victory in Alaska",
+   "sum": "Democrat Mary Peltola has won the United States Senate race in Alaska, defeating Republican incumbent Dan Sullivan. This victory increases the Democratic majority in the Senate to 56 seats.",
+   "more": "Peltola's win concludes the final unresolved Senate race from the 2026 midterm elections. She secured 50.1% of the vote, showcasing a significant shift in the political landscape of Alaska. Reports highlight her achievement against a backdrop of a competitive election cycle, with varied implications for the Democratic Party's strategy moving forward.",
+   "coverage": [
+    {
+     "outlet": "The Punch",
+     "title": "Democrats secure 56-seat Senate majority as Peltola wins Alaska",
+     "title_en": "Democrats secure 56-seat Senate majority as Peltola wins Alaska.",
+     "url": "https://punchng.com/democrats-secure-56-seat-senate-majority-as-peltola-wins-alaska/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "US Democrats flip Alaska Senate seat as Mary Peltola wins race",
+     "title_en": "US Democrats flip Alaska Senate seat as Mary Peltola wins race.",
+     "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-18",
+   "title": "Democrats Achieve Significant Gains in US Senate Elections",
+   "sum": "The Democrats have made substantial gains in the US Senate, flipping nine seats, which marks their largest midterm gain in nearly seventy years. Mary Peltola's victory in Alaska is a key highlight of this election cycle.",
+   "more": "The Times of India emphasizes the historic nature of the Democrats' accomplishment, indicating a significant shift in political power. In contrast, Haaretz focuses on the implications of Peltola's win for the party's Senate majority and hints at potential gridlock with President Donald Trump. Both outlets agree on the magnitude of the win but frame it differently in terms of future political dynamics.",
+   "coverage": [
+    {
+     "outlet": "The Times of India",
+     "title": "Democrats flip 9 US senate seats, marking biggest midterm gain in nearly 70 years",
+     "title_en": "Democrats flip 9 US senate seats, marking biggest midterm gain in nearly 70 years",
+     "url": "https://timesofindia.indiatimes.com/world/us/democrats-flip-9-us-senate-seats-marking-biggest-midterm-gain-in-nearly-70-years/articleshow/135948901.cms",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "U.S. Democrats flip Alaska Senate seat, winning a 56-seat majority",
+     "title_en": "U.S. Democrats flip Alaska Senate seat, winning a 56-seat majority",
+     "url": "https://www.haaretz.com/us-news/2026-11-18/ty-article/u-s-democrats-flip-alaska-senate-seat-winning-a-56-seat-majority/000001a1-ed73-d9ff-a7b5-fdffe27b0000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
