@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "updated": "Nov 19, 19:15 UTC",
+ "updated": "Nov 20, 18:56 UTC",
  "stories": [
   {
    "cat": "crime",
@@ -421,6 +421,209 @@
      "title_en": "U.S. Democrats flip Alaska Senate seat, winning a 56-seat majority",
      "url": "https://www.haaretz.com/us-news/2026-11-18/ty-article/u-s-democrats-flip-alaska-senate-seat-winning-a-56-seat-majority/000001a1-ed73-d9ff-a7b5-fdffe27b0000",
      "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-18",
+   "title": "Cambridge Dictionary Chooses 'Human' as Word of the Year",
+   "sum": "The Cambridge Dictionary has selected 'human' as its 2026 Word of the Year in response to rising concerns regarding artificial intelligence. This choice underscores the need to clarify distinctions between human and AI-generated content.",
+   "more": "Colin McIntosh, the dictionary's editor, noted that artificial intelligence is reshaping conversations about humanity. The selection aims to highlight the importance of identifying human contributions amid the increasing presence of AI. Different outlets emphasize the ethical implications of AI's impact on human identity, illustrating varying perspectives on the societal implications.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "'Human' is Cambridge Dictionary Word of the Year",
+     "title_en": "'Human' is Cambridge Dictionary Word of the Year",
+     "url": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Slashdot.org",
+     "title": "Cambridge Dictionary Names 'Human' Its 2026 Word of the Year",
+     "title_en": "Cambridge Dictionary Names 'Human' Its 2026 Word of the Year",
+     "url": "https://tech.slashdot.org/story/26/11/18/1916223/cambridge-dictionary-names-human-its-2026-word-of-the-year",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-18",
+   "title": "Trump's China Trip Unlikely to Yield Progress on AI",
+   "sum": "Officials believe that Trump's upcoming visit to China will not result in advancements in artificial intelligence. The situation has been complicated by recent issues surrounding Nvidia.",
+   "more": "The fallout from the Nvidia scandal has created significant challenges for AI negotiations, according to officials involved. Despite hopes for fruitful discussions, many insiders express skepticism regarding any positive outcomes. The differing viewpoints among officials suggest a lack of confidence in the negotiations moving forward.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Even His Own Officials Don\u2019t Think Trump\u2019s China Trip Will Lead to Progress on AI",
+     "title_en": "Even His Own Officials Don\u2019t Think Trump\u2019s China Trip Will Lead to Progress on AI",
+     "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-18",
+   "title": "Serious Vulnerabilities Exposed Millions of Accounts in AI Debt Collection Service",
+   "sum": "CreditNirvana faced significant security issues that compromised millions of accounts. Vulnerabilities in the platform could have led to unauthorized access to sensitive information.",
+   "more": "The exposure of 6.6 million accounts and 315,000 call recordings highlights the increasing risk of data breaches in AI-driven services. Wired emphasizes the seriousness of these vulnerabilities, pointing out the detailed sensitive information that could be accessed. Other outlets may focus on the broader implications for data security in technology services, but Wired's framing stresses the immediate consequences for affected individuals.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+     "title_en": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+     "url": "https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-18",
+   "title": "CRA Meets with Iraeta to Discuss INTA Position and Visec Platform",
+   "sum": "The CRA held a meeting with Iraeta to discuss their demand for a position within INTA and voiced concerns regarding the Visec platform. Both issues were central to the agenda of the meeting with officials.",
+   "more": "The outcome of the meeting reflects the CRA's ongoing efforts to secure representation in INTA, emphasizing the importance of stakeholder engagement in agricultural policy. The focus on the Visec platform indicates broader concerns within the agricultural community about regulatory frameworks. Different outlets may emphasize the significance of the CRA's advocacy efforts, while others might highlight the response from officials regarding these concerns.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Reuni\u00f3n: CRA recibi\u00f3 a Iraeta, reclam\u00f3 por un lugar en el INTA y apunt\u00f3 sobre la plataforma Visec",
+     "title_en": "Meeting: CRA Met with Iraeta, Demanded a Place in INTA and Pointed at the Visec Platform",
+     "url": "https://www.lanacion.com.ar/economia/campo/reunion-cra-recibio-a-iraeta-reclamo-por-un-lugar-en-el-inta-y-apunto-sobre-la-plataforma-visec-nid18112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-18",
+   "title": "The Future of the 3pm Football Blackout: Is It Still Needed?",
+   "sum": "The 3pm football blackout, which has been in place for 60 years, is being questioned for its relevance in 2026. Discussions are ongoing about whether this rule should be updated or maintained.",
+   "more": "The BBC article examines the potential changes to the football blackout policy and the arguments for both its continuation and repeal. Some believe the rule is outdated in the current media landscape, while others argue it protects live match attendance. The debate reflects broader conversations about sports broadcasting rights and viewer access. Different media outlets may emphasize varying aspects of the blackout's impact on fans and clubs.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "The 3pm football blackout: outdated or still relevant in 2026?",
+     "title_en": "The 3pm football blackout: outdated or still relevant in 2026?",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwvg2mxkd4x8o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-18",
+   "title": "UK Government Requests Removal of Russell Brand's YouTube Account",
+   "sum": "The UK government has asked for the removal of Russell Brand's YouTube account. This request follows a message shared by Brand's wife in which he asserts his innocence.",
+   "more": "The request from the UK government has raised questions about free speech and the implications of removing digital content. While Brand's message claims innocence, it has not deterred the government's actions regarding his online presence. Various outlets may reflect differing opinions on the government's justification for the request, with some framing it as a matter of public safety and others as censorship.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "UK government asks for Russell Brand's YouTube account to be removed",
+     "title_en": "UK government asks for Russell Brand's YouTube account to be removed",
+     "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-18",
+   "title": "Israeli Actions in Southern Syria: Future Implications",
+   "sum": "Israel is ramping up its operations in southern Syria, leading analysts to predict little change moving forward. The situation is being closely monitored amid ongoing regional tensions.",
+   "more": "The article explores the potential outcomes of the current Israeli strategy in Syria, pointing out that despite increased military activity, the overall situation is expected to remain stable. Various analysts weigh in, suggesting that while the incursions may escalate, a significant shift in the political landscape is unlikely. The framing focuses on the implications of Israel's actions rather than immediate geopolitical changes, highlighting a cautious outlook among experts.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "What is the \u2018endgame\u2019 in Syria, as Israeli rivals look for new government?",
+     "title_en": "What is the \u2018endgame\u2019 in Syria, as Israeli rivals look for new government?",
+     "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-18",
+   "title": "Concerns Rise Over EU-Rwanda Deportation Plans",
+   "sum": "There are increasing fears regarding the EU's plans to deport individuals to Rwanda, described as inhumane by various stakeholders. A British immigration lawyer, a Rwandan journalist, rights groups, and prominent politicians have raised their voices against the initiative.",
+   "more": "The proposal has faced criticism from multiple fronts, highlighting serious ethical concerns regarding human rights. The framing of the deportation plan varies, with some outlets emphasizing the potential dangers for deportees, while others focus on the political and legal implications for the EU. The collaboration between EU nations and Rwanda is viewed by some as a way to sidestep asylum obligations.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "\u2018Partnership buys silence\u2019: Fears grow over EU-Rwanda deportation plans",
+     "title_en": "\u2018Partnership buys silence\u2019: Fears grow over EU-Rwanda deportation plans",
+     "url": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-18",
+   "title": "New Knesset Speaker Elected with Support from Arab Bloc",
+   "sum": "Israel's parliament has elected Matan Kahana as the new Knesset speaker. His election received backing from Arab parties.",
+   "more": "The support from Arab parties indicates a collaboration that may contribute to a more inclusive legislative environment. This decision marks a significant moment in Israeli politics, showcasing the potential for cross-party alliances. Different outlets may focus on the implications of this collaboration for future governance and policy-making in Israel.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Eisenkot ally elected Knesset speaker with Arab bloc\u2019s backing",
+     "title_en": "Eisenkot ally elected Knesset speaker with Arab bloc\u2019s backing",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-18",
+   "title": "Springboks Coach Erasmus Stirs Controversy in Rugby World",
+   "sum": "Rassie Erasmus, the coach of the Springboks, is known for his repeated criticisms of officials, which have polarized opinions within the rugby community. Despite this, he continues to enjoy significant support in South Africa.",
+   "more": "The article discusses the divisive impact Erasmus has had on the sport, highlighting how his actions resonate positively with some while alienating others. While some see him as a champion for South African rugby, critics argue that his behavior undermines the integrity of the game. Various media outlets may frame the controversy differently, focusing on either his tactical genius or his contentious methods.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Divide and conquer - how maverick Springboks coach Erasmus split the rugby world",
+     "title_en": "Divide and conquer - how maverick Springboks coach Erasmus split the rugby world",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg28v20xy0o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-18",
+   "title": "Trump Visits the Philippines for AI Hub Announcement",
+   "sum": "President Donald Trump arrived in the Philippines to announce the establishment of an AI hub. The visit included a warm welcome with local cultural elements such as beauty queens and flag presentations.",
+   "more": "Different outlets emphasized various aspects of the visit, with some focusing on the cultural reception and others on the implications of the AI hub. The event showcased soft diplomacy through music and local engagement, which may reflect a strategic effort to strengthen US-Philippines relations. Additionally, the announcement of the AI hub could be seen as part of a broader initiative to promote technological partnerships in the region.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+     "title_en": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+     "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+     "bias": "Lean Left",
      "src": "ai"
     }
    ]

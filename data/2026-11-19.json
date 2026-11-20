@@ -1,0 +1,485 @@
+{
+ "date": "2026-11-19",
+ "updated": "Nov 20, 18:56 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-19",
+   "title": "Anthropic's Record-Breaking IPO Signals Potential Challenges Ahead",
+   "sum": "Anthropic's highly anticipated initial public offering (IPO) is set to elevate it among the top ten most valuable US companies. However, uncertainties regarding its AI safety strategy and public sentiment about data centers loom over its future.",
+   "more": "Wired emphasizes that the company\u2019s biggest challenge may come from within, particularly around its AI safety strategy, which investors will likely scrutinize. Meanwhile, BBC News reflects on the market's optimism about Anthropic's potential to avert an AI bubble burst, indicating a crucial moment for the company. The contrasting focus on internal versus external challenges shows differing frames in how the risks surrounding the IPO are perceived.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself",
+     "title_en": "Anthropic\u2019s Record-Breaking IPO Highlights the AI Giant\u2019s Worst Enemy\u2014Itself.",
+     "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+     "title_en": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+     "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-19",
+   "title": "Apple's iPhone Camera Executive Departs",
+   "sum": "Jon McCormack, Apple's vice president of camera software engineering, has reportedly retired after over eight years with the company. His departure was noted by Bloomberg and occurred at the end of October.",
+   "more": "Different sources emphasize McCormack's influential role in overseeing the iPhone's Camera and Photos apps. The Verge highlights the timing of his retirement while MacRumors provides details about his contributions. Both outlets note that Apple has not yet announced a successor for his position.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Apple\u2019s iPhone camera leader has reportedly left the company",
+     "title_en": "Apple\u2019s iPhone camera leader has reportedly left the company.",
+     "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Executive in Charge of iPhone's Camera App Reportedly Retires",
+     "title_en": "Apple Executive in Charge of iPhone's Camera App Reportedly Retires.",
+     "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-19",
+   "title": "Discussion on Silicon Valley and Public Perception with Jon Favreau",
+   "sum": "A conversation with Jon Favreau centers on how Silicon Valley has disconnected from public sentiment. The discussion takes place against a backdrop of political commentary and media influence.",
+   "more": "Favreau, known for his work on 'Pod Save America', reflects on the broader implications of this disconnect for both Silicon Valley and politics. He highlights the challenges faced by tech leaders in communicating effectively with the public. The conversation touches on the role of media in shaping perceptions and the need for greater accountability among tech companies.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "How Silicon Valley lost the public, with Crooked Media\u2019s Jon Favreau",
+     "title_en": "How Silicon Valley lost the public, with Crooked Media\u2019s Jon Favreau",
+     "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-19",
+   "title": "Joanne Young Speaks After Verdict",
+   "sum": "Joanne Young has publicly shared her experience following a legal verdict, encouraging other victims to speak out. She emphasized the importance of being believed and understood.",
+   "more": "Young, who chose to reveal her identity, is calling on others who have faced similar situations to find the courage to come forward. Her message highlights the need for support and understanding for victims of such crimes. This framing focuses on empowerment and the healing process for survivors.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "'You can be believed and understood': Joanne Young speaks after verdict",
+     "title_en": "You can be believed and understood: Joanne Young speaks after verdict",
+     "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-19",
+   "title": "Councillor Stabbed in Bradford Leads to Murder Arrest",
+   "sum": "Bradford Moor councillor Ibrar Ali has been hospitalized with serious injuries following a stabbing incident. An arrest has been made in connection with the attempted murder.",
+   "more": "The incident has raised concerns about safety and violence in local politics. Details surrounding the motive for the attack are not yet clear. Various news outlets are highlighting the seriousness of the injuries and the ongoing investigation into the matter.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Attempted murder arrest after councillor stabbed in Bradford",
+     "title_en": "Attempted murder arrest after councillor stabbed in Bradford",
+     "url": "https://www.bbc.co.uk/news/articles/cmj6l7kp2w22o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-19",
+   "title": "Historic Victory in Mississippi Senate Race",
+   "sum": "Scott Colom has made history by becoming Mississippi's first Black U.S. senator in nearly 150 years. Scholars discuss the significance of this election.",
+   "more": "This victory is seen as a momentous occasion, comparable to the election of Barack Obama, according to the scholars. Eddie Glaude and Kiese Laymon, both Mississippi natives, reflect on the implications of this win for the state's future. Their discussions highlight the long-standing racial history in Mississippi and the potential shift it may signal in political dynamics.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+     "title_en": "'Bigger than Barack Obama's election': Scholars reflect on Mississippi Senate race",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6047338/bigger-than-barack-obamas-election-scholars-reflect-on-mississippi-senate-race",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-19",
+   "title": "Galmarini Criticizes Caputo for Reaction to Peronist Event",
+   "sum": "Senator Galmarini confronted Caputo regarding his response to a Peronist event organized by Economy Minister Massa. She criticized the government's policies in her remarks.",
+   "more": "Galmarini's comments reflect a broader discontent within certain factions of the Peronist party regarding the current administration's approaches. Caputo's reaction, as shared through a video of the event, may highlight a divide in perspectives on recent political gatherings. Other outlets may focus more on the implications of Galmarini's critique for internal party dynamics or the specific content of the event itself.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Galmarini cruz\u00f3 a Caputo por su reacci\u00f3n al evento del peronismo organizado por Massa: \u201cEst\u00e1 bien que te agarres la cabeza\u201d",
+     "title_en": "Galmarini Criticizes Caputo for Reaction to Peronist Event",
+     "url": "https://www.lanacion.com.ar/politica/galmarini-cruzo-a-caputo-por-su-reaccion-al-evento-del-peronismo-organizado-por-massa-esta-bien-que-nid19112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-19",
+   "title": "Internal Conflict Within Macri's Party: De Andreis Challenges Jorge Macri",
+   "sum": "Fernando De Andreis is positioning himself against Jorge Macri for the 2027 elections, leading to tensions within the party. Allies of Jorge Macri believe that former President Macri is attempting to pressure his cousin for negotiation.",
+   "more": "The article highlights a rift within the PRO party in Buenos Aires, with De Andreis potentially stepping up to challenge Jorge Macri. While some party members view this as a genuine electoral challenge, others perceive it as a strategy orchestrated by former President Macri to influence party dynamics. The differing perspectives among party factions indicate a struggle for power and influence leading up to the upcoming elections.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Interna macrista: en la Ciudad le bajan el precio al desaf\u00edo de Fernando De Andreis y ya apuntan contra el l\u00edder de Pro",
+     "title_en": "Internal Conflict Within Macri's Party: De Andreis Challenges Jorge Macri",
+     "url": "https://www.lanacion.com.ar/politica/interna-macrista-en-la-ciudad-le-bajan-el-precio-al-desafio-de-fernando-de-andreis-y-ya-apuntan-nid19112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-19",
+   "title": "Quequ\u00e9n Port Leadership Changes Under Fire",
+   "sum": "There is controversy over changes in the leadership of the Quequ\u00e9n port, which is vital for exports. The renewal initiated by Axel Kicillof has been criticized by Carbap, raising concerns about potential conflicts of interest.",
+   "more": "Carbap has rejected the new leadership appointments and questioned their suitability. The organization's objections suggest that the changes may not align with the interests of local exporters. Concerns regarding conflicts of interest are significant given the port's importance to the region's economy.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Quequ\u00e9n: pol\u00e9mica por los cambios en el directorio de un puerto clave para las exportaciones",
+     "title_en": "Quequ\u00e9n: Controversy over changes in the board of a key port for exports.",
+     "url": "https://www.lanacion.com.ar/economia/campo/quequen-polemica-por-los-cambios-en-el-directorio-de-un-puerto-clave-para-las-exportaciones-nid19112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-19",
+   "title": "Dollar Rises to Yearly High and Country Risk Approaches 900 Points",
+   "sum": "The dollar reached its highest value of the year, with the retail exchange rate hitting $1585. Additionally, the country risk indicator by JP Morgan increased by nearly 50 points.",
+   "more": "The rise in the dollar's value reflects ongoing economic fluctuations, with the retail exchange rate marking its second consecutive increase. The increase in country risk, as measured by JP Morgan, indicates growing concerns about the economic stability. Different media outlets may emphasize varying aspects of the economic implications of these changes, particularly the potential impacts on inflation and investment.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El d\u00f3lar volvi\u00f3 a subir hasta su valor m\u00e1s alto del a\u00f1o y el riesgo pa\u00eds roza los 900 puntos",
+     "title_en": "The dollar rose again to its highest value of the year and country risk nears 900 points.",
+     "url": "https://www.lanacion.com.ar/economia/el-dolar-volvio-a-subir-hasta-su-valor-mas-alto-del-ano-y-el-riesgo-pais-roza-los-900-puntos-nid19112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-19",
+   "title": "Trump and Putin Meet Ahead of Trilateral Discussion",
+   "sum": "Donald Trump and Vladimir Putin shared a handshake during their meeting. The meeting was in anticipation of a subsequent trilateral discussion involving Chinese leader Xi Jinping.",
+   "more": "The meeting between Trump and Putin reflects ongoing diplomatic engagements amidst global tensions. The mention of Xi Jinping adds a layer of complexity, indicating a cooperative dialogue among some major world leaders. Different outlets may focus on the implications of this meeting, particularly regarding international relations and strategic partnerships.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Trump greets 'my friend' Putin as pair shake hands",
+     "title_en": "Trump greets 'my friend' Putin as pair shake hands.",
+     "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-19",
+   "title": "Weekly Quiz on World Events",
+   "sum": "The BBC News presents a weekly quiz to test readers' knowledge of recent global happenings. This edition features a question about a star playing cricket with Catherine in India.",
+   "more": "The emphasis on celebrity interactions in the quiz suggests a focus on the intersection of culture and current events. Other outlets may frame such quizzes differently, perhaps focusing more on serious news topics or current affairs rather than cultural or celebrity moments. The framing invites public engagement and participation in recalling events from the past week, allowing readers to reflect on how well they have kept up with international news.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Weekly quiz: Which star played cricket with Catherine in India?",
+     "title_en": "Weekly quiz: Which star played cricket with Catherine in India?",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2edq12nno",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "southasia",
+   "date": "2026-11-19",
+   "title": "Risk of US Strikes on Iran Grows Amid Escalating Skirmishes",
+   "sum": "Tensions between the US and Iran are escalating, raising the likelihood of American military strikes. Recent skirmishes between the two sides have contributed to this risk.",
+   "more": "The article indicates that the conflict is intensifying, with both sides engaging in more aggressive military activities. While the framing in US media often emphasizes the potential for military intervention, other outlets might focus on the broader implications for regional stability. The situation continues to evolve, prompting international attention and concern.",
+   "coverage": [
+    {
+     "outlet": "Hindustan Times",
+     "title": "Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes...",
+     "title_en": "Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes",
+     "url": "https://www.hindustantimes.com/world-news/trump-considering-another-round-of-mass-strikes-on-iran-as-tensions-escalate-101795087599276.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-19",
+   "title": "Somalia's Constitutional Overhaul Challenges Fragile Federal System",
+   "sum": "Somalia is facing challenges as it attempts a constitutional overhaul aimed at strengthening the central government. However, regional resistance and violence pose significant threats to the fragile federal agreement established in 2012.",
+   "more": "The article highlights the tension between national reforms and regional autonomy, indicating that some regional leaders oppose the proposed changes. This resistance could lead to increased instability within the country, complicating the efforts of President Mohamud to implement his reforms. Additionally, the ongoing violence exacerbates the situation, suggesting that the path to a stronger governance structure is fraught with challenges. Different outlets may emphasize the potential risks of disruption versus the need for progress in governance.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Somalia\u2019s constitutional overhaul tests its fragile federal bargain",
+     "title_en": "Somalia\u2019s constitutional overhaul tests its fragile federal bargain",
+     "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-19",
+   "title": "Netanyahu's High-Stakes Game Amid Political Crisis",
+   "sum": "Prime Minister Netanyahu is navigating a precarious political landscape that could lead to increased violence in Israel. His actions are seen as a desperate attempt to avoid political downfall.",
+   "more": "Al Jazeera outlines the tense political situation surrounding Netanyahu, suggesting that his strategies may have dangerous consequences for the country. The framing emphasizes the potential for chaos as a result of his maneuvers. Other outlets may focus on the implications for regional stability or analyze support for Netanyahu from different political factions, leading to varied interpretations of his actions.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu\u2019s last stand and the dangerous politics of survival",
+     "title_en": "Netanyahu\u2019s last stand and the dangerous politics of survival",
+     "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-19",
+   "title": "European Black Friday Deals are Live",
+   "sum": "Amazon Prime deals for European countries have launched, including offerings in the UK, Germany, France, and several other nations. Similar deals are also accessible in Australia and Japan.",
+   "more": "The announcement of European Black Friday deals has been made by various outlets, highlighting the extensive availability across many European countries. Both Sonyalpharumors.com and 43rumors.com provided similar coverage regarding the live status of the deals. There is a focus on the different regions participating, including North America and global markets. The overall framing emphasizes the collective and widespread nature of Black Friday promotions across various Amazon platforms.",
+   "coverage": [
+    {
+     "outlet": "Sonyalpharumors.com",
+     "title": "European Black Friday deals now live!",
+     "title_en": "European Black Friday deals now live!",
+     "url": "https://www.sonyalpharumors.com/european-black-friday-deals-now-live/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "43rumors.com",
+     "title": "European Black Friday deals now live!",
+     "title_en": "European Black Friday deals now live!",
+     "url": "https://www.43rumors.com/european-black-friday-deals-now-live/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-19",
+   "title": "Apple Announces 2026 Black Friday Event",
+   "sum": "Apple's four-day Black Friday event will take place from November 27 to November 30, 2026. This event will be available in various countries, including the United States and several European nations.",
+   "more": "The announcement highlights Apple's ongoing tradition of participating in the Black Friday shopping season. Customers can expect a range of discounts and offers during this period. The event's timing aligns with similar promotions by other retailers, reflecting a competitive holiday shopping environment. Different outlets may vary in their emphasis on specific discounts or products available during the event.",
+   "coverage": [
+    {
+     "outlet": "MacRumors",
+     "title": "Apple Announces 2026 Black Friday Event, Here's What You Can Get",
+     "title_en": "Apple Announces 2026 Black Friday Event, Here's What You Can Get",
+     "url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-19",
+   "title": "Apprenticeship Experience Leads Teen to Discover Career Preferences",
+   "sum": "A 15-year-old girl spent two weeks working as an apprentice in France. Her experience helped her realize what career paths she does not wish to pursue.",
+   "more": "The article emphasizes the educational value of the apprenticeship, highlighting that such experiences can help young people make informed career choices. The parent views the temporary job as a beneficial opportunity rather than a setback. Overall, the lesson learned is framed positively, focusing on self-discovery rather than disappointment.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "My 15-year-old spent 2 weeks working as an apprentice in France. She learned what she doesn't want to do for a living.",
+     "title_en": "My 15-year-old spent 2 weeks working as an apprentice in France.",
+     "url": "https://www.businessinsider.com/teenager-france-apprenticeship-career-exploration-2026-11",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-19",
+   "title": "Activists Protest Against EU Health Commissioner Over Pesticide Reform",
+   "sum": "A group of activists opposed to pesticides have thrown ashes at the European Commissioner for Health and Food Safety, Oliver Varhelyi. This incident occurred during the European Cancer Summit in Brussels.",
+   "more": "The activists included individuals suffering from cancer, highlighting the emotional intensity of their protest. Both news outlets report the incident similarly, emphasizing the activists' motivations linked to pesticide regulation reform. The framing focuses on the dramatic nature of the protest and its context within an important health-related summit.",
+   "coverage": [
+    {
+     "outlet": "Europapress.es",
+     "title": "Activistas arrojan cenizas al comisario de Salud por apoyar una reforma que flexibiliza las normas sobre pesticidas",
+     "title_en": "Activists throw ashes at health commissioner for supporting pesticide regulation reform.",
+     "url": "https://www.europapress.es/internacional/noticia-activistas-arrojan-cenizas-comisario-salud-apoyar-reforma-flexibiliza-normas-pesticidas-20261119130205.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elperiodico.com",
+     "title": "Activistas arrojan cenizas al comisario de salud europeo por apoyar una reforma que flexibiliza las normas sobre pesticidas",
+     "title_en": "Activists throw ashes at European health commissioner for supporting pesticide policy changes.",
+     "url": "https://www.elperiodico.com/es/sanidad/20261119/activistas-arrojan-cenizas-comisario-salud-reforma-que-flexibiliza-las-normas-sobre-pesticidas-136626864",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-19",
+   "title": "Constitutional Court Overturns Conviction of Journalist for Police Criticism",
+   "sum": "The Constitutional Court has annulled the conviction of journalist Fonsi Loaiza for his comments regarding police involvement in the death of Mame Mbaye. Loaiza had faced a fine for calling the incident a 'murder' on Twitter.",
+   "more": "The court's ruling overturned a previous conviction and fine of 2,100 euros imposed on Loaiza for his statements. He linked the police's actions to the death of Mbaye in 2018, which the police denied, claiming it was due to natural causes. Different outlets offer varying emphasis on the implications of the ruling, particularly regarding police accountability and freedom of expression in journalism.",
+   "coverage": [
+    {
+     "outlet": "Eldiario.es",
+     "title": "El Constitucional anula la condena de Fonsi Loaiza por sus cr\u00edticas al papel de la Polic\u00eda en la muerte de Mame Mbaye",
+     "title_en": "The Constitutional Court annuls the conviction of Fonsi Loaiza for his criticisms of the Police's role in the death of Mame Mbaye.",
+     "url": "https://www.eldiario.es/politica/constitucional-anula-condena-fonsi-loaiza-criticas-papel-policia-muerte-mame-mbaye_1_13557239.html",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Lavozdegalicia.es",
+     "title": "El Constitucional anula una condena por injurias a la polic\u00eda tras la muerte de un mantero",
+     "title_en": "The Constitutional Court annuls a conviction for slander against the police after the death of a street vendor.",
+     "url": "https://www.lavozdegalicia.es/noticia/espana/2026/11/19/constitucional-anula-condena-injurias-policia-tras-muerte-mantero/00031795091375207420740.htm",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-19",
+   "title": "Elon Musk Regrets Midterm Spending",
+   "sum": "Elon Musk expressed feelings of foolishness regarding his substantial financial contributions to Republican candidates in the U.S. midterm elections. He specifically noted the disappointing results after investing nearly $500 million.",
+   "more": "Multiple outlets report similar sentiments from Musk about his financial backing for the Republican party, highlighting his acknowledgment of the poor outcomes. Some sources emphasize his feelings of disappointment after supporting candidates aligned with the MAGA movement, while others note his broader reflections on political contributions and outcomes. Despite the losses, it appears Musk remains engaged in political discourse, distancing himself slightly from extreme factions. The overall framing presents a mix of humility and self-critique from Musk regarding his investment decisions.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Elon Musk says he feels \u2018pretty foolish\u2019 about US midterm spending",
+     "title_en": "Elon Musk says he feels \u2018pretty foolish\u2019 about US midterm spending.",
+     "url": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Deadline",
+     "title": "Elon Musk Feels \u201cPretty Foolish\u201d For Donating Mega-Bucks To Losing MAGA In Midterms",
+     "title_en": "Elon Musk Feels 'Pretty Foolish' For Donating Mega-Bucks To Losing MAGA In Midterms.",
+     "url": "https://deadline.com/2026/11/elon-musk-midterms-regrets-1237228534/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "New York Post",
+     "title": "Elon Musk feels \u2018pretty foolish\u2019 after spending nearly $500M during the 2026 midterms",
+     "title_en": "Elon Musk feels 'pretty foolish' after spending nearly $500M during the 2026 midterms.",
+     "url": "https://nypost.com/2026/11/18/us-news/elon-musk-feels-pretty-foolish-after-spending-nearly-500m-during-the-2026-midterms/",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Adweek",
+     "title": "Elon Musk: \u2018I Feel Pretty Foolish\u2019 Spending Record $445 Million on Midterm Elections",
+     "title_en": "Elon Musk: \u2018I Feel Pretty Foolish\u2019 Spending Record $445 Million on Midterm Elections.",
+     "url": "https://www.adweek.com/media/elon-musk-i-feel-pretty-foolish-spending-record-445-million-on-midterm-elections/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Hollywood Gossip",
+     "title": "Elon Musk Feels \u2018Pretty Foolish\u2019 After Donating Big to MAGA Midterm Losers",
+     "title_en": "Elon Musk Feels \u2018Pretty Foolish\u2019 After Donating Big to MAGA Midterm Losers.",
+     "url": "https://www.thehollywoodgossip.com/elon-musk-feels-pretty-foolish-after-donating-big-to-maga-midterm-losers/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "Elon Musk says he feels \u2018pretty foolish\u2019 after spending hundreds of millions backing Republicans in US midterms",
+     "title_en": "Elon Musk says he feels \u2018pretty foolish\u2019 after spending hundreds of millions backing Republicans in US midterms.",
+     "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/elon-musk-says-he-feels-pretty-foolish-after-spending-hundreds-of-millions-backing-republicans-in-us-midterms/articleshow/135984027.cms",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-19",
+   "title": "Elon Musk Reflects on $500 Million Midterm Elections Spending, Declares 'Not MAGA'",
+   "sum": "Elon Musk expressed regret over his significant financial contributions to the Republican Party during the midterm elections, stating that he felt foolish as a result of the Republicans' poor performance. He has also claimed that he is not aligned with the MAGA movement.",
+   "more": "Musk's statements come after he previously supported Republican campaigns with nearly $500 million in donations. This shift in his stance appears to follow a Democratic surge that led to Democratic majorities in both the Senate and House. Different outlets highlight Musk's contradictory positions, emphasizing his past endorsements of MAGA while now distancing himself from it. The framing varies as some emphasize his regret over financial contributions while others focus on the implications of his denial of MAGA affiliation.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Musk regrets nearly $500 million midterm elections spending, says he\u2019s not MAGA",
+     "title_en": "Musk regrets nearly $500 million midterm elections spending, says he\u2019s not MAGA",
+     "url": "https://abcnews.com/Politics/musk-regrets-500-million-midterm-elections-spending-hes/story?id=138270985",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Them.us",
+     "title": "Elon Musk, who has worn MAGA hats and gave nearly $500 million to Republicans, now says he is 'not MAGA'",
+     "title_en": "Elon Musk, who has worn MAGA hats and gave nearly $500 million to Republicans, now says he is 'not MAGA'",
+     "url": "https://www.them.us/politics/elon-musk-not-maga-reversal",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
