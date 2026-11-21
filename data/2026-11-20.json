@@ -1,0 +1,426 @@
+{
+ "date": "2026-11-20",
+ "updated": "Nov 21, 17:52 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-20",
+   "title": "Teen Entrepreneur Launches AI Missile Startup Aimed at Cost Efficiency",
+   "sum": "Henrijs Dandzbergs, a 16-year-old dropout, has founded a startup focused on developing AI-driven missile technology. His goal is to improve the efficiency of military operations for the U.S. and its allies.",
+   "more": "Dandzbergs joined Y Combinator, a well-known startup accelerator, to further his project. His approach emphasizes optimizing the cost-effectiveness of lethal operations, a perspective that has raised ethical questions about the implications of such technological advancements. Various media outlets highlight Dandzbergs' youth and the controversial nature of his ambitions, with differing opinions on whether his innovations contribute to military advancement or escalate warfare concerns.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "This 16-Year-Old Founded an AI Missile Startup. He\u2019s Targeting \u2018Cost per Kill\u2019",
+     "title_en": "This 16-Year-Old Founded an AI Missile Startup. He\u2019s Targeting \u2018Cost per Kill\u2019.",
+     "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-20",
+   "title": "Trump Issues Posthumous Pardon to Baseball Legend Pete Rose",
+   "sum": "President Trump announced a complete pardon for Pete Rose, the renowned baseball player who passed away in 2024. This decision was made following Trump's historic trip to China.",
+   "more": "While both articles report on the posthumous pardon granted by Trump to Pete Rose, Abcnews emphasizes the timing of the pardon in relation to the president's Asia trip. In contrast, BBC News highlights Rose's previous lifetime ban for betting on games and mentions his reinstatement prior to his death. The framing in BBC News focuses on Rose's controversial history with the sport, whereas Abcnews seems to underline the significance of the pardon itself.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Trump pardons late baseball great Pete Rose after historic China trip",
+     "title_en": "Trump pardons late baseball great Pete Rose after historic China trip",
+     "url": "https://abcnews.com/Politics/trump-pardons-late-baseball-great-pete-rose-after/story?id=138304528",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "BBC News",
+     "title": "Trump posthumously pardons US baseball legend Pete Rose",
+     "title_en": "Trump posthumously pardons US baseball legend Pete Rose",
+     "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-20",
+   "title": "Andrey Zvyagintsev's 'Minotaur' Explores Life Amidst Geopolitical Tensions",
+   "sum": "Director Andrey Zvyagintsev's film 'Minotaur' portrays the struggles of a couple in a fictional Russian town during a time of military draft. The film reflects on the disconnect between filmmakers and executives regarding audience desires.",
+   "more": "Set against the backdrop of Vladimir Putin's military draft announcement in 2022, 'Minotaur' follows Gleb and Galina as they navigate their discontent within their lives. Zvyagintsev emphasizes that filmmakers are in tune with audience needs more than executives. This thematic exploration offers a poignant commentary on personal relationships amidst larger political upheavals. Different outlets may emphasize the film's reflection on personal vs. political conflicts, varying the focus from character studies to broader societal critiques.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants \u2014 not executives",
+     "title_en": "Andrey Zvyagintsev believes filmmakers know what the audience wants \u2014 not executives.",
+     "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-20",
+   "title": "Anti-Migrant Activist Sentenced for Attacking Dinghy",
+   "sum": "Daniel Thomas has been sentenced to 15 months in prison for slashing a dinghy used by migrants. The judge criticized him as a 'publicity seeker' who hindered rescue operations.",
+   "more": "The case highlights the tensions surrounding anti-migrant activism and the impact it can have on humanitarian efforts. Critics argue that such actions not only endanger lives but also distract from the legal and moral obligations of rescuers. While some may see Thomas's actions as a form of protest, the judicial system has deemed them criminal and detrimental to public safety.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+     "title_en": "Daniel Thomas jailed for 15 months for slashing dinghy",
+     "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-20",
+   "title": "U.K. and EU Hold Summit to Strengthen Relations",
+   "sum": "A summit between top EU officials and U.K. Prime Minister Andy Burnham is taking place to rebuild relationships post-Brexit. This meeting occurs a decade after Britain's decision to leave the European Union.",
+   "more": "The summit is seen as a crucial effort to address ongoing tensions and foster collaboration between the U.K. and the EU. Officials from both sides are looking for ways to enhance cooperation in various sectors. Different media outlets may highlight particular challenges or achievements anticipated from this meeting, reflecting varying perspectives on the Brexit aftermath.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "The U.K. and EU hold a rare summit to strengthen ties",
+     "title_en": "The U.K. and EU hold a rare summit to strengthen ties.",
+     "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-20",
+   "title": "Poll Reveals GOP Voter Doubts on Midterm Election Fairness",
+   "sum": "A new poll shows that less than 50% of Republican voters believe the midterm elections were conducted fairly. This reflects a growing skepticism among GOP supporters regarding the electoral process.",
+   "more": "While Trump initially accepted the midterm results, the sentiment among his party appears to be shifting. Many Republican voters are expressing concerns about the legitimacy of the election outcomes. This divide highlights ongoing tensions within the party and potential implications for future elections.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+     "title_en": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair.",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-20",
+   "title": "Trump's Wealth from Cryptocurrencies Under Scrutiny",
+   "sum": "President Trump has reportedly amassed billions during his second term, primarily through cryptocurrencies. As Democrats prepare to assume control of Congress next year, they are pledging to investigate his business dealings.",
+   "more": "The article highlights the unexpected wealth Trump has generated from the crypto market, which could lead to significant political repercussions. Different outlets may emphasize varying aspects of how this wealth aligns with his public persona and previous business practices. Additionally, the response from Democrats suggests a heightened focus on financial transparency as they prepare for legislative inquiries into his financial activities.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "How exactly did Trump get so rich on crypto? We explain",
+     "title_en": "How exactly did Trump get so rich on crypto? We explain.",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-20",
+   "title": "Controversial Sale of Infested Housing for Ethical Investments",
+   "sum": "Vulnerable housing filled with mould and infestations is being marketed as ethical investments abroad. These properties are advertised at high prices with promises of government-backed returns.",
+   "more": "The BBC's investigation highlights the discrepancies between the marketing claims and the actual conditions of the properties. While some media outlets emphasize the ethical implications of selling these poorly maintained homes, others focus on the financial aspect, questioning the morality of profiting from vulnerable populations. This reporting raises concerns about the exploitation of housing for investment purposes.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+     "title_en": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
+     "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-20",
+   "title": "Major Russian Missile Attack Hits Three Kyiv Bridges",
+   "sum": "A significant wave of Russian missile strikes targeted three bridges in Kyiv, resulting in the deaths of five individuals. This attack follows Ukraine's successful strikes on the Crimean Bridge.",
+   "more": "The BBC highlights the impactful nature of the strikes by focusing on the fatalities and the strategic timing of the attacks post-Ukraine's actions. The framing suggests a direct correlation between Ukraine's successes and Russia's retaliatory measures. The situation underscores the ongoing conflict and back-and-forth between the two nations, highlighting the vulnerabilities in Ukrainian infrastructure.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Three Kyiv bridges hit during major Russian missile attack",
+     "title_en": "Three Kyiv bridges hit during major Russian missile attack",
+     "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-20",
+   "title": "UK Considers Revisiting EU Membership a Decade After Brexit Referendum",
+   "sum": "Prime Minister Andy Burnham is exploring a possible new deal with the EU following the UK-EU summit. This comes ten years after the divisive Brexit referendum.",
+   "more": "The discussions indicate a potential shift in the UK's approach to its relationship with the EU. Different outlets may emphasize the political implications of this move or the public sentiment surrounding potential rejoining efforts, reflecting varying perspectives on Brexit's long-term impact. Some may highlight the challenges the government faces in reconciling the Brexit vote with current political realities.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "10 years after divisive Brexit referendum, UK weighs a \u2018Breturn\u2019 to the EU",
+     "title_en": "10 years after divisive Brexit referendum, UK weighs a \u2018Breturn\u2019 to the EU",
+     "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-20",
+   "title": "Massive Protests Erupt in Colombia Against Tax Reforms and US Military Involvement",
+   "sum": "Thousands took to the streets in Colombia to protest against proposed tax reforms and the involvement of US military forces. Demonstrations were held in Bogot\u00e1 and other major cities on Thursday.",
+   "more": "The protests were organized by trade unions, students, and opposition groups, highlighting widespread discontent with the government's policies. While some media outlets focus on the opposition to tax reforms, others emphasize the concerns over foreign military involvement. The situation reflects a growing tension in Colombia regarding both internal economic policies and external influences.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Thousands protest Colombia\u2019s tax plans amid row over US military role",
+     "title_en": "Thousands protest Colombia\u2019s tax plans amid row over US military role.",
+     "url": "https://www.aljazeera.com/news/2026/11/20/thousands-protest-colombias-tax-plans-amid-row-over-us-military-role",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-20",
+   "title": "Spain's Far-Right Party Vox Gains Prominence Ahead of Elections",
+   "sum": "As Spain approaches its elections, the far-right party Vox is gaining attention for its campaign focused on mass deportations and a policy of 'national priority.' The party's rise reflects significant shifts in the country's political landscape.",
+   "more": "The article examines Vox's strategies and its appeal to various voter demographics. It also highlights the broader implications of the party's rise on Spain's political discourse, particularly concerning immigration and national identity. Additionally, there is a discussion on how Vox's emergence compares to political shifts in other European nations, suggesting a rising trend of far-right parties across the continent.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "What is Vox, and how did Spain\u2019s far-right party rise to prominence?",
+     "title_en": "What is Vox, and how did Spain\u2019s far-right party rise to prominence?",
+     "url": "https://www.aljazeera.com/news/2026/11/20/what-is-vox-and-how-did-spains-far-right-party-rise-to-prominence",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-20",
+   "title": "Nations League Play-offs and Quarter-finals Draw Announced",
+   "sum": "Wales will compete against Slovenia in a play-off to retain their status in the Nations League. England has been drawn to face Norway in the quarter-finals.",
+   "more": "The quarter-finals for the Nations League are set to feature England versus Norway, with matches scheduled for March during the international break. In addition, Wales will take on Slovenia in a two-leg play-off, highlighting their efforts to maintain their top-tier position. The Republic of Ireland will face Croatia in a separate match within the same round of play-offs. There is a clear focus on the importance of these two-legged ties for the participating teams' rankings and future placements.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Wales face Slovenia in Nations League play-off",
+     "title_en": "Wales face Slovenia in Nations League play-off.",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmregwxvg2e0o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Sky Sports",
+     "title": "England to face Norway in Nations League last eight",
+     "title_en": "England to face Norway in Nations League last eight.",
+     "url": "https://www.skysports.com/football/news/13614281/nations-league-quarter-finals-england-to-face-norway-in-the-last-eight-with-a-potential-semi-final-tie-with-germany-waiting",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-20",
+   "title": "Marine Tondelier Open to Withdrawing for Jean-Luc M\u00e9lenchon",
+   "sum": "Marine Tondelier, the Green candidate, is reportedly ready to step aside for Jean-Luc M\u00e9lenchon amid ongoing negotiations with Rapha\u00ebl Glucksmann\u2019s team. This development has surprised some on the left but has gained traction within a party facing challenges from LFI.",
+   "more": "Mediapart noted the unexpected nature of Tondelier's move, indicating a shift as her associates were in discussions with Glucksmann's camp. Meanwhile, 20 Minutes provided updates on the 2027 presidential campaign, stating that the alliance with Tondelier is seen as feasible by M\u00e9lenchon. The framing differs slightly as Mediapart focuses on the internal dynamics and surprises within the left, while 20 Minutes emphasizes the potential collaboration moving forward.",
+   "coverage": [
+    {
+     "outlet": "Mediapart",
+     "title": "Sous pression, Marine Tondelier se dit pr\u00eate \u00e0 se retirer en faveur de Jean-Luc M\u00e9lenchon",
+     "title_en": "Under pressure, Marine Tondelier says she is ready to withdraw in favor of Jean-Luc M\u00e9lenchon.",
+     "url": "https://www.mediapart.fr/journal/politique/201126/sous-pression-marine-tondelier-se-dit-prete-se-retirer-en-faveur-de-jean-luc-melenchon",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "EN DIRECT Pr\u00e9sidentielle\u00a02027\u00a0: L'alliance avec Marine Tondelier \u00ab\u00a0devrait pouvoir se faire\u00a0\u00bb, estime Jean-Luc M\u00e9lenchon...",
+     "title_en": "LIVE Presidential 2027: The alliance with Marine Tondelier 'should be possible,' says Jean-Luc M\u00e9lenchon.",
+     "url": "https://www.20minutes.fr/politique/4264007-20261119-direct-presidentielle-2027-alliance-marine-tondelier-devrait-pouvoir-faire-estime-jean-luc-melenchon",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-20",
+   "title": "Andrey Zvyagintsev Discusses Filmmaking in the Context of Politics",
+   "sum": "Filmmaker Andrey Zvyagintsev emphasizes that filmmakers have a better understanding of audience desires than executives do. His latest work, 'Minotaur', is set against the backdrop of geopolitical tensions in 2022.",
+   "more": "The narrative of 'Minotaur' unfolds in the fictional town of Krasoborsk, following a seemingly discontent couple, Gleb and Galina, as they navigate their lives amidst the announcement of a military draft by Vladimir Putin. The film addresses themes of personal struggle in relation to larger political forces. Different outlets may focus on varying aspects of the film, with some emphasizing its political allegory and others highlighting the personal journeys of the characters.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants \u2014 not executives",
+     "title_en": "Andrey Zvyagintsev believes filmmakers know what the audience wants \u2014 not executives",
+     "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-20",
+   "title": "Daniel Thomas Sentenced for Attacking Dinghy",
+   "sum": "Daniel Thomas has been sentenced to 15 months in prison for slashing a dinghy. The judge criticized him as a publicity seeker who hindered rescue operations.",
+   "more": "The case has highlighted tensions surrounding anti-migrant activism and the impact it can have on rescue efforts in maritime contexts. Different outlets may focus on the motivations behind Thomas's actions, with some emphasizing his anti-migrant stance while others may discuss the broader implications for rescue crews. The judge's comments suggest a condemnation of such activism when it interferes with humanitarian efforts.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Daniel Thomas jailed for 15 months for slashing dinghy",
+     "title_en": "Daniel Thomas jailed for 15 months for slashing dinghy.",
+     "url": "https://www.bbc.co.uk/news/articles/c6lywjpn5levo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-20",
+   "title": "Protests Erupt Across Europe Over Cost of Living and Other Issues",
+   "sum": "Thousands of people demonstrated in various European cities on Friday, focusing on the rising cost of living and additional pressing concerns. The protests emphasize the growing discontent among citizens towards political leaders.",
+   "more": "The protests featured young activists who vocalized their frustrations not only about high living costs but also about military spending and climate change. This movement is seen as a call to action for political leaders, whom the protesters believe have been neglecting the voices of the youth. Different outlets highlighted the generational aspect of the protests, with RTE focusing on the youth's perspective and their demands for change, while BBC concentrated more on the broader scope of protests across Europe.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Cost of living protests sweep across Europe",
+     "title_en": "Cost of living protests sweep across Europe.",
+     "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "RTE",
+     "title": "Young protesters hit the streets across Europe",
+     "title_en": "Young protesters hit the streets across Europe.",
+     "url": "https://www.rte.ie/news/2026/1120/1600022-europe-protests/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-20",
+   "title": "UK Activist Sentenced for Attacking Migrant Boat",
+   "sum": "Danny Tommo, an anti-migrant activist, has been sentenced to 15 months in jail for slashing a dinghy used by migrants. The court described him as an 'attention seeker'.",
+   "more": "Tommo livestreamed the act, which garnered attention across various platforms. While Al Jazeera focused on the act of vandalism itself, Daily Mail highlighted the judge's characterization of Tommo and his emotional response during sentencing. The framing of the situation varies, with some outlets focusing more on the implications of his actions and others on the legal consequences.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "UK far-right activist \u2018Danny Tommo\u2019 jailed for slashing migrant boat",
+     "title_en": "UK far-right activist \u2018Danny Tommo\u2019 jailed for slashing migrant boat.",
+     "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Dailymail.com",
+     "title": "Anti-migrant activist Danny Tommo jailed for 15 months for slashing migrant boat in English Channel",
+     "title_en": "Anti-migrant activist Danny Tommo jailed for 15 months for slashing migrant boat in English Channel.",
+     "url": "https://www.dailymail.com/news/article-16309343/Anti-migrant-activist-Danny-Tommo-jailed-15-months-slashing-migrant-boat-English-Channel.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-20",
+   "title": "Protests and Strikes Across Europe Against Cost of Living and Militarization",
+   "sum": "Protesters in various European countries are taking to the streets to oppose rising living costs and militarization. The demonstrations, which began on November 20, 2026, aim to increase pressure on their governments.",
+   "more": "These protests involve young people in particular, as they have organized simultaneous demonstrations across several nations. The framing in the articles highlights a sense of urgency and solidarity among the youth in Europe, emphasizing their role in pushing back against the government policies. Different outlets stress the escalating nature of the protests and the collective demand for changes in response to economic conditions.",
+   "coverage": [
+    {
+     "outlet": "DW (English)",
+     "title": "Protestas y huelgas en Europa contra el costo de vida y la militarizaci\u00f3n",
+     "title_en": "Protests and Strikes Across Europe Against Cost of Living and Militarization",
+     "url": "https://www.dw.com/es/protestas-y-huelgas-en-europa-contra-el-costo-de-vida-y-la-militarizaci%C3%B3n/a-80003501",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Elperiodico.com",
+     "title": "Los j\u00f3venes de Europa protestan contra el alza del coste de la vida y la militarizaci\u00f3n",
+     "title_en": "Young People in Europe Protest Rising Living Costs and Militarization",
+     "url": "https://www.elperiodico.com/es/internacional/20261120/jovenes-europa-protestan-alza-coste-vida-militarizacion-136678397",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-20",
+   "title": "Trump Administration Seeks to Dismiss Lawsuit Over Alaska Senate Race",
+   "sum": "The Trump administration is attempting to drop its legal challenge regarding Democrat Mary Peltola's victory in Alaska's Senate race. This move signifies a significant shift in their approach to the contested election.",
+   "more": "Various news outlets report the administration's decision to dismiss the lawsuit, highlighting the implications for the political landscape in Alaska. The framing is consistent across sources, emphasizing the effectiveness of the Trump administration's legal strategy. There is a shared focus on Peltola's win and the ramifications of this legal withdrawal for future political contests in the state.",
+   "coverage": [
+    {
+     "outlet": "New York Post",
+     "title": "Trump admin moves to drop lawsuit in high-stakes Alaska Senate race",
+     "title_en": "Trump admin moves to drop lawsuit in high-stakes Alaska Senate race.",
+     "url": "https://nypost.com/2026/11/19/us-news/trump-admin-moves-to-drop-lawsuit-in-high-stakes-alaska-senate-race/",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "CBS News",
+     "title": "DOJ moves to dismiss lawsuit over Alaska Senate race",
+     "title_en": "DOJ moves to dismiss lawsuit over Alaska Senate race.",
+     "url": "https://www.cbsnews.com/news/trump-administration-dismiss-alaska-senate-lawsuit/",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "HuffPost",
+     "title": "Trump Administration Moves To Have Lawsuit Dismissed In Challenge To Alaska's U.S. Senate Race",
+     "title_en": "Trump Administration Moves To Have Lawsuit Dismissed In Challenge To Alaska's U.S. Senate Race.",
+     "url": "https://www.huffpost.com/entry/ap-us-election-2026-alaska-senate-lawsuit_n_6affa189e4b03f9a657c6a3a",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  }
+ ]
+}

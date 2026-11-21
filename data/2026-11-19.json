@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updated": "Nov 20, 18:56 UTC",
+ "updated": "Nov 21, 17:52 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -477,6 +477,216 @@
      "title_en": "Elon Musk, who has worn MAGA hats and gave nearly $500 million to Republicans, now says he is 'not MAGA'",
      "url": "https://www.them.us/politics/elon-musk-not-maga-reversal",
      "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-19",
+   "title": "Discussion on Recent Digital Outages and AI Developments",
+   "sum": "The latest episode of 'Uncanny Valley' addresses a series of digital outages experienced recently. The conversation also touches on funding from Anthropic's IPO and developments in the AI chip industry.",
+   "more": "The discussion provides insights into the implications of these outages on digital life and explores the potential trajectories for AI technology following significant investments. Different outlets may emphasize either the technical aspects of the outages or the financial implications of AI advancements. This divergence highlights varying perspectives on the interplay between technology reliability and investment trends.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "What\u2019s With All These Outages?",
+     "title_en": "What\u2019s With All These Outages?",
+     "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-19",
+   "title": "Dyson Launches Early Black Friday Vacuum Deals",
+   "sum": "Dyson is offering early Black Friday vacuum deals starting today, featuring significant discounts on popular models. The highlighted products include the Dyson V16 Piston Animal and Dyson V15 Detect.",
+   "more": "The article emphasizes the urgency of these deals, suggesting they should not be missed by consumers looking for high-quality vacuums. It mentions specific models that are particularly popular and the benefits they offer. Different outlets may highlight various features of these models or the extent of the discounts available, but the overall framing remains consistent around the excitement of early holiday sales.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Best Dyson Early Black Friday Vacuum Deals (2026): Dyson V16 Piston Animal, Dyson V15 Detect",
+     "title_en": "Best Dyson Early Black Friday Vacuum Deals (2026): Dyson V16 Piston Animal, Dyson V15 Detect",
+     "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-19",
+   "title": "Trump's Summits with Putin and Xi Highlight Diplomatic Efforts",
+   "sum": "President Trump recently participated in summits with Putin and Xi, expressing optimism about historical diplomatic progress. However, significant breakthroughs, particularly regarding peace deals, have yet to be achieved.",
+   "more": "While both NBC News and Fox News emphasize the importance of the summits, NBC focuses on Trump's low approval ratings and the respect he received overseas, contrasting with the ongoing challenges at home. In contrast, Fox News highlights the potential historical significance of the meetings but notes that tangible outcomes regarding nuclear arms reduction and the Ukraine conflict remain absent. This illustrates differing framings of Trump's international engagements, with NBC portraying a more critical view of his domestic standing.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Trump touts \u2018unbelievable\u2019 summit with Putin and Xi, though peace deals remain elusive",
+     "title_en": "Trump touts \u2018unbelievable\u2019 summit with Putin and Xi, though peace deals remain elusive",
+     "url": "https://www.nbcnews.com/politics/donald-trump/trump-touts-unbelievable-summit-putin-xi-though-peace-deals-remain-elu-rcna610014",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive",
+     "title_en": "Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive",
+     "url": "https://www.foxnews.com/politics/trumps-historic-summit-xi-putin-marks-diplomatic-milestone-breakthroughs-remain-elusive",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-19",
+   "title": "New Disability Law Approved with Unanimous Support",
+   "sum": "The new disability law was approved by 71 votes in favor and none against. It had previously received nearly unanimous support in the House of Deputies.",
+   "more": "The approval marks a significant step in disability legislation, demonstrating strong political will. There are calls for the government to ensure proper implementation of the law's regulations. This reflects a unified approach among lawmakers, as the law had previously garnered 237 votes in the lower house.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Aprueban la nueva ley de Discapacidad y reclaman que el Gobierno cumpla con su reglamentaci\u00f3n",
+     "title_en": "New Disability Law Approved with Unanimous Support",
+     "url": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-19",
+   "title": "Kicillof Campaigns Against Milei's Re-Election",
+   "sum": "Axel Kicillof expressed that four more years under Milei would be disastrous. He made these comments after a summit of the Peronist party in San Fernando, which he did not attend.",
+   "more": "Kicillof's remarks come as he supports one of his potential successors from the Movimiento Derecho al Futuro. His criticism of Milei suggests a heightened political rivalry as the election approaches. Other outlets might focus on the implications of Kicillof's absence from the summit or the potential impact of his endorsement on the election.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Axel Kicillof, en modo campa\u00f1a: \u201cCuatro a\u00f1os m\u00e1s de Milei ser\u00edan una calamidad\u201d",
+     "title_en": "Kicillof, in campaign mode: 'Four more years of Milei would be a calamity.'",
+     "url": "https://www.lanacion.com.ar/politica/axel-kicillof-en-modo-campana-cuatro-anos-mas-de-milei-serian-una-calamidad-nid19112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-19",
+   "title": "Myanmar Genocide Verdict: Historic Implications",
+   "sum": "A historic verdict regarding genocide in Myanmar has been reached, which could have significant impacts. Legal experts are examining how Gambia effectively demonstrated Myanmar's intent to commit genocide.",
+   "more": "The BBC highlights the importance of this ruling, noting that it may set a precedent for future cases of genocide. It also mentions the role of international law and the implications for accountability in similar situations. While the verdict is celebrated as a milestone by some, the framing may vary across outlets, with some emphasizing the challenges in enforcing accountability.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+     "title_en": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications.",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-19",
+   "title": "Protests in Colombia Against De la Espriella's Policies",
+   "sum": "Thousands of Colombians demonstrated against the policies of De la Espriella. The protests were led by various unions, health workers, and national teachers.",
+   "more": "The march in Bogot\u00e1 saw participants brandishing Colombian flags and voicing their dissent. In addition to the rejection of specific policies, the protests also targeted a tax reform pushed by De la Espriella. While both articles emphasize the public turnout and the diversity of the protesters, they differ slightly in their focus\u2014one highlights the participation of unions and health workers, while the other specifically mentions the tax reform.",
+   "coverage": [
+    {
+     "outlet": "Aristeguinoticias.com",
+     "title": "Miles se manifiestan en Colombia para rechazar las pol\u00edticas de De la Espriella",
+     "title_en": "Thousands Protest in Colombia Against De la Espriella's Policies",
+     "url": "https://aristeguinoticias.com/1911/mundo/miles-se-manifiestan-en-colombia-para-rechazar-las-politicas-de-de-la-espriella/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Nacion.com",
+     "title": "Protesta en Colombia contra reforma tributaria impulsada por De la Espriella",
+     "title_en": "Protests in Colombia Against Tax Reform Proposed by De la Espriella",
+     "url": "https://www.nacion.com/el-mundo/protesta-en-colombia-contra-reforma-tributaria/FRLQJ4NN6BBWDHHE7LYDVHWA2M/story/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-19",
+   "title": "Amnesty International Documents Police Violence Cases During November 11 Strike",
+   "sum": "Amnesty International reported over 60 cases of police violence during the general strike on November 11. The organization emphasizes the need for regulations on the use of force by police in accordance with international human rights standards.",
+   "more": "The report details incidents of excessive force, including baton strikes, rubber bullet shootings, and the use of tear gas and pepper spray against peaceful protesters and journalists. Amnesty International calls for legislative changes to better regulate police conduct. Different outlets highlight various aspects, such as the specific actions taken by police and the broader implications for human rights practices in the region.",
+   "coverage": [
+    {
+     "outlet": "Lamarea.com",
+     "title": "Amnist\u00eda Internacional documenta m\u00e1s de 60 casos de violencia policial durante la huelga del 11-N",
+     "title_en": "Amnesty International Documents More than 60 Cases of Police Violence During the November 11 Strike",
+     "url": "https://www.lamarea.com/2026/11/20/violencia-policial-huelga/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Eldiario.es",
+     "title": "Amnist\u00eda Internacional contabiliza 61 casos de \"uso excesivo de la fuerza\" policial durante la huelga general",
+     "title_en": "Amnesty International Counts 61 Cases of Excessive Police Force During the General Strike",
+     "url": "https://www.eldiario.es/politica/amnistia-internacional-contabiliza-61-casos-excesivo-fuerza-policial-durante-huelga-general_1_13676557.html",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-19",
+   "title": "Elon Musk Reconsidering His Political Affiliations",
+   "sum": "Elon Musk has expressed regret over his political spending, stating he feels 'pretty foolish'. He also clarified that he does not identify with the MAGA movement.",
+   "more": "Musk reflected on his substantial financial contributions to Republican candidates, particularly during the midterm elections, indicating a shift in his political perspective. He emphasized that he does not have 'blind adherence' to Republican policies. This contrasts with earlier associations with the MAGA brand, suggesting a nuanced reevaluation of his stance on politics. Different outlets highlight his shift from a MAGA supporter to a more moderate position.",
+   "coverage": [
+    {
+     "outlet": "Fortune",
+     "title": "Elon Musk went from \u2018dark MAGA\u2019 to \u2018not MAGA\u2019 after spending $445 million on a Republican midterm defeat",
+     "title_en": "Elon Musk went from \u2018dark MAGA\u2019 to \u2018not MAGA\u2019 after spending $445 million on a Republican midterm defeat.",
+     "url": "https://fortune.com/2026/11/19/elon-musk-not-maga-445-million-election-spending-midterms/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Elon Musk says he is \u2018not MAGA\u2019 after spending millions on Trump and his allies",
+     "title_en": "Elon Musk says he is \u2018not MAGA\u2019 after spending millions on Trump and his allies.",
+     "url": "https://www.nbcnews.com/politics/2026-election/elon-musk-says-not-maga-spending-millions-trump-allies-rcna610129",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-19",
+   "title": "Elon Musk's Political Stance Appears to Shift",
+   "sum": "Elon Musk has recently distanced himself from his previous far-right political affiliations. His comments at the New York Times DealBook Summit suggest a more moderate stance.",
+   "more": "During a significant public appearance, Musk moved away from the extreme conservative image he projected at previous events, such as the Conservative Political Action Conference. This shift in rhetoric raises questions about his current political agenda and how it may affect his influence. Different media outlets might emphasize the implications of this shift differently, with some focusing on his past actions and others on potential consequences for his business ventures.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Oh, Elon Musk is \u2018moderate\u2019 now, is he?",
+     "title_en": "Oh, Elon Musk is \u2018moderate\u2019 now, is he?",
+     "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+     "bias": "Lean Left",
      "src": "ai"
     }
    ]
