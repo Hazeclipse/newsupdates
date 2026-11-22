@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "updated": "Nov 21, 17:52 UTC",
+ "updated": "Nov 22, 18:10 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -419,6 +419,307 @@
      "url": "https://www.huffpost.com/entry/ap-us-election-2026-alaska-senate-lawsuit_n_6affa189e4b03f9a657c6a3a",
      "bias": "Left",
      "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-20",
+   "title": "Trump Threatens Tax for Overseas AI Data Centers",
+   "sum": "President Trump has announced plans to impose a significant tax on tech companies that establish AI data centers outside the U.S. This statement follows ongoing restrictions in various states regarding data center applications.",
+   "more": "The responses from different outlets highlight the potential economic implications of Trump's threats on the tech industry. While some emphasize the severity of the proposed tax, others focus on the lack of details provided by Trump regarding its implementation. Additionally, comparisons are made between his remarks and the current climate for data centers in the U.S., particularly in light of state-level restrictions. Overall, the framing presents a mix of concern for the tech sector's future and a reflection on national competitiveness.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+     "title_en": "Trump threatens \u2018tremendous tax\u2019 for moving AI data centers outside the US",
+     "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "Trump threatens a 'tremendous tax' on tech companies building data centers outside the US",
+     "title_en": "Trump threatens a 'tremendous tax' on tech companies building data centers outside the US",
+     "url": "https://www.businessinsider.com/trump-warning-building-overseas-data-centers-2026-11",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Trump threatens 'tremendous tax' on tech companies that build AI centers overseas",
+     "title_en": "Trump threatens 'tremendous tax' on tech companies that build AI centers overseas",
+     "url": "https://www.yahoo.com/news/politics/articles/trump-says-plans-penalize-us-174503646.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-20",
+   "title": "White House Cyber Director Fired Following Tech Outages",
+   "sum": "Sean Cairncross, the White House national cyber director, has been fired after significant tech outages affected various sectors in the United States. The decision reportedly follows a series of incidents impacting air travel, banking, and national security.",
+   "more": "Both articles confirm the firing of Sean Cairncross and link it to recent tech failures across multiple sectors. Yahoo Entertainment highlights a person's perspective close to the White House, suggesting a sudden decision following the outages. In contrast, ABC News simply reports the firing without additional details on the timing or implications of the tech issues. The focus remains on the immediate outcome of his departure rather than potential future impacts.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "White House national cyber director is leaving his post",
+     "title_en": "White House national cyber director is leaving his post.",
+     "url": "https://www.yahoo.com/news/articles/white-house-national-cyber-director-222714781.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "White House replaces national cyber director amid widespread tech outages",
+     "title_en": "White House replaces national cyber director amid widespread tech outages.",
+     "url": "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-20",
+   "title": "New York City Develops Plan to Close Rikers Island Jail Complex",
+   "sum": "New York City officials are advancing plans to shut down Rikers Island, a jail complex known for violence and inmate fatalities. The strategy includes replacing it with smaller facilities and aims to decrease the incarcerated population.",
+   "more": "NPR emphasizes the long history of discussions leading to this decision, focusing on the issues of safety and humane treatment within the jail. Al Jazeera highlights the specifics of the new plan, including the proposed timeline for closing Rikers by 2032 and the intention to scale down the overall number of incarcerated individuals. While both outlets agree on the goal of closing Rikers, NPR frames the issue around the past challenges faced at the facility, whereas Al Jazeera presents a forward-looking perspective on the new jail replacements.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+     "title_en": "New York City unveils a bold plan to move its jails off Rikers Island.",
+     "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Mamdani unveils plan to close New York\u2019s Rikers Island by 2032",
+     "title_en": "Mamdani unveils plan to close New York\u2019s Rikers Island by 2032.",
+     "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-20",
+   "title": "Denmark Expels Russian Diplomats Over Alleged Assassination Plot",
+   "sum": "Denmark has accused Russia of attempting to assassinate a US-Ukrainian rapper, leading to the expulsion of a Russian diplomat. Russia's embassy in Denmark has denied these allegations.",
+   "more": "The Danish government claims that the assassination plot involved a banned local gang, emphasizing the seriousness of the accusations. In response, Russia has stated that there is no evidence supporting Denmark's claims. The situation highlights ongoing tensions between Denmark and Russia amidst broader geopolitical conflicts.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+     "title_en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper.",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
+     "title_en": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper.",
+     "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-20",
+   "title": "YouTube to Settle Social Media Addiction Claims for $3 Billion",
+   "sum": "YouTube is reportedly close to a $3 billion settlement regarding its design's impact on child users. The settlement will involve compensation to thousands of school districts.",
+   "more": "According to Bloomberg, the agreement is said to be reached 'in principle,' although the details may still be finalized. This settlement comes amidst ongoing concerns about the effects of social media on children's mental health and well-being. Different outlets may emphasize varying aspects of the settlement, such as its implications for social media regulation or the acknowledgment of harm caused to children.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+     "title_en": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion.",
+     "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-20",
+   "title": "National Cyber Director Sean Cairncross Exits Trump Administration",
+   "sum": "Sean Cairncross, the National Cyber Director, is leaving the Trump administration, with Kirsten A. Davies taking over. Cairncross was instrumental in developing AI policy during his tenure.",
+   "more": "NBC News highlights Cairncross's key role in AI policy, while Fox News focuses on his firing being linked to cybersecurity credentials amidst tech outages. Both outlets note the immediate succession by Kirsten A. Davies. The framing in Fox News suggests a more contentious departure compared to the more neutral tone in NBC News.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "White House national cyber director is leaving the administration",
+     "title_en": "White House national cyber director is leaving the administration.",
+     "url": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump\u2019s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+     "title_en": "Trump\u2019s National Cyber Director Sean Cairncross fired amid widespread tech outages.",
+     "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-20",
+   "title": "Jorge Uauy's 18-Page Plan to Transform Chilean Football",
+   "sum": "Jorge Uauy, the new president of Chilean football, has introduced an 18-page roadmap for his administration. The plan includes conducting an audit within the first 100 days, separating the League and FFCh, reorganizing internally, and seeking new revenue sources for the clubs.",
+   "more": "Uauy's approach emphasizes transparency and aims to provide a structured reform in Chilean football governance. The proposed audit is framed as a necessary step rather than a judgment of past actions. This clear distinction may influence how stakeholders perceive his leadership and the impending changes. The plan's details and the urgency of the proposed actions underscore the new president's commitment to revitalizing the football system in Chile.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "\u201cAuditar no es prejuzgar: es transparentar\u201d: el plan de 18 hojas con el que Jorge Uauy busca transformar la ANFP",
+     "title_en": "\"Auditing is not Prejudging: It's Making Transparent\"",
+     "url": "https://www.latercera.com/el-deportivo/noticia/auditar-no-es-prejuzgar-es-transparentar-el-plan-de-18-hojas-con-el-que-jorge-uauy-busca-transformar-la-anfp/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-20",
+   "title": "Bukele Announces Candidacy for Third Term in 2027 Elections in El Salvador",
+   "sum": "Bukele is running for a third term in the 2027 elections in El Salvador. He expressed his commitment to continuously improve the country.",
+   "more": "His statement indicates a focus on making gradual progress in addressing various issues in El Salvador. While not all outlets may have reported on the reactions to his announcement, the framing of his commitment to improving the country may vary based on the political views of the publications. Some may emphasize the implications of a third term, while others may focus on his achievements or public support as reasons for his candidacy.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Bukele se presenta a las elecciones de 2027 y optar\u00e1 por un tercer mandato en El Salvador",
+     "title_en": "Bukele Announces Candidacy for Third Term in El Salvador's 2027 Elections",
+     "url": "https://www.latercera.com/mundo/noticia/bukele-se-presenta-a-las-elecciones-de-2027-y-optara-por-un-tercer-mandato-en-el-salvador/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-20",
+   "title": "Russian Missile Strikes Poland During Military Exercises",
+   "sum": "A Russian missile has reportedly struck Poland amid ongoing military exercises involving Ukraine's allies. Prime Minister Donald Tusk suggested that the timing of the incident does not seem coincidental.",
+   "more": "This incident has raised concerns about the implications for regional security and the potential for escalating tensions between NATO and Russia. Tusk's remarks highlight a perception that the incident may be linked to the military activities in the region. The framing in different outlets may vary, with some focusing on the implications for Poland's role within NATO, while others address the broader geopolitical context.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "title_en": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-20",
+   "title": "Miss France 2027 General Knowledge Test Released",
+   "sum": "The general knowledge test for Miss France 2027 has been made available for participation. This annual tradition involves candidates engaging in a challenging questionnaire.",
+   "more": "Both articles highlight the release of the general knowledge test for Miss France 2027, emphasizing the tradition in which contestants participate. The test is taken by all 31 candidates during their time in Saint-Martin. The framing is similar, focusing on the challenge of the test and its significance in the competition.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Miss France 2027\u00a0: Le test de culture g\u00e9n\u00e9rale est tomb\u00e9, \u00e0 vous de jouer (sans tricher)",
+     "title_en": "Miss France 2027: The general knowledge test has arrived, give it a try (without cheating).",
+     "url": "https://www.20minutes.fr/arts-stars/television/miss_france/4263531-20261120-miss-france-2027-test-culture-generale-tombe-jouer-tricher",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Miss France 2027\u00a0: le test de culture g\u00e9n\u00e9rale est sorti, faites le test",
+     "title_en": "Miss France 2027: The general knowledge test is out, take the test.",
+     "url": "https://www.huffingtonpost.fr/divertissement/article/miss-france-2027-le-test-de-culture-generale-est-sorti-faites-le-test_361783.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-20",
+   "title": "Three Police Officers Sentenced for Assaulting Music Producer Michel Zecler",
+   "sum": "Three police officers have been sentenced to 1 to 2 years in prison for their assault on music producer Michel Zecler, which occurred six years ago. The Paris criminal court noted the racist nature of the violence during the attack.",
+   "more": "The sentencing highlights ongoing discussions about police violence and racism in France, which resurfaced following the 2020 incident involving Zecler. While one outlet reported shorter prison terms of 1 to 2 years, another mentioned a potential higher sentencing of up to five years. This discrepancy reflects different interpretations of the severity and framing of the punishment associated with the case. Overall, both articles underscore the broader societal implications of police conduct in France.",
+   "coverage": [
+    {
+     "outlet": "20 Minutes",
+     "title": "Six ans apr\u00e8s l\u2019agression de Michel Zecler, les trois policiers condamn\u00e9s \u00e0 des peines de 1 \u00e0 2 ans de prison ferme",
+     "title_en": "Six years after the assault on Michel Zecler, the three police officers sentenced to prison terms of 1 to 2 years.",
+     "url": "https://www.20minutes.fr/justice/4264385-20261120-six-ans-apres-agression-michel-zecler-trois-policiers-condamnes-peines-1-2-ans-prison-ferme",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Proc\u00e8s Zecler\u00a0: les trois policiers condamn\u00e9s \u00e0 cinq ans de prison",
+     "title_en": "Zecler Trial: Three Police Officers Sentenced to Five Years in Prison.",
+     "url": "https://www.huffingtonpost.fr/france/article/proces-zecler-les-trois-policiers-condamnes-a-cinq-ans-de-prison_361847.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-20",
+   "title": "Protests Across Europe Addressing Living Costs and Climate Concerns",
+   "sum": "Protests have erupted across Europe as workers and students voice their concerns over wages, services, and the high cost of living. The demonstrations are notably inspired by recent protests in France.",
+   "more": "In addition to the demonstrations against rising costs, protests led by Generation Z have also highlighted issues including military spending and climate change across 25 countries. ABC News emphasizes the participation of students rallying in major cities like Rome and London, indicating a widespread discontent among the youth regarding education cuts and war. Despite similar themes, the framing varies slightly, with Al Jazeera focusing more on broader service and living condition complaints, while ABC News hones in on education and student interests.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Protests held across Europe over wages, services, high living costs",
+     "title_en": "Protests held across Europe over wages, services, high living costs.",
+     "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Students rally across Europe over cost of living, war and education cuts",
+     "title_en": "Students rally across Europe over cost of living, war and education cuts.",
+     "url": "https://www.abc.net.au/news/2026-11-21/students-protest-in-eu-and-uk/107406996",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-20",
+   "title": "Potential 2028 Presidential Frontrunners for Both Parties",
+   "sum": "No candidates have officially declared their intention to run for president in 2028 yet. However, a list of 16 potential frontrunners from both the Republican and Democratic parties has emerged.",
+   "more": "The article highlights various figures from both parties who are speculated to consider a presidential run. While there is no formal announcement, the discussion around possible candidates indicates growing interest in the upcoming election. The framing focuses on those within party leadership and recognized political figures, emphasizing a mix of established politicians and emerging leaders across the spectrum.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Meet the potential 2028 presidential frontrunners from both parties",
+     "title_en": "Meet the potential 2028 presidential frontrunners from both parties.",
+     "url": "https://www.businessinsider.com/presidential-election-candidates-frontrunners",
+     "bias": "Lean Left",
+     "src": "ai"
     }
    ]
   }

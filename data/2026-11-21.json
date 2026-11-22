@@ -1,0 +1,340 @@
+{
+ "date": "2026-11-21",
+ "updated": "Nov 22, 18:10 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-21",
+   "title": "European Space Probe Reinvestigates NASA's Planetary Defense Test Site",
+   "sum": "A European Space Agency probe is returning to asteroids where NASA previously tested planetary defense systems. The mission aims to gather more information about the tested strategies against potentially dangerous asteroids.",
+   "more": "The probe's revisit to the site comes several years after NASA's initial tests, highlighting a collaborative effort in understanding and enhancing planetary defense. The involvement of different space agencies signifies a shared commitment to safeguarding Earth from asteroid threats. Notably, the framing of this mission's significance varies slightly across outlets; some focus more on the international collaboration aspect, while others emphasize the scientific curiosity driving the investigation.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+     "title_en": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
+     "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-21",
+   "title": "Review of Sony Bravia 9 II: Premium RGB Television",
+   "sum": "The Sony Bravia 9 II is a high-end RGB television known for its impressive sound, brightness, and customizable picture quality. While it carries a premium price tag, it offers extensive options for tuning settings.",
+   "more": "The review highlights the television's standout features, particularly in sound and picture quality, which can be adjusted to meet user preferences. Despite the cost, the emphasis on adjustability and brightness appeals to consumers seeking a high-quality viewing experience. Other outlets may focus on different aspects of the product, such as its design or market competition, which could alter consumer perception.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+     "title_en": "Sony Bravia 9 II Review (2026): Adjustable and Bright",
+     "url": "https://www.wired.com/review/sony-bravia-9-ii/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-21",
+   "title": "Man Convicted for 2025 Palisades Fire That Resulted in 12 Deaths",
+   "sum": "A federal jury has convicted Jonathan Rinderknecht for starting the 2025 Palisades Fire in Los Angeles, which resulted in 12 fatalities. The fire began on January 7, 2025, fueled by strong winds.",
+   "more": "Prosecutors presented arguments indicating that Rinderknecht was experiencing significant anger prior to the incident. After a previous mistrial over the summer, this conviction marks a significant legal outcome. Different media outlets emphasize various aspects, such as the fire's influence from environmental conditions like Santa Ana winds, while others focus on Rinderknecht's emotional state leading up to the fire.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+     "title_en": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles.",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Federal jury convicts man of starting the 2025 Palisades Fire that killed 12 people",
+     "title_en": "Federal jury convicts man of starting the 2025 Palisades Fire that killed 12 people.",
+     "url": "https://www.yahoo.com/news/us/articles/palisades-arson-retrial-ends-conviction-230617720.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-21",
+   "title": "FBI and USDA Reportedly Hacked",
+   "sum": "Both the FBI and the USDA have reportedly fallen victim to cyber attacks. This incident marks the second attack on the FBI in recent months.",
+   "more": "CNN reported that the hack against the FBI specifically targeted the National Crime Information Center. The implications of such security breaches raise concerns about the protection of sensitive information within U.S. government agencies. Meanwhile, the USDA's involvement in the hack highlights the potential vulnerabilities across different sectors of government. Reports from multiple outlets suggest a growing trend of cyber attacks affecting federal institutions.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "The FBI and USDA were reportedly hacked",
+     "title_en": "The FBI and USDA were reportedly hacked.",
+     "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-21",
+   "title": "Denmark Claims Russian Plot to Assassinate Ukrainian American Rapper",
+   "sum": "Denmark has accused Russian intelligence services of attempting to assassinate a Ukrainian American citizen on its territory. This claim follows the expulsion of a Russian defense attache and guilty pleas from two gang-affiliated individuals.",
+   "more": "Both NBC News and Fox News report on the Danish government's accusation against Russia, emphasizing the serious nature of the alleged assassination plot. NBC highlights the involvement of the Danish prime minister\u2019s office, while Fox News focuses on the expulsion of the defense attache and the guilty pleas of suspects linked to gangs. The framing of Fox News suggests an operational context involving gang activity, whereas NBC underscores the broader geopolitical implications of this plot.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
+     "title_en": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil.",
+     "url": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil",
+     "title_en": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil.",
+     "url": "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-21",
+   "title": "Effort to Bypass Electoral College Gains Momentum",
+   "sum": "A national initiative aims to ensure that only the winners of the popular vote become presidents. Although progress has been made, challenges still lie ahead.",
+   "more": "The proposal to reform the Electoral College system is gaining traction, with discussions about its implications for future elections. While some outlets emphasize the potential success of the initiative, others focus on the political and logistical obstacles that must be overcome. The debate highlights differing perspectives on the importance of the popular vote in a democratic system, presenting both optimism and caution regarding the initiative's viability.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+     "title_en": "An effort to circumvent the Electoral College may be within reach. But hurdles remain.",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-21",
+   "title": "PSOE Narrows Gap with PP Despite Feij\u00f3o's Debate Victory",
+   "sum": "A recent poll indicates that the PSOE is closing the gap with the PP ahead of the general elections on November 29. The poll shows that 43% of respondents believe Feij\u00f3o won the debate.",
+   "more": "The survey, conducted by 40dB for El Pa\u00eds and Cadena SER, places the socialists just seven-tenths behind the popular party. Despite Feij\u00f3o's perceived success in the debate, the narrowing gap suggests a competitive election ahead. Different outlets may emphasize either the debate performance or the polling results, influencing public perception of the candidates' standings.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "PSOE reduce al m\u00ednimo su brecha con el PP a pesar de victoria de Feij\u00f3o en el debate de cara al 29-N",
+     "title_en": "PSOE reduces its gap with PP to a minimum despite Feij\u00f3o's victory in the debate ahead of 29-N.",
+     "url": "https://www.latercera.com/mundo/noticia/psoe-reduce-al-minimo-su-brecha-con-el-pp-a-pesar-de-victoria-de-feijoo-en-el-debate-de-cara-al-29-n/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-21",
+   "title": "Support for Jos\u00e9 Antonio Kast Declines Significantly",
+   "sum": "Jos\u00e9 Antonio Kast's support has plummeted to 18% eight months into his presidency. A core group of loyal supporters remains, primarily older men over 55.",
+   "more": "The article highlights the demographic characteristics of Kast's dwindling supporters, mentioning that they are largely ideologized and consist of older men. Different polling organizations have provided insight into who maintains consistent backing for Kast despite the overall decline. There is a focus on the implications of this shift in support and what it might mean for Kast's political future.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Pacientes e ideologizados: los adherentes que componen el n\u00facleo duro de Kast",
+     "title_en": "Patients and Ideologized: The Loyal Core Supporters of Kast",
+     "url": "https://www.latercera.com/politica/noticia/pacientes-e-ideologizados-los-adherentes-que-componen-el-nucleo-duro-de-kast/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-21",
+   "title": "Russian Merchant Ship Set Ablaze Following Drone Attack in International Waters",
+   "sum": "A Russian merchant ship was set on fire after a drone attack in international waters in the Gulf of Finland. In response to the incident, the Finnish government implemented temporary restrictions on maritime navigation and aviation.",
+   "more": "The attack has raised concerns about maritime security in the region, prompting Finland to take precautionary measures. There are differing perspectives on the motivations behind the drone attack, with some sources highlighting rising tensions between Russia and neighboring countries. The situation is still evolving, and further developments may affect international navigation norms.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Incendiado un buque mercante ruso tras un ataque con drones en aguas internacionales del golfo de Finlandia",
+     "title_en": "Russian merchant ship set ablaze after drone attack in international waters of the Gulf of Finland.",
+     "url": "https://www.latercera.com/mundo/noticia/incendiado-un-buque-mercante-ruso-tras-un-ataque-con-drones-en-aguas-internacionales-del-golfo-de-finlandia/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-21",
+   "title": "FBI Investigates Hack of Criminal Database",
+   "sum": "The FBI is reportedly looking into a hack of its National Crime Information Center database. This database is utilized by both federal and local law enforcement to exchange information.",
+   "more": "The investigation into the hack highlights concerns over the security of sensitive law enforcement information. The National Crime Information Center database serves as a crucial tool for sharing critical data among agencies, and any breach could have serious implications for public safety. Different media outlets may frame the issue based on the potential consequences of the hack on law enforcement operations and community trust.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "title_en": "FBI reportedly investigating apparent hack of its criminal database",
+     "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-21",
+   "title": "Miliband States EU Deal Not Dependent on Tuition Fees Agreement",
+   "sum": "Ed Miliband claims that the agreement with the EU is not contingent on a decision regarding tuition fees. This statement comes amidst suggestions that the EU may delay a broader deal until tuition fees for EU students in the UK are reduced.",
+   "more": "There seems to be a divide in how different sources interpret the implications of tuition fees on the EU deal. Some media reports emphasize the linkage between the agreement and fee structures, while others focus on Miliband's assurance that the two issues are separate. This reflects varying perspectives on the negotiations and the potential impact on EU student mobility. Overall, the tension between educational finance and international agreements remains a crucial point of discussion.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "title_en": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-21",
+   "title": "Challenges Faced by Israel\u2019s Opposition Bloc and Protests in India Against Meta",
+   "sum": "Israel\u2019s opposition bloc is dealing with internal ideological divisions while trying to present a united front against Netanyahu. In India, protests are occurring as the opposition calls for the reinstatement of accounts removed by Meta.",
+   "more": "The article from Al Jazeera discusses the fragile alliance formed by Eisenkot's opposition bloc in Israel, highlighting the difficulties posed by differing ideologies within the group. Meanwhile, the Indian Youth Congress is taking a firm stance against Meta, issuing a seven-day ultimatum for the resolution of account removals. The framing in both instances emphasizes the challenges faced by opposition groups in different political contexts as they seek to effect change.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Can Israel\u2019s opposition bloc stay united against Netanyahu?",
+     "title_en": "Can Israel\u2019s opposition bloc stay united against Netanyahu?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-21",
+   "title": "Netanyahu's Incitement Risks New Violence Similar to Rabin's Assassination",
+   "sum": "Al Jazeera warns that Prime Minister Netanyahu's rhetoric against Arab lawmakers resembles the incitement preceding the assassination of former Prime Minister Rabin. This behavior raises concerns about a potential resurgence of violence.",
+   "more": "The article emphasizes the dangers of incendiary language in political discourse, drawing parallels to historical events. It argues that such rhetoric could have grave consequences for Israeli society and exacerbate existing tensions. Al Jazeera focuses on the implications of Netanyahu's actions on national unity and the potential for renewed conflict.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu is playing with the fire that killed Rabin",
+     "title_en": "Netanyahu is playing with the fire that killed Rabin.",
+     "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-21",
+   "title": "Hundreds March in Madrid for Public Residence Law and Justice for COVID Victims",
+   "sum": "Hundreds of people gathered in Madrid to demand a law for public residences and justice for those who died from COVID-19. The protest criticized the government for the lack of healthcare for the deceased residents.",
+   "more": "The protest, organized by Marea de Residencias, called attention to the 7,291 seniors who died during the pandemic in Madrid's residences. Participants marched from Plaza de Cibeles to Puerta del Sol, echoing demands for 100% public residential spaces. While coverage from both Eldiario.es and Europapress.es highlights the main demands of the protest, Eldiario.es focuses on the government's failure to provide adequate healthcare, while Europapress.es emphasizes the year-on-year nature of the mobilization.",
+   "coverage": [
+    {
+     "outlet": "Eldiario.es",
+     "title": "Cientos de personas piden en Madrid una ley de residencias con \"plazas p\u00fablicas\" y justicia para los fallecidos por covid",
+     "title_en": "Hundreds Demand a Residential Law with 'Public Places' and Justice for COVID Victims in Madrid.",
+     "url": "https://www.eldiario.es/madrid/cientos-personas-piden-madrid-ley-residencias-plazas-publicas-justicia-fallecidos-covid_1_13683250.html",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Europapress.es",
+     "title": "Cientos de personas marchan para pedir una ley de residencias con \"plazas p\u00fablicas\" y justicia para fallecidos en covid",
+     "title_en": "Hundreds March to Demand a Residential Law with '100% Public Places' and Justice for COVID Victims.",
+     "url": "https://www.europapress.es/madrid/noticia-cientos-personas-marchan-pedir-ley-residencias-plazas-publicas-justicia-fallecidos-covid-20261121140111.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-21",
+   "title": "Trump Suggests Miller as 2028 Presidential Candidate",
+   "sum": "Donald Trump humorously proposed that Stephen Miller, his chief of staff, could run for president in the upcoming 2028 election during a White House briefing. This remark surprised other potential candidates present.",
+   "more": "At a White House press briefing, Trump made this suggestion while addressing Vice President JD Vance and Secretary of State Marco Rubio, both of whom are also seen as potential contenders for the nomination. The reaction among these officials appeared to be one of surprise, highlighting the lighthearted nature of the comment. Different outlets framed the proposal with varying levels of seriousness, noting the joking tone of Trump's remark but also recognizing the implications it could have for the race.",
+   "coverage": [
+    {
+     "outlet": "RTE",
+     "title": "Trump proposes Miller as a presidential candidate in 2028",
+     "title_en": "Trump proposes Miller as a presidential candidate in 2028.",
+     "url": "https://www.rte.ie/news/us/2026/1121/1600103-us-president-trump/",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "Trump throws Stephen Miller into 2028 presidential race, leaves Vance and Rubio stunned",
+     "title_en": "Trump throws Stephen Miller into 2028 presidential race, leaves Vance and Rubio stunned.",
+     "url": "https://timesofindia.indiatimes.com/world/us/trump-throws-stephen-miller-into-2028-presidential-race-leaves-vance-and-rubio-stunned/articleshow/136055055.cms",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-21",
+   "title": "Concerns Emerge Following AI Stocks Decline",
+   "sum": "AI stocks and broader markets faced significant losses, prompting concerns about the financial system and the economy. This downturn has raised alarms among investors and analysts.",
+   "more": "The alarming news comes amid a week where AI-related stocks saw a notable decrease, leading to broader implications for market stability. Experts are revisiting the potential impacts on the financial sector as these declines suggest underlying vulnerabilities. Different outlets may emphasize the urgency of the situation differently, with some focusing more on specific companies affected while others highlight the overall implications for the economy.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "The AI boom had a really bad week \u2014 and it's raising loud alarms",
+     "title_en": "The AI boom had a really bad week \u2014 and it's raising loud alarms.",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-21",
+   "title": "Democratic Senate Leadership Race Highlights Party Divisions Over Israel",
+   "sum": "The competition to lead the incoming Senate Democratic majority underscores the party's internal divisions regarding Israel. Chris Van Hollen positions himself as a viable candidate despite being considered an underdog.",
+   "more": "The race is characterized by differing perspectives on Israel, reflecting broader tensions within the Democratic Party. Chuck Schumer is the incumbent, while Van Hollen argues that he has a strategy to secure victory. Various media outlets emphasize the implications of these divisions for party unity and future policy directions. Some sources highlight the historical context of party disagreements on foreign policy as a critical factor in the leadership contest.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Contenders to lead Senate Democrats reflect the party's split over Israel",
+     "title_en": "Contenders to lead Senate Democrats reflect the party's split over Israel",
+     "url": "https://www.yahoo.com/news/politics/articles/race-lead-senate-democrats-latest-120057001.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}
