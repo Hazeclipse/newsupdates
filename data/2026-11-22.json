@@ -1,0 +1,385 @@
+{
+ "date": "2026-11-22",
+ "updated": "Nov 23, 22:19 UTC",
+ "stories": [
+  {
+   "cat": "crime",
+   "date": "2026-11-22",
+   "title": "Officials Condemn ICE Arrests at Seattle Airport",
+   "sum": "Washington state officials have criticized ICE after video footage showed two individuals being aggressively detained at Seattle airport. The incident has prompted widespread concern regarding the methods used by immigration agents.",
+   "more": "Both Abcnews.com and Al Jazeera English highlighted the aggressive tactics employed by ICE agents during the arrest. The framing from Al Jazeera emphasized the emotional response, describing the event as 'horrific' and 'chilling', while Abcnews.com focused more on the condemnation from state officials. Both outlets report on the significance of public reaction to these immigration enforcement tactics and the broader implications for civil rights.",
+   "coverage": [
+    {
+     "outlet": "Abcnews.com",
+     "title": "Officials condemn ICE after 2 arrested boarding flight in Seattle",
+     "title_en": "Officials condemn ICE after 2 arrested boarding flight in Seattle",
+     "url": "https://abcnews.com/US/washington-state-officials-condemn-ice-after-2-arrested/story?id=138349974",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "\u2018Horrific\u2019 and \u2018chilling\u2019: Officials condemn ICE arrests at Seattle airport",
+     "title_en": "'Horrific' and 'chilling': Officials condemn ICE arrests at Seattle airport",
+     "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-22",
+   "title": "Democrats Achieve Historic House Majority",
+   "sum": "Democrats have secured a historic majority in the House of Representatives, winning at least 258 seats, the largest victory since 1992. This significant win presents both opportunities and challenges for the party.",
+   "more": "NBC News highlights that Democrat Chuck Hubbard's victory in North Carolina's 5th Congressional District contributed to this achievement, noting that he defeated GOP Rep. The Associated Press emphasizes the implications of this win, suggesting it marks a new era of governance for the Democrats. Both outlets acknowledge the importance of this election outcome, although NBC focuses more on individual races while the AP discusses the broader consequences of the majority.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "House Democrats win largest House majority since 1992",
+     "title_en": "House Democrats win largest House majority since 1992.",
+     "url": "https://www.nbcnews.com/politics/congress/house-democrats-win-largest-house-majority-hubbard-north-carolina-rcna610708",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Associated Press",
+     "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+     "title_en": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992.",
+     "url": "https://apnews.com/article/democrats-house-majority-election-2026-congress-721096a4d9ba2cd68683692361798cdb",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-22",
+   "title": "Literacy Program Inspires Young Authors in South Africa",
+   "sum": "A new literacy program in South Africa aims to address a children's literacy crisis by fostering a love for reading. In a Johannesburg township, a reading club is encouraging children not only to read but also to write.",
+   "more": "The program has seen a positive response from children, who are excited to express themselves through writing. While some outlets focus on the challenges of literacy in South Africa, others emphasize the creativity and enthusiasm sparked by this initiative. The disparity in reporting often highlights how different regions are tackling educational shortcomings and finding solutions through community engagement.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+     "title_en": "Meet the young authors! A literacy program inspires kids in South Africa.",
+     "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-22",
+   "title": "Mart\u00edn Tobal Discusses Economic Stabilization Programs and Reelection",
+   "sum": "Economist Mart\u00edn Tobal examines the success of economic stabilization programs and their impact on reelection rates. He questions whether lowering inflation is sufficient for government success.",
+   "more": "Tobal found that among 44 stabilization programs, only 17 were able to secure reelection. He suggests that beyond inflation control, economic growth may also be crucial. The analysis emphasizes the need for the government to persuade skeptics as it looks towards 2027. There may be differing perspectives on the importance of inflation versus growth in achieving political success.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Mart\u00edn Tobal: \u201cEncontr\u00e9 44 programas de estabilizaci\u00f3n con \u00e9xito econ\u00f3mico y s\u00f3lo 17 consiguieron reelegir\u201d",
+     "title_en": "Mart\u00edn Tobal: 'I Found 44 Economic Stabilization Programs with Success and Only 17 Managed to Reelection'",
+     "url": "https://www.lanacion.com.ar/conversaciones-de-domingo/martin-tobal-encontre-44-programas-de-estabilizacion-con-exito-economico-y-solo-17-consiguieron-nid22112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-22",
+   "title": "Lacunza Warns Pro Party May Disappear if Allied with Milei",
+   "sum": "Economist Hern\u00e1n Lacunza cautioned that the Pro party could lose its political identity if it aligns with Javier Milei. He also criticized the lack of reserves in the economy, stating that it is currently in a state of recession.",
+   "more": "Lacunza's comments highlight concerns regarding the potential merger or collaboration between the Pro party and Milei, stressing the importance of maintaining political identity. He emphasized the economic challenges facing the country, including falling reserves and recession conditions. The framing from La Nacion suggests an urgent need for the Pro party to reflect on its alliances for the sake of its future.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Hern\u00e1n Lacunza dijo que si el Pro se une a Milei \u201cdesaparece\u201d como partido pol\u00edtico",
+     "title_en": "Hern\u00e1n Lacunza said that if the Pro party unites with Milei, it will 'disappear' as a political party.",
+     "url": "https://www.lanacion.com.ar/politica/hernan-lacunza-dijo-que-si-el-pro-se-une-a-milei-desaparece-como-partido-politico-nid22112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-22",
+   "title": "Mass Deportations: DHS Audits Use of Body Cameras by ICE Agents During Immigration Detentions",
+   "sum": "The Congressional auditor reported that there were no written reprimands for rule violations until September 2025. Additionally, doubts were raised about six out of ten facilities.",
+   "more": "The audit highlights concerns regarding the oversight and accountability of ICE agents in immigration detention processes. Notably, the lack of written reprimands for rule violations suggests potential issues in enforcing compliance. Different media outlets may frame this audit either as a necessary step towards enhancing transparency or as an indication of systemic failures within ICE.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Deportaciones masivas: el DHS audita el uso de c\u00e1maras corporales por agentes de ICE en detenciones migratorias",
+     "title_en": "Mass Deportations: DHS Audits Use of Body Cameras by ICE Agents During Immigration Detentions",
+     "url": "https://www.lanacion.com.ar/estados-unidos/migraciones/deportaciones-masivas-el-dhs-audita-el-uso-de-camaras-corporales-por-agentes-de-ice-en-detenciones-nid22112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-22",
+   "title": "Pedro S\u00e1nchez Faces Major Challenge in Upcoming Elections",
+   "sum": "Spanish Prime Minister Pedro S\u00e1nchez is preparing for legislative elections where he is predicted to struggle. Key issues like the housing crisis, migration policy, and corruption allegations are significant concerns.",
+   "more": "Various polls indicate that S\u00e1nchez, despite leading a rapidly growing economy, faces potential defeat. The political landscape is complicated by public dissatisfaction with pressing social challenges. Different news outlets may emphasize these challenges differently, but many agree that the elections represent a significant test for the Socialist leader.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Pedro S\u00e1nchez y el 29-N: el \u201cincombustible\u201d l\u00edder socialista ante su mayor desaf\u00edo",
+     "title_en": "Pedro S\u00e1nchez and the 29-N: the 'incombustible' socialist leader facing his greatest challenge.",
+     "url": "https://www.latercera.com/mundo/noticia/pedro-sanchez-y-el-29-n-el-incombustible-lider-espanol-ante-su-mayor-desafio/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-22",
+   "title": "May Urges Burnham to Accept Brexit is Finalized",
+   "sum": "Former Prime Minister Theresa May told BBC's Laura Kuenssberg that Brexit is 'done' and urged Andy Burnham to accept this reality. Her remarks come following discussions related to the UK's ongoing relationship with the EU.",
+   "more": "May's statements emphasize a push for lawmakers to move past Brexit negotiations. The framing presented by BBC highlights a call for acceptance and progress rather than ongoing debate. Different media outlets may present May's comments as either an encouragement or a dismissal of ongoing Brexit concerns, depending on their editorial stance.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "May warns Burnham 'Brexit is done' after PM's EU talks",
+     "title_en": "May warns Burnham 'Brexit is done' after PM's EU talks",
+     "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-22",
+   "title": "Russell Brand's Wife Commits to Following Prison Rules After Controversial Message",
+   "sum": "Russell Brand's wife has stated her intention to adhere to prison regulations following a dispute over a message she read aloud from her husband. The controversy stems from her public sharing of the message.",
+   "more": "The article highlights the tensions surrounding the communication between Brand and his wife while he is incarcerated. It also touches on the implications of her actions in relation to the prison's rules and the public's reaction to the situation. Different outlets might emphasize varying aspects of the wife\u2019s commitment to the rules or the nature of the message shared.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Russell Brand's wife says she'll honour prison rules after message row",
+     "title_en": "Russell Brand's wife says she'll honour prison rules after message row",
+     "url": "https://www.bbc.co.uk/news/articles/cq8e0pzp43w4o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-22",
+   "title": "Coalition Talks Between Netanyahu\u2019s Likud and Eisenkot\u2019s Yashar End Without Agreement",
+   "sum": "Netanyahu\u2019s Likud and Eisenkot\u2019s Yashar concluded their coalition discussions without reaching a deal. The parties are divided on leadership and the inclusion of far-right minister Itamar Ben-Gvir.",
+   "more": "While Al Jazeera emphasizes the unresolved leadership issue and the contentious role of Ben-Gvir, Haaretz highlights Eisenkot's intention to engage with ultra-Orthodox parties and seek a broader coalition. Eisenkot has expressed a desire not to prolong the negotiations indefinitely, indicating some urgency in forming a coalition. The differing focus on internal dynamics versus the broader coalition strategy illustrates varying perspectives on the situation.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Netanyahu\u2019s Likud, Eisenkot\u2019s Yashar end coalition talks without deal",
+     "title_en": "Netanyahu\u2019s Likud, Eisenkot\u2019s Yashar end coalition talks without deal.",
+     "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Haaretz",
+     "title": "Members of Eisenkot's Yashar, Netanyahu's Likud meet for coalition talks",
+     "title_en": "Members of Eisenkot's Yashar, Netanyahu's Likud meet for coalition talks.",
+     "url": "https://www.haaretz.com/israel-news/israel-politics/2026-11-22/ty-article/.premium/members-of-eisenkots-yashar-netanyahus-likud-meet-for-coalition-talks/000001a2-030b-d175-abf6-1f3f54b90000",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-22",
+   "title": "Somalia's President Breaks Ties with UAE Amid Domestic Power Struggle",
+   "sum": "Somalia's president has distanced himself from the UAE due to internal conflicts involving regional leaders aligned with Abu Dhabi. This shift highlights the complexities of domestic politics influencing international relations.",
+   "more": "The situation reflects not only personal rivalries but also broader tensions between Somalia and external powers like the UAE. Some analysts suggest that this break could have significant implications for Somalia's foreign policy and regional alliances. The framing around this issue differs among outlets, with some emphasizing the personal aspects of the president's decisions while others focus on the geopolitical implications of the rift.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Why Somalia\u2019s president turned against his former ally, the UAE",
+     "title_en": "Why Somalia\u2019s president turned against his former ally, the UAE.",
+     "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-22",
+   "title": "PSG's Doue to Undergo Surgery for Knee Injury",
+   "sum": "Paris St-Germain forward Desire Doue will have surgery after suffering a serious injury to his right knee. The surgery is scheduled for later this month.",
+   "more": "Both BBC News and CNA report on the upcoming surgery for PSG's Desire Doue, emphasizing the seriousness of the knee injury. While BBC specifies the injury as a ruptured anterior cruciate ligament, CNA describes it as a serious knee injury without detailing the specific type. Neither outlet provides a timeline for his return to play, indicating uncertainty regarding his recovery.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "PSG's Doue to have surgery on ruptured ACL",
+     "title_en": "PSG's Doue to have surgery on ruptured ACL.",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CNA",
+     "title": "PSG's Doue to undergo surgery after serious knee injury",
+     "title_en": "PSG's Doue to undergo surgery after serious knee injury.",
+     "url": "https://www.channelnewsasia.com/sport/psgs-doue-undergo-surgery-after-serious-knee-injury-6572941",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-22",
+   "title": "Wembanyama Scores 50 Points in Spurs Victory",
+   "sum": "Victor Wembanyama, a star player for the San Antonio Spurs, scored 50 points in a game against the New Orleans Pelicans. The Spurs won with a final score of 114-91.",
+   "more": "Both articles from BBC News highlight Victor Wembanyama's impressive performance, with a specific focus on his scoring achievement. They frame the win as a dominant display by the Spurs. The language used emphasizes Wembanyama's standout contribution to the game, underscoring his status as a key player for the team.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "\u2018Showing off for Selena Gomez\u2019 - Wembanyama hits 50 points in Spurs win",
+     "title_en": "\u2018Showing off for Selena Gomez\u2019 - Wembanyama hits 50 points in Spurs win",
+     "url": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-22",
+   "title": "Lebanese Villagers Return to Damaged Homes After Israeli Withdrawal",
+   "sum": "Israeli forces have pulled back from a village in southern Lebanon, allowing the Lebanese army to move in. Villagers returning home are discovering their houses in ruins.",
+   "more": "The article emphasizes the devastation faced by villagers as they return amidst the military changes in the region. It does not provide specifics on the extent of the damage but highlights the challenges these villagers will face in rebuilding. The framing largely focuses on the personal impact on the community rather than on broader political implications. Other outlets may frame the withdrawal differently, potentially focusing more on military strategy or international responses.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+     "title_en": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+     "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-22",
+   "title": "Self-Employed Workers Protest in Madrid Against Bureaucracy",
+   "sum": "Around 600 self-employed workers demonstrated in Madrid to demand specific, verifiable, and effective measures to improve their working conditions and reduce bureaucracy. The protest highlights ongoing frustrations among freelancers.",
+   "more": "Both articles report the same number of participants and their demands for action from the government, emphasizing a desire for concrete and effective measures. The protest occurred on a Sunday and reflects broader concerns within the self-employed community regarding bureaucratic obstacles. While both sources convey similar sentiments, subtle differences in wording could suggest varying levels of urgency or emphasis on specific issues.",
+   "coverage": [
+    {
+     "outlet": "Www.abc.es",
+     "title": "Centenares de aut\u00f3nomos se manifiestan en Madrid contra la burocracia",
+     "title_en": "Hundreds of self-employed workers protest in Madrid against bureaucracy.",
+     "url": "https://www.abc.es/economia/centenares-autonomos-manifiestan-madrid-burocracia-20261122185551-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "El Mundo",
+     "title": "Los aut\u00f3nomos se manifiestan en Madrid para reclamar al Gobierno medidas \"concretas y eficaces\" y \"menos burocracia\"",
+     "title_en": "Self-employed workers demonstrate in Madrid to demand the Government 'concrete and effective' measures and 'less bureaucracy.'",
+     "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/22/6b0310ebe9cf4a462a8b4592.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-22",
+   "title": "Thousands Protest Budget in Portugal and Issues in Spain",
+   "sum": "Thousands rallied in Lisbon against the 2027 budget and the cost of living, while hundreds demonstrated in La Coru\u00f1a against a journalist's presence. Both events reflect public discontent in their respective regions.",
+   "more": "The protest in Lisbon was organized by the CGTP union and focused on the theme 'A new direction for Portugal,' indicating concerns over fiscal policies and living costs. In La Coru\u00f1a, the protest targeted journalist Vito Quiles, who faced opposition to his presence among a significant police deployment. The framing differs as the Lisbon protest highlights broader economic issues, while the La Coru\u00f1a event specifically addresses local discontent over an individual figure.",
+   "coverage": [
+    {
+     "outlet": "Europapress.es",
+     "title": "Miles de personas salen a protestar en Lisboa contra los presupuestos de 2027 y el coste de la vida",
+     "title_en": "Thousands protest in Lisbon against the 2027 budget and the cost of living.",
+     "url": "https://www.europapress.es/internacional/noticia-miles-personas-salen-protestar-lisboa-contra-presupuestos-2027-costo-vida-20261122081858.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "Cientos de personas protestan en La Coru\u00f1a contra la presencia de Vito Quiles entre un amplio despliegue policial",
+     "title_en": "Hundreds protest in La Coru\u00f1a against the presence of Vito Quiles amid significant police presence.",
+     "url": "https://www.abc.es/espana/galicia/cientos-personas-protestan-coruna-presencia-vito-quiles-20261121105923-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-22",
+   "title": "US Democrats Achieve Largest House Majority Since 1992",
+   "sum": "Democrats have secured their largest House majority since 1992, winning at least 258 seats in the midterm elections. This development establishes a divided government with a Democratic Senate and a Republican president.",
+   "more": "The coverage highlights the historical significance of this majority, noting that it surpasses the Democrats' total from 2008 and matches their performance in 1992. While ABC News focuses on the implications of a divided government, The Times of India emphasizes the achievement as a milestone for the party after more than three decades. Both outlets acknowledge the importance of this electoral outcome but may frame its impact on governance differently.",
+   "coverage": [
+    {
+     "outlet": "ABC News (AU)",
+     "title": "Democrats clinch their largest House majority since 1992",
+     "title_en": "Democrats clinch their largest House majority since 1992.",
+     "url": "https://www.abc.net.au/news/2026-11-23/democrats-house-majority-midterm-elections/107415390",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Times of India",
+     "title": "258 seats secured: US Democrats win largest House tally since 1992",
+     "title_en": "258 seats secured: US Democrats win largest House tally since 1992.",
+     "url": "https://timesofindia.indiatimes.com/business/india-business/258-seats-secured-us-democrats-win-largest-house-tally-since-1992/articleshow/136083202.cms",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-22",
+   "title": "Schumer's Senate Leadership Faces Criticism Despite Midterm Success",
+   "sum": "Chuck Schumer secured a significant victory for Senate Democrats in the recent midterm elections. However, some progressives are calling for his replacement, suggesting it's time for new leadership.",
+   "more": "While Schumer's leadership resulted in a strong majority for the Democrats, his tenure is being challenged by more progressive members of the party. These critics believe that fresh leadership is necessary to advance their agenda. They express a desire for someone who aligns more closely with progressive values. This reflects a broader tension within the party about the direction and priorities moving forward.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Schumer's big Senate victory hasn't silenced Democrats who want him replaced",
+     "title_en": "Schumer's big Senate victory hasn't silenced Democrats who want him replaced.",
+     "url": "https://www.yahoo.com/news/articles/schumer-led-democrats-big-senate-110533108.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

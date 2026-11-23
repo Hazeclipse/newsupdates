@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "updated": "Nov 22, 18:10 UTC",
+ "updated": "Nov 23, 22:19 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -331,6 +331,282 @@
      "title": "Contenders to lead Senate Democrats reflect the party's split over Israel",
      "title_en": "Contenders to lead Senate Democrats reflect the party's split over Israel",
      "url": "https://www.yahoo.com/news/politics/articles/race-lead-senate-democrats-latest-120057001.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-21",
+   "title": "Attempts to Prove Riemann Hypothesis Surface Again",
+   "sum": "Recent efforts to prove the Riemann Hypothesis include a substantial manuscript by Alessandro Masullo and a lengthy code by Levent Alp\u00f6ge. There has been ongoing debate and coverage of this significant mathematical problem over the years.",
+   "more": "Slashdot has maintained a long-term focus on the Riemann Hypothesis, highlighting various attempts to prove it since 2000. While the pieces from Wordpress document recent efforts, previous attempts have often been met with skepticism from the mathematical community. The discourse surrounding these proofs suggests differing opinions on their validity and significance.",
+   "coverage": [
+    {
+     "outlet": "Slashdot.org",
+     "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
+     "title_en": "Prove The Riemann Hypothesis And Make.Money.Fast",
+     "url": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Wordpress.com",
+     "title": "Masullo on the Riemann Hypothesis",
+     "title_en": "More on Riemann Hypothesis",
+     "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-21",
+   "title": "Top Gifts for Women in the Enshittocene",
+   "sum": "A guide to the best gifts for women who manage multiple responsibilities and deserve recognition. This year's selections aim to provide thoughtful and meaningful options.",
+   "more": "The article from Wired highlights various gift ideas specifically curated for women, emphasizing the importance of acknowledging their hard work. It presents a mix of practical and indulgent options to cater to different preferences. While the focus is on appreciation and compensation, the framing remains positive and celebratory, underscoring the resilience of women today.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "17 Best Gifts for Women in the Enshittocene (2026)",
+     "title_en": "17 Best Gifts for Women in the Enshittocene (2026)",
+     "url": "https://www.wired.com/story/best-gifts-for-women/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-21",
+   "title": "Testing AI for Black Friday Deal Detection",
+   "sum": "An experiment was conducted to evaluate whether AI models could effectively identify Black Friday deals. Four different AI models were tested for their potential to save money on a new television.",
+   "more": "The article provides insights into the performance of each AI model regarding deal detection accuracy and savings. It discusses the advantages of using AI in navigating sales events like Black Friday. Different AI approaches were compared, highlighting varying results in their effectiveness.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Can AI really help spot Black Friday deals? We put it to the test",
+     "title_en": "Can AI really help spot Black Friday deals?",
+     "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-21",
+   "title": "Fraudsters Continue Exploiting Detained Migrants Despite Fines",
+   "sum": "Convicted fraudsters were fined $811 million for defrauding detained migrants, yet they have continued their schemes. The investigations indicate that they managed to evade efforts to shut down their fraudulent bail business.",
+   "more": "The article highlights how these individuals have made millions by preying on vulnerable migrants who are already in a precarious situation. Efforts to regulate and stop their activities have been largely ineffective, allowing these scams to persist. Different outlets may focus on the broader implications for immigration reform or the legal repercussions for those involved in the fraud.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+     "title_en": "They were fined $811m for conning detained migrants, but the scams didn't stop.",
+     "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-21",
+   "title": "Trump Directs Federal Contractors to Consult White House on Congressional Inquiries",
+   "sum": "President Trump is instructing federal contractors to seek guidance from the White House before responding to Congress. This includes withholding any communications deemed privileged by his administration.",
+   "more": "The directives have raised concerns among some lawmakers, particularly as they may hinder transparency and oversight. Fox News emphasizes the risk of contract loss for contractors who do not comply with this directive, highlighting a potential conflict between contractor interests and governmental transparency. The Associated Press also notes the formalization of this policy through an executive order, suggesting a operational shift in handling congressional inquiries.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "title_en": "Trump orders federal contractors to check with White House before responding to Congress.",
+     "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump orders federal contractors to alert White House on congressional record requests",
+     "title_en": "Trump orders federal contractors to alert White House on congressional record requests.",
+     "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests",
+     "bias": "Lean Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Associated Press",
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "title_en": "Trump orders federal contractors to check with White House before responding to Congress.",
+     "url": "https://apnews.com/article/trump-executive-order-congress-oversight-investigation-contractors-9546e1d7acdf3e65b654d1c5162cb0bd",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-21",
+   "title": "M\u00e1ximo Kirchner Assumes Presidency of PJ Congress",
+   "sum": "Following an agreement with Kicillof, M\u00e1ximo Kirchner has taken the presidency of the PJ Congress. The appointment occurred during an assembly in La Plata attended by leaders from La C\u00e1mpora, the Movimiento Derecho al Futuro (MDF), and the Frente Renovador.",
+   "more": "The assembly highlighted the collaborative efforts among different political factions within the coalition. The involvement of various groups indicates a strategic approach to unite under a common leadership. The framing in the article focuses on the coalition's unity and internal agreements rather than potential political implications of Kirchner's leadership.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Tras un acuerdo con Kicillof, M\u00e1ximo Kirchner asumi\u00f3 la presidencia del Congreso del PJ",
+     "title_en": "After an agreement with Kicillof, M\u00e1ximo Kirchner took over the presidency of the PJ Congress.",
+     "url": "https://www.lanacion.com.ar/politica/tras-un-acuerdo-con-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-nid21112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-21",
+   "title": "Fifpro Criticizes Bayern Munich Over Comments on Jamal Musiala",
+   "sum": "Fifpro has expressed concern over remarks made by Bayern Munich regarding Jamal Musiala's contract and recovery from a health condition. The club's comments have sparked significant backlash from various stakeholders.",
+   "more": "Bayern Munich officials have publicly raised doubts about Musiala's recovery from a neurological condition, questioning the legitimacy of his contract in the process. This position has drawn criticism not only from FIFPRO, the international players' union, but also from fans and media outlets. The framing varies in the media, with BBC focusing on the union's concerns while DW emphasizes the club's controversial statements and the backlash received.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Fifpro criticises Bayern Munich for Musiala comments",
+     "title_en": "Fifpro criticises Bayern Munich for Musiala comments",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c9x2evr1rg85o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "DW (English)",
+     "title": "Bayern Munich bosses under fire over Jamal Musiala comments",
+     "title_en": "Bayern Munich bosses under fire over Jamal Musiala comments",
+     "url": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-21",
+   "title": "CAF and CONMEBOL Unite in Support of FIFA President Infantino",
+   "sum": "Africa's CAF has joined South America's CONMEBOL in unanimously supporting Gianni Infantino's re-election as FIFA President. CAF President Patrice Motsepe reiterated this backing during the announcement.",
+   "more": "The unified stance from CAF and CONMEBOL reflects a broader consensus among football associations in support of Infantino's leadership. This shows a strengthening relationship between African and South American football organizations. Some media may emphasize the significance of this support amid ongoing debates about FIFA's governance, while others might focus on potential political implications surrounding the re-election.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Diallo present as Africa football boss Motsepe reiterates Infantino support",
+     "title_en": "Diallo present as Africa football boss Motsepe reiterates Infantino support",
+     "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-21",
+   "title": "COP31 Climate Talks in Deadlock Over Fossil Fuels",
+   "sum": "Nearly 200 countries are facing a deadlock in negotiations for a new global climate agreement at the COP31 climate talks. The discussions have extended beyond the scheduled end date as delegates continue to tussle over fossil fuel issues.",
+   "more": "Different media outlets emphasize varying aspects of the ongoing negotiations. The BBC highlights the deadlock among countries as a significant obstacle, while Dailymail.com focuses on the timing of the negotiations, pointing out that they have extended into extra time after the scheduled conclusion. Both articles agree on the core issue regarding fossil fuels but differ in their framing of the urgency and context of the situation.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "title_en": "Fight over fossil fuels leaves COP31 climate talks in deadlock.",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Dailymail.com",
+     "title": "COP31 deadlocked: Fight over fossil fuels threatens to derail UN climate talks a day after scheduled end of summit",
+     "title_en": "COP31 deadlocked: Fight over fossil fuels threatens to derail UN climate talks a day after scheduled end of summit.",
+     "url": "https://www.dailymail.com/news/article-16311491/COP31-deadlocked-Fight-fossil-fuels-climate-talks-summit.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-21",
+   "title": "France Defeats Argentina to Advance to Nations Championship Final",
+   "sum": "France achieved a decisive 45-17 victory over Argentina, securing their place in the Nations Championship final. They will face world champions South Africa in the championship match.",
+   "more": "Different outlets emphasize various aspects of the match. The BBC highlights the score as a 'thrashing' while CNA notes the 'bonus-point win' significance. Both mention the upcoming clash with South Africa but focus on different elements of the victory itself.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "France thrash Argentina to reach Nations Championship final",
+     "title_en": "France thrash Argentina to reach Nations Championship final.",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "CNA",
+     "title": "France secure bonus-point win over Argentina to reach final",
+     "title_en": "France secure bonus-point win over Argentina to reach final.",
+     "url": "https://www.channelnewsasia.com/sport/france-secure-bonus-point-win-over-argentina-reach-final-6572191",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-21",
+   "title": "Women of Ceuta Mobilize Thousands for Solutions to Border Issues",
+   "sum": "The Mujeres Caballas organization has rallied over 2,000 individuals in Ceuta to demand responses to ongoing border challenges. Participants included those traveling from various locations across the Peninsula.",
+   "more": "The protests call for a return to normalcy in Ceuta, nearly four months following a significant influx of migrants. Asserting that the situation should be recognized throughout Spain, the association emphasizes the broader implications of Ceuta's challenges. Different outlets frame the protest in terms of local urgency and national significance, highlighting both the immediate needs of Ceuta and the larger context of migration policy in Spain.",
+   "coverage": [
+    {
+     "outlet": "Libertaddigital.com",
+     "title": "Mujeres Caballas moviliza a miles de ceut\u00edes para exigir soluciones a la invasi\u00f3n: \"Esta frontera tambi\u00e9n es europea\"",
+     "title_en": "Mujeres Caballas mobilizes thousands of Ceut\u00edes to demand solutions to the invasion: 'This border is also European.'",
+     "url": "https://www.libertaddigital.com/espana/2026-11-21/mujeres-caballas-moviliza-a-miles-de-ceuties-para-exigir-soluciones-a-la-invasion-esta-frontera-tambien-es-europea-7495612/",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elespanol.com",
+     "title": "Mujeres Caballas vuelve a llenar las calles para que vuelva la normalidad en Ceuta: \"Esto se debe ver en toda Espa\u00f1a\"",
+     "title_en": "Mujeres Caballas fills the streets again to restore normalcy in Ceuta: 'This should be seen throughout Spain.'",
+     "url": "https://www.elespanol.com/reportajes/20261121/mujeres-caballas-vuelve-llenar-calles-vuelva-normalidad-ceuta-debe-ver-toda-espana/1003744467382_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-21",
+   "title": "Over 2,000 People March in Ceuta to Defend Territorial Integrity",
+   "sum": "More than 2,000 people participated in a large demonstration in Ceuta to address the current situation and advocate for the defense of Spanish borders. The protest specifically highlighted concerns regarding the integrity of Ceuta, Melilla, and the Canary Islands.",
+   "more": "The demonstration took place on a Saturday and was motivated by the massive influx of individuals entering the city on July 30. Participants emphasized the need for institutional support to protect Spain's southern border, which they believe is critical for the security of both Spain and Europe. Coverage from different outlets all focused on the sizable turnout and the call for stronger border protections, though Lavozdegalicia.es stressed the institutional backing aspect more than Europapress.es.",
+   "coverage": [
+    {
+     "outlet": "Europapress.es",
+     "title": "M\u00e1s de 2.000 personas marchan en Ceuta por la defensa de su integridad territorial y la de Melilla y Canarias",
+     "title_en": "More than 2,000 people march in Ceuta to defend their territorial integrity and that of Melilla and the Canary Islands.",
+     "url": "https://www.europapress.es/nacional/noticia-mas-2000-personas-marchan-ceuta-defensa-integridad-territorial-melilla-canarias-20261121134418.html",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Lavozdegalicia.es",
+     "title": "M\u00e1s de 2.000 personas marchan en Ceuta para reclamar la defensa de su integridad territorial",
+     "title_en": "More than 2,000 people march in Ceuta to demand the defense of their territorial integrity.",
+     "url": "https://www.lavozdegalicia.es/noticia/espana/2026/11/21/2000-personas-marchan-ceuta-reclamar-defensa-integridad-territorial/00031795280135914460362.htm",
      "bias": "Center",
      "src": "ai"
     }
