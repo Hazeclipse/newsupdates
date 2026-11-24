@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "updated": "Nov 23, 22:19 UTC",
+ "updated": "Nov 24, 20:57 UTC",
  "stories": [
   {
    "cat": "crime",
@@ -377,6 +377,111 @@
      "title_en": "Schumer's big Senate victory hasn't silenced Democrats who want him replaced.",
      "url": "https://www.yahoo.com/news/articles/schumer-led-democrats-big-senate-110533108.html",
      "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-22",
+   "title": "Burnham to Present 'Landmark' EU Deal to MPs",
+   "sum": "The prime minister is set to discuss a recently agreed EU deal with MPs, emphasizing its potential impact on the next decade. He frames the deal as a choice between maintaining the current status quo or embracing change.",
+   "more": "The article highlights the significance of the deal as a turning point for the country, suggesting that it could lead to substantial improvements. Different outlets may emphasize the urgency of the decision, while others focus on the potential consequences of rejecting the deal. The prime minister's press briefing is positioned as a crucial moment in the ongoing discussion about the country's relationship with the EU.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+     "title_en": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-22",
+   "title": "Burnham to Address MPs on Landmark EU Deal",
+   "sum": "The Prime Minister is set to inform MPs about a significant EU deal, emphasizing the potential for improvements in the coming decade. He frames the decision as a choice between maintaining the current unsatisfactory situation or embracing change.",
+   "more": "The Prime Minister's speech highlights the importance of the newly agreed deal and suggests it could positively impact the future. This marks a pivotal moment in addressing the status quo dissatisfaction. Different media outlets may emphasize either the optimism for change or the challenges that lie ahead in implementing this deal.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+     "title_en": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-22",
+   "title": "Protests Erupt in Gaza Amid Ongoing Israeli Air Strikes",
+   "sum": "Displaced Palestinians are protesting while Israeli air strikes continue to target residential buildings. A Gaza mayor claims this is part of a 'gradual displacement' policy.",
+   "more": "The protests highlight the growing frustration among Palestinians as their homes are destroyed. The situation remains tense, with civilian casualties reported due to the air strikes. Different outlets may focus on either the humanitarian perspective of the protesters or the military rationale behind the air strikes.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+     "title_en": "Displaced Palestinians protest as Israeli air strikes continue in Gaza.",
+     "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-22",
+   "title": "Nice's Former Mayor and His Wife Face Court Over Eurovision Junior Investigation",
+   "sum": "An investigation into the organization of media events in Nice has led to court proceedings against former mayor Christian Estrosi and his wife, journalist Laura Tenoudji-Estrosi. They are among several individuals and entities referred to a correctional court by the Marseille prosecutor's office.",
+   "more": "Christian Estrosi is facing allegations of illegal interests as a public official, while Laura Tenoudji-Estrosi is charged with complicity and concealment. The decision follows a three-year inquiry regarding the Eurovision Junior event in Nice. Different news outlets emphasize varying aspects of the ongoing legal proceedings and the implications for local governance and media ethics.",
+   "coverage": [
+    {
+     "outlet": "Mediapart",
+     "title": "Eurovision Junior \u00e0 Nice: les \u00e9poux Estrosi et France\u00a0TV renvoy\u00e9s en correctionnelle",
+     "title_en": "Eurovision Junior in Nice: The Estrosi Couple and France TV Sent to Correctional Court",
+     "url": "https://www.mediapart.fr/journal/france/221126/eurovision-junior-nice-les-epoux-estrosi-et-france-tv-renvoyes-en-correctionnelle",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Le HuffPost",
+     "title": "Eurovision junior : Christian Estrosi, Laura Tenoudji-Estrosi, \u00ab\u00a0La Tribune\u00a0\u00bb et France T\u00e9l\u00e9visions renvoy\u00e9s en correctionnelle",
+     "title_en": "Eurovision Junior: Christian Estrosi, Laura Tenoudji-Estrosi, 'La Tribune', and France T\u00e9l\u00e9visions Sent to Correctional Court",
+     "url": "https://www.huffingtonpost.fr/france/article/eurovision-junior-christian-estrosi-laura-tenoudji-estrosi-la-tribune-et-france-televisions-renvoyes-en-correctionnelle_363464.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-22",
+   "title": "Fourth March for Clean Water Held in Guadalajara",
+   "sum": "Hundreds of individuals protested for the fourth time in Guadalajara due to an ongoing water crisis affecting at least 320 neighborhoods in the city. The demand is for uncontaminated water in the metropolitan area.",
+   "more": "The protest saw varying estimates of attendance, with Protection Civil reporting around 700 participants and organizers claiming up to 2,000. This discrepancy highlights different framing of the turnout among sources. The march is part of a larger movement prompted by the persistent water scarcity and contamination issues faced by local residents since the beginning of the year.",
+   "coverage": [
+    {
+     "outlet": "Aristeguinoticias.com",
+     "title": "Realizan cuarta marcha por agua limpia en Guadalajara",
+     "title_en": "Fourth March for Clean Water Held in Guadalajara",
+     "url": "https://aristeguinoticias.com/2211/mexico/realizan-cuarta-marcha-por-agua-limpia-en-guadalajara/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Jornada.com.mx",
+     "title": "Cuarta marcha por agua limpia re\u00fane a decenas de personas en Guadalajara",
+     "title_en": "Fourth March for Clean Water Gathers Dozens of People in Guadalajara",
+     "url": "https://www.jornada.com.mx/2026/11/23/estados/023n1est",
+     "bias": "Left",
      "src": "ai"
     }
    ]

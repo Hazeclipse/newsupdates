@@ -1,0 +1,546 @@
+{
+ "date": "2026-11-23",
+ "updated": "Nov 24, 20:57 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Jensen Huang Reinstated as Nvidia CEO",
+   "sum": "Nvidia has reinstated Jensen Huang as its CEO following his resignation amid allegations of multiple extramarital affairs. The company's board voted unanimously to reinstate him after discussions.",
+   "more": "Huang's reinstatement comes just over a week after his resignation, which sparked significant media attention regarding his personal conduct. Different outlets emphasize various aspects of the board's decision process, with some highlighting the unanimous nature of the vote. The discussions that led to his reinstatement were reportedly thorough, indicating the board's satisfaction with Huang's responses. Despite the controversy, Huang's return signals a push for stability within Nvidia's leadership.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "Jensen Huang Is Back as Nvidia CEO",
+     "title_en": "Jensen Huang Is Back as Nvidia CEO",
+     "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "The Verge",
+     "title": "Jensen Huang is back as Nvidia\u2019s CEO",
+     "title_en": "Jensen Huang is back as Nvidia\u2019s CEO",
+     "url": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "MacRumors",
+     "title": "Jensen Huang Reinstated as Nvidia CEO",
+     "title_en": "Jensen Huang Reinstated as Nvidia CEO",
+     "url": "https://www.macrumors.com/2026/11/23/jensen-huang-reinstated-as-nvidia-ceo/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Power Provider Seeks Regulatory Exemption for Data Center Plants",
+   "sum": "A power provider for Meta has urged regulators to exempt data center plants from acid rain rules. This request came following discussions between the EPA and industry stakeholders.",
+   "more": "The EPA's consideration of waiving acid rain regulations could significantly impact the operation of data centers, which are increasingly reliant on gas power. Industry players like Williams have been active in lobbying for more lenient regulations. Different media outlets may emphasize varied aspects of these discussions, such as the environmental implications or the business interests involved.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+     "title_en": "A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules",
+     "url": "https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Radical DC Church Attracts Government Officials",
+   "sum": "A church led by Pastor Doug Wilson, who seeks to repeal women's voting rights, has gained a following among powerful figures in Washington D.C. Since its establishment last year, it has attracted members from the Pentagon and other government sectors.",
+   "more": "The church's growth reflects a notable alignment between radical beliefs and influential positions in government. While some may view the congregation as a concerning blend of religion and politics, others see it as a community standing firm on traditional values. Different outlets may emphasize the implications of such connections within the context of governance and societal values.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "\u2018Babylon on the Potomac\u2019: Pete Hegseth\u2019s Radical DC Church Attracts Government Elites",
+     "title_en": "'Babylon on the Potomac': Pete Hegseth\u2019s Radical DC Church Attracts Government Elites",
+     "url": "https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Router Incident Leads to Major Ground Stop in US",
+   "sum": "A router issue resulted in the largest ground stop in the United States since the September 11 attacks. Aviation expert Darryl Campbell discusses the implications of this incident.",
+   "more": "Darryl Campbell highlights how a single technological failure can lead to widespread disruptions in aviation. He emphasizes the need for better management and oversight in software systems to prevent similar occurrences. The conversation sheds light on the vulnerabilities present within the aviation infrastructure and how they can have far-reaching impacts. Different outlets may frame the incident based on either the technical aspects or the broader implications for aviation safety and management.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "How one router caused the worst ground stop since 9/11",
+     "title_en": "How one router caused the worst ground stop since 9/11",
+     "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Meta's Muse to Assist with Black Friday Shopping at Walmart",
+   "sum": "Meta's Muse can now shop on Walmart's website, assisting users in finding and purchasing Black Friday deals. This functionality is part of Walmart's new Agent Gateway rollout.",
+   "more": "Walmart's implementation allows the AI agent to navigate the online store to seek out discounts during the Black Friday sales event. The system aims to enhance the shopping experience by leveraging artificial intelligence. Other outlets may focus on the potential implications for consumer shopping behavior and automation in e-commerce.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+     "title_en": "Meta Muse can now do your Black Friday shopping at Walmart",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-23",
+   "title": "New Magical Shows Recommended Over Harry Potter",
+   "sum": "The article discusses alternative magical shows to watch instead of Harry Potter. It references recent controversies surrounding J.K. Rowling and her comments on transgender rights.",
+   "more": "The piece highlights J.K. Rowling's ongoing criticism of transgender activists and her labeling of their work as elitist. It contrasts her views with the positive representation found in newer magical shows. While some outlets may focus on Rowling's statements, others might emphasize the emerging alternatives in magical storytelling, showcasing a shift in audience preferences.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "New magical shows worth watching instead of Harry Potter",
+     "title_en": "New magical shows worth watching instead of Harry Potter",
+     "url": "https://www.theverge.com/entertainment/1038020/shows-to-stream-instead-of-harry-potter",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-23",
+   "title": "Router Incident Triggers Major Aviation Disruption",
+   "sum": "A router malfunction led to the largest ground stop in U.S. aviation since the 9/11 attacks. Aviation expert Darryl Campbell discusses the implications of this event.",
+   "more": "The incident raised questions about the reliability of air traffic management systems and the potential vulnerabilities in new technology. Campbell emphasizes the importance of understanding how such failures can impact overall aviation safety. Different outlets may focus variously on the technical aspects of the router issue or the broader implications for air travel security and efficiency.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "How one router caused the worst ground stop since 9/11",
+     "title_en": "How one router caused the worst ground stop since 9/11",
+     "url": "https://www.theverge.com/podcast/1039215/faa-ground-stop-cause-trump-elon-musk-doge-airlines-safety",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-23",
+   "title": "Google Offers Gemini AI Pro at Discount for Existing Subscribers",
+   "sum": "Google is providing its Gemini AI Pro service for an annual fee of $100 as part of an early Black Friday deal. This offer is exclusively available to current subscribers of Gemini AI.",
+   "more": "The deal has been described as a 'no-brainer' for those who already utilize the Gemini AI service. Various outlets emphasized the intelligence of the AI, with the phrasing around 'actually intelligent' suggesting a notable improvement over previous iterations. However, not all articles highlighted the exclusivity of the offer for existing subscribers, focusing instead on the overall value of the service itself.",
+   "coverage": [
+    {
+     "outlet": "Android Central",
+     "title": "Google Gemini AI Pro for just $100 a year is an \u2018actually intelligent\u2019 early Black Friday deal",
+     "title_en": "Google Gemini AI Pro for just $100 a year is an \u2018actually intelligent\u2019 early Black Friday deal.",
+     "url": "https://www.androidcentral.com/apps-software/ai/google-gemini-ai-pro-for-just-usd100-a-year-is-an-actually-intelligent-early-black-friday-deal",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-23",
+   "title": "Trump Discusses Nvidia CEO Reinstatement with Board",
+   "sum": "President Trump stated he communicated with Nvidia's board regarding the reinstatement of CEO Jensen Huang during a CNBC interview. He emphasized that Huang's return would not threaten national security.",
+   "more": "Both NBC News and Fox News report on Trump\u2019s claim of having spoken to Nvidia's board about reinstating Jensen Huang. However, NBC focuses on the interview setting and the context of lawmakers' concerns, while Fox highlights Trump's strong assertion regarding the absence of national security risks. This framing reflects their respective editorial priorities in how they cover Trump's comments.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Trump says he spoke \u2018directly and indirectly\u2019 with Nvidia\u2019s board about reinstating Jensen Huang",
+     "title_en": "Trump says he spoke \u2018directly and indirectly\u2019 with Nvidia\u2019s board about reinstating Jensen Huang.",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump \u2018directly and indirectly\u2019 intervened to get Nvidia\u2019s CEO reinstated, POTUS says",
+     "title_en": "Trump \u2018directly and indirectly\u2019 intervened to get Nvidia\u2019s CEO reinstated, POTUS says.",
+     "url": "https://www.foxnews.com/politics/trump-directly-indirectly-intervened-get-nvidias-ceo-reinstated-potus-says",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-23",
+   "title": "Russell Brand's Wife Responds to Backlash Over Husband's Innocence Claim",
+   "sum": "Laura Brand has stated that she will adhere to prison regulations after sharing a message from her husband, Russell Brand, who is incarcerated following a conviction on serious charges. This response comes in the wake of public controversy regarding her support for his innocence.",
+   "more": "Both NBC News and Fox News report on Laura Brand's commitment to follow prison rules. NBC highlights the backlash against her statement while emphasizing the context of Russell Brand's long prison sentence. Fox News focuses on the investigation triggered by the content of Brand's message. The framing differs slightly, with NBC suggesting deeper controversy and Fox News emphasizing the compliance with prison protocols.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Russell Brand\u2019s wife says she\u2019ll \u2018honor\u2019 prison rules after backlash",
+     "title_en": "Russell Brand\u2019s wife says she\u2019ll \u2018honor\u2019 prison rules after backlash",
+     "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/russell-brand-wife-laura-says-honor-prison-rules-backlash-rcna610846",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Russell Brand's wife vows to 'honor' prison rules after comedian's 'not guilty' message sparks investigation",
+     "title_en": "Russell Brand's wife vows to 'honor' prison rules after comedian's 'not guilty' message sparks investigation",
+     "url": "https://www.foxnews.com/entertainment/russell-brands-wife-vows-honor-prison-rules-after-not-guilty-message-sparks-investigation",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-23",
+   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "sum": "Nvidia's board has brought Jensen Huang back as CEO following his resignation. President Trump has endorsed the decision, highlighting its importance for the company's and the economy's success.",
+   "more": "Both NPR and NBC News report on Jensen Huang's reinstatement as CEO of Nvidia, with NPR emphasizing Trump's endorsement and the clarification regarding national security risks. NBC News focuses on the timeline of Huang's resignation and immediate reinstatement by the board. There are subtle differences in framing, with NPR highlighting political implications while NBC News presents a more straightforward corporate update.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+     "title_en": "Nvidia's board of directors brings Jensen Huang back as CEO.",
+     "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Nvidia reinstates Jensen Huang as CEO",
+     "title_en": "Nvidia reinstates Jensen Huang as CEO.",
+     "url": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-23",
+   "title": "Government to Tender New Dock for Catamarans in Ushuaia",
+   "sum": "The government will tender a new dock for catamarans in Ushuaia for 12.58 billion pesos. The project aims to expand the port's capacity for tourist excursions, as the current structure has been deemed unsafe due to collapse risk.",
+   "more": "The new dock is expected to be completed within a year. This move is part of efforts to enhance tourism infrastructure in the region. Different outlets may emphasize either the financial aspect of the tender or the urgent need for improved safety and capacity in the port.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Gobierno licitar\u00e1 un nuevo muelle para catamaranes en Ushuaia por $12.580 millones",
+     "title_en": "The Government will tender a new dock for catamarans in Ushuaia for 12.580 million",
+     "url": "https://www.lanacion.com.ar/economia/el-gobierno-licitara-un-nuevo-muelle-para-catamaranes-en-ushuaia-por-12580-millones-nid23112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-23",
+   "title": "Government Requests Cancellation of Tribute to Mario Roberto Santucho",
+   "sum": "The government has requested the University of Buenos Aires (UBA) to cancel a tribute to Mario Roberto Santucho. This request was made through an official statement from the Ministry of Human Capital.",
+   "more": "Additionally, the government sent a letter to UBA's rector, threatening sanctions against those promoting the tribute. Alejandro \u00c1lvarez, the Undersecretary of University Policies, urged Ricardo Gelpi to impose penalties on the authorities of the Faculty of Social Sciences, indicating that they could be committing criminal offenses. The framing across different outlets may focus on the government's authority in university matters versus the academic freedom typically associated with cultural tributes.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El Gobierno le pidi\u00f3 a la UBA que no se realice el homenaje a Mario Roberto Santucho",
+     "title_en": "The Government asked UBA not to hold a tribute to Mario Roberto Santucho.",
+     "url": "https://www.lanacion.com.ar/politica/el-gobierno-le-pidio-a-la-uba-que-no-se-realice-el-homenaje-a-mario-roberto-santucho-nid22112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-23",
+   "title": "Ukraine Conducts Drone Attacks on Russian Ships in Libya",
+   "sum": "Ukraine released a video showing drone strikes on Russian ships in Libya, with claims of a warship being sunk. President Zelensky reported that a Russian cargo ship was also targeted.",
+   "more": "The drone attacks reportedly resulted in significant explosions and were captured on video, highlighting the intensity of the assaults. Various reports emphasize the strategic implications of Ukraine's operations in regions like Libya, raising questions about the expanding conflict. While BBC News provides a detailed account of the military actions, there may be differing interpretations of the broader geopolitical context.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Ukraine shares video of strikes on Russian ships off Libya",
+     "title_en": "Ukraine shares video of strikes on Russian ships off Libya.",
+     "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-23",
+   "title": "Climate Talks Collapse Dominates Front Pages",
+   "sum": "The collapse of the COP31 climate talks in Turkey is highlighted across various news outlets. This significant event is referred to with phrases indicating disappointment and frustration.",
+   "more": "Different outlets emphasize the severity of the failure, using terms like 'Complete COP-out' to convey criticism of the situation. Additionally, some articles note Tyson Fury's personal struggles alongside the climate talks, suggesting a mix of topics capturing public interest. The framing varies, with some focusing more on the implications for climate policy while others touch upon celebrity news.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
+     "title_en": "'Complete COP-out' and Tyson Fury's 'torment'",
+     "url": "https://www.bbc.co.uk/news/articles/cmedq21jgq8xo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "africa",
+   "date": "2026-11-23",
+   "title": "Bulama Bukarti Shifts from Activism to Politics",
+   "sum": "Lawyer and security analyst Bulama Bukarti has announced his transition from activism to partisan politics. He has expressed support for his state Governor, Mai Mala-Buni, and the APC's gubernatorial candidate for 2027.",
+   "more": "Bukarti's decision marks a significant shift in his career as he steps away from activism to endorse political figures. He has emphasized that he cannot remain an activist indefinitely. Different outlets may vary in highlighting his motivations and implications of this shift, focusing on either the challenges of activism or the potential impact of his political support.",
+   "coverage": [
+    {
+     "outlet": "Premium Times",
+     "title": "'I can't be activist forever,' Bukarti defends aligning with APC",
+     "title_en": "I can't be activist forever, Bukarti defends aligning with APC",
+     "url": "https://www.premiumtimesng.com/news/more-news/927483-i-cant-be-activist-forever-bukarti-defends-aligning-with-apc.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-23",
+   "title": "Student Leaders Engage with Macron's Government Amid Ongoing Protests",
+   "sum": "French student leaders have met with government officials to discuss the ongoing protests. These discussions highlight the students' demands and the government's response.",
+   "more": "Al Jazeera's interview provides insight into the perspectives of the student leaders regarding the protests. The framing emphasizes the dialogue between students and the government rather than focusing solely on the protests themselves. The article also notes the urgency of addressing student concerns in light of the protests.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Inside the talks between student protest leaders and Macron\u2019s government",
+     "title_en": "Inside the talks between student protest leaders and Macron\u2019s government",
+     "url": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-23",
+   "title": "Belgium Faces Transport Disruption Due to Anti-Austerity Strike",
+   "sum": "A national strike against proposed austerity measures has resulted in significant transport chaos throughout Belgium. The government's stability is reportedly at risk amid the upheaval.",
+   "more": "The strike has prompted widespread disruptions, affecting various forms of transportation and leading to a notable impact on daily life across the country. Al Jazeera highlights the potential implications for the current government, suggesting that its future is uncertain as public discontent rises against austerity. The framing of this event emphasizes the intersection of social unrest and political accountability, reflecting broader concerns about austerity policies in Europe.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Anti-austerity strike spurs transport chaos across Belgium",
+     "title_en": "Anti-austerity strike spurs transport chaos across Belgium",
+     "url": "https://www.aljazeera.com/news/2026/11/23/anti-austerity-strike-spurs-transport-chaos-across-belgium",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-23",
+   "title": "Verisure Launches Animated Series 'Les Chroniques de la S\u00e9curit\u00e9'",
+   "sum": "Verisure has announced the launch of its animated video series 'Les Chroniques de la S\u00e9curit\u00e9,' hosted by St\u00e9phane Rotenberg. The series aims to explain everyday risks and the role of remote surveillance.",
+   "more": "The series is designed to provide insights into the workings of monitored alarms, offering viewers guidance on safety and security practices. It is available for viewing on YouTube. Different outlets emphasize the educational aspect of the series, with Journal du geek focusing on adopting good reflexes regarding security, while Presse-citron highlights the understanding of the monitored alarm system.",
+   "coverage": [
+    {
+     "outlet": "Journal du geek",
+     "title": "Avec \u00ab\u00a0Les Chroniques de la S\u00e9curit\u00e9\u00a0\u00bb, Verisure lance sa propre s\u00e9rie vid\u00e9o anim\u00e9e par St\u00e9phane Rotenberg",
+     "title_en": "With 'Les Chroniques de la S\u00e9curit\u00e9', Verisure launches its own animated video series hosted by St\u00e9phane Rotenberg.",
+     "url": "https://www.journaldugeek.com/2026/11/23/avec-les-chroniques-de-la-securite-verisure-lance-sa-propre-serie-video-animee-par-stephane-rotenberg/",
+     "bias": null,
+     "src": "none"
+    },
+    {
+     "outlet": "Presse-citron",
+     "title": "Verisure lance \u00ab\u00a0Les Chroniques de la S\u00e9curit\u00e9\u00a0\u00bb, une s\u00e9rie anim\u00e9e par St\u00e9phane Rotenberg",
+     "title_en": "Verisure launches 'Les Chroniques de la S\u00e9curit\u00e9', an animated series hosted by St\u00e9phane Rotenberg.",
+     "url": "https://www.presse-citron.net/verisure-lance-les-chroniques-de-la-securite-une-serie-animee-par-stephane-rotenberg/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-23",
+   "title": "Far-Left Protests in France Amidst Calls to Dismantle Capitalism",
+   "sum": "The BBC explores the motivations of far-left protesters in France, who are openly expressing their desire to dismantle capitalism. French President Emmanuel Macron has characterized these groups as threats to the Republic.",
+   "more": "The article delves into the grassroots movements and ideologies that drive these far-left groups, emphasizing their radical approaches to political activism. It highlights the tensions between these protesters and the current government, illustrating a divide in French society. Coverage from other outlets may vary in their portrayal, either focusing on the specific grievances of the protesters or the government's response to the perceived threat they pose to stability.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+     "title_en": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+     "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-23",
+   "title": "CAS to Announce Decision on Senegal's AFCON 2025 Title Appeal",
+   "sum": "The Court of Arbitration for Sport will announce its decision regarding Senegal's appeal on Tuesday. Senegal is appealing against the Confederation of African Football's ruling that declared Morocco the champions, despite Senegal winning the final.",
+   "more": "The decision by the Court of Arbitration for Sport (CAS) comes after Senegal filed an appeal following the Confederation of African Football's (CAF) contested ruling. The case has drawn attention due to Senegal's claim that they rightfully won the title with a 1-0 victory in January. Different outlets, while reporting on the same event, emphasize various aspects of the appeal, such as the implications for Senegal's football reputation and the legal precedents that might be set. Observers are watching closely to see how the CAS will resolve the dispute between Senegal and CAF.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "CAS decision on Senegal\u2019s AFCON 2025 title appeal to announced on Tuesday",
+     "title_en": "CAS decision on Senegal\u2019s AFCON 2025 title appeal to announced on Tuesday.",
+     "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "CNA",
+     "title": "CAS to release Senegal Africa Cup of Nations title appeal decision on Tuesday",
+     "title_en": "CAS to release Senegal Africa Cup of Nations title appeal decision on Tuesday.",
+     "url": "https://www.channelnewsasia.com/sport/cas-release-senegal-africa-cup-nations-title-appeal-decision-tuesday-6574531",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-23",
+   "title": "Ed Sheeran Exits Glastonbury 2027 Amid Macklemore Controversy",
+   "sum": "Ed Sheeran has reportedly withdrawn from the Glastonbury 2027 festival due to feeling 'badly shaken' by a controversy involving Macklemore. The situation has led to his decision to pull out of the event.",
+   "more": "Both Breitbart News and Radaronline.com covered Ed Sheeran's exit from Glastonbury 2027, highlighting his emotional response to the controversy with Macklemore. While Breitbart emphasizes Sheeran feeling 'badly shaken,' Radaronline states he 'pulled out' without additional emotional descriptors. The framing in both outlets conveys the impact of the controversy on Sheeran's decision to withdraw from the festival.",
+   "coverage": [
+    {
+     "outlet": "Breitbart News",
+     "title": "Report: 'Badly Shaken' Ed Sheeran Exits Glastonbury 2027 Due to Macklemore Drama",
+     "title_en": "Report: 'Badly Shaken' Ed Sheeran Exits Glastonbury 2027 Due to Macklemore Drama",
+     "url": "https://www.breitbart.com/entertainment/2026/11/23/report-badly-shaken-ed-sheeran-exits-glastonbury-2027-due-to-macklemore-drama/",
+     "bias": "Right",
+     "src": "table"
+    },
+    {
+     "outlet": "Radaronline.com",
+     "title": "EXCLUSIVE: Ed Sheeran 'Pulls Out of Glastonbury Over Macklemore Controversy'",
+     "title_en": "EXCLUSIVE: Ed Sheeran 'Pulls Out of Glastonbury Over Macklemore Controversy'",
+     "url": "https://radaronline.com/p/ed-sheeran-pulls-out-glastonbury-macklemore-controversy/",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-23",
+   "title": "France Reports Increase in Violence with Fireworks in Schools",
+   "sum": "The French Education Minister has reported a surge in violence involving fireworks in educational institutions. Recent data indicates that 98 students were injured in the latest week of protests, marking the highest number recorded so far.",
+   "more": "Both articles highlight the increase in violence and the specific number of injured students. The framing is consistent across the outlets, focusing on the alarming statistics provided by Minister \u00c9douard Geffray. The mention of 'GTA VI' serves as a reference to popular culture, underscoring the severity of the situation compared to fictional narratives. There is a clear emphasis on the safety concerns for students and teachers alike.",
+   "coverage": [
+    {
+     "outlet": "20minutos.es",
+     "title": "Francia denuncia un auge de la violencia con pirotecnia en institutos: \"No es 'GTA VI\"",
+     "title_en": "France denounces an increase in violence with fireworks in schools: 'This is not GTA VI'",
+     "url": "https://www.20minutos.es/internacional/francia-denuncia-un-auge-violencia-con-utilizacion-pirotecnia-institutos-esto-no-es-gta-vi-estamos-vida-real_7064604_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "El Mundo",
+     "title": "Francia denuncia un auge de la violencia con pirotecnia en institutos: \"Esto no es GTA VI\"",
+     "title_en": "France denounces an increase in violence with fireworks in schools: 'This is not GTA VI'",
+     "url": "https://www.elmundo.es/internacional/2026/11/23/6b043393e4d4d8d37e8b4596.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-23",
+   "title": "Democrats Kick Off 2028 Presidential Race with Debate Schedule",
+   "sum": "The Democratic National Committee has announced 12 debates starting in June for the 2028 presidential race. DNC chair Ken Martin emphasized the importance of eliminating dark money in politics.",
+   "more": "The announcement highlights the Democratic Party's focus on transparency and campaign finance reform as they prepare for a potentially competitive primary season. The first debate is expected to occur in June 2024, marking the beginning of the race to find a candidate to challenge the Republicans, who will need to select a successor to President Donald Trump. While both articles emphasize the commencement of the debates, CBS News places greater emphasis on the DNC's agenda regarding dark money compared to Economic Times, which focuses on the overall context of the presidential race.",
+   "coverage": [
+    {
+     "outlet": "CBS News",
+     "title": "Democrats announce 12 debates starting in June for 2028 race",
+     "title_en": "Democrats announce 12 debates starting in June for 2028 race",
+     "url": "https://www.cbsnews.com/news/2028-presidential-race-democratic-debates/",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Economictimes.com",
+     "title": "Democrats fire starting gun on 2028 White House race",
+     "title_en": "Democrats fire starting gun on 2028 White House race",
+     "url": "https://m.economictimes.com/news/international/world-news/democrats-fire-starting-gun-on-2028-white-house-race/articleshow/136107899.cms",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-23",
+   "title": "Scott Bessent's Economic Strategy Amid War in Iran",
+   "sum": "In light of the ongoing war in Iran, Treasury Secretary Scott Bessent is implementing strategies to stabilize the economy. This approach aims to provide the current Administration with additional time to address potential downturns.",
+   "more": "Zengerle's report highlights the challenges posed by the conflict in Iran and its potential impact on the U.S. economy. The article underscores the significance of Bessent's actions in navigating these turbulent times. While the situation is critical, the article does not delve into differing opinions among various stakeholders regarding the effectiveness of these economic strategies.",
+   "coverage": [
+    {
+     "outlet": "The New Yorker",
+     "title": "Scott Bessent\u2019s Economic Turnaround",
+     "title_en": "Scott Bessent\u2019s Economic Turnaround",
+     "url": "https://www.newyorker.com/magazine/2026/11/30/scott-bessent-profile",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-23",
+   "title": "Democrats Experience Unexpected Wins Across the U.S.",
+   "sum": "In a surprising turn of events during this year's elections, Democrats achieved significant victories in traditionally Republican strongholds. Notable results include Kansas electing its first Democratic senator in nearly a century and Republicans losing all statewide races in Texas.",
+   "more": "These outcomes reflect a dramatic shift in voter sentiment in various regions. The article highlights how the Democratic Party is gaining ground in areas previously dominated by Republicans, suggesting a potential realignment of political affiliations. Different outlets may emphasize the implications of these wins differently, with some focusing on the broader trends of voter dissatisfaction leading to such results, while others may concentrate more on individual races and candidates.",
+   "coverage": [
+    {
+     "outlet": "Vox",
+     "title": "Democrats\u2019 tantalizing dream of a Blue Utah",
+     "title_en": "Democrats\u2019 tantalizing dream of a Blue Utah",
+     "url": "https://www.vox.com/politics/511625/utah-election-blue-democrat-battleground-mormon-lds-mike-lee-tsunami-latter-day",
+     "bias": "Left",
+     "src": "table"
+    }
+   ]
+  }
+ ]
+}
