@@ -1,0 +1,409 @@
+{
+ "date": "2026-11-24",
+ "updated": "Nov 25, 20:19 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-24",
+   "title": "US Blacklists Asian AI Firm Megaspeed Amid Nvidia Controversy",
+   "sum": "The U.S. Commerce Department is set to blacklist Singapore-based AI company Megaspeed and its subsidiary Speedmatrix due to allegations of facilitating restricted access to Nvidia AI chips for Chinese companies. This action follows a broader scandal involving Nvidia.",
+   "more": "Politico highlights that the blacklisting coincides with Nvidia's board reinstating CEO Jensen Huang, reportedly at the urging of former President Trump. While both sources report on the potential blacklist and its implications, Slashdot.org emphasizes the suspicions surrounding Megaspeed, whereas Politico focuses on the timing in relation to Nvidia's leadership changes. This framing suggests a relationship between corporate governance and national security concerns.",
+   "coverage": [
+    {
+     "outlet": "Slashdot.org",
+     "title": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
+     "title_en": "US To Blacklist Asian AI Firm Megaspeed After Nvidia Scandal",
+     "url": "https://slashdot.org/story/26/11/24/0252253/us-to-blacklist-asian-ai-firm-megaspeed-after-nvidia-scandal",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Politico",
+     "title": "Commerce to blacklist Megaspeed, Nvidia customer at center of spy scandal",
+     "title_en": "Commerce to blacklist Megaspeed, Nvidia customer at center of spy scandal",
+     "url": "https://www.politico.com/news/2026/11/23/us-prepares-to-blacklist-megaspeed-as-huang-returns-to-nvidia-01180920",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-24",
+   "title": "Kagi Introduces Public Beta of Kagi Mail, Its New Email Service",
+   "sum": "Kagi, known for its alternatives to Google Search and Chrome, has launched a public beta of Kagi Mail. This new email service emphasizes privacy with features that include no surveillance and no ads.",
+   "more": "The introduction of Kagi Mail signifies Kagi's continued efforts to provide privacy-focused alternatives to popular Google services. Unlike traditional email platforms, Kagi Mail aims to create a more secure and user-friendly environment for email communication. Various media outlets highlight Kagi's broader initiative to challenge Google\u2019s dominance in different sectors beyond just search engines and browsers.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Google alternative Kagi launches an email service",
+     "title_en": "Kagi launches an email service as an alternative to Gmail.",
+     "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-24",
+   "title": "Indian Political Leader Claims Prevention from Traveling to UK",
+   "sum": "Saurav Das, a leader of a political party in India, reported being barred from flying to the UK due to his passport being 'flagged' by immigration authorities. This incident raises questions about the reasons behind the restriction.",
+   "more": "The term 'cockroach' used by Das to describe his political party may reflect a challenge to mainstream political narratives in India. His account suggests possible political motivations behind the flagging of his passport, which could indicate broader issues of political freedom and travel rights in the region. Different media outlets might emphasize various aspects of the incident: some may focus on the personal impact of being denied travel, while others could explore the political implications of such restrictions on opposition leaders.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+     "title_en": "India's 'cockroach' party leader says he was stopped from flying to UK",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-24",
+   "title": "Trump to Award Rudy Giuliani the Presidential Medal of Freedom",
+   "sum": "President Donald Trump will honor Rudy Giuliani with the Presidential Medal of Freedom on Tuesday. Giuliani, a former mayor of New York City, is recognized for his service and leadership during 9/11.",
+   "more": "Both NBC News and Fox News report on President Trump's intent to award Rudy Giuliani with the Medal of Freedom. NBC highlights Giuliani's controversial status, suggesting a complex public perception, while Fox emphasizes his public service and leadership during a pivotal moment in New York City's history. This framing indicates differing perspectives on Giuliani's legacy, with Fox adopting a more positive tone.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Trump to award Rudy Giuliani the Medal of Freedom, the nation\u2019s highest civilian honor",
+     "title_en": "Trump to award Rudy Giuliani the Medal of Freedom, the nation\u2019s highest civilian honor.",
+     "url": "https://www.nbcnews.com/politics/trump-administration/trump-giuliani-medal-freedom-2020-election-nyc-mayor-911-attacks-rcna611099",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Trump to award Giuliani Presidential Medal of Freedom",
+     "title_en": "Trump to award Giuliani Presidential Medal of Freedom.",
+     "url": "https://www.foxnews.com/politics/trump-award-giuliani-presidential-medal-freedom",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-24",
+   "title": "Trump Credits Himself for Nvidia CEO's Return Amid Global Tensions",
+   "sum": "President Trump claims credit for the return of Jensen Huang as Nvidia's CEO, which has positively affected Nvidia's stock. The ongoing Russia-Ukraine war is also impacting other countries.",
+   "more": "The framing of Trump's involvement varies across different outlets, with some emphasizing his influence in business decisions while others focus on the broader geopolitical implications of the Russia-Ukraine conflict. Discussion around Nvidia's stock performance is tied to Huang's leadership and the company's future prospects amid external pressures. The intertwining of business leadership and international conflict highlights the complexities of the current global landscape.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Morning news brief",
+     "title_en": "Trump Takes Credit for Nvidia CEO Return",
+     "url": "https://www.npr.org/2026/11/24/nx-s1-6047113/morning-news-brief",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-24",
+   "title": "Traffic Changes in Caballito: Acoyte and Honorio Pueyrred\u00f3n Avenues",
+   "sum": "Starting Wednesday, the traffic direction on Acoyte and Honorio Pueyrred\u00f3n Avenues in Caballito will be changed. This measure is part of the second phase of traffic adjustments in the Buenos Aires neighborhood and will also impact parking areas.",
+   "more": "The traffic modifications aim to improve the flow of vehicles in the area. Residents and drivers will need to adapt to the new directions. The changes reflect ongoing efforts to reorganize urban transit in Buenos Aires, as local authorities continue to prioritize efficient traffic management.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Cambia la circulaci\u00f3n de dos avenidas en Caballito: Acoyte y Honorio Pueyrred\u00f3n modifican la mano a partir del mi\u00e9rcoles",
+     "title_en": "Traffic Changes in Caballito: Acoyte and Honorio Pueyrred\u00f3n Avenues",
+     "url": "https://www.lanacion.com.ar/sociedad/cambia-la-circulacion-de-dos-avenidas-en-caballito-acoyte-y-honorio-pueyrredon-modifican-la-mano-a-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-24",
+   "title": "Judicial Ruling Questions Authority on Agricultural Export Taxes",
+   "sum": "A recent court decision deemed unconstitutional an increase in export taxes from 2022, allowing Aceitera General Deheza to reclaim excess payments. This ruling raises fundamental questions for the agricultural sector regarding who has the authority to set these payments.",
+   "more": "The ruling highlights ongoing disputes over export taxes in Argentina, which significantly impact the agricultural industry. Different outlets may emphasize various aspects of the legal implications and the broader consequences for farmers. The framing may also differ in how the economic interests of agricultural companies versus government tax policies are presented.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Retenciones: otro fallo judicial pone en discusi\u00f3n qui\u00e9n puede decidir cu\u00e1nto paga el campo",
+     "title_en": "Export Taxes: Another Judicial Ruling Raises Questions on Authority",
+     "url": "https://www.lanacion.com.ar/economia/campo/retenciones-otro-fallo-judicial-pone-en-discusion-quien-puede-decidir-cuanto-paga-el-campo-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-24",
+   "title": "Indian 'Cockroach' Party Leader Denied Flight to the UK",
+   "sum": "Saurav Das, leader of a political party referred to as the 'cockroach' party, claims he was prohibited from boarding a flight to the UK. Immigration authorities at Delhi airport informed him that his passport had been 'flagged'.",
+   "more": "The incident highlights ongoing concerns about political freedoms and travel restrictions in India. Das did not provide further details regarding the reasons behind the flagging of his passport. Reactions may vary, with some seeing it as a troubling sign of government overreach, while others may view it as a legitimate security measure.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+     "title_en": "India's 'cockroach' party leader says he was stopped from flying to UK",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-24",
+   "title": "Authors Raise Alarm Over Library Proposals",
+   "sum": "A group of authors has expressed concern that new library proposals may lead to book bans and censorship. They emphasize that these changes could adversely affect minority group representation and potentially result in library closures.",
+   "more": "The authors argue that the proposals threaten the fundamental purpose of libraries as spaces for diverse voices and ideas. They fear that, if implemented, these measures could restrict access to important literature for various communities. The concern extends beyond censorship to potential impacts on the cultural landscape as a whole.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Authors warn libraries proposals could 'pave the way' for book bans and censorship",
+     "title_en": "Authors warn libraries proposals could 'pave the way' for book bans and censorship.",
+     "url": "https://www.bbc.co.uk/news/articles/ck1l0d8j7n68o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-24",
+   "title": "French Ex-President Sarkozy and Wife Carla Bruni to Face Trial",
+   "sum": "Nicolas Sarkozy, the former President of France, and his wife, Carla Bruni, are set to face trial. This development comes after Sarkozy became the first French ex-president to be imprisoned last year.",
+   "more": "The article highlights that this trial is another legal challenge for Sarkozy, who has been embroiled in various legal issues since leaving office. The framing suggests a continuation of Sarkozy's controversial post-presidency legacy as he faces judicial scrutiny alongside his wife. This case may also reflect broader issues regarding political accountability in France.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+     "title_en": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+     "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-24",
+   "title": "Australia's New Internet Safety Bill Threatens Huge Fines for Tech Companies",
+   "sum": "Australia is set to pass a new internet safety bill this week that could impose fines on major tech companies. The fines could reach up to 5 percent of these firms' global revenue.",
+   "more": "Al Jazeera highlights the Australian government's push for stronger regulation of online platforms amid growing concerns about online harm. The impending legislation aims to hold tech giants accountable for their role in facilitating harmful content. Other media outlets may focus on the implications of these fines for companies like Facebook and Google in terms of compliance and operational adjustments.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Australia warns tech giants of multibillion-dollar fines for online \u2018harm\u2019",
+     "title_en": "Australia warns tech giants of multibillion-dollar fines for online \u2018harm\u2019",
+     "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-24",
+   "title": "Eisenkot Engages in Negotiations with Netanyahu",
+   "sum": "Eisenkot's negotiations with Netanyahu are influenced by talks with various political entities, which provide him with leverage. However, this scenario also revitalizes the political significance of Likud.",
+   "more": "The article from Al Jazeera discusses the dynamics of political negotiations in Israel, highlighting Eisenkot's strategy and how it affects Likud's position. The framing suggests a tension between gaining political leverage and the implications of bolstering Likud's role in the political landscape. Different outlets may emphasize either the challenge Eisenkot faces or the potential benefits for Likud, reflecting varying perspectives on the negotiations.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Why Eisenkot is negotiating with Netanyahu",
+     "title_en": "Why Eisenkot is negotiating with Netanyahu",
+     "url": "https://www.aljazeera.com/opinions/2026/11/24/why-eisenkot-is-negotiating-with-netanyahu",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-24",
+   "title": "Malaysia to Repatriate Rohingya Refugees to Myanmar",
+   "sum": "Malaysia is set to return thousands of Rohingya refugees to Myanmar. This decision follows a recent ruling by the International Court of Justice regarding Myanmar's actions against the Rohingya minority.",
+   "more": "The repatriation decision has sparked discussions on the responsibility of countries hosting refugees, especially in light of the genocide ruling against Myanmar. Some voices argue that returning refugees could endanger their safety, given the historical context of violence against the Rohingya. In contrast, others highlight the legal obligations of Malaysia to return individuals who are not considered asylum seekers. The framing around this issue varies, with some emphasizing humanitarian concerns while others focus on legal enforcement.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Malaysia set to return thousands of Rohingya refugees to Myanmar",
+     "title_en": "Malaysia set to return thousands of Rohingya refugees to Myanmar.",
+     "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-24",
+   "title": "BYD Announces Plans to Acquire Factory in France for Vehicle Production",
+   "sum": "Chinese manufacturer BYD has initiated exclusive negotiations to purchase a factory in Moselle, France, with plans to produce vehicles for the European market. The factory previously belonged to Mercedes-Benz and is currently owned by INEOS Automotive.",
+   "more": "The factory, known for assembling the Grenadier 4x4, would mark BYD's first vehicle production facility in France and its second in Europe overall. This move highlights BYD's intention to expand its presence in the European automotive market. Different outlets emphasize the strategic importance of the acquisition, with Presse-citron focusing on the negotiations and legacy of the site, while Frandroid highlights the specific model involved in the factory's current operations.",
+   "coverage": [
+    {
+     "outlet": "Presse-citron",
+     "title": "BYD annonce un projet de rachat d\u2019usine en France pour y produire ses voitures pour l\u2019Europe",
+     "title_en": "BYD announces a project to acquire a factory in France to produce cars for Europe.",
+     "url": "https://www.presse-citron.net/byd-annonce-un-projet-de-rachat-dusine-en-france-pour-y-produire-ses-voitures-pour-leurope/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Frandroid",
+     "title": "BYD veut racheter l\u2019ancienne usine Smart pour fabriquer ses voitures en France",
+     "title_en": "BYD wants to buy the former Smart factory to manufacture its cars in France.",
+     "url": "https://www.frandroid.com/marques/byd/3336633_byd-veut-racheter-lancienne-usine-smart-pour-fabriquer-ses-voitures-en-france",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-24",
+   "title": "Iran Sentences Singer Parastoo Ahmadi to 74 Lashes for Performing Without a Hijab",
+   "sum": "Iranian authorities have imposed a punishment of 74 lashes on singer Parastoo Ahmadi for appearing without a hijab in a YouTube performance. The ruling also affects her band members and imposes additional restrictions on their professional activities.",
+   "more": "The punishment was executed in Qom and was labeled as a response to what the regime viewed as immoral conduct. In addition to receiving lashes, both Ahmadi and her four band members face a two-year ban from working in the audiovisual sector and from leaving the country. Various outlets highlight the severity of the punishment, with some framing it as a measure against perceived moral violations in public performances.",
+   "coverage": [
+    {
+     "outlet": "El Mundo",
+     "title": "Ir\u00e1n flagela con 74 latigazos a una cantante por mostrar su pelo en Youtube",
+     "title_en": "Iran Whips Singer with 74 Lashes for Showing Her Hair on YouTube",
+     "url": "https://www.elmundo.es/internacional/2026/11/24/6b058debfdddff3f1d8b4572.html",
+     "bias": "Lean Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Record.com.mx",
+     "title": "Ir\u00e1n aplica 74 latigazos a la cantante Parastoo Ahmadi por ofrecer un concierto sin velo en YouTube",
+     "title_en": "Iran Applies 74 Lashes to Singer Parastoo Ahmadi for Performing Without a Hijab on YouTube",
+     "url": "https://www.record.com.mx/historia/iran-aplica-74-latigazos-a-la-cantante-parastoo-ahmadi-por-ofrecer-un-concierto-sin-velo-en-youtube-2026112417475006975",
+     "bias": "Right",
+     "src": "ai"
+    },
+    {
+     "outlet": "Elconfidencial.com",
+     "title": "Ir\u00e1n flagela con 74 latigazos a la cantante Parastoo Ahmadi por cantar sin velo en YouTube",
+     "title_en": "Iran Whips Singer Parastoo Ahmadi for Singing Without a Hijab on YouTube",
+     "url": "https://www.elconfidencial.com/mundo/2026-11-24/iran-latigazos-cantante-parastoo-ahmadi-sin-velo_4471913/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "La Nacion",
+     "title": "El r\u00e9gimen de Ir\u00e1n castig\u00f3 con 74 latigazos a una cantante por actuar sin hijab en un concierto",
+     "title_en": "Regime of Iran Punishes Singer with 74 Lashes for Performing Without Hijab",
+     "url": "https://www.lanacion.com.ar/el-mundo/el-regimen-de-iran-castigo-con-74-latigazos-a-una-cantante-por-actuar-sin-hiyab-en-un-convierto-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-24",
+   "title": "Sheikh Hasina Plans Return to Bangladesh on December 16",
+   "sum": "Former Prime Minister Sheikh Hasina has announced her intention to return to Bangladesh on December 16 after years in exile. This marks the first instance in which she has provided a specific date for her return.",
+   "more": "Both BBC News and Al Jazeera English report on Hasina's planned return, highlighting her previous statements regarding her desire to come back to Bangladesh. While BBC focuses on her announcement of the date, Al Jazeera emphasizes her request for the national airline to facilitate her return amidst government claims regarding her extradition. The framing surrounding her return emphasizes differing perspectives on the nature of her re-entry into the country.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+     "title_en": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December.",
+     "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
+     "title_en": "Sheikh Hasina plans to return to Bangladesh from exile on December 16.",
+     "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-24",
+   "title": "Senegal Reinstated as 2025 Africa Cup of Nations Winners",
+   "sum": "Senegal has been reinstated as the champions of the 2025 Africa Cup of Nations following a ruling by the Court of Arbitration for Sport. This decision comes ten months after the final match.",
+   "more": "The Court of Arbitration for Sport has ruled in favor of Senegal in a controversial final that took place in January against Morocco. The decision to reinstate Senegal as winners highlights the ongoing legal disputes surrounding the tournament. Both BBC News and Al Jazeera English report on the ruling, with Al Jazeera emphasizing the controversy of the final match.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament",
+     "title_en": "Senegal reinstated as Afcon 2025 winners - 10 months after tournament.",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco",
+     "title_en": "Senegal reinstated as 2025 Africa Cup of Nations winners over Morocco.",
+     "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-24",
+   "title": "Democrats Secure Majority in House with Tennessee Win",
+   "sum": "Democrats have increased their House majority to at least 259 seats, marking the largest number for the party since 1992. This growth was bolstered by Victoria Broderick's narrow victory over Republican Scott DesJarlais in Tennessee's 4th Congressional District.",
+   "more": "The victory in Tennessee's 4th District is particularly significant as it demonstrates the Democrats' continued strength in various parts of the country. While some outlets emphasize the overall increase in House seats, others may focus on the implications of the Republican loss in a historically competitive district. This win could signal shifts in voter sentiment, impacting future elections. Different news sources may also highlight the strategies employed by both parties during the campaign.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "Democrats flip Tennessee's 4th District, giving the party 259 House seats",
+     "title_en": "Democrats flip Tennessee's 4th District, giving the party 259 House seats.",
+     "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6e49e93b-3ddb-42c7-ae7b-6628d4d37f7e",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-24",
+   "title": "Democrat Victoria Broderick Wins Congressional Seat in Trump District",
+   "sum": "Victoria Broderick has successfully flipped a congressional district previously held by Republicans. She defeated eight-term incumbent Scott DesJarlais in a significant electoral shift.",
+   "more": "Despite losing her previous race by a large margin, Broderick's recent victory in the Trump +24 district highlights a changing political landscape. Remarkably, she managed to secure this win without running any television advertisements, which is unusual for such a competitive race. This election outcome may indicate shifting voter sentiment in traditionally Republican areas.",
+   "coverage": [
+    {
+     "outlet": "Jezebel",
+     "title": "In 2024, She Lost Her Race by 43 Points. Now She Just Flipped a Trump +24 Congressional District",
+     "title_en": "In 2024, She Lost Her Race by 43 Points. Now She Just Flipped a Trump +24 Congressional District.",
+     "url": "https://www.jezebel.com/victoria-broderick-congress-election-tennessee-trump-24-district-8-term-scott-desjarlais-blue-wave-house",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

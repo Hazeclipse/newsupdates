@@ -1,6 +1,6 @@
 {
  "date": "2026-11-23",
- "updated": "Nov 24, 20:57 UTC",
+ "updated": "Nov 25, 20:19 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -539,6 +539,187 @@
      "url": "https://www.vox.com/politics/511625/utah-election-blue-democrat-battleground-mormon-lds-mike-lee-tsunami-latter-day",
      "bias": "Left",
      "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Startup Companies Launch Fully Driverless Robotaxi Testing",
+   "sum": "Uber, Nuro, and Lucid have commenced trials for fully driverless robotaxis in the San Francisco Bay Area. This represents a significant move towards the commercialization of autonomous vehicles.",
+   "more": "Uber's transition to fully driverless testing indicates a shift away from employing human safety operators, marking a bold step in their business strategy. Nuro and Lucid are also involved in the initiative, with Lucid's Gravity model poised for potential market introduction. CNET highlights the luxury aspect of Lucid's robotaxi, suggesting a target demographic that values premium features. Meanwhile, The Verge focuses more on the implications of removing human oversight in the testing phase, reflecting divergent framing in the coverage of technological advancements.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+     "title_en": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+     "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNET",
+     "title": "Uber, Nuro and Lucid Begin Fully Driverless Testing With Their Luxury Robotaxi",
+     "title_en": "Uber, Nuro and Lucid Begin Fully Driverless Testing With Their Luxury Robotaxi",
+     "url": "https://www.cnet.com/roadshow/automobiles/uber-nuro-lucid-robotaxi-fully-driverless-testing/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-23",
+   "title": "Jensen Huang's Return Celebrated Amid Controversy",
+   "sum": "Tech and Chinese internet communities are reacting to Jensen Huang's return to Nvidia leadership. His past controversies, including personal indiscretions, are noted alongside the celebration.",
+   "more": "While tech leaders in the industry are expressing support for Huang, celebrating his comeback, the response from the Chinese internet community is more mixed. On Weibo, users are engaging in playful teasing about his alleged past issues, showing a blend of admiration and humor. This indicates a differing tone between the tech industry\u2019s serious support and the light-hearted mockery present in social media reactions. The contrasting responses reflect varying cultural perceptions of leadership and personal conduct.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Tech leaders are celebrating Jensen Huang\u2019s return",
+     "title_en": "Tech leaders celebrate Jensen Huang's return",
+     "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Business Insider",
+     "title": "The Chinese internet is celebrating Jensen Huang\u2019s triumphant return to power at Nvidia",
+     "title_en": "Chinese internet celebrates Jensen Huang's triumph",
+     "url": "https://www.businessinsider.com/chinese-internet-celebrating-jensen-huang-return-nvidia-2026-11",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-23",
+   "title": "GTA VI Hacker Sentenced and Released",
+   "sum": "Arion Kurtaj, responsible for early leaks of Grand Theft Auto VI, received a seven-year prison sentence but has been released on license. He pleaded guilty to hacking Rockstar Games and other companies.",
+   "more": "Kurtaj was involved in high-profile hacks against various entities, including Uber and Revolut, which contributed to the severity of his case. His release on license raises questions about the implications of cybersecurity breaches and the consequences faced by individuals in similar situations. The BBC's reporting emphasizes the legal outcome, whereas The Verge highlights the impact on the gaming industry and user trust. The framing differs mainly in focus on the legal versus industry repercussions.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "The hacker behind early GTA VI leaks has been sentenced \u2014 and released",
+     "title_en": "The hacker behind early GTA VI leaks has been sentenced \u2014 and released.",
+     "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-23",
+   "title": "Ukraine Strikes Russian Warship off Libya, Raising Concerns of Escalation",
+   "sum": "Ukraine has claimed responsibility for sinking a Russian warship off the coast of Libya, marking a significant expansion of the conflict. This action has raised alarms about potential escalation in the ongoing war.",
+   "more": "While NBC News emphasizes Ukraine's bold move in the conflict with Russia, Fox News highlights warnings from a former official regarding the potential for serious escalation due to this strike. The differing focuses illustrate a contrast between perspectives on Ukraine's military actions: one portraying it as a strategic advance and the other cautioning about the ramifications of such provocations. The mention of escalation suggests heightened tensions in an already complex situation.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
+     "title_en": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
+     "url": "https://www.nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Ukraine\u2019s drone strike on Russian warship in Libya risks \u2018serious escalation,\u2019 former official warns",
+     "title_en": "Ukraine\u2019s drone strike on Russian warship in Libya risks \u2018serious escalation,\u2019 former official warns",
+     "url": "https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-23",
+   "title": "Housing, Trains, and Migration: What Parties Propose Ahead of Spain's November 29 Elections",
+   "sum": "As Spain approaches the general elections on November 29, political parties are focusing on key issues like housing, transportation, and migration. Voter preferences may also be influenced by other topics.",
+   "more": "The discussion around housing, trains, and migration indicates a strategic positioning by parties to resonate with the electorate. While some parties emphasize social initiatives, others may focus on economic growth, indicating a diverse array of campaign strategies. The upcoming elections are critical, and different outlets may highlight certain issues over others depending on their audience. The urgency for parties to capitalize on these debates reflects the evolving political landscape in Spain.",
+   "coverage": [
+    {
+     "outlet": "Latercera.com",
+     "title": "Vivienda, trenes y migraci\u00f3n: \u00bfqu\u00e9 proponen los partidos de cara a las elecciones del 29-N en Espa\u00f1a?",
+     "title_en": "Housing, Trains, and Migration: What Parties Propose Ahead of Spain's November 29 Elections",
+     "url": "https://www.latercera.com/mundo/noticia/vivienda-trenes-y-migracion-que-proponen-los-partidos-de-cara-a-las-elecciones-del-29-n-en-espana/",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-23",
+   "title": "AD\u00c9LA Announces 2027 World Tour",
+   "sum": "Ad\u00e9la has revealed her 2027 world tour, which will take place nearly every night from January to April. This tour will follow her performance at Coachella.",
+   "more": "The announcements came from different sources, highlighting the extensive nature of the tour as well as its timing. While Pitchfork focuses on the frequency of the shows, Consequence.net emphasizes the tour's North American dates following her appearance at Coachella. Both outlets agree on the excitement surrounding the rising pop star's upcoming tour.",
+   "coverage": [
+    {
+     "outlet": "Pitchfork",
+     "title": "Ad\u00e9la Announces 2027 World Tour",
+     "title_en": "Ad\u00e9la Announces 2027 World Tour. It runs nearly every single night from January to April",
+     "url": "https://pitchfork.com/story/adela-announces-2027-world-tour/",
+     "bias": "Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Consequence.net",
+     "title": "AD\u00c9LA Announces 2027 \u201cPRIMA\u201d North American Tour Dates",
+     "title_en": "AD\u00c9LA Announces 2027 \u201cPRIMA\u201d North American Tour Dates. The burgeoning pop star will follow up Coachella by playing a run of headline shows.",
+     "url": "https://consequence.net/2026/11/adela-2027-prima-north-american-tour-dates/",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-23",
+   "title": "Telegram CEO Critiques Realism in GTA 6 Regarding App Use for Crime",
+   "sum": "The CEO of Telegram has expressed skepticism about the portrayal of crime in the upcoming game GTA 6. He pointed out that it is unrealistic that no one uses his messaging app for criminal activities.",
+   "more": "This comment reflects the CEO's frustration with how his app is represented in gaming narratives, particularly concerning criminal activities. His tweet seems to suggest that the game's developers should consider the prevalence of communication platform usage among those engaged in illegal activities. The framing here highlights a disparity between the game's fictional universe and real-world behavior, as perceived by the CEO. The broader implications of this commentary touch on the intersection of technology and crime in entertainment media.",
+   "coverage": [
+    {
+     "outlet": "Kotaku",
+     "title": "Telegram CEO Says The \u2018Least Realistic\u2019 Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+     "title_en": "Telegram CEO Says The \u2018Least Realistic\u2019 Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+     "url": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-23",
+   "title": "Iranian Singer Parastoo Ahmadi and Band Sentenced to 74 Lashes for Performing without Hijab",
+   "sum": "Iranian singer Parastoo Ahmadi, along with three musicians and a producer, received 74 lashes for performing on YouTube without wearing a hijab. The Islamic Republic imposes strict regulations on women's public performances.",
+   "more": "Both articles highlight the severe punishment imposed on Ahmadi and her band for defying the country's dress code during a performance. The BBC focuses on the punitive measures taken against them, while Elespanol.com emphasizes the broader restrictions faced by women in Iran regarding music and public performances. Additionally, Elespanol.com introduces a context about women's empowerment in Iran through unconventional means, such as learning to shoot, suggesting a juxtaposition against the strict laws they currently face.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "La cantante iran\u00ed que recibi\u00f3 74 latigazos por actuar en YouTube sin el velo",
+     "title_en": "The Iranian singer who received 74 lashes for performing on YouTube without a hijab.",
+     "url": "https://www.bbc.com/mundo/articles/cmly7qnw55z4o",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Elespanol.com",
+     "title": "La cantante Parastoo Ahmadi y su banda reciben 74 latigazos en Ir\u00e1n en castigo por emitir un concierto sin llevar velo",
+     "title_en": "Singer Parastoo Ahmadi and her band receive 74 lashes in Iran as punishment for performing without a hijab.",
+     "url": "https://www.elespanol.com/mundo/oriente-proximo/20261124/cantante-parastoo-ahmadi-banda-reciben-latigazos-iran-castigo-emitir-concierto-sin-llevar-velo/1003744469553_0.html",
+     "bias": "Lean Left",
+     "src": "ai"
     }
    ]
   }
