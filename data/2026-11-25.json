@@ -1,0 +1,409 @@
+{
+ "date": "2026-11-25",
+ "updated": "Nov 26, 19:57 UTC",
+ "stories": [
+  {
+   "cat": "tech",
+   "date": "2026-11-25",
+   "title": "Trump's Demands to Chips CEO Highlight Pressure Campaign",
+   "sum": "Donald Trump's interactions with Intel indicate a government-led campaign involving private companies. Court documents provide insights into these demands.",
+   "more": "The report delves into the implications of Trump\u2019s pressure on tech executives, shedding light on the intertwining of government and private sector interests. There are concerns over the ethical ramifications of such demands, particularly regarding innovation and corporate autonomy. While some outlets emphasize the coercive nature of these interactions, others focus on the strategic objectives behind Trump's demands.",
+   "coverage": [
+    {
+     "outlet": "Wired",
+     "title": "\u2018Rejection Will Have Consequences\u2019: Inside Trump\u2019s Demands to Another Chips CEO",
+     "title_en": "\u2018Rejection Will Have Consequences\u2019: Inside Trump\u2019s Demands to Another Chips CEO",
+     "url": "https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-25",
+   "title": "US Financial Crimes Bureau Investigates Cybersecurity Incident",
+   "sum": "The Financial Crimes Enforcement Network (FinCEN) is currently examining a cybersecurity incident involving unauthorized access. The bureau is part of the Treasury Department and is actively investigating the matter.",
+   "more": "The incident was disclosed on Tuesday, but specific details regarding the nature of the incident or the extent of the unauthorized access have not been made public. Various outlets may focus on different aspects of the incident, including potential implications for financial security. The investigation's outcomes could influence broader discussions on cybersecurity measures within federal agencies.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+     "title_en": "US financial crimes bureau discloses \u2018cybersecurity incident\u2019",
+     "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-25",
+   "title": "FCC Approves SpaceX's Plan for AI Chip-Equipped Satellites",
+   "sum": "The FCC has officially authorized SpaceX to launch up to 1 million satellites equipped with AI chips. This initiative, part of the company's 'Starmind' project, aims to establish a new era of data centers in space.",
+   "more": "The decision marks a significant step in advancing the deployment of satellite-based data centers, which could revolutionize data processing and storage. While other companies are exploring similar concepts, SpaceX's plan stands out due to its scale and the integration of AI technology. Variations in reporting may focus on the potential implications for the satellite industry and the competitive landscape, with some outlets emphasizing risks and others highlighting innovations.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "FCC signs off on SpaceX\u2019s plan to put up to 1 million data center satellites into space",
+     "title_en": "FCC Signs Off on SpaceX's Plan to Put Up to 1 Million Data Center Satellites into Space",
+     "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-25",
+   "title": "Kilmar Abrego Garcia Self-Deports to Spain",
+   "sum": "Kilmar Abrego Garcia, a Salvadoran immigrant symbol of the Trump administration's deportation efforts, has voluntarily left the U.S. for Spain after years of legal challenges. His deportation follows a prior wrongful deportation to a prison in El Salvador.",
+   "more": "Both NPR and ABC News report on Kilmar Abrego Garcia's voluntary departure from the U.S. to Spain. NPR emphasizes the context of his status as a symbol of the deportation campaign, while ABC News highlights his past mistaken deportation to a Salvadoran mega-prison. The framing in NPR appears more focused on the legal battles he faced, whereas ABC News presents his choice to self-deport as a significant development following his ordeal.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
+     "title_en": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "Abcnews.com",
+     "title": "Kilmar Abrego Garcia leaves the US, is self-deporting to Spain",
+     "title_en": "Kilmar Abrego Garcia leaves the US, is self-deporting to Spain",
+     "url": "https://abcnews.com/US/kilmar-abrego-garcia-leaves-us-deporting-spain/story?id=138414044",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-25",
+   "title": "Sterling Receives Suspended Sentence for Dangerous Driving",
+   "sum": "Raheem Sterling has been given a 12-month prison sentence, which is suspended for 18 months, due to a conviction for dangerous driving. The sentencing occurred on Wednesday.",
+   "more": "The ruling indicates that while Sterling faces potential imprisonment, it will not take immediate effect unless further offenses occur within the suspended period. Other outlets may provide varying emphasis on the implications of the suspended sentence for Sterling's career and personal life. Some may highlight the public interest in accountability for athletes, while others focus on the legal process and outcome.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Sterling given suspended sentence for dangerous driving",
+     "title_en": "Sterling given suspended sentence for dangerous driving",
+     "url": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-25",
+   "title": "Kilmar Abrego Garcia Leaves the U.S. Voluntarily for Spain",
+   "sum": "Kilmar Abrego Garcia, a Salvadoran immigrant, has left the United States voluntarily after two years of legal struggles. His departure marks a significant moment related to the Trump administration's deportation efforts.",
+   "more": "Abrego Garcia's departure was framed differently by various outlets. NPR presents him as a symbol of deportation campaigns, highlighting the voluntary aspect of his exit after prolonged legal battles. In contrast, NBC News focuses on the official confirmation of his order to leave, emphasizing that he left as a 'free man' in compliance with a federal judge's directive.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain",
+     "title_en": "Kilmar Abrego Garcia leaves U.S. voluntarily for Spain.",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6053203/abrego-garcia-leaves-us",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Kilmar Abrego Garcia is leaving the U.S. a \u2018free man,\u2019 Van Hollen says",
+     "title_en": "Kilmar Abrego Garcia is leaving the U.S. a 'free man,' Van Hollen says.",
+     "url": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-25",
+   "title": "Army to Detonate Lead-Based Explosives in Iowa",
+   "sum": "The U.S. Army is preparing to detonate nearly five tons of lead-based explosives at the Iowa Ammunition Plant. This controlled explosion is scheduled for Wednesday morning.",
+   "more": "According to NPR, the detonation will occur at 9 a.m. CT at the Iowa Ammunition Plant. Meanwhile, NBC News highlights the potential environmental impact, noting that a toxic dust plume could spread across miles. While both outlets report on the controlled explosion, NBC emphasizes the dangers associated with the toxic plume more than NPR.",
+   "coverage": [
+    {
+     "outlet": "NPR",
+     "title": "Army plans to detonate nearly five tons of lead-based explosives in Iowa",
+     "title_en": "Army plans to detonate nearly five tons of lead-based explosives in Iowa.",
+     "url": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa",
+     "bias": "Center",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa",
+     "title_en": "Army set to detonate a cache of lead explosives, sending toxic plume across Iowa.",
+     "url": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-25",
+   "title": "Trump Discusses Pardon Possibility for Nvidia CEO Jensen Huang",
+   "sum": "President Donald Trump indicated that providing a pardon for Nvidia CEO Jensen Huang is 'always an option' but likely unnecessary. This statement comes ahead of Huang's upcoming testimony before Congress.",
+   "more": "Trump's comments have garnered bipartisan criticism, particularly regarding his assertion that Huang does not pose a national security threat. This backlash underscores the contentious nature of Huang's potential testimony. As different outlets report, CNN focuses on the possibility of a pardon, while NBC highlights the implications of Huang's testimony and the response from lawmakers.",
+   "coverage": [
+    {
+     "outlet": "CNN",
+     "title": "Trump says a pardon for Nvidia's CEO is 'always an option' but likely unnecessary",
+     "title_en": "Trump says a pardon for Nvidia's CEO is 'always an option' but likely unnecessary.",
+     "url": "https://www.cnn.com/2026/11/24/politics/jensen-huang-trump-pardon-option-nvidia",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "NBC News",
+     "title": "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn\u2019t necessary",
+     "title_en": "Trump says pardon is always an option for Jensen Huang, and that invoking the Fifth isn\u2019t necessary.",
+     "url": "https://www.nbcnews.com/politics/donald-trump/pardon-always-option-nvidia-jensen-huang-pleading-fifth-not-necessary-rcna611219",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-25",
+   "title": "New Developments in Venezuelan TPS Order as Government Withdraws Suspension Request",
+   "sum": "The Venezuelan TPS order remains on hold for an additional period as the government retracts its request for suspension in the Supreme Court. A judge's order will continue to be suspended until seven days after the appeals ruling.",
+   "more": "The news highlights a significant change in strategy by the government regarding the Temporary Protected Status for Venezuelans. Different outlets may emphasize the implications of the government's withdrawal differently, particularly in terms of its impact on Venezuelans in the U.S. Furthermore, there could be contrasting viewpoints on the likelihood of future legal challenges and societal responses to these developments.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El nuevo giro por la orden final del TPS venezolano y por qu\u00e9 el Gobierno retir\u00f3 su pedido de suspensi\u00f3n ante la Corte Suprema",
+     "title_en": "The new twist on the final TPS order for Venezuelans and why the government withdrew its suspension request before the Supreme Court.",
+     "url": "https://www.lanacion.com.ar/estados-unidos/el-nuevo-giro-por-la-orden-final-del-tps-venezolano-y-por-que-el-gobierno-retiro-su-pedido-de-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-25",
+   "title": "Police Dismantle Deck in Caballito During Operation",
+   "sum": "Police dismantled a deck in Caballito while customers were at the tables, leading to the arrest of an employee. The establishment's owner claimed that the police caused damage to the property.",
+   "more": "More than five police officers were involved in restraining the man, while neighbors reportedly urged the police to stop the operation. The incident highlights tensions between local businesses and police actions in the area. There may be different perceptions regarding the necessity and execution of such policing efforts, with some residents supporting the crackdown on outdoor dining while others criticize the heavy-handedness of the police response.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "El momento en el que la polic\u00eda desmantel\u00f3 un deck en Caballito con clientes en las mesas y detuvo a un empleado",
+     "title_en": "The moment when police dismantled a deck in Caballito with customers at the tables and arrested an employee",
+     "url": "https://www.lanacion.com.ar/sociedad/el-momento-en-el-que-la-policia-desmantelo-un-deck-en-caballito-con-clientes-en-las-mesas-y-detuvo-a-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-25",
+   "title": "Divided Spain Faces Election with Far-Right Party's Potential Entry",
+   "sum": "Spain is experiencing political divisions leading up to Sunday\u2019s election. The election may witness the far-right party entering the government for the first time.",
+   "more": "The article highlights the contrasting political visions that have emerged in the country, indicating a significant split among voters. Additionally, the potential entry of a far-right party marks a pivotal moment in Spain\u2019s political landscape. Different news outlets may emphasize varying aspects of this division, with some focusing on the implications for democratic values and others on the rise of populism.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Clashing political visions reflect a divided Spain ahead of election",
+     "title_en": "Clashing political visions reflect a divided Spain ahead of election",
+     "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-25",
+   "title": "MP Demands Action Against AI Porn Deepfakes Using Her Likeness",
+   "sum": "MP Mims Davies is calling for action following the unauthorized use of her likeness in AI-generated porn deepfakes. She encourages the public to report such incidents to ensure accountability.",
+   "more": "Davies emphasized the importance of addressing the issue of deepfakes and their potential harm to individuals. She highlighted the need for legal measures to tackle the misuse of technology in this manner. The framing of the report focuses on the implications for personal safety and accountability in the online space.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "MP calls for action after her likeness used for AI porn deepfakes",
+     "title_en": "MP calls for action after her likeness used for AI porn deepfakes",
+     "url": "https://www.bbc.co.uk/news/articles/cr742z9gx894o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "europe",
+   "date": "2026-11-25",
+   "title": "Ukraine Claims Five Russian Jets Damaged in Airfield Strike",
+   "sum": "Ukraine reports that five Russian military jets were damaged in a strike at the Savasleyka airfield. This airfield is used by Russia to launch hypersonic missiles and glide bombs against Ukraine.",
+   "more": "The report emphasizes the strategic importance of the Savasleyka airfield in the ongoing conflict. This claim from Ukraine highlights their efforts to counter Russian military capabilities. Other outlets may provide differing perspectives on the actual impact of the strike or the validity of Ukraine's claims.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+     "title_en": "Five Russian military jets hit in airfield strike, says Ukraine",
+     "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-25",
+   "title": "Israel's Eisenkot Forms Coalition with Yashar Party",
+   "sum": "Israel's Eisenkot has successfully secured his first coalition partner, the Yashar party, in his efforts to form a government. The coalition pact involves Israel's Our Home party, which is led by Avigdor Lieberman.",
+   "more": "This development marks a significant step for Eisenkot in his political ambitions. The agreement with the Yashar party indicates a potential alignment of interests within the coalition. Observers may note differing perspectives on the implications of this alliance for Israel's future governance.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Israel\u2019s Eisenkot secures first coalition partner in bid to form government",
+     "title_en": "Israel\u2019s Eisenkot secures first coalition partner in bid to form government.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-25",
+   "title": "Catalan Separatist Puigdemont Set to Return to Spain",
+   "sum": "Former Catalan leader Carles Puigdemont has announced his return to Spain on December 12. He plans to present a new proposal for Catalan independence on December 17.",
+   "more": "The announcement highlights Puigdemont's continued commitment to the independence movement despite previous challenges. There is anticipation surrounding his proposal, which could reinvigorate discussions on Catalonia's status within Spain. Different media outlets may frame his return as either a bold move for independence or a risky gamble in the current political climate.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "Catalan separatist Puigdemont to return to Spain on December 12",
+     "title_en": "Catalan separatist Puigdemont to return to Spain on December 12.",
+     "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "mideast",
+   "date": "2026-11-25",
+   "title": "The Gambia Election: Promises and Challenges Ahead",
+   "sum": "Gambians are preparing to vote in an election marked by economic difficulties and unmet reform promises. The outcome could define the future of the country amidst ongoing challenges.",
+   "more": "The elections take place against a backdrop of significant economic hardship experienced by the population. Many Gambians are concerned about whether the next president can fulfill the expected reforms and justice that have been long promised. Different news outlets emphasize the urgency of addressing these economic issues as central to the election's significance. Some highlight the electorate's skepticism regarding the effectiveness of political promises based on past experiences.",
+   "coverage": [
+    {
+     "outlet": "Al Jazeera English",
+     "title": "The Gambia election: Can the next president deliver on a decade of promise",
+     "title_en": "The Gambia election: Can the next president deliver on a decade of promise",
+     "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-25",
+   "title": "Office Depot Closes Operations in France",
+   "sum": "Office Depot is shutting down its 27 stores and website in France due to the inability to find a buyer. The company has announced its definitive closure.",
+   "more": "Both articles note the company's closure due to the lack of a buyer, but the phrasing differs slightly. Presse-citron emphasizes the action as a farewell, while 20 Minutes points out the involvement of the company Ankaa in the closure announcement. Both sources confirm the definitive nature of the closure in France, including operations online.",
+   "coverage": [
+    {
+     "outlet": "Presse-citron",
+     "title": "Office Depot ferme ses portes en France\u00a0: le sp\u00e9cialiste des fournitures de bureau annonce la fermeture de ses 27 magasins et de son site internet",
+     "title_en": "Office Depot closes its doors in France: the specialist in office supplies announces the closure of its 27 stores and its website.",
+     "url": "https://www.presse-citron.net/office-depot-ferme-ses-portes-en-france-le-specialiste-des-fournitures-de-bureau-annonce-la-fermeture-de-ses-27-magasins-et-de-son-site-internet/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "20 Minutes",
+     "title": "Office Depot cesse ses activit\u00e9s en France et annonce la fermeture d\u00e9finitive de 27 magasins",
+     "title_en": "Office Depot ceases its activities in France and announces the definitive closure of 27 stores.",
+     "url": "https://www.20minutes.fr/economie/4265459-20261124-office-depot-cesse-activites-france-annonce-fermeture-definitive-27-magasins",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-25",
+   "title": "The Value of Traveling with Young Children",
+   "sum": "A parent reflects on the decision to take their young children on international trips despite common criticism. They believe the experience has had lasting benefits as the children have grown older.",
+   "more": "The article emphasizes the joy and growth that comes from traveling as a family from an early age, countering the argument that such trips are pointless for young children. The parent shares personal anecdotes that highlight the positive outcomes of these travels, reinforcing their belief that the experience enriches family bonds and broadens children's perspectives. Other outlets may focus on the logistical challenges of traveling with small children, but this piece centers on the long-term emotional and developmental benefits.",
+   "coverage": [
+    {
+     "outlet": "Business Insider",
+     "title": "Everyone said traveling with little kids was a waste. I'm glad I didn't listen.",
+     "title_en": "Everyone said traveling with little kids was a waste. I'm glad I didn't listen.",
+     "url": "https://www.businessinsider.com/why-traveling-with-young-kids-is-worth-it-wont-remember-2026-11",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-25",
+   "title": "German Chancellor Merz Warns of Russia's Intentions Beyond Ukraine",
+   "sum": "German Chancellor Friedrich Merz emphasizes Russia's clear objectives, indicating that they desire more than just Ukraine. He calls for increased military spending and warns of tough times ahead for Germany.",
+   "more": "During a budget debate in Parliament, Merz underscored the necessity for resilience and prudence amid challenging circumstances. He proposed a historic increase in military expenditure alongside a substantial aid package for Ukraine. The discourse reflects a growing consensus in Germany about the need for enhanced defense capabilities amid geopolitical tensions. Various outlets echo the urgency of his message, though some emphasize the need for diplomatic solutions alongside military readiness.",
+   "coverage": [
+    {
+     "outlet": "Lavozdegalicia.es",
+     "title": "Merz: \u00abRusia sabe exactamente lo que quiere y quiere algo m\u00e1s que Ucrania\u00bb",
+     "title_en": "Merz: 'Russia knows exactly what it wants and wants more than Ukraine'.",
+     "url": "https://www.lavozdegalicia.es/noticia/internacional/2026/11/25/merz-rusia-sabe-exactamente-quiere-quiere-ucrania/00031795628912600223960.htm",
+     "bias": "Center",
+     "src": "ai"
+    },
+    {
+     "outlet": "Www.abc.es",
+     "title": "Merz alerta de que \u00abRusia sabe exactamente lo que quiere y quiere algo m\u00e1s que Ucrania\u00bb",
+     "title_en": "Merz warns that 'Russia knows exactly what it wants and wants more than Ukraine'.",
+     "url": "https://www.abc.es/internacional/merz-alerta-rusia-sabe-exactamente-quiere-quiere-20261125181501-nt.html",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-25",
+   "title": "Financial Conversations to Consider During Thanksgiving",
+   "sum": "Thanksgiving gatherings often lead to discussions about money and finances among family members. This dynamic can create both tension and opportunities for important conversations.",
+   "more": "As families come together for the holiday, diverse opinions on financial matters can emerge, influenced by each member's individual experiences and perspectives. Discussions may range from budgeting to investments, highlighting varying values and concerns regarding money. This unique blend of family dynamics and financial topics can make for both compelling and challenging interactions during the celebratory feast.",
+   "coverage": [
+    {
+     "outlet": "Yahoo Entertainment",
+     "title": "10 big money topics you might have to tackle over Thanksgiving turkey",
+     "title_en": "10 big money topics you might have to tackle over Thanksgiving turkey",
+     "url": "https://finance.yahoo.com/markets/article/10-big-money-topics-you-might-have-to-tackle-over-turkey-a-yahoo-finance-guide-to-nvidia-markets-and-more-110000381.html",
+     "bias": "Center",
+     "src": "ai"
+    }
+   ]
+  }
+ ]
+}

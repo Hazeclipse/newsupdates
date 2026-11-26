@@ -1,6 +1,6 @@
 {
  "date": "2026-11-24",
- "updated": "Nov 25, 20:19 UTC",
+ "updated": "Nov 26, 19:57 UTC",
  "stories": [
   {
    "cat": "tech",
@@ -400,6 +400,233 @@
      "title": "In 2024, She Lost Her Race by 43 Points. Now She Just Flipped a Trump +24 Congressional District",
      "title_en": "In 2024, She Lost Her Race by 43 Points. Now She Just Flipped a Trump +24 Congressional District.",
      "url": "https://www.jezebel.com/victoria-broderick-congress-election-tennessee-trump-24-district-8-term-scott-desjarlais-blue-wave-house",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-24",
+   "title": "Tidal to Ban AI-Generated Music Starting December 9th",
+   "sum": "Tidal will officially ban AI-generated music beginning December 9th, leading to the deletion of approximately 29 million AI tracks. This policy is expected to result in the rejection of around 80,000 to 85,000 AI-generated songs daily.",
+   "more": "The announcement has stirred discussions about the implications for artists and the future of music platforms. The Verge highlights the significant quantity of music affected, while Kotaku emphasizes the daily impact of the ban. Both outlets frame the decision as a decisive action by Tidal to regulate content on its service, underscoring concerns over the rise of AI in music production.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "Tidal will start banning AI-generated music next month",
+     "title_en": "Tidal will start banning AI-generated music next month.",
+     "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Kotaku",
+     "title": "Tidal Bans AI-Generated Music, Deleting 29 Million Songs From The App",
+     "title_en": "Tidal Bans AI-Generated Music, Deleting 29 Million Songs From The App.",
+     "url": "https://kotaku.com/tidal-bans-ai-generated-music-deleting-29-million-songs-from-the-app-2001000141",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "date": "2026-11-24",
+   "title": "David Fincher Facing Criticism Over Alleged AI Use in Upcoming Film",
+   "sum": "David Fincher is under scrutiny for the potential use of generative AI in his latest film, The Further Mis-Adventures of Cliff Booth. Early screenings have sparked debates among fans and critics regarding the integrity of the film's production.",
+   "more": "Fans had high hopes for the sequel to Once Upon a Time in Hollywood, but concerns over the use of AI technology have led to mixed reactions. While some are disappointed by the idea of AI involvement, others argue it might enhance creativity. The discussions highlight a broader industry debate about the implications of AI on filmmaking and storytelling.",
+   "coverage": [
+    {
+     "outlet": "The Verge",
+     "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+     "title_en": "David Fincher is being dragged for suspected use of AI in his latest film",
+     "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "crime",
+   "date": "2026-11-24",
+   "title": "Thomas Markle Indicted for Child Sex Abuse Images",
+   "sum": "Thomas Markle has been indicted by a federal grand jury in the United States for the possession of child sex abuse images. His arrest followed a search of a storage unit in Los Angeles.",
+   "more": "The FBI conducted a search on November 6, leading to the discovery of the abusive material in the rented storage unit. This arrest marks a significant legal issue for Markle, who is already known for his connection to the British royal family through his daughter, Meghan Markle. Different outlets emphasize various aspects of his background, with some focusing on his familial ties while others highlight the nature of the charges against him.",
+   "coverage": [
+    {
+     "outlet": "BBC News",
+     "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
+     "title_en": "Thomas Markle indicted by federal grand jury for possessing child sex abuse images",
+     "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o",
+     "bias": "Center",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "namerica",
+   "date": "2026-11-24",
+   "title": "Prosecutors Dismiss Criminal Charge Against Incoming House Democrat LaKesha Womack",
+   "sum": "Authorities have dropped a criminal charge against Rep.-elect LaKesha Womack related to an unreturned rental car from 2020. She settled the bill for the vehicle, leading to the dismissal of the felony charge.",
+   "more": "The charge against Womack stemmed from a rental agreement with Budget Car Rental for a Toyota Corolla that was not returned. NBC News noted that the warrant for her was only served last month during a campaign event. Fox News highlighted that settling the rental bill was crucial for the prosecution to drop the felony charge. Overall, the framing in different outlets focuses on the timeline and resolution of the case, with NBC providing details about the summons issuance and Fox emphasizing the settlement.",
+   "coverage": [
+    {
+     "outlet": "NBC News",
+     "title": "Authorities drop criminal charge against incoming House Democrat over unreturned rental car",
+     "title_en": "Authorities drop criminal charge against incoming House Democrat over unreturned rental car.",
+     "url": "https://www.nbcnews.com/politics/congress/criminal-charge-dropped-nc-house-democrat-lakesha-womack-rental-car-rcna611200",
+     "bias": "Lean Left",
+     "src": "table"
+    },
+    {
+     "outlet": "Fox News",
+     "title": "Prosecutors drop felony charge from 2020 against incoming House Dem",
+     "title_en": "Prosecutors drop felony charge from 2020 against incoming House Dem.",
+     "url": "https://www.foxnews.com/politics/prosecutors-drop-felony-charge-2020-incoming-house-dem",
+     "bias": "Lean Right",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-24",
+   "title": "Argentinians Participate in Spanish Elections at Consulate",
+   "sum": "Thousands of Argentinians arrived at the Spanish consulate to vote in the elections. Their motivations included inherited identity, democratic commitment, and hopes for the country's future.",
+   "more": "The event at the Spanish consulate in Recoleta saw citizens from various generations participating actively in the electoral process. There is a notable emphasis on the importance of heritage and democracy among the voters. Different media outlets may highlight varying aspects of this civic engagement, particularly focusing on the emotional connections to heritage or the political implications of the vote for their future.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "\u201cEspero que mi voto ayude a cambiar\u201d: miles de argentinos se acercaron al consulado espa\u00f1ol para participar de las elecciones",
+     "title_en": "I hope my vote helps to change: thousands of Argentinians approached the Spanish consulate to participate in the elections",
+     "url": "https://www.lanacion.com.ar/sociedad/espero-que-mi-voto-ayude-a-cambiar-miles-de-argentinos-se-acercaron-al-consulado-espanol-para-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "politics",
+   "region": "samerica",
+   "date": "2026-11-24",
+   "title": "Democrats Expand Historic Victory in Congress",
+   "sum": "The Democratic Party achieved majorities in both chambers of Congress and made significant gains in traditionally Republican states. They are preparing to focus on cost of living issues and investigations into the president.",
+   "more": "This outcome is seen as a strong mandate for the Democrats as they plan to confront former President Trump. There is an emphasis on addressing economic concerns that matter to everyday Americans. Different outlets may focus on varying degrees of anticipation regarding the investigations into Trump, with some highlighting potential political ramifications more than others.",
+   "coverage": [
+    {
+     "outlet": "La Nacion",
+     "title": "Los dem\u00f3cratas ampliaron su victoria hist\u00f3rica en el Congreso y se preparan para confrontar a Trump",
+     "title_en": "Democrats Expand Historic Victory in Congress and Prepare to Confront Trump",
+     "url": "https://www.lanacion.com.ar/estados-unidos/los-democratas-ampliaron-su-victoria-historica-en-el-congreso-y-se-preparan-para-confrontar-a-trump-nid24112026/",
+     "bias": "Right",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-24",
+   "title": "Edward Gibbon's Obsession with Ancient Rome",
+   "sum": "Edward Gibbon, a misfit in his own time, constantly contemplated the Roman Empire. He sought solace in the reflections of its past greatness.",
+   "more": "The article explores Gibbon's deep connection to Rome and how it influenced his thoughts and writings. It portrays him as a figure who felt out of place in his contemporary society and turned to ancient history for understanding and comfort. The framing depicts Gibbon's introspection and longing for a time that resonated with him, contrasting it with his present reality. Overall, it highlights the enduring impact of historical empires on individuals navigating their own sense of identity.",
+   "coverage": [
+    {
+     "outlet": "The Atlantic",
+     "title": "He Thought About Rome Every Day",
+     "title_en": "He Thought About Rome Every Day",
+     "url": "https://www.theatlantic.com/magazine/2027/01/edward-gibbon-ancient-rome/689409/?utm_source=feed",
+     "bias": "Lean Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "French protests",
+   "date": "2026-11-24",
+   "title": "Quad9 Withdraws DNS Service from France",
+   "sum": "Quad9 has decided to withdraw its DNS service from France. The service is known for its focus on enhancing security and privacy.",
+   "more": "The withdrawal may reflect ongoing concerns about regulatory or operational challenges in the region. Quad9 aims to provide a safe and private browsing experience, which could lead to differing interpretations regarding the motives behind the decision. While some outlets may frame this as a move against government surveillance, others might view it as a necessary step for the protection of user data.",
+   "coverage": [
+    {
+     "outlet": "Quad9.net",
+     "title": "Quad9 pulled their DNS service from France",
+     "title_en": "Quad9 Withdraws DNS Service from France",
+     "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+     "bias": null,
+     "src": "none"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "Protests around the world",
+   "date": "2026-11-24",
+   "title": "Pearl Jam Criticizes ICE Arrests at Seattle Airport",
+   "sum": "The band Pearl Jam has condemned the arrest of a father and daughter by ICE agents at Seattle's airport, describing the treatment as inhumane. They expressed frustration over current immigration enforcement practices.",
+   "more": "Rolling Stone highlighted Pearl Jam's use of the term 'unconscionable' to address the situation, while Consequence.net focused on the band's description of the detainment as 'cold cruelty.' Both outlets emphasized the emotional distress caused by the incidents and showcased the band's commitment to social justice issues. The differing framings reflect specific aspects of the band's statements, with one focusing on moral implications and the other on emotional responses to immigration practices.",
+   "coverage": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Pearl Jam Rage Against \u2018Unconscionable\u2019 ICE Arrests at Seattle Airport",
+     "title_en": "Pearl Jam Rage Against \u2018Unconscionable\u2019 ICE Arrests at Seattle Airport",
+     "url": "https://www.rollingstone.com/music/music-news/pearl-jam-seattle-airport-ice-arrests-1235663883/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "Consequence.net",
+     "title": "Pearl Jam Decry \u201cCold Cruelty\u201d of ICE Detainment at Seattle Airport",
+     "title_en": "Pearl Jam Decry \u201cCold Cruelty\u201d of ICE Detainment at Seattle Airport",
+     "url": "https://consequence.net/2026/11/pearl-jam-speak-out-ice/",
+     "bias": "Left",
+     "src": "ai"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-24",
+   "title": "Opportunities for LGBTQ+ Rights and Democratic Gains in the South",
+   "sum": "LGBTQ+ advocates in the South and Midwest are feeling optimistic about advancing equality after Democratic victories in the 2026 midterm elections. The Democratic Party is also looking to capitalize on recent successes by targeting additional seats in the region.",
+   "more": "Both articles highlight the newfound momentum for LGBTQ+ rights and Democratic strategies following the midterm elections. While the first article focuses on specific opportunities for LGBTQ+ advocacy, the second article emphasizes the broader electoral strategy of the Democratic Party. This suggests that although both perspectives align on the gains made, they frame the outcomes in terms of policy advocacy versus electoral strategy.",
+   "coverage": [
+    {
+     "outlet": "19thnews.org",
+     "title": "What\u2019s next for LGBTQ+ rights in the South and Midwest",
+     "title_en": "What\u2019s next for LGBTQ+ rights in the South and Midwest",
+     "url": "https://19thnews.org/2026/11/lgbtq-rights-south-midwest-states/",
+     "bias": "Lean Left",
+     "src": "ai"
+    },
+    {
+     "outlet": "CNN",
+     "title": "Democrats see openings in the South after midterms",
+     "title_en": "Democrats see openings in the South after midterms",
+     "url": "https://www.cnn.com/2026/11/25/politics/democrats-south-midterm-upsets",
+     "bias": "Lean Left",
+     "src": "table"
+    }
+   ]
+  },
+  {
+   "cat": "research",
+   "topic": "U.S. midterm elections",
+   "date": "2026-11-24",
+   "title": "Chris Christie Critiques Republican Attitudes Toward Trump",
+   "sum": "Former New Jersey governor Chris Christie expressed his frustration with the Republican party's complaints about Donald Trump. He emphasizes the need for the party to move forward instead of dwelling on past grievances.",
+   "more": "Christie particularly calls out the continuous whining from his party about Trump's influence, suggesting that this mindset is hindering progress. He underscores the importance of focusing on the upcoming elections and addressing pertinent issues rather than getting caught up in complaints. His message serves as a critique of both Trump's impact on the Republican party and the attitudes of other party members towards him.",
+   "coverage": [
+    {
+     "outlet": "Rolling Stone",
+     "title": "Chris Christie to Republicans: \u2018I Don\u2019t Want to Hear Your Whining\u2019",
+     "title_en": "Chris Christie to Republicans: \u2018I Don\u2019t Want to Hear Your Whining\u2019",
+     "url": "https://www.rollingstone.com/politics/politics-features/chris-christie-interview-trump-2028-bruce-springsteen-1235661659/",
      "bias": "Lean Left",
      "src": "ai"
     }
